@@ -1,0 +1,884 @@
+{
+	"partners": [
+		{
+			"fighter_id": "KYO",
+			"partners": {
+				"partner_1": "BENIMARU",
+				"partner_2": "SAISYU",
+				"partner_3": "KASUMI"
+			}
+		},
+		{
+			"fighter_id": "BENIMARU",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "DAIMON",
+				"partner_3": "RYO"
+			}
+		},
+		{
+			"fighter_id": "DAIMON",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "BENIMARU",
+				"partner_3": "YASHIRO"
+			}
+		},
+		{
+			"fighter_id": "TERRY",
+			"partners": {
+				"partner_1": "ANDY",
+				"partner_2": "CHIZURU",
+				"partner_3": "BLUE_MARY"
+			}
+		},
+		{
+			"fighter_id": "ANDY",
+			"partners": {
+				"partner_1": "JOE",
+				"partner_2": "RYO",
+				"partner_3": "VICE"
+			}
+		},
+		{
+			"fighter_id": "JOE",
+			"partners": {
+				"partner_1": "ANDY",
+				"partner_2": "KING",
+				"partner_3": "KIM"
+			}
+		},
+		{
+			"fighter_id": "RYO",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "YURI",
+				"partner_3": "TAKUMA"
+			}
+		},
+		{
+			"fighter_id": "ROBERT",
+			"partners": {
+				"partner_1": "CLARK",
+				"partner_2": "CHOI",
+				"partner_3": "OROCHI_SHERMIE"
+			}
+		},
+		{
+			"fighter_id": "YURI",
+			"partners": {
+				"partner_1": "RYO",
+				"partner_2": "ROBERT",
+				"partner_3": "TAKUMA"
+			}
+		},
+		{
+			"fighter_id": "RALF",
+			"partners": {
+				"partner_1": "YURI",
+				"partner_2": "LEONA",
+				"partner_3": "MATURE"
+			}
+		},
+		{
+			"fighter_id": "LEONA",
+			"partners": {
+				"partner_1": "RALF",
+				"partner_2": "CLARK",
+				"partner_3": "HEIDERN"
+			}
+		},
+		{
+			"fighter_id": "CLARK",
+			"partners": {
+				"partner_1": "RALF",
+				"partner_2": "LEONA",
+				"partner_3": "HEIDERN"
+			}
+		},
+		{
+			"fighter_id": "ATHENA",
+			"partners": {
+				"partner_1": "YURI",
+				"partner_2": "KENSOU",
+				"partner_3": "CHIN"
+			}
+		},
+		{
+			"fighter_id": "KENSOU",
+			"partners": {
+				"partner_1": "ATHENA",
+				"partner_2": "CHIN",
+				"partner_3": "SHINGO"
+			}
+		},
+		{
+			"fighter_id": "CHIN",
+			"partners": {
+				"partner_1": "ATHENA",
+				"partner_2": "CHANG",
+				"partner_3": "BAO"
+			}
+		},
+		{
+			"fighter_id": "CHIZURU",
+			"partners": {
+				"partner_1": "MAI",
+				"partner_2": "KING",
+				"partner_3": "BLUE_MARY"
+			}
+		},
+		{
+			"fighter_id": "MAI",
+			"partners": {
+				"partner_1": "ANDY",
+				"partner_2": "CHIZURU",
+				"partner_3": "BLUE_MARY"
+			}
+		},
+		{
+			"fighter_id": "KING",
+			"partners": {
+				"partner_1": "BENIMARU",
+				"partner_2": "JOE",
+				"partner_3": "SHINGO"
+			}
+		},
+		{
+			"fighter_id": "KIM",
+			"partners": {
+				"partner_1": "ANDY",
+				"partner_2": "JOE",
+				"partner_3": "VICE"
+			}
+		},
+		{
+			"fighter_id": "CHANG",
+			"partners": {
+				"partner_1": "KIM",
+				"partner_2": "CHOI",
+				"partner_3": "EIJI"
+			}
+		},
+		{
+			"fighter_id": "CHOI",
+			"partners": {
+				"partner_1": "KIM",
+				"partner_2": "CHANG",
+				"partner_3": "BILLY"
+			}
+		},
+		{
+			"fighter_id": "CHRIS",
+			"partners": {
+				"partner_1": "KENSOU",
+				"partner_2": "HEAVY_D",
+				"partner_3": "OROCHI_CHRIS"
+			}
+		},
+		{
+			"fighter_id": "YASHIRO",
+			"partners": {
+				"partner_1": "CHRIS",
+				"partner_2": "SHERMIE",
+				"partner_3": "LUCKY"
+			}
+		},
+		{
+			"fighter_id": "SHERMIE",
+			"partners": {
+				"partner_1": "CHRIS",
+				"partner_2": "YASHIRO",
+				"partner_3": "BRIAN"
+			}
+		},
+		{
+			"fighter_id": "YAMAZAKI",
+			"partners": {
+				"partner_1": "RALF",
+				"partner_2": "BLUE_MARY",
+				"partner_3": "BILLY"
+			}
+		},
+		{
+			"fighter_id": "BLUE_MARY",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "ATHENA",
+				"partner_3": "YAMAZAKI"
+			}
+		},
+		{
+			"fighter_id": "BILLY",
+			"partners": {
+				"partner_1": "BENIMARU",
+				"partner_2": "ROBERT",
+				"partner_3": "YAMAZAKI"
+			}
+		},
+		{
+			"fighter_id": "IORI",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "CHIZURU",
+				"partner_3": "MATURE"
+			}
+		},
+		{
+			"fighter_id": "MATURE",
+			"partners": {
+				"partner_1": "KING",
+				"partner_2": "IORI",
+				"partner_3": "VICE"
+			}
+		},
+		{
+			"fighter_id": "VICE",
+			"partners": {
+				"partner_1": "JOE",
+				"partner_2": "IORI",
+				"partner_3": "MATURE"
+			}
+		},
+		{
+			"fighter_id": "HEIDERN",
+			"partners": {
+				"partner_1": "RALF",
+				"partner_2": "LEONA",
+				"partner_3": "CLARK"
+			}
+		},
+		{
+			"fighter_id": "SAISYU",
+			"partners": {
+				"partner_1": "CHIN",
+				"partner_2": "HEIDERN",
+				"partner_3": "TAKUMA"
+			}
+		},
+		{
+			"fighter_id": "TAKUMA",
+			"partners": {
+				"partner_1": "RYO",
+				"partner_2": "YURI",
+				"partner_3": "KIM"
+			}
+		},
+		{
+			"fighter_id": "HEAVY_D",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "LUCKY",
+				"partner_3": "BRIAN"
+			}
+		},
+		{
+			"fighter_id": "LUCKY",
+			"partners": {
+				"partner_1": "SHERMIE",
+				"partner_2": "HEAVY_D",
+				"partner_3": "BRIAN"
+			}
+		},
+		{
+			"fighter_id": "BRIAN",
+			"partners": {
+				"partner_1": "DAIMON",
+				"partner_2": "HEAVY_D",
+				"partner_3": "LUCKY"
+			}
+		},
+		{
+			"fighter_id": "EIJI",
+			"partners": {
+				"partner_1": "SAISYU",
+				"partner_2": "KASUMI",
+				"partner_3": "SHINGO"
+			}
+		},
+		{
+			"fighter_id": "KASUMI",
+			"partners": {
+				"partner_1": "MAI",
+				"partner_2": "EIJI",
+				"partner_3": "BAO"
+			}
+		},
+		{
+			"fighter_id": "SHINGO",
+			"partners": {
+				"partner_1": "DAIMON",
+				"partner_2": "ATHENA",
+				"partner_3": "KENSOU"
+			}
+		},
+		{
+			"fighter_id": "OROCHI",
+			"partners": {
+				"partner_1": "GOENITZ",
+				"partner_2": "OROCHI_CHRIS",
+				"partner_3": "OROCHI_SHERMIE"
+			}
+		},
+		{
+			"fighter_id": "RUGAL",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "GEESE",
+				"partner_3": "OROCHI_YASHIRO"
+			}
+		},
+		{
+			"fighter_id": "GOENITZ",
+			"partners": {
+				"partner_1": "OROCHI",
+				"partner_2": "OROCHI_SHERMIE",
+				"partner_3": "OROCHI_YASHIRO"
+			}
+		},
+		{
+			"fighter_id": "K",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "IORI",
+				"partner_3": "KULA"
+			}
+		},
+		{
+			"fighter_id": "MAXIMA",
+			"partners": {
+				"partner_1": "CHANG",
+				"partner_2": "BRIAN",
+				"partner_3": "WHIP"
+			}
+		},
+		{
+			"fighter_id": "WHIP",
+			"partners": {
+				"partner_1": "LEONA",
+				"partner_2": "HEIDERN",
+				"partner_3": "K"
+			}
+		},
+		{
+			"fighter_id": "KULA",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "K"
+			}
+		},
+		{
+			"fighter_id": "FOXY",
+			"partners": {
+				"partner_1": "LEONA",
+				"partner_2": "HEIDERN",
+				"partner_3": "K"
+			}
+		},
+		{
+			"fighter_id": "ANGEL",
+			"partners": {
+				"partner_1": "MAI",
+				"partner_2": "BLUE_MARY",
+				"partner_3": "KASUMI"
+			}
+		},
+		{
+			"fighter_id": "IGNIZ",
+			"partners": {
+				"partner_1": "WHIP",
+				"partner_2": "ANGEL",
+				"partner_3": "ZERO"
+			}
+		},
+		{
+			"fighter_id": "KRIZALID",
+			"partners": {
+				"partner_1": "CLARK",
+				"partner_2": "WHIP",
+				"partner_3": "ZERO"
+			}
+		},
+		{
+			"fighter_id": "ZERO",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "K",
+				"partner_3": "ANGEL"
+			}
+		},
+		{
+			"fighter_id": "GEESE",
+			"partners": {
+				"partner_1": "BILLY",
+				"partner_2": "RUGAL",
+				"partner_3": "OROCHI_YASHIRO"
+			}
+		},
+		{
+			"fighter_id": "KRAUSER",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "GEESE",
+				"partner_3": "MR_BIG"
+			}
+		},
+		{
+			"fighter_id": "MR_BIG",
+			"partners": {
+				"partner_1": "CLARK",
+				"partner_2": "CHOI",
+				"partner_3": "MAXIMA"
+			}
+		},
+		{
+			"fighter_id": "BAO",
+			"partners": {
+				"partner_1": "MAI",
+				"partner_2": "EIJI",
+				"partner_3": "OROCHI_CHRIS"
+			}
+		},
+		{
+			"fighter_id": "NAMELESS",
+			"partners": {
+				"partner_1": "K",
+				"partner_2": "ANGEL",
+				"partner_3": "OROCHI_CHRIS"
+			}
+		},
+		{
+			"fighter_id": "MOMOKO",
+			"partners": {
+				"partner_1": "CHRIS",
+				"partner_2": "BAO",
+				"partner_3": "OROCHI_CHRIS"
+			}
+		},
+		{
+			"fighter_id": "ASH",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "K",
+				"partner_3": "KYO_NESTS"
+			}
+		},
+		{
+			"fighter_id": "ELISABETH",
+			"partners": {
+				"partner_1": "KASUMI",
+				"partner_2": "K",
+				"partner_3": "KULA"
+			}
+		},
+		{
+			"fighter_id": "NAKORURU",
+			"partners": {
+				"partner_1": "LEONA",
+				"partner_2": "IORI",
+				"partner_3": "UKYO"
+			}
+		},
+		{
+			"fighter_id": "HAOHMARU",
+			"partners": {
+				"partner_1": "IGNIZ",
+				"partner_2": "NAKORURU",
+				"partner_3": "UKYO"
+			}
+		},
+		{
+			"fighter_id": "UKYO",
+			"partners": {
+				"partner_1": "MAI",
+				"partner_2": "NAKORURU",
+				"partner_3": "HAOHMARU"
+			}
+		},
+		{
+			"fighter_id": "MUKAI",
+			"partners": {
+				"partner_1": "ZERO",
+				"partner_2": "KYO_NESTS",
+				"partner_3": "OROCHI_YASHIRO"
+			}
+		},
+		{
+			"fighter_id": "MAGAKI",
+			"partners": {
+				"partner_1": "IORI",
+				"partner_2": "OROCHI",
+				"partner_3": "RUGAL"
+			}
+		},
+		{
+			"fighter_id": "SAIKI",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "KYO_NESTS"
+			}
+		},
+		{
+			"fighter_id": "ADELHEID",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "RUGAL",
+				"partner_3": "OROCHI_SHERMIE"
+			}
+		},
+		{
+			"fighter_id": "MAY_LEE",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "K"
+			}
+		},
+		{
+			"fighter_id": "XIANGFEI",
+			"partners": {
+				"partner_1": "BLUE_MARY",
+				"partner_2": "MOMOKO",
+				"partner_3": "MAY_LEE"
+			}
+		},
+		{
+			"fighter_id": "INSTINCT_IORI",
+			"partners": {
+				"partner_1": "IORI",
+				"partner_2": "OROCHI",
+				"partner_3": "CRAZY_IORI"
+			}
+		},
+		{
+			"fighter_id": "FLAME_KYO",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "CRAZY_IORI"
+			}
+		},
+		{
+			"fighter_id": "KYO_NESTS",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "SAISYU",
+				"partner_3": "ASH"
+			}
+		},
+		{
+			"fighter_id": "BENIMARU_2003",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "ROBERT",
+				"partner_3": "KYO_NESTS"
+			}
+		},
+		{
+			"fighter_id": "TERRY_2003",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "BLUE_MARY",
+				"partner_3": "IGNIZ"
+			}
+		},
+		{
+			"fighter_id": "NEW_MR_KARATE",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "TERRY",
+				"partner_3": "ROBERT_2002_UM"
+			}
+		},
+		{
+			"fighter_id": "ROBERT_2002_UM",
+			"partners": {
+				"partner_1": "LEONA",
+				"partner_2": "ATHENA",
+				"partner_3": "NEW_MR_KARATE"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_LEONA",
+			"partners": {
+				"partner_1": "HEIDERN",
+				"partner_2": "BAO",
+				"partner_3": "CRAZY_IORI"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS",
+			"partners": {
+				"partner_1": "CHOI",
+				"partner_2": "YASHIRO",
+				"partner_3": "OROCHI_SHERMIE"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE",
+			"partners": {
+				"partner_1": "CHRIS",
+				"partner_2": "KASUMI",
+				"partner_3": "OROCHI_YASHIRO"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO",
+			"partners": {
+				"partner_1": "CHANG",
+				"partner_2": "SHERMIE",
+				"partner_3": "OROCHI_CHRIS"
+			}
+		},
+		{
+			"fighter_id": "CRAZY_IORI",
+			"partners": {
+				"partner_1": "YAMAZAKI",
+				"partner_2": "IORI",
+				"partner_3": "OROCHI_LEONA"
+			}
+		},
+		{
+			"fighter_id": "OMEGA_RUGAL",
+			"partners": {
+				"partner_1": "SAISYU",
+				"partner_2": "OROCHI_LEONA",
+				"partner_3": "CRAZY_IORI"
+			}
+		},
+		{
+			"fighter_id": "GOENIKO",
+			"partners": {
+				"partner_1": "OROCHI",
+				"partner_2": "GOENITZ",
+				"partner_3": "OROCHI_SHERMIE"
+			}
+		},
+		{
+			"fighter_id": "MR_KARATE",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "ZERO",
+				"partner_3": "NEW_MR_KARATE"
+			}
+		},
+		{
+			"fighter_id": "ATHENA_2002_UM",
+			"partners": {
+				"partner_1": "KENSOU",
+				"partner_2": "KULA",
+				"partner_3": "MOMOKO"
+			}
+		},
+		{
+			"fighter_id": "MAKI_KAGURA",
+			"partners": {
+				"partner_1": "CHIZURU",
+				"partner_2": "OROCHI",
+				"partner_3": "GOENITZ"
+			}
+		},
+		{
+			"fighter_id": "VANESSA",
+			"partners": {
+				"partner_1": "MAXIMA",
+				"partner_2": "WHIP",
+				"partner_3": "MAY_LEE"
+			}
+		},
+		{
+			"fighter_id": "TUNG_FU_RUE",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "GEESE"
+			}
+		},
+		{
+			"fighter_id": "SHUN_EI",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "TERRY_2003"
+			}
+		},
+		{
+			"fighter_id": "CLONE_ZERO",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "K"
+			}
+		},
+		{
+			"fighter_id": "NIGHTMARE_GEESE",
+			"partners": {
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "TERRY_2003"
+			}
+		},
+		{
+			"fighter_id": "JHUN_HOON",
+			"partners": {
+				"partner_1": "CHANG",
+				"partner_2": "CHOI",
+				"partner_3": "OROCHI_YASHIRO"
+			}
+		},
+		{
+			"fighter_id": "CATTY_LEONA",
+			"partners": {
+				"partner_1": "CHANG",
+				"partner_2": "CHOI",
+				"partner_3": "MAY_LEE"
+			}
+		},
+		{
+			"fighter_id": "SHION",
+			"partners": {
+				"partner_1": "KENSOU",
+				"partner_2": "CHIN",
+				"partner_3": "K"
+			}
+		},
+		{
+			"fighter_id": "SHEEN_WOO",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "HINAKO",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "LEONA_XIII",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "LIN",
+			"partners": {
+				"partner_1": "CHRIS",
+				"partner_2": "YASHIRO",
+				"partner_3": "BRIAN"
+			}
+		},
+		{
+			"fighter_id": "RAMON",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "OSWALD",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "DUO_LON",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "SETH",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "ROBERT_XIII",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "ATHENA_XIII",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "RALF_XIII",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "CLARK_XIII",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "KENSOU_XII",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "MAI_NEW",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "VICE_XIII",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "MIZUCHI",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "NAKORURU RASETSU",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		}
+	]
+}

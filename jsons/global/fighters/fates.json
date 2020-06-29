@@ -1,0 +1,1874 @@
+{
+	"fates": [
+		{
+			"fighter_id": "KYO",
+			"fates": [
+				{
+					"bosses": "Kyo, Benimaru, Daimon",
+					"attr": "ATK +20%"
+				},
+				{
+					"bosses": "Kyo, Iori, Chizuru",
+					"attr": "ATK +20%"
+				},
+				{
+					"bosses": "Kyo, Shingo",
+					"attr": "ATK +20%"
+				}
+			]
+		},
+		{
+			"fighter_id": "BENIMARU",
+			"fates": [
+				{
+					"bosses": "Kyo, Benimaru, Daimon",
+					"attr": "ATK +20%"
+				},
+				{
+					"bosses": "Benimaru, Yamazaki, Ryo, Terry, King",
+					"attr": "HP increases by 20%"
+				},
+				{
+					"bosses": "Yuri, Daimon, Robert, Benimaru, Billy",
+					"attr": "ATK +20%"
+				}
+			]
+		},
+		{
+			"fighter_id": "DAIMON",
+			"fates": [
+				{
+					"bosses": "Kyo, Benimaru, Daimon",
+					"attr": "ATK +20%"
+				},
+				{
+					"bosses": "Yuri, Daimon, Robert, Benimaru, Billy",
+					"attr": "HP increases by 20%"
+				},
+				{
+					"bosses": "Daimon, Joe, Kim",
+					"attr": "HP increases by 20%"
+				}
+			]
+		},
+		{
+			"fighter_id": "TERRY",
+			"fates": [
+				{
+					"bosses": "Terry, Andy, Joe",
+					"attr": "ATK +20%"
+				},
+				{
+					"bosses": "Chang, Terry, Chizuru, Mary, Athena",
+					"attr": "HP increased by 20%"
+				},
+				{
+					"bosses": "Benimaru, Yamazaki, Ryo, Terry, King",
+					"attr": "ATK +20%"
+				}
+			]
+		},
+		{
+			"fighter_id": "ANDY",
+			"fates": [
+				{
+					"bosses": "Andy, Terry, Joe",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Andy, Mai",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Andy, Ryo, Kim, Leona",
+					"attr": "(HP Increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "JOE",
+			"fates": [
+				{
+					"bosses": "Joe, Terry, Andy",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Joe , King, Billy, Choi",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Joe, Daimon , Kim",
+					"attr": "(HP increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "RYO",
+			"fates": [
+				{
+					"bosses": "Ryo, Robert, Yuri",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "RYo, Andy, Kim, Leona",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Ryo, Benimaru, Yamazaki, Terry, King",
+					"attr": "(HP increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "ROBERT",
+			"fates": [
+				{
+					"bosses": "Robert, Yuri, Ryo",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Robert, Yuri, Daimon, Benimaru, Billy",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Robert, Choi, Kensou, Shingo",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "YURI",
+			"fates": [
+				{
+					"bosses": "Yuri, Ryo, Robert",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Yuri, Athena, Mai",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Yuri, Daimon, Robert, Benimaru, Billy",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "RALF",
+			"fates": [
+				{
+					"bosses": "Ralf, Leona, Clarck",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Ralf, Mature, Yuri",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Ralf, Billy , Shingo",
+					"attr": "(HP increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "LEONA",
+			"fates": [
+				{
+					"bosses": "Leona, Ralf, Clark",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Leona, King , Chizuru",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Leona, Ryo, Kim , Andy",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "CLARK",
+			"fates": [
+				{
+					"bosses": "Clark, Ralf, Leona",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Clark, Yashiro, Chang, Yamazaki",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Clark, Terry, Lucky, Heidern",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "ATHENA",
+			"fates": [
+				{
+					"bosses": "Athena, Kensou, Shin",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Athena, Chang, Terry, Chizuru, Mary",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Athena, Yuri, Mai",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "KENSOU",
+			"fates": [
+				{
+					"bosses": "Kensou, Athena, Chin",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Kensou, Choi, Robert, Shingo",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Kensou, Chin, Chang",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "CHIN",
+			"fates": [
+				{
+					"bosses": "Chin, Athena, Kensou",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Chin, Yamazaki, Choi",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Chin, Kensou, Chang",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "CHIZURU",
+			"fates": [
+				{
+					"bosses": "Chiruzu, Mai, King",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Chiruzu, Iori, Kyo",
+					"attr": "(HP Increases by 20%)"
+				},
+				{
+					"bosses": "Chiruzu, Chang, Terry, Mary, Athena",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "MAI",
+			"fates": [
+				{
+					"bosses": "Mai, Chizuru, King",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Mai, Yuri, Athena",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Mai, Mary, Mature, Vice",
+					"attr": "(HP increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "KING",
+			"fates": [
+				{
+					"bosses": "King, Joe, Billy, Choi",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "King, Benimaru, Yamazaki, Ryo, Terry",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "King, Mai, Chizuru",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "KIM",
+			"fates": [
+				{
+					"bosses": "Kim, Chang, Choi",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Kim, Daimon,Joe",
+					"attr": "(HP Increases by 20%)"
+				},
+				{
+					"bosses": "Kim, Ryo, Andy, Leona",
+					"attr": "(HP Increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "CHANG",
+			"fates": [
+				{
+					"bosses": "Chang, Kim, Choi",
+					"attr": "(ATK + 20%) "
+				},
+				{
+					"bosses": "Chang, Terry, Chizuru, Mary, Athena",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Chang, Kensou, Chin",
+					"attr": "(HP increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "CHOI",
+			"fates": [
+				{
+					"bosses": "Choi, Kim, Chang",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Choi, Joe, King, Billy",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Choi, Kensou, Robert, Shingo",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "CHRIS",
+			"fates": [
+				{
+					"bosses": "Chris, Yashiro,Shermie",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Chris, Orochi Chris, Orochi",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Chris, Kensou, Shingo",
+					"attr": "(ATK +20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "YASHIRO",
+			"fates": [
+				{
+					"bosses": "Yashiro,Chris, Shermie ",
+					"attr": "( ATK +20%)"
+				},
+				{
+					"bosses": "Yashiro, Orochi yashiro, ",
+					"attr": "( HP increases by 20%) "
+				},
+				{
+					"bosses": "Yashiro, Chang, yamazaki, Clark ",
+					"attr": "( HP increases by 20%) "
+				}
+			]
+		},
+		{
+			"fighter_id": "SHERMIE",
+			"fates": [
+				{
+					"bosses": "Shermie, Chris, Yashiro",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Shermie, Orochi Shermie",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Shermie, Mai, Mary",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "YAMAZAKI",
+			"fates": [
+				{
+					"bosses": "Yamazaki, Mary, Billy",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Yamazaki, Benimaru, Ryo, Terry, King",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Yamazaki, Daimon, Benimaru, Kim",
+					"attr": "(HP + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "BLUE_MARY",
+			"fates": [
+				{
+					"bosses": "Mary, Yamazaki, Billy",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Mary, Chang, Terry, Chizuru, Athena",
+					"attr": "(HP Increases by 20%)"
+				},
+				{
+					"bosses": "Mary, Mai, Mature, Vice",
+					"attr": "(HP Increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "BILLY",
+			"fates": [
+				{
+					"bosses": "Billy, Yamazaki, Mary",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Billy, Joe, King, Choi",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Billy, Yuri, Daimon, Robert, Benimaru",
+					"attr": "(HP + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "IORI",
+			"fates": [
+				{
+					"bosses": "Iori, Mature, Vice",
+					"attr": "ATK +20%"
+				},
+				{
+					"bosses": "Kyo, Iori, Chizuru",
+					"attr": "ATK +20%"
+				},
+				{
+					"bosses": "Kyo, Iori, Orochi",
+					"attr": "ATK +20%"
+				}
+			]
+		},
+		{
+			"fighter_id": "MATURE",
+			"fates": [
+				{
+					"bosses": "Mature, Iori, Vice",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Mature, Mary, Mai, Vice",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Mature, Rugal, Vice",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "VICE",
+			"fates": [
+				{
+					"bosses": "Vice, Mature, Iori",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Vice, Mai, Mary, Mature",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Vice, Mature, Rugal",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "HEIDERN",
+			"fates": [
+				{
+					"bosses": "Heidern, Saisyu, Takuma",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Heidern, Terry, Clark, Lucky",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Heidern, Leona",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "SAISYU",
+			"fates": [
+				{
+					"bosses": "Saisyu, Heidern, Takuma",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Saisyu, Kyo",
+					"attr": "(HP  + 20%)"
+				},
+				{
+					"bosses": "Saisyu, Kyo, Chin, Mai",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "TAKUMA",
+			"fates": [
+				{
+					"bosses": "Takuma, Heidern, Saisyu",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Takuma, Ryo, Yuri",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Takuma, Chang, Kim, Andy",
+					"attr": "(HP + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "HEAVY_D",
+			"fates": [
+				{
+					"bosses": "Heavy D, Lycky, Brian",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Heavy D, Ralf, Ryo, Vanessa",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Heavy D, Chin, Lucky, Robert",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "LUCKY",
+			"fates": [
+				{
+					"bosses": "Lucky, Heavy D, Brian",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Lucky, Terry, Clark, Heidern",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Lucky, Heavy D, Chin, Robert",
+					"attr": "(HP + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "BRIAN",
+			"fates": [
+				{
+					"bosses": "Brian, Heavy D, Lucky",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Brian,Daimon Krauser",
+					"attr": "(HP +20%)"
+				},
+				{
+					"bosses": "Brian,Chizuru, Robert",
+					"attr": "(HP +20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "EIJI",
+			"fates": [
+				{
+					"bosses": "Eiji Kisaragi, Todo Kasumi, Shingo",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Eiji Kisaragi, Billy, Iori",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Eiji Kisaragi, Andy, Mai",
+					"attr": "(ATK +20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "KASUMI",
+			"fates": [
+				{
+					"bosses": "Kasumi, Eiji, Shingo",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Kasumi, Yuri, Mai",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Kasumi, Kyo, Mary, Terry",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "SHINGO",
+			"fates": [
+				{
+					"bosses": "Shingo, Choi, Kensou, Robert",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Shingo, Kyo",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Shingo, Kensou, Chris",
+					"attr": "(HP + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI",
+			"fates": [
+				{
+					"bosses": "Orochi,Rugal,Goenitz",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Orochi,Kyo,Iori,Chizuru",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Orochi,Orochi Chris,Orochi Yashiro,Orochi Shermie",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "RUGAL",
+			"fates": [
+				{
+					"bosses": "Orochi, Rugal, Goenitz",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Rugal, Orochi, Chris, Iori",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Rugal, Mary, Orochi Yashiro",
+					"attr": "(HP +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "GOENITZ",
+			"fates": [
+				{
+					"bosses": "Orochi,Rugal,Goenitz",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Goenitz,Geese,Athena,Kula,K",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Goenitz,Orochi Chris,Orochi Yashiro,Orochi Shermie",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "K",
+			"fates": [
+				{
+					"bosses": "K', Kula, Maxima, Whip",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "K', Iori, Kyo, Terry, Shingo",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "K', Choi, Clark",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "MAXIMA",
+			"fates": [
+				{
+					"bosses": "Maxima, K', Whip",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Maxima, Daimon, Chang, Brian",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Maxima, Orochi, Yashiro, Geese",
+					"attr": "(ATK+ 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "WHIP",
+			"fates": [
+				{
+					"bosses": "Whip,Vice, Mature, Orochi shermie, Chizuru. ",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Whip, Heidern, Clark, Ralf, Leona. ",
+					"attr": "(HP increased by 20%)"
+				},
+				{
+					"bosses": "Whip, K, Krizalid. ",
+					"attr": "(ATK +20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "KULA",
+			"fates": [
+				{
+					"bosses": "Kula, Angel, Foxy",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Kula, Kyo, King, Eiji Kisaragi",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Kula, Yuri, Athena, Mai, Mary",
+					"attr": "(HP +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "FOXY",
+			"fates": [
+				{
+					"bosses": "Foxy, Kula, Angel",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Foxy, ZERO, Krizalid",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Foxy, Whip, Chang, Billy, Choi",
+					"attr": "(HP + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "ANGEL",
+			"fates": [
+				{
+					"bosses": "Kula, Angel, Foxy. ",
+					"attr": "( ATK +20%)"
+				},
+				{
+					"bosses": "Angel, Mary, Shermie, Todo Kasumi.",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Angel, Athena, Yuri, Mai ",
+					"attr": "( ATK +20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "IGNIZ",
+			"fates": [
+				{
+					"bosses": "Krizalid,Zero,Igniz",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Igniz,Benimaru,Robert,Rugal",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Igniz,K',Kula,Whip",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "KRIZALID",
+			"fates": [
+				{
+					"bosses": "Krizalid, Zero, Igniz",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Krizalid, K', Clark, Heavy D",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Krizalid, Whip, Chang",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "ZERO",
+			"fates": [
+				{
+					"bosses": "Krizalid, Zero, Igniz",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Zero, Kula, Angel",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Zero, K', Kyo",
+					"attr": "(HP +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "GEESE",
+			"fates": [
+				{
+					"bosses": "Geese,Mr Big,Krauser",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Geese,Goenitz,Yamazaki",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Geese,Billy,Terry,Andy,Ryo",
+					"attr": "(HP +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "KRAUSER",
+			"fates": [
+				{
+					"bosses": "Krauser, Geese, Mr Big",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Krauser, Joe, Daimon",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Krauser, Terry , Rugal",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "MR_BIG",
+			"fates": [
+				{
+					"bosses": "Mr Big, Geese, Krauser",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Mr Big, Choi, Clark",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Mr Big, Ash, Orochi Yashiro",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "BAO",
+			"fates": [
+				{
+					"bosses": "Bao, Chris, Yuri",
+					"attr": "(HP increases by 20%)"
+				},
+				{
+					"bosses": "Bao, Momoko, Kensou, Athena",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Bao, Mary, Todo Kasumi, Shermie",
+					"attr": "(HP increases by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "NAMELESS",
+			"fates": [
+				{
+					"bosses": "Nameless, Kula, K'",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Nameless, Kyo NESTS, Orochi Chris",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Nameless, Iori, Terry",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "MOMOKO",
+			"fates": [
+				{
+					"bosses": "Momoko, Athena 2002 UM, Kensou",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Momoko, Orochi Shermie, Mai",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Momoko, k', Bao, Athena",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "ASH",
+			"fates": [
+				{
+					"bosses": "Ash, Kyo NESTS, K'",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Ash, Heidern, Todo Kasumi, Geese, Shion",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Ash, Orochi Chris, Crazy Iori, Saiki",
+					"attr": "(ATK + 25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "ELISABETH",
+			"fates": [
+				{
+					"bosses": "Elisabeth, Ash, Shion",
+					"attr": "+25% HP"
+				},
+				{
+					"bosses": "Elisabeth, Hinako, Shijo, Adelheid",
+					"attr": "+25% HP"
+				},
+				{
+					"bosses": "Elisabeth, Kyo, Iori",
+					"attr": "+25% ATK"
+				}
+			]
+		},
+		{
+			"fighter_id": "NAKORURU",
+			"fates": [
+				{
+					"bosses": "Nakoruru, Haomaru, Ukyo Tachibana",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Nakoruru, Athena , Kula, Angel",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Nakoruru, Chizuru, Athena 2002 UM",
+					"attr": "(HP increase by 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "HAOHMARU",
+			"fates": [
+				{
+					"bosses": "Haohmaru, Nakoruru, Ukyo Tachibana",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Haomaru, Ukyo Tachibana KYO NESTS, Crazy Iori",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Haomaru, Rugal, Geese, Orochi Yashiro, Daimon",
+					"attr": "(HP +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "UKYO",
+			"fates": [
+				{
+					"bosses": "Ukyo, Mr Karate, Geese",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Ukyo, Nakoruru, Haohmaru",
+					"attr": "(HP + 25%)"
+				},
+				{
+					"bosses": "Ukyo, Iori, Kyo",
+					"attr": "(ATK + 25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "MUKAI",
+			"fates": [
+				{
+					"bosses": "Mukai, Magaki, saiki",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Mukai, Orochi Yashiro, Daimon",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Mukai, ZERO, Brian, Joe, Chang",
+					"attr": "(HP + 25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "MAGAKI",
+			"fates": [
+				{
+					"bosses": "Magaki, Chang, Orochi, Rugal",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Magaki, Saiki, Mukai",
+					"attr": "(HP+ 25%)"
+				},
+				{
+					"bosses": "Magaki, Orochi Chris, Iori, Leona",
+					"attr": "(HP+ 25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "SAIKI",
+			"fates": [
+				{
+					"bosses": "Saiki, Ash, Elizabeth",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Saiki, Kyo NESTS, Saisyu",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Saiki, Kim, Robert",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "ADELHEID",
+			"fates": [
+				{
+					"bosses": "Adelheid,Mukai,Maki Kagura",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Adelheid,Rugal,Omega Rugal",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Adelheid,Iori,Ryo,Benimaru",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "MAY_LEE",
+			"fates": [
+				{
+					"bosses": "May Lee, Kim, Chang, Choi",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "May Lee, Xiangfei Lee, Hinako Shijo",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "May Lee, Robert 2002 UM, New Mr Karate",
+					"attr": "(HP+ 25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "XIANGFEI",
+			"fates": [
+				{
+					"bosses": "Xiangfei Lee, Chin,Kensou, Bao",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Xiangfei Lee, Angel, Todo Kasumi, Mary",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Xiangfei Lee,Ryo, Heavy D",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "INSTINTC_IORI",
+			"fates": [
+				{
+					"bosses": "Instinct Iori, Flame Kyo, Ash",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Instinct Iori,Iori, Crazy Iori",
+					"attr": "(ATK + 25%)"
+				},
+				{
+					"bosses": "Instinct Iori,Ryo, Terry, Kim",
+					"attr": "(ATK + 25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "FLAME_KYO",
+			"fates": [
+				{
+					"bosses": "Flame Kyo, Ash , Shun ei",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Flame Kyo, Shingo, Saisyu",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Flame Kyo, Kyo, Kyo NESTS",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "KYO_NESTS",
+			"fates": [
+				{
+					"bosses": "Kyo NESTS, Kyo, K', Ash",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Kyo NESTS, Crazy Iori, Orochi Leona, Orochi Chris",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Kyo NESTS, Benimaru, Daimon, Shingo",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "BENIMARU_2003",
+			"fates": [
+				{
+					"bosses": "Benimaru 2003, Terry 2003, Robert 2002 UM",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Benimaru 2003, Nakoruru, Orochi Shermie",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Benimaru 2003, Ash, Krizalid",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "TERRY_2003",
+			"fates": [
+				{
+					"bosses": "Benimaru 2003, Terry 2003, Robert 2002 UM",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Terry 2003, Terry, Andy, Joe",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Terry 2003, Kyo, King, Kim, Igniz",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "NEW_MR_KARATE",
+			"fates": [
+				{
+					"bosses": "Robert 2002 UM,New Mr Karate,Mr Karate",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "New Mr Karate,Kyo NESTS,Crazy Iori,Kasumi",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "New Mr Karate,Takuma,Ryo",
+					"attr": "(HP +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "ROBERT_2002_UM",
+			"fates": [
+				{
+					"bosses": "Robert 2002 UM, Mr. Karate, New Mr. Karate",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Robert 2002 UM, K', Iori",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Robert 2002 UM, Takuma, Ryo",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI_LEONA",
+			"fates": [
+				{
+					"bosses": "Orochi Leona, Whip, Clark, Ralf",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Orochi Leona, Crazy Iori, Rugal",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Orochi Leona, Leona, Heidern, Goenitz",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS",
+			"fates": [
+				{
+					"bosses": "Orochi Chris, Orochi Yashiro, Orochi Shermie",
+					"attr": "(ATK +20%)"
+				},
+				{
+					"bosses": "Orochi Chris, Yamazaki, Iori",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Orochi Chris, Kyo, Chin, Mai",
+					"attr": "(ATK +20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE",
+			"fates": [
+				{
+					"bosses": "Orochi Shermie, Orochi Chris, Orochi Yashiro",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Orochi Shermie Mai, Mature, Vice",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Orochi Shermie, Benimaru, Joe, Choi",
+					"attr": "(ATK + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO",
+			"fates": [
+				{
+					"bosses": "Orochi Yashiro, Orochi Chris, Orochi Shermie",
+					"attr": "(ATK + 20%)"
+				},
+				{
+					"bosses": "Orochi Yashiro, Daimon, Chang, Yamazaki",
+					"attr": "(HP + 20%)"
+				},
+				{
+					"bosses": "Orochi Yashiro, Rugal , Mary",
+					"attr": "(HP + 20%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "CRAZY_IORI",
+			"fates": [
+				{
+					"bosses": "Crazy Iori, Billy, Eiji",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Crazy Iori, Orochi, Goenitz, Mature, Vice",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Crazy Iori, Orochi Leona, Yamazaki",
+					"attr": "(ATK +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "OMEGA_RUGAL",
+			"fates": [
+				{
+					"bosses": "Omega Rugal, Kyo NESTS, Ash, K', Orochi",
+					"attr": "(ATK +25%)"
+				},
+				{
+					"bosses": "Omega Rugal, Crazy Iori, Orochi Leona",
+					"attr": "(HP +25%)"
+				},
+				{
+					"bosses": "Omega Rugal, Krauser, Krizalid, Brian",
+					"attr": "(HP +25%)"
+				}
+			]
+		},
+		{
+			"fighter_id": "GOENIKO",
+			"fates": [
+				{
+					"bosses": "Goeniko,Shion,Ash",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Goeniko,Orochi,Omega Rugal",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Goeniko,Orochi Chris,Orochi Yashiro",
+					"attr": "+25% ATK"
+				}
+			]
+		},
+		{
+			"fighter_id": "MR_KARATE",
+			"fates": [
+				{
+					"bosses": "Mr. Karate, New Mr. Karate, Nightmare Geese",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Mr Karate, Saisyu, Chin",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Mr Karate, Yuri, Ryo",
+					"attr": "+25% HP"
+				}
+			]
+		},
+		{
+			"fighter_id": "ATHENA_2002_UM",
+			"fates": [
+				{
+					"bosses": "Athena 2002 UM, C.Iori, Kyo NESTS",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Athena 2002 UM, Kula, Athena",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Athena 2002 UM, Kensou, Chin",
+					"attr": "HP increase by 25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "MAKI_KAGURA",
+			"fates": [
+				{
+					"bosses": "Maki Kagura, Chizuru, Goenitz",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Maki Kagura, Orochi, Zero, Omega Rugal",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Maki Kagura, Crazy Iori, Kyo NESTS",
+					"attr": "+25% HP"
+				}
+			]
+		},
+		{
+			"fighter_id": "VANESSA",
+			"fates": [
+				{
+					"bosses": "Vanessa, Zero, Krisalid, Igniz",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Vanessa, K', Maxima, Whip",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Vanessa, Heavy D, Joe",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "TUNG_FU_RUE",
+			"fates": [
+				{
+					"bosses": "Shun'ei, Tung Fu Rue, Shion",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Tung Fu Rue, Chin, Saisyu",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Tung Fu Rue, Geese, Terry",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "SHUN_EI",
+			"fates": [
+				{
+					"bosses": "Shun'ei, Tung Fu Rue, Terry 2003",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Shun'ei, Athena, Bao",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Shun'ei, Kyo, Iori",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "CLONE_ZERO",
+			"fates": [
+				{
+					"bosses": "Clone Zero, Igniz, Zero",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Clone Zero, Kyo NESTS, Whip",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Clone Zero, Billy, Mr Big",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "NIGHTMARE_GEESE",
+			"fates": [
+				{
+					"bosses": "Nightmare Geese, Omega Rugal, Krauser",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Nightmare Geese, Terry 2003, New Mr. Krate",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Nightmare Geese, Billy, Mr. Big",
+					"attr": "ATK + 25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "JHUN_HOON",
+			"fates": [
+				{
+					"bosses": "Jhun Hoon,Takuma,Robert 2002 UM, New Mr Karate",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Jhun Hoon, Kim, Change, Choi",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Jhun Hoon, Mary, Athena, May Lee",
+					"attr": "ATK + 25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "CATTY_LEONA",
+			"fates": [
+				{
+					"bosses": "Catty Leona, Yuri, Kula, Momoko",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Catty Leona, Ralf, Clark, Whip",
+					"attr": "+25% ATK"
+				},
+				{
+					"bosses": "Catty Leona, Leona, Orochi Leona",
+					"attr": "+25% HP"
+				}
+			]
+		},
+		{
+			"fighter_id": "SHION",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "SHEEN_WOO",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "HINAKO",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "LEONA_XIII",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "LIN",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "RAMON",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "OSWALD",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "DUO_LON",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "SETH",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "ROBERT_XIII",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "ATHENA_XIII",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "RALF_XIII",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "CLARK_XIII",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "KENSOU_XII",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "MAI_NEW",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "VICE_XIII",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "MIZUCHI",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "NAKORURU RASETSU",
+			"fates": [
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				},
+				{
+					"bosses": null,
+					"attr": null
+				}
+			]
+		}
+	]
+}

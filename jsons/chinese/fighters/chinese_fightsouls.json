@@ -1,0 +1,1021 @@
+{
+	"chinese_fightsouls": [
+		{
+			"fighter_id": "KYO",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restore 126 Rage when ally dies. (3/4 for enemy)",
+				"description_es": "Recupera 126 ira (Rage) cuando un aliado muere. (3 /4 por enemigo)",
+				"description_pt": "Recupera 126 de rage quando um aliado morre (3/4 por inimigo)."
+			}
+		},
+		{
+			"fighter_id": "BENIMARU",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 40",
+				"description_es": "Cada vez que ataca, recupera ira (Rage) por 40.",
+				"description_pt": "A cada ataque realizado recupera 40 de Rage."
+			}
+		},
+		{
+			"fighter_id": "DAIMON",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 20",
+				"description_es": "Cada ataque que recibe recupera ira por 20.",
+				"description_pt": "Cada ataque que recebe recupera 20 de Rage."
+			}
+		},
+		{
+			"fighter_id": "TERRY",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 220.",
+				"description_es": "Cada vez que ataca, aumenta 220 de Furia (Rage)",
+				"description_pt": "A cada ataque realizado recupera 220 de Rage."
+			}
+		},
+		{
+			"fighter_id": "ANDY",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 40",
+				"description_es": "Cada ataque realizado recupera ira (Rage) por 40",
+				"description_pt": "A cada ataque realizado recupera 40 de Rage."
+			}
+		},
+		{
+			"fighter_id": "JOE",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92",
+				"description_es": "Cada ataque recibido recupera 92 de ira (Rage)",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "RYO",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92",
+				"description_es": "Cada ataque recibido recupera 92 de ira (Rage)",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "ROBERT",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial aumentada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "YURI",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 182.",
+				"description_es": "Cada ataque realizado recupera 182 de ira (Rage)",
+				"description_pt": "A cada ataque realizado recupera 182 de Rage."
+			}
+		},
+		{
+			"fighter_id": "RALF",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92.",
+				"description_es": "Cada ataque recibido recupera 92 de ira (Rage).",
+				"description_pt": "Cada ataque recebido recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "LEONA",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 220.",
+				"description_es": "Cada ataque realizado recupera 220 de ira (Rage).",
+				"description_pt": "Cada ataque realizado recupera 220 de Rage."
+			}
+		},
+		{
+			"fighter_id": "CLARK",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "La ira (Rage) inicial se incrementa en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "ATHENA",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restore 122 Rage when ally dies. (3/4 for enemy)",
+				"description_es": "Recupera 122 de ira (Rage) cuando un aliado muere. (3/4 por enemigo)",
+				"description_pt": "Recupera 122 de Rage quando um aliado morre (3/4 por inimigo)."
+			}
+		},
+		{
+			"fighter_id": "KENSOU",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92",
+				"description_es": "Cada ataque recibido recupera 92 de ira (Rage).",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "CHIN",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "La ira (Rage) inicial se incrementa en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "CHIZURU",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "La ira (Rage) inicial se incrementa en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "MAI",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restore 122 Rage when ally dies. (3/4 for enemy)",
+				"description_es": "Recupera 122 de ira (Rage) cuando un aliado muera. (3/4 por enemigo).",
+				"description_pt": "Recupera 122 de Rage quando um aliado morre (3/4 por inimigo)."
+			}
+		},
+		{
+			"fighter_id": "KING",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "La ira (Rage) inicial se incrementa en 400",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "KIM",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92",
+				"description_es": "Cada ataque recibido recupera la ira (Rage) en 92.",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "CHANG",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92.",
+				"description_es": "Cada ataque recibido recupera 92 de ira (Rage).",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "CHOI",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "La ira (Rage) inicial se incrementa en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "CHRIS",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "La ira (Rage) inicial se incrementa en 400",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "YASHIRO",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 176.",
+				"description_es": "Cada ataque recibido recupera ira (Rage) en 400.",
+				"description_pt": "Cada ataque que recebe recupera 400 de Rage."
+			}
+		},
+		{
+			"fighter_id": "SHERMIE",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 280",
+				"description_es": "Cada ataque realizado recupera 280 de ira (Rage)",
+				"description_pt": "A cada ataque realizado recupera 280 de Rage."
+			}
+		},
+		{
+			"fighter_id": "YAMAZAKI",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92.",
+				"description_es": "Cada ataque recibido recupera 92 ira (Rage).",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "BLUE_MARY",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "La ira (Rage) inicial se incrementa en 400.",
+				"description_pt": "Cada ataque que recebe recupera 400 de Rage."
+			}
+		},
+		{
+			"fighter_id": "BILLY",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92.",
+				"description_es": "Cada ataque recibido recupera 92 de ira (Rage)",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "IORI",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 1000.",
+				"description_es": "Incrementa la Furia (Rage) inicial por 1000.",
+				"description_pt": "O Rage inicial é aumentado em 1000."
+			}
+		},
+		{
+			"fighter_id": "MATURE",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "VICE",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage Increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "HEIDERN",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 220.",
+				"description_es": "Cada ataque que hace recupera 220 de Rage.",
+				"description_pt": "A cada ataque realizado recupera 220 de Rage."
+			}
+		},
+		{
+			"fighter_id": "SAISYU",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "TAKUMA",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "HEAVY_D",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restore 126 Rage when ally dies. (3/4 for enemy)",
+				"description_es": "Recupera 126 Rage cuando muere un aliadoy 3/4 cuando un enemigo.",
+				"description_pt": "Recupera 126 de Rage quando um aliado morre (3/4 por inimigo)."
+			}
+		},
+		{
+			"fighter_id": "LUCKY",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack restores Rage by 192.",
+				"description_es": "Cada ataque que realiza recupera 192 de Rage.",
+				"description_pt": "A cada ataque realizado recupera 192 de Rage."
+			}
+		},
+		{
+			"fighter_id": "BRIAN",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92.",
+				"description_es": "Cada ves que es golpeado recupera 92 de Rage.",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "EIJI",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack restores Rage by 220",
+				"description_es": "Cada ataque recupera Rage por 220.",
+				"description_pt": "A cada ataque realizado recupera 220 de Rage."
+			}
+		},
+		{
+			"fighter_id": "KASUMI",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Restore 92 Rage for every attack received",
+				"description_es": "Recupera 92 de Rage cuando es golpeada.",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "SHINGO",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt restores Rage by 220",
+				"description_es": "Cada ataque que realiza recupera 220 de Rage.",
+				"description_pt": "A cada ataque realizado recupera 220 de Rage."
+			}
+		},
+		{
+			"fighter_id": "OROCHI",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increased by 1000.",
+				"description_es": "Rage inicial incrementada en 1000.",
+				"description_pt": "Rage inicial aumenta em 1000."
+			}
+		},
+		{
+			"fighter_id": "RUGAL",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 176.",
+				"description_es": "Recupera 176 de Rage por cada ataque que recibe.",
+				"description_pt": "Todo ataque recebido recupera 176 de Rage."
+			}
+		},
+		{
+			"fighter_id": "GOENITZ",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "Rage inicial aumenta em 400."
+			}
+		},
+		{
+			"fighter_id": "K",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restores 175 Rages when ally dies (3/4 for enemy)",
+				"description_es": "Restaura 175 puntos de Rage cuando un aliado muere. (3/4 si es un enemigo).",
+				"description_pt": "Recupera 175 de Rage quando aliado morre (3/4 quando inimigo)."
+			}
+		},
+		{
+			"fighter_id": "MAXIMA",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 92.",
+				"description_es": "Cada vez que es golpeado recupera 92 de Rage.",
+				"description_pt": "Cada ataque que recebe recupera 92 de Rage."
+			}
+		},
+		{
+			"fighter_id": "WHIP",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack restores rage by 192",
+				"description_es": "Cada ataque que realiza recupera 192 de Rage.",
+				"description_pt": "A cada ataque realizado recupera 192 de Rage."
+			}
+		},
+		{
+			"fighter_id": "KULA",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Increase initial Rage by 400, also restores Rage for every attack received.",
+				"description_es": "Incrementa el Rage inicial en 400 puntos, tambien recupera Rage por cada ataque recibido.",
+				"description_pt": "Aumenta Rage inicial em 400, também restaura Rage para cada ataque recebido."
+			}
+		},
+		{
+			"fighter_id": "FOXY",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack restores Rage by 220.",
+				"description_es": "Con cada ataque que hace recupera 220 de Rage.",
+				"description_pt": "A cada ataque realizado recupera 220 de Rage."
+			}
+		},
+		{
+			"fighter_id": "ANGEL",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack restores rage by 192.",
+				"description_es": "Cada golpe que da recupera 192 de Rage.",
+				"description_pt": "A cada ataque realizado recupera 192 de Rage."
+			}
+		},
+		{
+			"fighter_id": "IGNIZ",
+			"fightsoul": {
+				"name": "SPACE",
+				"description": "Recover 180 Rage each round, each Figthsoul level+150 ATK.",
+				"description_es": "Recupera 180 de Rage cada round, gana 150 ATK por cada nivel de fightsoul",
+				"description_pt": "Recupera 180 de Rage por rodada, cada nível de FightSoul + 150 ATK."
+			}
+		},
+		{
+			"fighter_id": "KRIZALID",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack dealt recovers 240 Rage.",
+				"description_es": "Cada vez que ataca gana 240 Rage.",
+				"description_pt": "Cada ataque dado recupera 240 de Rage."
+			}
+		},
+		{
+			"fighter_id": "ZERO",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Restore 96 Rage for every attack received, and restore some Rage for every attack dealt.",
+				"description_es": "Recupera 96 de Rage por cafa ataque que recibe, y tambien un poco cuando el ataca.",
+				"description_pt": "Recupera 96 de Rage para todo ataque recebido, e recupera um pouco de Rage por cada ataque dado."
+			}
+		},
+		{
+			"fighter_id": "GEESE",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Restores 40 Rage for every attack and 1/4 for attacked.",
+				"description_es": "Restaura 40 de Rage cuando ataca y 1/4 cunado es atacado.",
+				"description_pt": "Recupera 40 de Rage para cada ataque recebido e 1/4 por ataque."
+			}
+		},
+		{
+			"fighter_id": "KRAUSER",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "MR_BIG",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restore 126 Rage when ally dies. (3/4 for enemy)",
+				"description_es": "Recupera 126 de Rage cuando alguien muere.(3/4 si es un enemigo)",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "BAO",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restore Rage by 20. (Level 1)",
+				"description_es": "Cada ataque que recibe recupera 20 de Rage (Nivel 1)",
+				"description_pt": "Cada ataque que recebe recupera 20 de Rage. (level 1)"
+			}
+		},
+		{
+			"fighter_id": "NAMELESS",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Recover 10 Rage when attacked (Level 1), 4x when attacking.",
+				"description_es": "Recupera 10 de Rage cuando es atacado (Nivel 1), 4 veces mas cuando ataca.",
+				"description_pt": "Recupera 10 de Rage quando atacado (level 1), 4x quando ataca."
+			}
+		},
+		{
+			"fighter_id": "MOMOKO",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Get 220 rage for every attack",
+				"description_es": "Gana 220 de Rage cada vez que golpea.",
+				"description_pt": "A cada ataque realizado recupera 220 de Rage."
+			}
+		},
+		{
+			"fighter_id": "ASH",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Every attack will restore 40 rage, also restore a little rage when any fighter dies",
+				"description_es": "Cada ataque que realiza recupera 40 de Rage, tambien gana un poco cuando alguien muere.",
+				"description_pt": "Todo ataque recupera 40 de Rage, também recupera um pouco quando qualquer lutador morrer."
+			}
+		},
+		{
+			"fighter_id": "ELISABETH",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "When either ally or foe dies, gains 20 Rage (Level 1). Recover a large amount of Rage when attacked.",
+				"description_es": "Cuando un aliado o enemigo muere, recupera 20 Rage (Nivel 1). Recupera grandes cantidades de Rage cuando es atacada.",
+				"description_pt": "Quando um aliado ou um inimigo morre, recupera 20 de Rage (level 1). Recupera uma grande quantidade de Rage quando é atacada."
+			}
+		},
+		{
+			"fighter_id": "NAKORURU",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Increase initial Rage 400 points",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "HAOHMARU",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Recover 52 Rage when a Fighter dies, Recover some extra Rage being attacked.",
+				"description_es": "Recupera 52 de Rage cuando muere un peleador, Tambien recupera Rage cuando es golpeado.",
+				"description_pt": "Recupera 97 de Rage quando um lutadormorre, Recupera uma Rage extra quando é atacado."
+			}
+		},
+		{
+			"fighter_id": "UKYO",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Get 10 rage upon attack (Level 1), and certain rage when attacked.",
+				"description_es": "Obtiene 10 de Rage cuando ataca (Nivel 1), y una cierta cantidad cuando es atacado.",
+				"description_pt": "Recupera 50 de Rage quando um lutador morre, aumenta o Rage inicial."
+			}
+		},
+		{
+			"fighter_id": "MUKAI",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Recover 55 Rage when enemy or ally dies, greatly increase starting rage",
+				"description_es": "Recupera 55 de Rage cuando alguien muere, Incrementa su Rage inicial.",
+				"description_pt": "Recupera 55 de Rage quando um inimigo ou aliado morre, aumenta bastante sua Rage inicial."
+			}
+		},
+		{
+			"fighter_id": "MAGAKI",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Get 115 initial rage, recover some rage when attacked",
+				"description_es": "Tiene 115 de Rage inicial, recupera algo de Rage cuando es atacado.",
+				"description_pt": "Recebe 115 de Rage inicial, recupera um pouco quando atacado."
+			}
+		},
+		{
+			"fighter_id": "SAIKI",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Rage recovers by 40 (Level 1) for dealing attack and much recovers for attacks received",
+				"description_es": "Recupera 40 de Rage cuando ataca y mucho mas cuando es atacado.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "ADELHEID",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Get 115 initial Rage, Recover some Rage when ally or enemy dies.",
+				"description_es": "Tiene 115 de Rage Inicial (Level 1), Recupera algo de Rage cuando alguien muere.",
+				"description_pt": "Recebe 115 de Rage inicial (level 1). Recupera um pouco de Rage quando um aliado ou inimigo morre."
+			}
+		},
+		{
+			"fighter_id": "MAY_LEE",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Recover 55 rage when ally or enemy dies, initial rage increased",
+				"description_es": "Recupera 55 de Rage cuando muere alguien. Rage inicial incrementada.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "XIANGFEI",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Recover 40 Rage with every ATK. (Level 1)",
+				"description_es": "Recupera 40 de Rage cuando ataca (Nivel 1)",
+				"description_pt": "A cada ataque realizado recupera 40 de Rage. (level 1)."
+			}
+		},
+		{
+			"fighter_id": "INSTINCT_IORI",
+			"fightsoul": {
+				"name": "SPACE",
+				"description": "Recover 85 rage every round, will also recover some HP.",
+				"description_es": "Recupera 85 de Rage cada turno, Tambien recupera algo de HP.",
+				"description_pt": "Recupera 85 de Rage a cada rodada, também recupera um pouco de HP."
+			}
+		},
+		{
+			"fighter_id": "FLAME_KYO",
+			"fightsoul": {
+				"name": "SPACE",
+				"description": "Each Round, Rage recover 85 (Level 1). Recover much HP upon round start.",
+				"description_es": "Cada round recupera 85 de Rage (Nivel 1). Recupera una proporcion de Hp al comenzar el round.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "KYO_NESTS",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restores 150 Rages when Fighter dies, attack will also restore some Rage.\n",
+				"description_es": "Recupera 150 de Rage cuando muere un personaje, al atacar tambien gana un poco de Rage.",
+				"description_pt": "Recupera 150 de Rage quando um lutador morre, o ataque também recupera um pouco de Rage."
+			}
+		},
+		{
+			"fighter_id": "BENIMARU_2003",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Inital Rage increase by 400, will also restore rage when attacked.",
+				"description_es": "Rage inicial incrementada en 400, tambien gana Rage cuando es atacado.",
+				"description_pt": "Rage inicial aumenta em 400, também recuperará rage quando atacado."
+			}
+		},
+		{
+			"fighter_id": "TERRY_2003",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restore 131 rage when ally dies, and some when attacking.",
+				"description_es": "Restaura 131 de Rage cuando un aliado muere, y un poco cuando ataca.",
+				"description_pt": "Recupera 131 de Rage quando um aliado morre, e um pouco quando ataca."
+			}
+		},
+		{
+			"fighter_id": "NEW_MR_KARATE",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "All gameplay, restore 40 rage when attacking, and some when attacked.",
+				"description_es": "En todos los modos de juego, restaura 40 Rage cuando ataca, y un poco cuando es atacado.",
+				"description_pt": "Por todo o gameplay, recupera 40 de rage quando ataca, e um pouco quando atacado."
+			}
+		},
+		{
+			"fighter_id": "ROBERT_2002_UM",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Restore 55 rage when allies dies, and some when attacked.",
+				"description_es": "Restaura 55 de Rage cuando un aliado muere, y un poco cuando es atacado.",
+				"description_pt": "Recupera 55 de rage quando um aliado morre, e um pouco quando é atacado."
+			}
+		},
+		{
+			"fighter_id": "OROCHI_LEONA",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Restores 192 Rage for every attack and 1/4 for attacked.",
+				"description_es": "Recupera 192 de Rage por ataque y 1/4 al ser atacada.",
+				"description_pt": "Restaura 192 de Rage para cada ataque e 1/4 por golpe recebido."
+			}
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Initial Rage increases by 400.",
+				"description_es": "Rage inicial incrementada en 400.",
+				"description_pt": "O Rage inicial é aumentado em 400."
+			}
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every Attack Received restore Rage by 126.",
+				"description_es": "Cada ataque que recibe recupera 126 de Rage.",
+				"description_pt": "Cada ataque que recebe recupera 126 de Rage."
+			}
+		},
+		{
+			"fighter_id": "CRAZY_IORI",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "1000 points of Initial Rage (Lv. 1)",
+				"description_es": "Rage inicial de 1000 puntos. (Lv 1)",
+				"description_pt": "Aumenta Rage inicial em 1000 pontos."
+			}
+		},
+		{
+			"fighter_id": "OMEGA_RUGAL",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Every attack received restores Rage by 176.",
+				"description_es": "Cada ataque recibido recupera 176 de Rage.",
+				"description_pt": "Cada ataque que recebe recupera 176 de Rage."
+			}
+		},
+		{
+			"fighter_id": "GOENIKO",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Attacking will get 40 Rage (Level 1), also increase initial Rage",
+				"description_es": "Ataca y obtiene 40 de Rage (Nivel 1), Tambien incrementa el Rage inicial.",
+				"description_pt": "Atacando recebe 40 de Rage (level 1), também aumenta a rage inicial."
+			}
+		},
+		{
+			"fighter_id": "MR_KARATE",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Restore 20 Rage when attacking or attacked. Restores Rage when any fighters dies on either side",
+				"description_es": "Recupera 20 de Rage cuando ataca o es atacado. Recupera Rage cuando alguien muere en cualquier lado del campo.",
+				"description_pt": "Recupera 20 de Rage quando ataca ou é atacado. Recupera Rage quando qualquer lutador morre."
+			}
+		},
+		{
+			"fighter_id": "ATHENA_2002_UM",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Attacks will recover 50 Rage (Level 1). When an ally or enemy dies, recovers a small amount of Rage.",
+				"description_es": "Los ataques recuperan 50 de Rage (Nivel 1). Cuando un aliado o enemigo muere, recupera una pequeña cantidad de Rage.",
+				"description_pt": "Ataques recuperam 50 de Rage (level 1). Quando um lutador morre, recupera uma pequena quantidade de Rage."
+			}
+		},
+		{
+			"fighter_id": "MAKI_KAGURA",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Start of match gain 115 Rage (Level 1). When attacking or receiving attacks, gain Rage.",
+				"description_es": "Gana 115 de Rage al inicio de la batalla (Nivel 1). Cuando ataca o es atacada gana un poco de Rage.",
+				"description_pt": "Inicia a partida com 115 de Rage (level 1). Quando ataca ou é atacada, ganha Rage."
+			}
+		},
+		{
+			"fighter_id": "VANESSA",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Attack recover Rage by 40, 1/4 of that recovers for every attack received.",
+				"description_es": "Recupera 40 de Rage al atacar y la cuarta parte al ser atacada.\n",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "TUNG_FU_RUE",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Each attack (or received) restores 20 Rage (Level 1). Restores Rage when others die.",
+				"description_es": "Cada vez que ataca o es atacado recupera 20 de Rage (Nivel 1). Restaura Rage tambien cuando otros mueren.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "SHUN_EI",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Any Fighter dying restores 55 Rage (Level 1). Attack restores tons of Rage.",
+				"description_es": "Recupera 55 de Rage (Nivel 1) cuando muere un personaje y recupera mucho mas cuando ataca.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "CLONE_ZERO",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Get 80 Rage for killed ally (Level 1), 75% effect for killed enemy.",
+				"description_es": "Obtiene 80 de Rage por cada aliado muerto (Nivel 1), 75% del efecto cuando muere un enemigo.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "NIGHTMARE_GEESE",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Gain 115 Rage initially. Gain tons of extra rage when fighters die.",
+				"description_es": "Gana 115 de Rage al inicio (NIvel 1). Gana mucha mas, cuando un peleador muere.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "JHUN_HOON",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Recover 55 rage when any fighter dies. A small amount recovers upon attack.",
+				"description_es": "Recupera 55 de Rage cuando cualquier peleador muere, y ademas una pequeña cantidad cuando ataca.",
+				"description_pt": "Unavilable"
+			}
+		},
+		{
+			"fighter_id": "CATTY_LEONA",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Recover much HP and 85 Rage before own attack each round. Since Rouns 1.",
+				"description_es": "Recupera mucha cantidad de HP y 85 de Rage antes de atacar cada turno, desde el round 1.",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "SHION",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "After fighter killed on either side or after launching  attack, get 24 rage (Level 1), and get much rage upon start.",
+				"description_es": "Luego de que un peleador muere (en cualquier lado del campo) o despues de atacar, obtiene 24 de Rage (Nivel 1) y obtiene mucha mas al comenzar la batalla.",
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "SHEEN_WOO",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "HINAKO",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "LEONA_XIII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "LIN",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Attack recovers rage by 40, while injury recovers certain rage.",
+				"description_es": "El ataque recupera Rage en 40, mientras que la lesión recupera cierto Rage.",
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "RAMON",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "OSWALD",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "DUO_LON",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "SETH",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "ROBERT_XIII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "ATHENA_XIII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "RALF_XIII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "CLARK_XIII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "KENSOU_XII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "MAI_NEW",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "VICE_XIII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "MIZUCHI",
+			"fightsoul": {
+				"name": "SPACE",
+				"description": "",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
+			"fighter_id": "NAKORURU RASETSU",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "RYO_MR_KARATE",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "MATURE_XIII",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "MEITENKUN",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		}
+	]
+}

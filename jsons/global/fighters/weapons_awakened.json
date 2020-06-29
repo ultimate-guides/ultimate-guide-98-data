@@ -1,0 +1,1104 @@
+{
+	"weapons": [
+		{
+			"fighter_id": "KYO",
+			"weapon_awakened": {
+				"name": "Kusanagi Sword",
+				"description": "Strikes a Column, burning them and reducing their Rage by 300.",
+				"description_es": "Impacta a una columna quemando los enemigos y reduciendoles la ira (rage) por 300.",
+				"description_pt": "Atinge uma coluna de inimigos, causando queimadura e reduzindo 300 de rage. ",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "BENIMARU",
+			"weapon_awakened": {
+				"name": "",
+				"description": "40% chance to paralyze the enemy.",
+				"description_es": "40% de chance de paralizar a un enemigo.",
+				"description_pt": "40% de chance de causar paralisia ao inimigo. Reduz o ATK das Fighters femininas inimigas em 15%.\n",
+				"contributor": "MANU (s47)"
+			}
+		},
+		{
+			"fighter_id": "DAIMON",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "TERRY",
+			"weapon_awakened": {
+				"name": "Wolves' Anger",
+				"description": "Reduces the target's 15% DEF with 36% chance to stun the target and 50% chance to reduce all enemies' ATK.",
+				"description_es": "Reduce la defensa de los objetivos en 15%, con un 36% de chance de Stun y un 50% de chance de reducir el ataque a todos los enemigos",
+				"description_pt": "Reduz o DEF de 15% do alvo com 36% de chance de causar atordoamento e 50% de chance de reduzir o ATK de todos os inimigos.",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "ANDY",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "JOE",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "RYO",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "ROBERT",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "YURI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "RALF",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "LEONA",
+			"weapon_awakened": {
+				"name": "Sharpened Saber",
+				"description": "Strikes the rear enemy with the least HP remaining, and heals allies' Fighter with the least HP remaining.",
+				"description_es": "Golpea en la línea trasera de los enemigos contra el que tenga menor puntos de Vida restantes (HP), y cura a un aliado con la menor cantidad de Puntos de Vida (HP) restantes.",
+				"description_pt": "Golpeia o inimigo da retaguarda que tiver menos HP restantes e cura o aliado com menos HP restantes.",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "CLARK",
+			"weapon_awakened": {
+				"name": "HUD Sunglasses",
+				"description": "Ignite the napalm to strike the enemy's rear with increasing 20% DMG and 16% chance to stun them. Extra 70% DMG against GANK Fighters.",
+				"description_es": "Golpea la línea enemiga trasera con un incremento de 20% de daño (DMG) y un 16% de probabilidad de aturdirlos. Causa 70% de daño extra contra luchadores tipo GANK. ",
+				"description_pt": "Ataca a retaguarda do inimigo com 20% de DMG e 16% de chance de causar atordoamento. Causa 70% de DMG Extra contra Fighters GANK. ",
+				"contributor": "ALife Magic (s21)"
+			}
+		},
+		{
+			"fighter_id": "ATHENA",
+			"weapon_awakened": {
+				"name": "Flashing Crystal Orb",
+				"description": "Athena uses swimsuit to surround herself with a Superpower Ball healing all your Fighters.",
+				"description_es": "Athena usa un traje de baño para rodearse a sí misma con una \"Superpower Ball\", curando a todos los aliados",
+				"description_pt": "Athena usa um traje de banho para cercar a si mesma com uma “Superpower Ball”, curando todos os aliados",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "KENSOU",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "CHIN",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "CHIZURU",
+			"weapon_awakened": {
+				"name": "",
+				"description": "After Yata no Kagami, the exclusive weapon awakened, Path of the Void improves a lot. Strikes all enemies with 32% chance to silence each of them.",
+				"description_es": "Después de Yata no Kagami, el arma exclusiva despertada, Path of the Void mejora mucho. Golpea a todos los enemigos con un 32% de probabilidad de silenciar a cada uno de ellos.",
+				"description_pt": "",
+				"contributor": "Psycho Soldier - (S46)"
+			}
+		},
+		{
+			"fighter_id": "MAI",
+			"weapon_awakened": {
+				"name": "Flower Butterfly Fan",
+				"description": "Strikes all enemies with burning, also restores 100 Rage for the rear allies' Fighters.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Dinkiwinky (s47)"
+			}
+		},
+		{
+			"fighter_id": "KING",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "KIM",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "CHANG",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "CHOI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "CHRIS",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Twist in air to attack enemies' crucial point to reduce a row targets' 15% Anti-Crit and 80% Heal rate for 2 rounds with 80% more DMG to enemies' Orochi Chris.",
+				"description_es": "Gira en el aire para atacar el punto crucial de los enemigos reduciendo en 15% Anti-Crit de una fila de objetivos 80% de Heal Rate y 80% más de daño (DMG) a Orochi Chris.",
+				"description_pt": "Dá um rodopio no ar para atacar o ponto crucial dos inimigos para reduzir, em uma coluna, 15% de Anti-Crit e 80% do Heal Rate por 2 rodadas, com 80% a mais de DMG contra o Orochi Chris.",
+				"contributor": "RESTEB (s21)"
+			}
+		},
+		{
+			"fighter_id": "YASHIRO",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "SHERMIE",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "YAMAZAKI",
+			"weapon_awakened": {
+				"name": "Bloodlust Dagger",
+				"description": "After his exclusive weapon Bloodlust Dagger awakened, Yamazaki is going to be furios. His DMG dealt increases with extra 30% DMG for DPS enemies and the Unyielding effect increases most 40% DMG.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Heavy D (Server 31)"
+			}
+		},
+		{
+			"fighter_id": "BLUE_MARY",
+			"weapon_awakened": {
+				"name": "",
+				"description": "After her exclusive weapon awakened, M. Spash Rose improves a lot with increasing 50% DEF and 25% Res Rate and 15% more chance to stun enemies.",
+				"description_es": "Después de que despertó su arma exclusiva, M. Spash Rose mejora mucho al aumentar el 50% de DEF y el 25% de Res Rate y un 15% más de probabilidad de aturdir a los enemigos.",
+				"description_pt": "",
+				"contributor": "Junio - (s26)"
+			}
+		},
+		{
+			"fighter_id": "BILLY",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "IORI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Maiden Masher is able to rip the target's body and spirit apart, causing DMG and stealing 15% ATK and 30% DEF from the target.",
+				"description_es": "Maiden Masher es capaz de desgarrar el cuerpo y el espíritu del enimigo, causando DMG y robando 15% de ATK y 30% de DEF.",
+				"description_pt": "\"Maiden Masher\" é capaz de rasgar o corpo e o espírito do alvo, causando DMG e roubando 15% de ATK e 30% de DEF.",
+				"contributor": "Kiro (s5)"
+			}
+		},
+		{
+			"fighter_id": "MATURE",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "VICE",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "HEIDERN",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "SAISYU",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "TAKUMA",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "HEAVY_D",
+			"weapon_awakened": {
+				"name": "",
+				"description": "After exclusive weapon awakened, strikes a single enemy to reduce target 30% DEF and 15% Res Rate (2 rounds). If ally Fighter number is less than the enemies'. increase own 40% Crit in this round.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Heavy D (Server 31)"
+			}
+		},
+		{
+			"fighter_id": "LUCKY",
+			"weapon_awakened": {
+				"name": "",
+				"description": "After awakening exclusive weapon, attacks all enemies, lowering their chance to cast skill by 10% (2 rounds) . If your side has all 4 Fightsouls, Tiger, Snake , Bear , Turtle , additional 15% chance to stun.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Heavy D (Server 31)"
+			}
+		},
+		{
+			"fighter_id": "BRIAN",
+			"weapon_awakened": {
+				"name": "",
+				"description": "After the awakening weapon, deals huge damage in a column, enhancing own block rate by 30% (2 rounds), and dealing 60% extra DMG to DPS enemies. If the total number of DPS fighters (including both sides) is equal to or greater than 5, will increase own Res-rate by additional 20% (2 rounds).",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Heavy D (Server 31)"
+			}
+		},
+		{
+			"fighter_id": "EIJI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Strikes a single enemy with 15% DEF and 15% Res Rate reduction. 40% chance to transform into Billy or Crazy Iori to cast the ULT.",
+				"description_es": "Ataca a un enemigo reduciendole 15% de DEF y 15% de Res Rate, tiene 40% de chance de lanzar el ULT de Billy o Crazy Iori.",
+				"description_pt": "Ninjutsu de Eiji, ataca um único inimigo reduzindo em 15% DEF e em 15% Res Rate do alvo, com 40% de probabilidade de se transformar em Billy ou Iori para lançar a ULT.",
+				"contributor": " Heavy D (s31)"
+			}
+		},
+		{
+			"fighter_id": "KASUMI",
+			"weapon_awakened": {
+				"name": "Aikido Bracelet",
+				"description": "After exclusive weapon awakened, will cause damage to all enemies, and randomly reduce 2 enemies 200 Rage; while increase own rage recovery speed by 50%.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "SHINGO",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "OROCHI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "RUGAL",
+			"weapon_awakened": {
+				"name": "MECH. EYE II",
+				"description": "Strikes a random rear enemy, while giving self additional 40% HP drain, 30% chance to resurrect with 50% of Rage at point of death. Increases 100% DMG and HP drain.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "GOENITZ",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Uses hurricane to clear allies' debuff and strike the front enemy with reducing 200 Rage for each target and drain 70% to himself. Extra 80% DMG against GANK Fighters.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "ALife Magic (s21)"
+			}
+		},
+		{
+			"fighter_id": "K",
+			"weapon_awakened": {
+				"name": "Extreme K' Glove",
+				"description": "Release glove limit to strikes a column with increasing allies' rear 20% Crit and 30% Crit. Reduce Main target's 30% DEF. The fewer both sides Fighters, the higher DMG.",
+				"description_es": "Libera el límite del guante para golpear a una columna ,incrementando en un 20% Crit los aliados traseros y un 30% Crit el mismo. Reduce el 30% de DEF del objetivo principal. Mientras menos luchadores de ambos lados, mayor DMG.",
+				"description_pt": "",
+				"contributor": "PETS - (s5)"
+			}
+		},
+		{
+			"fighter_id": "MAXIMA",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "WHIP",
+			"weapon_awakened": {
+				"name": "Bloody Whip",
+				"description": "Whip will concentrate the power in her desert eagle pistol, shooting a fatal bullet at the enemy with the highest DMG, reducing their DMG by <font color='#FFA726'>35%</font> and Def by <font color='#FFA726'>35%</font> defense. If whip has been deployed for more than 3 rounds, she will begin targeting the enemies with the lowest HP, and with an additional <font color='#FFA726'>20%</font> crit rate.",
+				"description_es": "Whip concetra su poder en su pistola, disparando una bala fatal hacia el enemigo con el daño mas alto, reduciendo el daño de este en <font color='#FFA726'>35%</font> y su DEF en <font color='#FFA726'>35%</font>. Si Whip esta en el campo mas de 3 rounds (4 o mas), ella comenzara a hacer objetivos a los enemigos con el HP mas bajo y gana un <font color='#FFA726'>20%</font> de Crit Rate.",
+				"description_pt": "",
+				"contributor": "#SNK# Daikueit S3"
+			}
+		},
+		{
+			"fighter_id": "KULA",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Uses ice field to strike enemies. The fewer the enemy Fighters, the more the DMG (100% max). Randomly decrease 4 enemies' 70% Crit Power with 40% chance to freeze 2 of them.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Kiro (s5)"
+			}
+		},
+		{
+			"fighter_id": "FOXY",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "ANGEL",
+			"weapon_awakened": {
+				"name": "50cc Motorcycle",
+				"description": "This attack get +35% Crit and +30% Crit Power; if current battle is more than 3 rounds. this attack will get +50% Crit and +60% Crit Power.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "IGNIZ",
+			"weapon_awakened": {
+				"name": "Imitation Life Chain",
+				"description": "Attack a column of enemies, reducing target ATK by <font color='#FFA726'>10%</font> and reducing damage rate (3 rounds, Igniz and Gesse in god mode is immune). Affected targets will receive <font color='#FFA726'>35%</font> additional DMG, also increase allies <font color='#FFA726'>30%</font> control-free, if Igniz has been deployed for more than 3 rounds, reduce ATK and increase DMG received buff can expand to all enemies.",
+				"description_es": "Ataca una columna, Reduciendoles el ATK en <font color='#FFA726'>10%</font> y el DMG Rate por 3 Rounds (Igniz y Geese en God mode son inmunes). Los Objetivos afectados por el ULT recibiran <font color='#FFA726'>35%</font> de daño adicional y los aliados ganan <font color='#FFA726'>30%</font> de Control-Free, Si Igniz esta en el campo por mas de 3 rounds (4 o mas), no solo los objetivos golpeados sufriran los efectos del ULT sino todos los enemigos.",
+				"description_pt": "",
+				"contributor": "Dinkiwinky (S47)"
+			}
+		},
+		{
+			"fighter_id": "KRIZALID",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "ZERO",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Strikes a row enemies to absorb their DEF for 1 round(65% in total, average to each target). If he lives for more than 3 rounds, it will increase own 40% ATK and little Rage restore speed (2 rounds).",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Gustavo (s8)"
+			}
+		},
+		{
+			"fighter_id": "GEESE",
+			"weapon_awakened": {
+				"name": "Peerless Knuckles",
+				"description": "Strikes all enemies and grants Avatar effect (Restores 20% HP, 90% chance to control-free, 20% DEF and 20% Res Rate increase, increase next round's skill chance to 100%). If the enemy has only 1 Fighter, it will grant him 3 times DMG.",
+				"description_es": "",
+				"description_pt": "Atinge todos os inimigos e concede para si efeito Avatar (Restaura 20% de HP, 90% de chance de aumentar o controle, 20% de DEF e 20% de Taxa de Res, aumenta a chance de Skill da próxima rodada para 100%). Se o inimigo tiver apenas 1 Lutador, Geese causará 3 vezes mais de DMG.",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "KRAUSER",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Strikes a row and clear own debuff. Add \"Duel\" flag to the fighter who was hit. (If the enemy who has flag attacks but not against Krauser, the enemy will lose 5% current HP and get no Rage. If the enemy attacks Krauser or Krauser is dead, the flag will disappear.) The \"Duel\" is permanent.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Zell (s10)"
+			}
+		},
+		{
+			"fighter_id": "MR_BIG",
+			"weapon_awakened": {
+				"name": "",
+				"description": "After awakening weapon, 40% probability chance to paralyze taarget (decreasse target 40% Anti-Crit Res and 40% Block); and the high voltage can penetrate the target, causing 50% damage.",
+				"description_es": "Después de despertar del arma, 40% de probabilidad de paralizar al objetivo (disminuye el 40% de Anti-Crit del objetivo  y 40% Bloqueo); y la alta tensión puede penetrar en el objetivo, causando un 50% de daño.",
+				"description_pt": "",
+				"contributor": "Aishiteru - (s20)"
+			}
+		},
+		{
+			"fighter_id": "BAO",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "NAMELESS",
+			"weapon_awakened": {
+				"name": "Imitation Life Fighting Gloves",
+				"description": "Attack a column, and hit the target of adding split effect, deal <font color='#FFA726'>35%</font> additional damage to targets with split or bleeding effect, if the front target not block (by Skill or normal block) and there is more than 1 enemy, then hit the target will be knocked away (will not return this round, does not work against petrified or frozen targets); enhaced front allies <font color='#FFA726'>25%</font> block.",
+				"description_es": "Ataca una columna, los objetivo golpeados sufriran SPLIT, <font color='#FFA726'>35%</font> de daño extra a enemigos con efecto Split o Sangrado, Si el objetivo frontal no bloquea el ULT (ya sea por Skill Block o Normal Block) y hay mas de un enemigo en el campo, entonces Nameless lo manda a volar por los aires, lo expulsa del campo durante este turno y regresa en el turno del oponente (no funciona si el objetivo esta petrificado o congelado); Otorga a tu fila delantera <font color='#FFA726'>25%</font> de Blockeo.",
+				"description_pt": "",
+				"contributor": "HuaHero (From Youtube)"
+			}
+		},
+		{
+			"fighter_id": "MOMOKO",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "ASH",
+			"weapon_awakened": {
+				"name": "Eternal Flame Soul",
+				"description": "Attack a column of enemies and debuff enemies, also add \"Flame\" effect, or refresh them to last 3 rounds; the more enemies affected by \"Flame\" effect, the higher the ULT DMG (max<font color='#FFA726'> 30%</font> increase); if there is only 1 enemy in the column, will deal additional <font color='#FFA726'>30%</font> DMG.",
+				"description_es": "Ataca una columna de enemigos y les aplicada debuff, también agrega el efecto \"Flame\", o los feresca hasta 3 rondas; Cuantos más enemigos se vean afectados por el efecto \"Flame\", mayor será el ULT DMG (máx. <font color='#FFA726'>30%</font> de aumento); Si solo hay 1 enemigo en la columna, hara un <font color='#FFA726'>30%</font> de DMG adicional.",
+				"description_pt": "",
+				"contributor": "Huahero Youtuber"
+			}
+		},
+		{
+			"fighter_id": "ELISABETH",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Attack a column, increase own 30% ATK and DEF for 2 rounds; teammate with lowest HP percentage gets the shield (shield with 25% Elisabeth's max HP; when the shield is active, it does not take DMG reflection; and when the shield is broken, the teammate will not take splash DMG. This lasts for 2 rounds. If self is the one with lowest HP percentage, add to a random teammate); fist 2 ULT in each battle can add the shield, while the 3rd or later ones recover 15% own max HP; 35% chance to taunt target column (fighter confused by Magaki will no be taunted by Elisabeth), attack Elisabeth.",
+				"description_es": "",
+				"description_pt": "Ataque uma coluna, aumente seu próprio ATK e DEF em 30% por 2 rodadas; o aliado com menor porcentagem de HP recebe o escudo (escudo com HP máximo de 25% de Elisabeth; quando o escudo está ativo, não recebe Dano por Reflexão; e quando o escudo é quebrado, o companheiro de equipe não recebe o dano de estouro \"Splash DMG\" (isso até a batalha terminar). Isso dura 2 rodadas. Se Elisabeth é quem possui a menor porcentagem de HP, concede a um aliado aleatório); os primeiros 2 ULT em cada batalha concede o escudo, enquanto do terceiro em diante recupera 15% do HP máximo; 35% de chance de provocar a coluna alvo, o fazendo atacar somente a Elisabeth (o lutador confuso por Magaki não será provocado por Elisabeth).",
+				"contributor": "RuRi25 (S8)"
+			}
+		},
+		{
+			"fighter_id": "NAKORURU",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "HAOHMARU",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "UKYO",
+			"weapon_awakened": {
+				"name": "No Inscription",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "MUKAI",
+			"weapon_awakened": {
+				"name": "Dry Rock Bracelet",
+				"description": "Attack all enemies, 30% chance to randomly petrify <font color='#FFA726'>3</font> enemies (petrified targets cannot block or skill block, use rage, decrease 15% Res Rate, and effect cannot be dispelled). The more enemies, the higher chance to petrify max 50%, the fewer enemies, the higher DMG. After reincarnation , will deal <font color='#FFA726'>50%</font> extra DMG to petrified targets.",
+				"description_es": "Ataca a todos los enemigos, 30% de chance de petrificar a <font color='#FFA726'>3</font> aleatoriamente (los enemigos petrificados no pueden bloquear, usar Rage, -15% de Res Rate). Entre mas enemigos hay, mayor chance de petrificar (max 50%), Entre menos enemigos, mayor sera el daño. Despues de reencarnar, hace<font color='#FFA726'>50%</font> de DMG extra a enemigos petrificados.",
+				"description_pt": "",
+				"contributor": "#SNK# Gabriel (S3)"
+			}
+		},
+		{
+			"fighter_id": "MAGAKI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Attack 3 random enemies, increase own <font color='#FFA726'>30%</font> DMG and Res Rate, 50% chance to confuse target (confused target cannot Use ULT or Skill, Can only attack Magaki, Magaki will copy it's attackers buff and <font color='#FFA726'>absorbing 10% current HP</font> after receiving attack); if the target is not confused after beign attacked, will deal 3x additional DMG based on Magaki DEF; the fewer total fighters remaining the higher the DMG, max 100%.",
+				"description_es": "Ataca a tres objetivos aleatorios, aumente su propio ATK del 30% y la  res rate, 50% de probabilidad de confundir el objetivo (el objetivo confundido no puede liberar small skill o ULT, forzado a atacar a Magaki; Magaki, después del ataque inicial en este caso, copia el buff del atacante y absorbe el 10% de su salud actual); si el objetivo es alcanzado sin confundirse, infligirá DAÑO extra igual a 3 veces de Magaki Def; cuantos menos enemigos queden, mayor será el DAÑO, máximo aumento del 100%",
+				"description_pt": "",
+				"contributor": "Mikan Tsumiki (s47)"
+			}
+		},
+		{
+			"fighter_id": "SAIKI",
+			"weapon_awakened": {
+				"name": "Power of Nether Fire",
+				"description": "After awakening, attack enemy DPS fighter with highest power first( if no DPS enemy fighter, attack enemy fighter with highest power); for each nether soul layer, increase 15% DMG, wich cannot be blocked or resisted; absorb target's <font color='#FFA726'>12%</font>  max HP, clear target’s buff effects, <font color='#FFA726'>clear own debuff</font>, and add nether fire effects; if all nether soul layers are used up, switch to ULT Kyoryuu-no-Ori, get 1 nether soul layer seize target's buff status, and pass own debuff to enemy;",
+				"description_es": "Después del despertar del arma, ataca primero al DPS enemigo con el poder más alto (si no hay luchador enemigo DPS, ataca al enemigo con el poder más alto); por cada capa inferior del alma, aumente el 15% de DMG, que no se puede bloquear ni resistir; absorbe el <font color = '# FFA726'> 12% </font> HP máximo del objetivo, elimina los efectos de mejora del objetivo(buffs), <font color = '# FFA726'> elimina el debuff propio </font> y agrega efectos de fuego inferior; si todas las capas inferiores del alma están agotadas, cambia a Kyoryuu-no-Ori ULT, obtiene 1 capa inferior del alma, toma el buff del objetivo y pasa su propio debuff al enemigo.",
+				"description_pt": "",
+				"contributor": "marK-_TH S.17"
+			}
+		},
+		{
+			"fighter_id": "ADELHEID",
+			"weapon_awakened": {
+				"name": "Bernstein",
+				"description": "Increase own 30% Crit Rate, attack 2 random enemies, target will lose 300 Rage if not killed; increasing all allies 10% ULT Res for 1 round, for every bear soul fighter in your team, effect increased by 5%, max 30%",
+				"description_es": "",
+				"description_pt": "Aumente sua própria taxa de crítico em de 30%; Ataca 2 inimigos aleatórios, o alvo perderá 300 de Rage se não for morto; Aumento de todos os aliados em 10% de resistência a ULT  por 1 round; para cada lutador de soul Bear no seu time, esse efeito aumentado em 5%, max 30%.",
+				"contributor": "ALife Magic (s21)"
+			}
+		},
+		{
+			"fighter_id": "MAY_LEE",
+			"weapon_awakened": {
+				"name": "Heroes Belt",
+				"description": "Max Animal Kick (Normal mode): 30% chance to Stun Target, immutability Res Rate 30%. Max May Lee Bomb (Heroic mode): for every flag, will increase DMG by 25% and 10% Crit Rate. If the target is not Killed May Lee ATK increased by 20% (2 rounds).",
+				"description_es": "Max Animal Kick (Modo Normal): 30% chance de Stun, En Inmutabilidad gana 30% de Res Rate. Max May Lee Bomb (Modo Heroico): por cada bandera incrementa el DMG en 25% y en 10% el Crit Rate. SI el objetivo no muere el ATK de May Lee se incrementa en 20% por 2 turnos.",
+				"description_pt": "",
+				"contributor": "#SNK# Gabriel S3"
+			}
+		},
+		{
+			"fighter_id": "XIANGFEI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "INSTINCT_IORI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Absorb target's 20% ATK, DEF, DMG rate, and Res Rate; deal massive damage to single enemy, neglecting block and resistance; 70% chance to prevent fighter killed with his skill from resurrecting and transforming (effects upon leaders reduce). When there is",
+				"description_es": "Absorbe el 20% del objetivo ATK, DEF, DMG y Res Rate; inflige daño masivo a un solo enemigo, Ignorando el bloqueo y la resistencia; 70% de probabilidad de evitar que el luchador muerto con su habilidad resucite y se transforme (se reducen los efectos sobr",
+				"description_pt": "",
+				"contributor": "The Dandy - (S19) SEA"
+			}
+		},
+		{
+			"fighter_id": "FLAME_KYO",
+			"weapon_awakened": {
+				"name": "",
+				"description": "After Awakening, attack a column, increase own <font color='#FFA726'>30%</font> DMG rate and  Res rate, reduce target column's <font color='#FFA726'>300</font> rage and reduce rage recovery speed by 90% for 1 round, adding Kyo's fire effect on target; dispel debuff on a controlled fighter on own side; if a leader or sworn enemy is on enemy side, trigger FLAME KYO effect; all kyo's fires on enemy side refresh and upgrade to demon slaying flame (burning DMG increases by 100%; when this is over or dispelled by fighter other than Flame Kyo, target's DMG rate and Res rate decreases by 20% for 2 rounds). When there is only on target and it is a leader of the King of Fighters, trigger combination skill with Instinct Iori, wich neglects block and resistance (KOFBoss: Orochi, Rugal, Goenitz ,Omega Rugal, Mukai, \n Magaki, Ash and Adelheid).",
+				"description_es": "Después del Despertar del arma, ataca una columna, aumenta su propio DMG y Res rate <font color = '# FFA726'> 30% </font> , reduce   <font color = '# FFA726'> 300 </font> Rage de la columna objetivo y reduce la velocidad de recuperación de Rage en un 90% durante 1 asalto, agregando el efecto de Kyo's fire en el objetivo; disipa el debuff en un luchador controlado en su propio lado; si un líder está del lado enemigo, activa el efecto FLAME KYO; todos los kyo's fires en el lado enemigo se actualizan a demon slaying (el DMG de la quemadura aumenta en un 100%; cuando esto termina o es disipado por un luchador que no sea Flame Kyo, el DMG rate y Res rate del objetivo disminuye en un 20% durante 2 rondas). Cuando solo hay un objetivo y es un líder King of Fighters , activa la habilidad combinada con Instinct Iori, que ignora el bloqueo y la resistencia (KOFBoss: Orochi, Rugal, Goenitz, Omega Rugal, Mukai, Magaki, Ash y Adelheid).",
+				"description_pt": "",
+				"contributor": "Julio Oliveira, Server 43"
+			}
+		},
+		{
+			"fighter_id": "KYO_NESTS",
+			"weapon_awakened": {
+				"name": "Final-Duel Ten Katar",
+				"description": "Attack enemies in a column and  creating a fire shield for 2 rounds (Res Rate +10% and DMG Reflect +10%). Causes burning to the target's soul for 2 rounds (each decreasing HP by <font color='#FFA726'>12%</font> and Rage by <font color='#FFA726'>200</font>, with max limit for NPC BOSS). Will cause additional <font color='#FFA726'>35%</font> DEF reduction to TANK enemies.",
+				"description_es": "Atacar una columna y crear un escudo de fuego por 2 turnos (Res Rate +10% y DMG Reflect +10%). Causa quemadura de alma (Soul Burning) a los objetivos por 2 turnos (Cada turno el enemigo pierde <font color='#FFA726'>12%</font> de HP y pierde <font color='#FFA726'>200</font> de Rage, el limite maximo para NPC Boss). Causara una reduccion adicional de <font color='#FFA726'>35%</font> de DEF a los Tankes (TANK) enemigos.",
+				"description_pt": "",
+				"contributor": "Gustavo (S8)"
+			}
+		},
+		{
+			"fighter_id": "BENIMARU_2003",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "TERRY_2003",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Attack a single enemy, ignoring block. If it kills the target, causes 70% splash DMG, decreasing 15% Res Rate; increase own 15% Crit Power, for each ally with tiger soul, Crit power will increase 5%, max 35%.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Dinkiwinky (S47)"
+			}
+		},
+		{
+			"fighter_id": "NEW_MR_KARATE",
+			"weapon_awakened": {
+				"name": "Infinity Gloves",
+				"description": "Attack enemy with highest ATK, decreasaing target <font color='#FFA726'>20%</font> DMG, increase own <font color='#FFA726'>30%</font> Res Rate, and decreasing targeet <font color='#FFA726'>300</font> Rage; if Robert 2002 UM is deployed in your formation or aid formation, release ULT \\\"DoubleStarFlurry\\\" (Attack enemy with Highest ATK, increase own <font color='#FFA726'>30%</font> Res Rate, <font color='#FFA726'>15%</font> DMG; decreasing target <font color='#FFA726'>20%</font> DMG,<font color='#FFA726'>10%</font> Res Rate, and decreasing target <font color='#FFA726'>300</font> Rage, also dispel Robert 2002 UM debuff; skill guaranteed next round).",
+				"description_es": "Ataca al enemigo con mayor ATK, disminuyendo el <font color='#FFA726'>20%</font> de DMG del objetivo, aumenta tu propia Res Rate <font color='#FFA726'>30%</font> y disminuye el Rage <font color='#FFA726'>300</font> del objetivo; si  Robert 2002 UM esta en su formación o formación de ayuda, libera ULT \\\"DoubleStarFlurry\\\" (ataca al enemigo con el ATK más alto, aumente su <font color='#FFA726'>30%</font> Res Rate, <font color='#FFA726'>15%</font> DMG; disminuye el <font color='#FFA726'>20%</font> DMG , <font color='#FFA726'>10%</font> de Res Rate y <font color='#FFA726'>300</font> Rage del objetivo, también quita debuff de Robert 2002 UM; habilidad garantizada en la siguiente ronda).",
+				"description_pt": "",
+				"contributor": "Bach <k-lat>  (s20) Singapore"
+			}
+		},
+		{
+			"fighter_id": "ROBERT_2002_UM",
+			"weapon_awakened": {
+				"name": "Tiger Necklace",
+				"description": "Attack a single enemy, decreasing target 20% Res Rate, increase own 30% DMG, dealing 10% max HP DMG; if Mr. New Karate is deployed in your formation or aid formation, release ULT \"Double Star Flurry\" (Attack a single enemy, increase own 30% DMG, 15% Res Rate; decreasing target 20% Res Rate, 10% DMG dealing 10% max HP DMG. also dispel Mr. New Karate debuff; skill guaranteed next round)",
+				"description_es": "Ataca a un solo enemigo, disminuyendo el 20% de Res del objetivo, aumenta el 30% de DMG propio, con un 10% de HP DMG máximo; si New Mr. Karate está en batalla en su formación o formación de ayuda, suelta ULT \"Double Star Flurry\" (Ataca a un solo enemigo, aumentando su propio 30% de DMG, 15% de Res Rate; reduce  20% Res Rate del objetivo, 10% de DMG a 10% máx HP DMG. también quita el debuff de Mr. New Karate; skill garantizada en la próxima ronda)",
+				"description_pt": "",
+				"contributor": "penyCuicas - s20 (Singapore)"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_LEONA",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Cause a single enemy a lot of DMG with 20% chance to stun the surrounding targets and 20% Splash DMG to them. Restore own HP. If allies have 4 kinds of FightSoul, the ULT will increase allies' 30% Control and 12% Res Rate (2 rounds).",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "MANU (s47)"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS",
+			"weapon_awakened": {
+				"name": "Awakened Death Fire",
+				"description": "Strikes a column with 40% chance to silence them and a 65% chance to cause Soul Burning.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Strikes a single enemy with random debuff. Includes: 30% chance to reduce ATK, 30% chance to reduce DEF, 30% chance to be paralyzed, 30% chance to be burning. The effects can be stacked.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Kiro (s5)"
+			}
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO",
+			"weapon_awakened": {
+				"name": "Awakened Earth",
+				"description": "Strikes a column with 35% chance to stun them. Reduces own 40% DMG and increases own 60% Res Rate.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Sangogrin (s5)"
+			}
+		},
+		{
+			"fighter_id": "CRAZY_IORI",
+			"weapon_awakened": {
+				"name": "",
+				"description": "It will cause significant damage targets in a column and absorb 18% Res Rate and decrease damage dealt by 18%, if the enemy FightSoul (Tiger, Snake, Bear, Turtle) has less than 4 species, there is an additional 25% probability to stun.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Persian (s5)"
+			}
+		},
+		{
+			"fighter_id": "OMEGA_RUGAL",
+			"weapon_awakened": {
+				"name": "",
+				"description": "The higher Omega Rugal's ATK and DEF (30%, max 40%, for 2 rounds); Omega Rugal will also use one of the newly acquired skills to deal DMG to a column of enemies (with ULT effect acquired from the triggered small skill). DMG and DEF will be increased according to overall DMG dealt.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "Persian (s5)"
+			}
+		},
+		{
+			"fighter_id": "GOENIKO",
+			"weapon_awakened": {
+				"name": "Antique TV",
+				"description": "Attack a column, dealing <font color='#FFA726'>30%</font> additional DMG to main target, increase own <font color='#FFA726'>20%</font>  Res Rate and ATK for 2 rounds, this round attack ignoring targets DEF <font color='#FFA726'>70%</font>, Clearing same row allies debuff (including petrification) and target column buff.",
+				"description_es": "",
+				"description_pt": "Ataca uma coluna, causando <font color = '# FFA726'>30%</font> de DMG adicional ao alvo principal, aumenta sua própria Taxa de Res e ATK em <font color = '# FFA726'>20%</font> por 2 rodadas, neste round, ignora a DEF dos alvos em <font color = '# FFA726'> 70%</font>, eliminando Debuffs dos aliados da mesma linha (incluindo petrificação) e removendo os Buffs da coluna de atacada.",
+				"contributor": "Julio Oliveira - Server 43"
+			}
+		},
+		{
+			"fighter_id": "MR_KARATE",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "ATHENA_2002_UM",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Attack single target, increase ally female attack power by 20%, and reduce target's 30% bloc rate. Athena 2002 UM glamour will bless all allies with \"Idol Love\". When fighters with \"Idol Love\" gets attacked, will use up Idol Love\" and recover 10% HP. When fighters with \"Idols Love\" use ULT, will use up \"Idol Love\", dealing 16% additional damage and recovering 150 rage to Athena 2002 UM.",
+				"description_es": "Ataca al objetivo individual, aumenta el poder de ataque de las aliadas en un 20% y reduce el Block rate 30% del objetivo. Athena 2002 UM glamour bendecirá a todos los aliados con \"Idol Love\". Cuando los luchadores con \"Idol Love\" sean atacados, usarán Idol Love \"y recuperarán un 10% de HP. Cuando los luchadores con\" Idols Love \"usen su ULT, usarán \" Idol Love \", causando un 16% de daño adicional y recuperando 150 de Rage a Atenea 2002 UM.",
+				"description_pt": "",
+				"contributor": "Psycho Soldier - (s46)"
+			}
+		},
+		{
+			"fighter_id": "MAKI_KAGURA",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "VANESSA",
+			"weapon_awakened": {
+				"name": "",
+				"description": "Wave champion puncher, attack single enemy, dealing DMG and splashing Vanessa marks upon nearby enemies; increase own back row's 20% crit rate and own 40% Crit rate; ULT will detonate Vanessa mark and increase DMG: 1 mark increase 15% DMG, 2 marks increase 30% DMG, and 3 marks increase 50% DMG; when dealing ULT, increase 10% HP Drain for 2 rounds. Each time a Vanessa marks, attack first the fighter with more Vanessa marks by default).",
+				"description_es": "Ataca a un objetivo, repartiendo DMG y haciendo splash las marcas de Vanessa sobre los enemigos cercanos; aumenta el Crit Rate al compañero trasero en un 20% y Crit Rate 40% a ella misma; ULT detonará la marca Vanessa y aumentará la DMG: una marca aumentará un 15% de DMG, 2 marcas aumentará un 30% de DMG y 3 marcas aumentará un 50% de DMG; cuando se trata del ULT, aumente un 10% HP Drain durante 2 rondas. Cada vez que vanessa marca, ataca primero al luchador con más marcas de Vanessa por defecto).",
+				"description_pt": "Ataca um único inimigo, causando DMG e dispersando marcas de Vanessa nos inimigos ao redor; aumente a taxa de Crit em 20% da própria linha traseira e 40% de sua prória taxa de Crit. O ULT detonará a marca Vanessa e aumentará a DMG: 1 marca aumenta 15% DMG, 2 marcas aumentam 30% DMG e 3 marcas aumentam 50% DMG; ao disparar o ULT, aumenta o Dreno de HP em 10% por 2 rodadas. Cada vez que Vanessa marcar um oponente, ataque primeiro o lutador com mais marcas de Vanessa por padrão.",
+				"contributor": "Xenon"
+			}
+		},
+		{
+			"fighter_id": "TUNG_FU_RUE",
+			"weapon_awakened": {
+				"name": "Master Belt Soul",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "SHUN_EI",
+			"weapon_awakened": {
+				"name": "Customized Headphones",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "CLONE_ZERO",
+			"weapon_awakened": {
+				"name": "Charged Cannon",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "NIGHTMARE_GEESE",
+			"weapon_awakened": {
+				"name": "Nightmare Gloves",
+				"description": "Attack enemy fighter with lowest HP, absorb target's <font color='#FFA726'>25%</font> ATK and DEF and <font color='#FFA726'>300</font> rage; deal 30% extra DMG on surrounding fighters, which does not recover rage; if the main target is not killed, target enters nightmare state (DMG rate reduces by 50% upon first attack, get Crit when attacked for the first time. Lasts for 1 round)",
+				"description_es": "Ataque al enemigo con el HP más bajo, absorbe el <font color = '# FFA726'> 25% </font> ATK y DEF del objetivo y <font color = '# FFA726'> 300 </font> de rage; reparte 30% de DAÑO extra en los luchadores de alrededor, los que no recuperan rage; si el objetivo principal no es asesinado, el objetivo entra en el estado de pesadilla (el DMG rate se reduce en un 50% en el primer ataque, recibe Crit cuando es atacado por primera vez. Dura 1 turno)",
+				"description_pt": "",
+				"contributor": "Jonathan Cindy & (Henry0422 server 43)"
+			}
+		},
+		{
+			"fighter_id": "JHUN_HOON",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "CATTY_LEONA",
+			"weapon_awakened": {
+				"name": "Catty Claw Soul",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": ""
+			}
+		},
+		{
+			"fighter_id": "SHION",
+			"weapon_awakened": {
+				"name": "Unavailable",
+				"description": "Unavailable",
+				"description_es": "Unavailable",
+				"description_pt": "Unavailable",
+				"contributor": "Unavailable"
+			}
+		},
+		{
+			"fighter_id": "SHEEN_WOO",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "HINAKO",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "LEONA_XIII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "LIN",
+			"weapon_awakened": {
+				"name": "Unavailable",
+				"description": "Unavailable",
+				"description_es": "Unavailable",
+				"description_pt": "Unavailable",
+				"contributor": "Unavailable"
+			}
+		},
+		{
+			"fighter_id": "RAMON",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "OSWALD",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "DUO_LON",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "SETH",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "ROBERT_XIII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "ATHENA_XIII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "RALF_XIII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "CLARK_XIII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "KENSOU_XII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "MAI_NEW",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "VICE_XIII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "MIZUCHI",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "NAKORURU RASETSU",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		}
+	]
+}
