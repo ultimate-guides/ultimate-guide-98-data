@@ -21,4 +21,4 @@ Facebook Fan Page - https://www.facebook.com/UgKof98/
 Discord - https://discord.gg/mvC8R7p
 
 ### Donate
-<a href="https://www.buymeacoffee.com/ug98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'G2G11VE3M');kofiwidget2.draw();</script> 
