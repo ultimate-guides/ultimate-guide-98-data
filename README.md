@@ -4,7 +4,7 @@ Issue repository for Ultimate Guide 98 APP (Android/iOS).
 
 ## Purpose
 
-The purpose of this page is to act as an issue / feature tracker. No source is available here. You can also modify all the data from the APP, like descriptions, anyone can contribute to improve the app.
+The purpose of this page is to act as an issue / feature tracker. No source is available here. You can also modify all the data from the jsons folder, like descriptions, anyone can contribute to improve the app.
 
 ## How To
 
