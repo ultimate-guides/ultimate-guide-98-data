@@ -17,3 +17,8 @@ Be as detailed as you can and provide screenshots and any logs you may be able t
 ### Resources
 
 Facebook Fan Page - https://www.facebook.com/UgKof98/
+
+Discord - https://discord.gg/mvC8R7p
+
+### Donate
+<a href="https://www.buymeacoffee.com/ug98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
