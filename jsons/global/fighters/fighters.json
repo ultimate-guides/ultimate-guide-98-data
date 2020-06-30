@@ -1,1324 +1,1434 @@
 {
-	"fighters": [
+	"global_fighters": [
 		{
 			"fighter_id": "KYO",
+			"fightsoul_id": "TIGER",
 			"name": "Kyo",
 			"chinese_name": "草薙京",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "BENIMARU",
+			"fightsoul_id": "SNAKE",
 			"name": "Benimaru",
 			"chinese_name": "红丸",
 			"api": 12,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "DAIMON",
+			"fightsoul_id": "TURTLE",
 			"name": "Daimon",
 			"chinese_name": "大门五郎",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "TERRY",
+			"fightsoul_id": "SNAKE",
 			"name": "Terry",
 			"chinese_name": "特瑞",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ANDY",
+			"fightsoul_id": "SNAKE",
 			"name": "Andy",
 			"chinese_name": "安迪",
 			"api": 12,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "JOE",
+			"fightsoul_id": "TURTLE",
 			"name": "Joe",
 			"chinese_name": "东丈",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "RYO",
+			"fightsoul_id": "TURTLE",
 			"name": "Ryo",
 			"chinese_name": "坂崎良",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "ROBERT",
+			"fightsoul_id": "BEAR",
 			"name": "Robert",
 			"chinese_name": "罗伯特",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "YURI",
+			"fightsoul_id": "SNAKE",
 			"name": "Yuri",
 			"chinese_name": "坂崎百合",
 			"api": 12,
 			"type_id": "DPS",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "KARATE",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "RALF",
+			"fightsoul_id": "TURTLE",
 			"name": "Ralf",
 			"chinese_name": "拉尔夫",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "LEONA",
+			"fightsoul_id": "SNAKE",
 			"name": "Leona",
 			"chinese_name": "莉安娜",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "CLARK",
+			"fightsoul_id": "BEAR",
 			"name": "Clark",
 			"chinese_name": "克拉克",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ATHENA",
+			"fightsoul_id": "TIGER",
 			"name": "Athena",
 			"chinese_name": "麻宫雅典娜",
 			"api": 12,
 			"type_id": "GANK",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "KENSOU",
+			"fightsoul_id": "TURTLE",
 			"name": "Kensou",
 			"chinese_name": "椎拳崇",
 			"api": 12,
 			"type_id": "GANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "CHIN",
+			"fightsoul_id": "BEAR",
 			"name": "Chin",
 			"chinese_name": "镇元斋",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "CHIZURU",
+			"fightsoul_id": "BEAR",
 			"name": "Chizuru",
 			"chinese_name": "神乐千鹤",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "MAI",
+			"fightsoul_id": "TIGER",
 			"name": "Mai",
 			"chinese_name": "不知火舞",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "KING",
+			"fightsoul_id": "BEAR",
 			"name": "King",
 			"chinese_name": "琼",
 			"api": 12,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "THAI",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "KIM",
+			"fightsoul_id": "TURTLE",
 			"name": "Kim",
 			"chinese_name": "金",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "CHANG",
+			"fightsoul_id": "TURTLE",
 			"name": "Chang Koehan",
 			"chinese_name": "陈国汉",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "CHOI",
+			"fightsoul_id": "BEAR",
 			"name": "Choi Bounge",
 			"chinese_name": "蔡宝奇",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "CHRIS",
+			"fightsoul_id": "BEAR",
 			"name": "Chris",
 			"chinese_name": "克里斯",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "YASHIRO",
+			"fightsoul_id": "TURTLE",
 			"name": "Yashiro Nanakase",
 			"chinese_name": "七枷社",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SHERMIE",
+			"fightsoul_id": "SNAKE",
 			"name": "Shermie",
 			"chinese_name": "夏尔美",
 			"api": 12,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "YAMAZAKI",
+			"fightsoul_id": "TURTLE",
 			"name": "Ryuji Yamazaki",
 			"chinese_name": "山崎龙二",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "BLUE_MARY",
+			"fightsoul_id": "BEAR",
 			"name": "Blue Mary",
 			"chinese_name": "玛丽",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "BILLY",
+			"fightsoul_id": "TURTLE",
 			"name": "Billy Kane",
 			"chinese_name": "比利",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "IORI",
+			"fightsoul_id": "BEAR",
 			"name": "Iori Yagami",
 			"chinese_name": "八神庵",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "MATURE",
+			"fightsoul_id": "BEAR",
 			"name": "Mature",
 			"chinese_name": "麦卓",
 			"api": 12,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "VICE",
+			"fightsoul_id": "BEAR",
 			"name": "Vice",
 			"chinese_name": "薇丝",
 			"api": 12,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "HEIDERN",
+			"fightsoul_id": "SNAKE",
 			"name": "Heidern",
 			"chinese_name": "哈迪兰",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SAISYU",
+			"fightsoul_id": "BEAR",
 			"name": "Saisyu Kusanagi",
 			"chinese_name": "草薙柴舟",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "TAKUMA",
+			"fightsoul_id": "BEAR",
 			"name": "Takuma Sakazaki",
 			"chinese_name": "坂崎琢磨",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "HEAVY_D",
+			"fightsoul_id": "TIGER",
 			"name": "Heavy D",
 			"chinese_name": "哈维D",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "LUCKY",
+			"fightsoul_id": "SNAKE",
 			"name": "Lucky Glauber",
 			"chinese_name": "洛奇",
 			"api": 12,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "BRIAN",
+			"fightsoul_id": "TURTLE",
 			"name": "Brian Battler",
 			"chinese_name": "布赖恩",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "EIJI",
+			"fightsoul_id": "SNAKE",
 			"name": "Eiji Kisaragi",
 			"chinese_name": "如月影二",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "KASUMI",
+			"fightsoul_id": "TURTLE",
 			"name": "Kasumi Todoh",
 			"chinese_name": "藤堂香澄",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SHINGO",
+			"fightsoul_id": "SNAKE",
 			"name": "Shingo Yabuki",
 			"chinese_name": "矢吹真吾",
 			"api": 12,
 			"type_id": "TANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "OROCHI",
+			"fightsoul_id": "BEAR",
 			"name": "Orochi",
 			"chinese_name": "大蛇",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "MANA",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "RUGAL",
+			"fightsoul_id": "TURTLE",
 			"name": "Rugal Bernstein",
 			"chinese_name": "卢卡尔",
 			"api": 14,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "GOENITZ",
+			"fightsoul_id": "BEAR",
 			"name": "Goenitz",
 			"chinese_name": "高尼茨",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "K",
+			"fightsoul_id": "TIGER",
 			"name": "K'",
 			"chinese_name": "K'",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "MAXIMA",
+			"fightsoul_id": "TURTLE",
 			"name": "Maxima",
 			"chinese_name": "马克西马",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "WHIP",
+			"fightsoul_id": "SNAKE",
 			"name": "Whip",
 			"chinese_name": "薇普",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "KULA",
+			"fightsoul_id": "TIGER",
 			"name": "Kula Diamond",
 			"chinese_name": "库拉",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "FOXY",
+			"fightsoul_id": "SNAKE",
 			"name": "Foxy",
 			"chinese_name": "霍斯",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ANGEL",
+			"fightsoul_id": "SNAKE",
 			"name": "Angel",
 			"chinese_name": "安琪儿",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "IGNIZ",
+			"fightsoul_id": "SPACE",
 			"name": "Igniz",
 			"chinese_name": "伊格尼兹",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "MANA",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "KRIZALID",
+			"fightsoul_id": "SNAKE",
 			"name": "Krizalid",
 			"chinese_name": "古利查力度",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ZERO",
+			"fightsoul_id": "TURTLE",
 			"name": "Zero",
 			"chinese_name": "真ZERO",
 			"api": 14,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "GEESE",
+			"fightsoul_id": "SNAKE",
 			"name": "Geese Howard",
 			"chinese_name": "吉斯",
 			"api": 14,
 			"type_id": "TANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "KRAUSER",
+			"fightsoul_id": "BEAR",
 			"name": "Wolfgang Krauser",
 			"chinese_name": "克劳萨",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MR_BIG",
+			"fightsoul_id": "TIGER",
 			"name": "Mr Big",
 			"chinese_name": "Mr Big",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "BAO",
+			"fightsoul_id": "TURTLE",
 			"name": "Bao",
 			"chinese_name": "包",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "NAMELESS",
+			"fightsoul_id": "TURTLE",
 			"name": "Nameless",
 			"chinese_name": "无名",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MOMOKO",
+			"fightsoul_id": "SNAKE",
 			"name": "Momoko",
 			"chinese_name": "桃子",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ASH",
+			"fightsoul_id": "SNAKE",
 			"name": "Ash Crimson",
 			"chinese_name": "阿修",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ELISABETH",
+			"fightsoul_id": "TIGER",
 			"name": "Elisabeth Blanctorche",
 			"chinese_name": "伊丽莎白",
 			"api": 15,
 			"type_id": "TANK",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "NAKORURU",
+			"fightsoul_id": "BEAR",
 			"name": "Nakoruru",
 			"chinese_name": "娜可露露",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "KARATE",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "HAOHMARU",
+			"fightsoul_id": "TURTLE",
 			"name": "Haohmaru",
 			"chinese_name": "霸王丸",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "UKYO",
+			"fightsoul_id": "SNAKE",
 			"name": "Ukyo Tachibana",
 			"chinese_name": "橘右京",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MUKAI",
+			"fightsoul_id": "TIGER",
 			"name": "Mukai",
 			"chinese_name": "无界",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MAGAKI",
+			"fightsoul_id": "BEAR",
 			"name": "Magaki",
 			"chinese_name": "祸忌",
 			"api": 15,
 			"type_id": "TANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SAIKI",
+			"fightsoul_id": "SNAKE",
 			"name": "Saiki",
 			"chinese_name": "斋祀",
 			"api": 15,
 			"type_id": "TANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ADELHEID",
+			"fightsoul_id": "BEAR",
 			"name": "Adelheid Bernstein",
 			"chinese_name": "阿迪尔海德",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MAY_LEE",
+			"fightsoul_id": "TIGER",
 			"name": "May Lee",
 			"chinese_name": "李珍珠",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "KICK",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "XIANGFEI",
+			"fightsoul_id": "BEAR",
 			"name": "Li Xiangfei",
 			"chinese_name": "香绯",
 			"api": 14,
 			"type_id": "TANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "INSTINCT_IORI",
+			"fightsoul_id": "SPACE",
 			"name": "Instinct Iori",
 			"chinese_name": "本能八神庵",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "FLAME_KYO",
+			"fightsoul_id": "SPACE",
 			"name": "Flame Kyo",
 			"chinese_name": "火炎祓濯草薙京",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "KYO_NESTS",
+			"fightsoul_id": "TIGER",
 			"name": "Kyo Nests",
 			"chinese_name": "草薙京NESTS",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FLAME",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "BENIMARU_2003",
+			"fightsoul_id": "BEAR",
 			"name": "Benimaru 2003",
 			"chinese_name": "红丸2003",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "TERRY_2003",
+			"fightsoul_id": "TIGER",
 			"name": "Terry 2003",
 			"chinese_name": "特瑞2003",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "NEW_MR_KARATE",
+			"fightsoul_id": "SNAKE",
 			"name": "New Mr Karate",
 			"chinese_name": "二代空手先生",
 			"api": 14,
 			"type_id": "TANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ROBERT_2002_UM",
+			"fightsoul_id": "TIGER",
 			"name": "Robert 2002 UM",
 			"chinese_name": "罗伯特2002UM",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "OROCHI_LEONA",
+			"fightsoul_id": "SNAKE",
 			"name": "Orochi Leona",
 			"chinese_name": "觉醒莉安娜",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "OROCHI_CHRIS",
+			"fightsoul_id": "BEAR",
 			"name": "Orochi Chris",
 			"chinese_name": "炎之克里斯",
 			"api": 13,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "OROCHI_SHERMIE",
+			"fightsoul_id": "BEAR",
 			"name": "Orochi Shermie",
 			"chinese_name": "雷之夏尔美",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "OROCHI_YASHIRO",
+			"fightsoul_id": "TURTLE",
 			"name": "Orochi Yashiro",
 			"chinese_name": "大地七枷社",
 			"api": 13,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 1
 		},
 		{
 			"fighter_id": "CRAZY_IORI",
+			"fightsoul_id": "BEAR",
 			"name": "Crazy Iori",
 			"chinese_name": "暴走八神庵",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "OMEGA_RUGAL",
+			"fightsoul_id": "TURTLE",
 			"name": "Omega Rugal",
 			"chinese_name": "欧米伽 · 卢卡尔",
 			"api": 15,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "GOENIKO",
+			"fightsoul_id": "SNAKE",
 			"name": "Goeniko",
 			"chinese_name": "高尼茨（女",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
 			"badge_id": "OROCHI",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MR_KARATE",
+			"fightsoul_id": "TURTLE",
 			"name": "Mr Karate",
 			"chinese_name": "空手先生",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ATHENA_2002_UM",
+			"fightsoul_id": "SNAKE",
 			"name": "Athena 2002 UM",
 			"chinese_name": "雅典娜2002UM",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MAKI_KAGURA",
+			"fightsoul_id": "BEAR",
 			"name": "Maki Kagura",
 			"chinese_name": "神乐万龟",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "VANESSA",
+			"fightsoul_id": "TURTLE",
 			"name": "Vanessa",
 			"chinese_name": "温妮莎",
 			"api": 14,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "TUNG_FU_RUE",
+			"fightsoul_id": "TURTLE",
 			"name": "Tung Fu Rue",
 			"chinese_name": "唐福禄",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SHUN_EI",
+			"fightsoul_id": "TIGER",
 			"name": "Shun'ei",
 			"chinese_name": "瞬影",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "DAZZLING",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "CLONE_ZERO",
+			"fightsoul_id": "TIGER",
 			"name": "Clone Zero",
 			"chinese_name": "克隆ZERO",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "NIGHTMARE_GEESE",
+			"fightsoul_id": "BEAR",
 			"name": "Nightmare Geese",
 			"chinese_name": "噩梦吉斯",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
 			"badge_id": "EARTH",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "JHUN_HOON",
+			"fightsoul_id": "SNAKE",
 			"name": "Jhun Hoon",
 			"chinese_name": "全勋",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "GALE",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "CATTY_LEONA",
+			"fightsoul_id": "SNAKE",
 			"name": "Catty Leona",
 			"chinese_name": null,
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SHION",
+			"fightsoul_id": "TIGER",
 			"name": "Shion",
 			"chinese_name": "紫苑",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SHEEN_WOO",
+			"fightsoul_id": "TURTLE",
 			"name": "sheen woo",
 			"chinese_name": "神武",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "HINAKO",
+			"fightsoul_id": "TURTLE",
 			"name": "hinako Shijou",
 			"chinese_name": "四条雏子",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "LEONA_XIII",
+			"fightsoul_id": "BEAR",
 			"name": "leona xiii",
 			"chinese_name": "沉默兵士莉安娜",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "LIN",
+			"fightsoul_id": "SNAKE",
 			"name": "lin",
 			"chinese_name": "麟",
 			"api": 14,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "RAMON",
+			"fightsoul_id": "SNAKE",
 			"name": "ramon",
 			"chinese_name": "罗蒙",
 			"api": 13,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "OSWALD",
+			"fightsoul_id": "TURTLE",
 			"name": "oswald",
 			"chinese_name": "奥斯瓦尔德",
 			"api": 15,
 			"type_id": "TANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "DUO_LON",
+			"fightsoul_id": "SNAKE",
 			"name": "duo lon",
 			"chinese_name": "堕珑",
 			"api": 15,
 			"type_id": "TANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "SETH",
+			"fightsoul_id": "TURTLE",
 			"name": "seth",
 			"chinese_name": "赛斯",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ROBERT_XIII",
+			"fightsoul_id": "SNAKE",
 			"name": "robert xiii",
 			"chinese_name": "罗伯特XI",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "ATHENA_XIII",
+			"fightsoul_id": "TURTLE",
 			"name": "athena xiii",
 			"chinese_name": "超能偶像雅典娜",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "RALF_XIII",
+			"fightsoul_id": "BEAR",
 			"name": "ralf xiii",
 			"chinese_name": "一人军队拉尔夫",
 			"api": 15,
 			"type_id": "TANK",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "CLARK_XIII",
+			"fightsoul_id": "BEAR",
 			"name": "clark xiii",
 			"chinese_name": "强&酷克拉克",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "KENSOU_XII",
+			"fightsoul_id": "TIGER",
 			"name": "kensou xii",
 			"chinese_name": "小龙飞天椎拳崇",
 			"api": 15,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MAI_NEW",
+			"fightsoul_id": "TIGER",
 			"name": "mai new",
 			"chinese_name": "魅 · 不知火舞",
 			"api": 14,
 			"type_id": "DPS",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "VICE XIII",
+			"fightsoul_id": "TIGER",
 			"name": "vice xiii",
 			"chinese_name": "死亡微笑薇丝",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "MIZUCHI",
+			"fightsoul_id": "SPACE",
 			"name": "mizuchi",
 			"chinese_name": "蛟",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 0,
+			"striker": 0
 		},
 		{
 			"fighter_id": "NAKORURU_RASETSU",
+			"fightsoul_id": "TIGER",
 			"name": "nakoruru rasetsu",
 			"chinese_name": "罗刹娜可露露",
 			"api": 15,
 			"type_id": "GANK",
-			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 1
+			"status": 1,
+			"striker": 0
 		}
 	]
 }
