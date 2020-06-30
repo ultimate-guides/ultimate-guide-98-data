@@ -20,5 +20,9 @@ Facebook Fan Page - https://www.facebook.com/UgKof98/
 
 Discord - https://discord.gg/mvC8R7p
 
+## Is it awesome?
+
+Twitter - https://twitter.com/98_guide
+
 ### Donate
 <a href='https://ko-fi.com/G2G11VE3M' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
