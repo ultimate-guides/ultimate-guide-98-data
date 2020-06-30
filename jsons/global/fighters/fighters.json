@@ -9,7 +9,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "BENIMARU",
@@ -20,7 +21,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "DAIMON",
@@ -31,7 +33,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "TERRY",
@@ -42,7 +45,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "ANDY",
@@ -53,7 +57,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "JOE",
@@ -64,7 +69,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "RYO",
@@ -75,7 +81,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "ROBERT",
@@ -86,7 +93,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "YURI",
@@ -97,7 +105,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "KARATE",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "RALF",
@@ -108,7 +117,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "LEONA",
@@ -119,7 +129,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "CLARK",
@@ -130,7 +141,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "ATHENA",
@@ -141,7 +153,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "KENSOU",
@@ -152,7 +165,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "CHIN",
@@ -163,7 +177,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "CHIZURU",
@@ -174,7 +189,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "MAI",
@@ -185,7 +201,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "KING",
@@ -196,7 +213,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "THAI",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "KIM",
@@ -207,7 +225,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "CHANG",
@@ -218,7 +237,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "CHOI",
@@ -229,7 +249,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "CHRIS",
@@ -240,7 +261,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "YASHIRO",
@@ -251,7 +273,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "SHERMIE",
@@ -262,7 +285,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "YAMAZAKI",
@@ -273,7 +297,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "BLUE_MARY",
@@ -284,7 +309,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "BILLY",
@@ -295,7 +321,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "IORI",
@@ -306,7 +333,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "MATURE",
@@ -317,7 +345,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "VICE",
@@ -328,7 +357,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "HEIDERN",
@@ -339,7 +369,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "SAISYU",
@@ -350,7 +381,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "TAKUMA",
@@ -361,7 +393,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "HEAVY_D",
@@ -372,7 +405,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "LUCKY",
@@ -383,7 +417,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "BRIAN",
@@ -394,7 +429,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "EIJI",
@@ -405,7 +441,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "KASUMI",
@@ -416,7 +453,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "SHINGO",
@@ -427,7 +465,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "OROCHI",
@@ -438,7 +477,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "MANA",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "RUGAL",
@@ -449,7 +489,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "GOENITZ",
@@ -460,7 +501,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "K",
@@ -471,7 +513,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "MAXIMA",
@@ -482,7 +525,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "WHIP",
@@ -493,7 +537,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "KULA",
@@ -504,7 +549,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "FOXY",
@@ -515,7 +561,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "ANGEL",
@@ -526,7 +573,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "IGNIZ",
@@ -537,7 +585,8 @@
 			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "MANA",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "KRIZALID",
@@ -548,7 +597,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "ZERO",
@@ -559,7 +609,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "GEESE",
@@ -570,7 +621,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "KRAUSER",
@@ -581,7 +633,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "MR_BIG",
@@ -592,7 +645,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "BAO",
@@ -603,7 +657,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "NAMELESS",
@@ -614,7 +669,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "MOMOKO",
@@ -625,7 +681,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "ASH",
@@ -636,7 +693,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "ELISABETH",
@@ -647,7 +705,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "NAKORURU",
@@ -658,7 +717,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "KARATE",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "HAOHMARU",
@@ -669,7 +729,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "UKYO",
@@ -680,7 +741,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "MUKAI",
@@ -691,7 +753,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "MAGAKI",
@@ -702,7 +765,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "SAIKI",
@@ -713,7 +777,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "ADELHEID",
@@ -724,7 +789,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "MAY_LEE",
@@ -735,7 +801,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "KICK",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "XIANGFEI",
@@ -746,7 +813,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "INSTINCT_IORI",
@@ -757,7 +825,8 @@
 			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "FLAME_KYO",
@@ -768,7 +837,8 @@
 			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "KYO_NESTS",
@@ -779,7 +849,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "FLAME"
+			"badge_id": "FLAME",
+			"status": 0
 		},
 		{
 			"fighter_id": "BENIMARU_2003",
@@ -790,7 +861,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "TERRY_2003",
@@ -801,7 +873,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "NEW_MR_KARATE",
@@ -812,7 +885,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "ROBERT_2002_UM",
@@ -823,7 +897,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "OROCHI_LEONA",
@@ -834,7 +909,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "OROCHI_CHRIS",
@@ -845,7 +921,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "OROCHI_SHERMIE",
@@ -856,7 +933,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "OROCHI_YASHIRO",
@@ -867,7 +945,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "CRAZY_IORI",
@@ -878,7 +957,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "SCORCHING",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "OMEGA_RUGAL",
@@ -889,7 +969,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "GOENIKO",
@@ -900,7 +981,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
-			"badge_id": "OROCHI"
+			"badge_id": "OROCHI",
+			"status": 0
 		},
 		{
 			"fighter_id": "MR_KARATE",
@@ -911,7 +993,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "ATHENA_2002_UM",
@@ -922,7 +1005,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "SUPER",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "MAKI_KAGURA",
@@ -933,7 +1017,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "VANESSA",
@@ -944,7 +1029,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "MANA",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "TUNG_FU_RUE",
@@ -955,7 +1041,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "THAI",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "SHUN_EI",
@@ -966,7 +1053,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
-			"badge_id": "DAZZLING"
+			"badge_id": "DAZZLING",
+			"status": 0
 		},
 		{
 			"fighter_id": "CLONE_ZERO",
@@ -977,7 +1065,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "NIGHTMARE_GEESE",
@@ -988,7 +1077,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "KARATE",
-			"badge_id": "EARTH"
+			"badge_id": "EARTH",
+			"status": 0
 		},
 		{
 			"fighter_id": "JHUN_HOON",
@@ -999,7 +1089,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "KICK",
-			"badge_id": "GALE"
+			"badge_id": "GALE",
+			"status": 0
 		},
 		{
 			"fighter_id": "CATTY_LEONA",
@@ -1010,7 +1101,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "SHION",
@@ -1021,7 +1113,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "SHEEN_WOO",
@@ -1032,7 +1125,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "HINAKO",
@@ -1043,7 +1137,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "LEONA_XIII",
@@ -1054,7 +1149,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "LIN",
@@ -1065,7 +1161,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "RAMON",
@@ -1076,7 +1173,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "OSWALD",
@@ -1087,7 +1185,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "DUO_LON",
@@ -1098,7 +1197,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "SETH",
@@ -1109,7 +1209,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "ROBERT_XIII",
@@ -1120,7 +1221,8 @@
 			"fightsoul_id": "SNAKE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "ATHENA_XIII",
@@ -1131,7 +1233,8 @@
 			"fightsoul_id": "TURTLE",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "RALF_XIII",
@@ -1142,7 +1245,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 0
 		},
 		{
 			"fighter_id": "CLARK_XIII",
@@ -1153,7 +1257,8 @@
 			"fightsoul_id": "BEAR",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "KENSOU_XII",
@@ -1164,7 +1269,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "MAI_NEW",
@@ -1175,7 +1281,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "VICE XIII",
@@ -1186,7 +1293,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "MIZUCHI",
@@ -1197,7 +1305,8 @@
 			"fightsoul_id": "SPACE",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		},
 		{
 			"fighter_id": "NAKORURU_RASETSU",
@@ -1208,7 +1317,8 @@
 			"fightsoul_id": "TIGER",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY"
+			"badge_id": "BEAUTY",
+			"status": 1
 		}
 	]
 }
