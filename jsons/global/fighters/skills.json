@@ -2992,7 +2992,7 @@
 			"skills": [
 				{
 					"name": null,
-					"description": null,
+					"description": "Attack a single enemy, attack the target with \"Explosive Gunpowder" first; decrease the target's DEF by 50% and Res Rate by 20% for 2 rounds; decrease the target's Rage by 200, and adds an extra layer of "Explosive Gunpowder" to the target; restore the same amount of Rage as the target's Rage decreased. The Rage decreasing effect of this attack won't be intensified through combo, besides, this effect won't cause Crit Hit and won't be blocked.",
 					"description_es": null,
 					"description_pt": null
 				},
