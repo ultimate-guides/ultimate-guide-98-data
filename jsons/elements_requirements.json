@@ -1,0 +1,100 @@
+{
+	"elements_requirements": [
+		{
+			"name": "heaven",
+			"requirement_1": "Fighter ?'s Quality reaches %c",
+			"requirement_2": "Fighter ?'s  Star reaches %s",
+			"requirement_3": "Fighter ?'s Total levels of FightSoul reach %l",
+			"requirement_1_es": "Peleador ? Cualidad alcanzada %c",
+			"requirement_2_es": "Peleador ? estrellas alcanzadas %s",
+			"requirement_3_es": "Peleador ? Nivel total de FightSoul alcanzado %l",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar A Qualidade %c",
+			"requirement_2_pt": "Lutador ?\\'s Alcançar A Estrela %s",
+			"requirement_3_pt": "Lutador ?\\'s Alcançar Niveis Totais De Fightsoul %l"
+		},
+		{
+			"name": "lake",
+			"requirement_1": "Fighter ?'s Heaven element Reach %l Stars",
+			"requirement_2": "Fighter ?'s  Total of all equipment reach %level",
+			"requirement_3": "Esoteric Chain all unlocked and embedded, Esoteric Junior,Senior,Super total level >= %level",
+			"requirement_1_es": "Peleador ? elemento cielo %l estrellas alcanzadas",
+			"requirement_2_es": "Peleador ? equipo total alcanzado %level",
+			"requirement_3_es": "Cadena esotérica, todo desbloqueado e incrustado, Esoteric Junior, Senior, super nivel total >= %level",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar %level Estrelas No Elemento Céu",
+			"requirement_2_pt": "Lutador ?\\'s Alcançar Nivel Total De Equipamento %level",
+			"requirement_3_pt": "Cadeia Esotérica Desbloqueada e Incorporada, Júnior Esotérica, Sênior, Nível Superior Total = %level"
+		},
+		{
+			"name": "fire",
+			"requirement_1": "Fighter ?'s Lake element Reach %level Stars",
+			"requirement_2": "Fighter ?'s Quality reaches %color",
+			"requirement_3": "Fighter ?'s Total levels of FightSoul reach %level",
+			"requirement_1_es": "Peleador ? Elemento Lago %level estrellas alcanzadas",
+			"requirement_2_es": "Peleador ? Cualidad alcanzada %color",
+			"requirement_3_es": "Peleador ? Nivel total de FightSoul alcanzado %level",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar %level Estrelas No Elemento Lago",
+			"requirement_2_pt": "Lutador ?\\'s Alcançar Qualidade  %color",
+			"requirement_3_pt": "Lutador ?\\'s Alcançar Nivel Total De Fightsoul %level"
+		},
+		{
+			"name": "thunder",
+			"requirement_1": "Fighter ?'s Fire element Reach %level Stars",
+			"requirement_2": "Fighter ?'s Star reaches %level",
+			"requirement_3": "Fighter %partner1 , %partner2 , %partner3 's Reaches %color %level",
+			"requirement_1_es": "Peleador ? elemento Fuego %level estrellas alcanzadas",
+			"requirement_2_es": "Peleador ? %level estrellas alcanzadas",
+			"requirement_3_es": "Peleador %partner1 ,%partner2 , %partner3  %color %level alcanzado",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar %level Estrelas No Elemento Fogo",
+			"requirement_2_pt": "Lutador ?\\'s Alcançar %level Estrelas",
+			"requirement_3_pt": "Lutador %partner1, %partner2, %partner3 \\'s Alcançar %color %level"
+		},
+		{
+			"name": "wind",
+			"requirement_1": "Fighter ?'s Thunder element Reach %level Stars",
+			"requirement_2": "Fighter ?'s Quality reaches %color %level",
+			"requirement_3": "Fighter %partner1 , %partner2 , %partner3 's Lake element active",
+			"requirement_1_es": "Peleador ? elemento trueno %level estrellas alcanzadas",
+			"requirement_2_es": "Peleador ? Cualidad %color %level",
+			"requirement_3_es": "Peleador %partner1 , %partner2 , %partner3 elemento Lago activado",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar %level Estrelas No Elemento Trovão",
+			"requirement_2_pt": "Lutador ?\\'s Alcançar Qualidade %color %level",
+			"requirement_3_pt": "Lutador %partner1, %partner2, %partner3 \\'s Elemento Lago Ativo"
+		},
+		{
+			"name": "water",
+			"requirement_1": "Fighter ?'s wind element Reach %level Stars",
+			"requirement_2": "Esoteric Chain all unlocked and embedded, Esoteric Junior,Senior,Super collected is above %color",
+			"requirement_3": "Esoteric Chain all unlocked and embedded, Esoteric Junior,Senior,Super total level >= %level",
+			"requirement_1_es": "Peleador ? elemento viento %level estrellas alcanzadas",
+			"requirement_2_es": "Cadena esotérica, todo desbloqueado e incrustado, Esoteric Junior, Senior obtenida arriba de %color",
+			"requirement_3_es": "Cadena esotérica, todo desbloqueado e incrustado, Esoteric Junior, Senior, super nivel total >= %level",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar %level Estrelas No Elemento Vento",
+			"requirement_2_pt": "Cadeia Esotérica toda desbloqueada e incorporada, Esotérica Júnior, Sênior, Super Está coletada acima %color",
+			"requirement_3_pt": "Cadeia Esotérica desbloqueada e incorporada, Esotérica Júnior, Sênior, Nível super total>= %level"
+		},
+		{
+			"name": "rock",
+			"requirement_1": "Fighter ?'s Water element Reach %level Stars",
+			"requirement_2": "Fighter ?'s  Total of all equipment reach %level",
+			"requirement_3": "Fighter ? Quality reaches %color %level",
+			"requirement_1_es": "Peleador ? elemento Agua %level estrellas alcanzadas",
+			"requirement_2_es": "Peleador ? equipo total alcanzado %level",
+			"requirement_3_es": "Peleador ? Cualidad %color %level alcanzada",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar %level Estrelas No Elemento Água",
+			"requirement_2_pt": "Lutador ?\\'s Alcançar Nivel Total De Equipamento %level",
+			"requirement_3_pt": "Lutador ?\\'s Alcançar Qualidade %color %level"
+		},
+		{
+			"name": "earth",
+			"requirement_1": "Fighter ?'s Rock element Reach %level Stars",
+			"requirement_2": "Esoteric Chain all unlocked and embedded, Esoteric Junior,Senior,Super collected is above %color",
+			"requirement_3": "Fighter %partner1 , %partner2 , %partner3 's Wind element active",
+			"requirement_1_es": "Peleador ? elemento Roca %level estrellas alcanzadas",
+			"requirement_2_es": "Cadena esotérica, todo desbloqueado e incrustado, Esoteric Junior, Senior obtenida arriba de %color",
+			"requirement_3_es": "Peleador %partner1 , %partner2 , %partner3 's elemento viento activado",
+			"requirement_1_pt": "Lutador ?\\'s Alcançar %level Estrelas No Elemento Pedra",
+			"requirement_2_pt": "Cadeia Esotérica toda desbloqueada e incorporada, Esotérica Júnior, Sênior, Super coletada está acima %color",
+			"requirement_3_pt": "Lutador %partner1, %partner2, %partner3 \\'s Elemento Vento Ativo"
+		}
+	]
+}
