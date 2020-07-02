@@ -1,9 +1,7 @@
 {
-	"skills": [
-		{
+	"skills": [{
 			"fighter_id": "KYO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Fire Ball",
 					"description": "Make use of Kusanagi's bloodline to conjure up scorching flames, then strikes a single enemy with great combos with burning. Also cause burning damage for 2 rounds.",
 					"description_es": "Hace uso del linaje de la sangre Kusanagi para conjurar abrasadoras llamas, luego ataca a un solo objetivo único con gran combinación en llamas. Ademas causa efecto quemadura por 2 rondas.",
@@ -31,8 +29,7 @@
 		},
 		{
 			"fighter_id": "BENIMARU",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Lightning Fist",
 					"description": "Wields thunder to strike a single enemy, causing DMG with a 15% chance to paralyze the enemy.",
 					"description_es": "Utiliza un trueno para golpear a un solo enemigo, con una probabilidad de paralizar al enemigo del 15%.",
@@ -60,8 +57,7 @@
 		},
 		{
 			"fighter_id": "DAIMON",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Mine Layer",
 					"description": "Diamon strikes the ground, forcing enemies to fall down. Strikes a single enemy, with 14% chance to stun the enemy.",
 					"description_es": "Daimon golpea el piso, provocando que los enemigos se caigan. Golpea un solo enemigo con una probabilidad del 14% de aturdirlo.",
@@ -89,8 +85,7 @@
 		},
 		{
 			"fighter_id": "TERRY",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Crack Shot",
 					"description": "Strikes a single enemy quickly with 30% chance to reduce all enemies' ATK.",
 					"description_es": "Ataca a un solo enemigo con una probabilidad del 30% de reducir el Ataque (ATK) de todos los enemigos.",
@@ -118,8 +113,7 @@
 		},
 		{
 			"fighter_id": "ANDY",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Hisho Ken",
 					"description": "A trademark skill of Eight-Extreme Boxing. Concentrates energy in your hand and then strikes a single enemy. Increases the rear allies' 20% Pierce Rate and the front allies' 20% Anti-Crit.",
 					"description_es": "Una habilidad de marca Eight-Extreme Boxing. Concentra energía en tu mano y luego ataca a un único enemigo. Aumenta la tasa de perforación en 20% de los aliados de la línea trasera y aumenta el Anti-Crit en 20% a los aliados de la línea frontal.",
@@ -147,8 +141,7 @@
 		},
 		{
 			"fighter_id": "JOE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Hurricane Upper",
 					"description": "Joe swings fists very quickly to generate a strong wind, Strikes a single enemy with increasing 40% allies' TANK Fighters Block Power",
 					"description_es": "Joe balancea sus puños muy rápido para generar un fuerte viento. Ataca a un solo enemigo y aumenta la potencia de bloqueo de los aliados tipo TANK en 40%.",
@@ -176,8 +169,7 @@
 		},
 		{
 			"fighter_id": "RYO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Wild Tiget Blast",
 					"description": "Jumps to a single enemy as quick as a fierce tiger, and increases 20% Block for the front allies.",
 					"description_es": "Salta a un único enemigo tan rápido como un tigre feroz, y aumenta 20% el bloqueo (Block) de los aliados frontales.",
@@ -205,8 +197,7 @@
 		},
 		{
 			"fighter_id": "ROBERT",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Great Dragon Flying Kick",
 					"description": "Concentrates strength in their feet, increases 30% Crit and then strikes a single enemy.",
 					"description_es": "Concentra la fuerza en su pie, golpea un enemigo e incrementa en 30% su Critico.",
@@ -234,8 +225,7 @@
 		},
 		{
 			"fighter_id": "YURI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Tiger Flame Punch",
 					"description": "The mini version of Haoh Shoko Ken, Strikes a single enemy and increases allies' male Fighters' crit.",
 					"description_es": "La version miniatura de Haoh Shoko Ken. Golpea a un solo enemigo y aumenta el Crítico de loas aliados masculinos.",
@@ -263,8 +253,7 @@
 		},
 		{
 			"fighter_id": "RALF",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Vulcan Punch",
 					"description": "Strikes a single enemy and increases front allies' 5% Res Rate.",
 					"description_es": "Golpea un solo enemigo y aumenta la tasa de resistencia (Res Rate)  de los aliados frontales en 5%.",
@@ -292,8 +281,7 @@
 		},
 		{
 			"fighter_id": "LEONA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Monn Slasher",
 					"description": "Strikes enemies and heals your Fighter with the least HP remaining.",
 					"description_es": "Golpea enemigos y cura a tu luchador con el menor de los Puntos de Vida (HP) restantes.",
@@ -321,8 +309,7 @@
 		},
 		{
 			"fighter_id": "CLARK",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Vulcan Punch",
 					"description": "Strikes a single target. Causes 60% more DMG if the target is a Gank Fighter.",
 					"description_es": "Golpea un solo objetivo. Causa 60% más de Daño (DMG) si el objetivo es un luchador tipo Gank.",
@@ -350,8 +337,7 @@
 		},
 		{
 			"fighter_id": "ATHENA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Psycho Reflector",
 					"description": "Uses psychic force to conjure up a spherical impact wave to strike a single enemy.",
 					"description_es": "Usa fuerza psíquica para evocar una onda esférica de impacto que golpea a un solo enemigo.",
@@ -379,8 +365,7 @@
 		},
 		{
 			"fighter_id": "KENSOU",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Dragon Barrage",
 					"description": "Keeps on striking a single enemy hard with their fists. Increases Crit Power by 60% and Crit by 40%.",
 					"description_es": "Continua golpeando fuertemente a un solo enemigo con sus puños. Aumenta la Potencia Crítica (Crit Power) en 60% y el Crítico (Crit) en 40%.",
@@ -408,8 +393,7 @@
 		},
 		{
 			"fighter_id": "CHIN",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Guard Attack",
 					"description": "Strikes a single enemy by a calabash, with 15% chance to stun the enemy.",
 					"description_es": "Golpea a un solo enemigo con una calabaza, con un 15% de probabilidad de aturdir al enemigo.",
@@ -437,8 +421,7 @@
 		},
 		{
 			"fighter_id": "CHIZURU",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Oracle's Decree",
 					"description": "Chiruzu can use Yata no Kagami's space twist force to conjure up several clones to strike a single enemy with 20% chance to silence the target.",
 					"description_es": "Chizuru puede usar la fuerza de torsión espacial de Yata no Kagami para conjurar varlios clones que golpean a un solo enemigo con un 20% de probabilidad de silenciar al objetivo.",
@@ -466,8 +449,7 @@
 		},
 		{
 			"fighter_id": "MAI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Snowy Heron Dance",
 					"description": "One of the stunts of the Shiranui Genre. Strikes a single  enemy and restores extra 100 Rage.",
 					"description_es": "Una de las acrobacias de Shiranui Genre. Golpea a un solo enemigo y recupera 100 de ira (Rage) extra,",
@@ -495,8 +477,7 @@
 		},
 		{
 			"fighter_id": "KING",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Double Strike",
 					"description": "Kicks out an energy wave, strikes a single enemy, with 20% Crit reducing and 20% chance to silence enemies.",
 					"description_es": "Patea una onda de energía, golpeando un solo enemigo, con una reducción de 20% de Crítico (Crit) y 20% de probabilidad de silenciar a los enemigos.",
@@ -524,8 +505,7 @@
 		},
 		{
 			"fighter_id": "KIM",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Flying Kick",
 					"description": "Jumps high and keeps on kicking, strikes a single enemy with 20% splash DMG against nearby enemies and increasing own and the behind Fighters 15% DEF.",
 					"description_es": "Salta alto y continua pateando, golpea a un solo enemigo con 20% de Daño (DMG) esparcido contra enemigos cercanos y aumenta en 15% la defensa de si mismo y el luchador detrás de él.",
@@ -553,8 +533,7 @@
 		},
 		{
 			"fighter_id": "CHANG",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Spining Iron Ball",
 					"description": "Chang quickly throws around the iron ball and strikes a single enemy. Extra 30% DMG for enemies 45% or less HP remaining.",
 					"description_es": "Chang lanza rápidamente alrededor la bola de hierro y golpea a un solo enemigo. Causa 30% de Daño (DMG) extra a los enemigos con 45 % o menos de Puntos de Vida (HP) restante.",
@@ -582,8 +561,7 @@
 		},
 		{
 			"fighter_id": "CHOI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Hurricane Cutter",
 					"description": "Choi rotates quickly to generate a whirlwind, strikes a single enemy with 20% chance to crit.",
 					"description_es": "Choi gira rápidamente para generar un torbellino, golpeando un solo enemigo con 20% de probabilidad de Crítico (Crit).",
@@ -611,8 +589,7 @@
 		},
 		{
 			"fighter_id": "CHRIS",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Sliding Touch",
 					"description": "Twist in air to attack enemies' crucial point to reduce target's 20% Anti-Crit and 80% Heal rate.",
 					"description_es": "Gira en el aire para atacar el punto crucial de los enemigos reduciendo el 20% de Anti-Crit y 80% la tasa de curación del objetivo.",
@@ -640,8 +617,7 @@
 		},
 		{
 			"fighter_id": "YASHIRO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Jet counter",
 					"description": "Strikes in enemies defense range with increasing 20% Block for 2 rounds. ",
 					"description_es": "Golpea en el rango de defensa de los enemigos con un aumento de 20% de Bloqueo (Block) por dos turnos.",
@@ -669,8 +645,7 @@
 		},
 		{
 			"fighter_id": "SHERMIE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Axle Spin Kick",
 					"description": "Uses Axle Spin Kick to strike a single enemy with silence effect to a female Fighter randomly for 1 round.",
 					"description_es": "Usa Axle Spin Kick para golpear un solo enemigo con efecto silenciador a un enemigo femenino aleatoreamente por un turno.",
@@ -698,8 +673,7 @@
 		},
 		{
 			"fighter_id": "YAMAZAKI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Snake Slash",
 					"description": "The incomplete version of Drill. Will be rampage after this skill, Yamazaki is going to be furious. Strikes a single enemy.",
 					"description_es": "La versión incompleta de Drill. Se altera después de ésta habilidad, Yamazaki se pone furiosa. Golpea a un solo enemigo.",
@@ -727,8 +701,7 @@
 		},
 		{
 			"fighter_id": "BLUE_MARY",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Vertical Arrow",
 					"description": "Mary uses great fighting skill to kick the target twice in succession and increase her own Block Power by 30%",
 					"description_es": "Mary utiliza sus habilidades en combate, dandole 2 patadas consecutivas al enemigo, aumenta su Block Power en 30%.",
@@ -756,8 +729,7 @@
 		},
 		{
 			"fighter_id": "BILLY",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Mid-section Club Cruncher",
 					"description": "Billy wields his long stick, strikes a single enemy with increasing allies' 6% Crit.",
 					"description_es": "Billy empuña si bastón largo, golpeando a un solo enemigo con un aumento de 6% en Crítico (Crit) a los aliados.",
@@ -785,8 +757,7 @@
 		},
 		{
 			"fighter_id": "IORI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Deadly Flower",
 					"description": "Iori's ancient martial art trick. Strikes a single enemy with heavy fists and feet with 15% chance to stun the enemy.",
 					"description_es": "Iori realiza sus trucos marciales antiguos, Golpea a un enemigo duramente con sus puños, y tien 15% de chance de Stun.",
@@ -814,8 +785,7 @@
 		},
 		{
 			"fighter_id": "MATURE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Ebony Tears",
 					"description": "Concentrates energy on a fingertip and hurls a powerful energy blade against a single enemy. Causes 20% more DMG for the enemy with 50% or more HP.",
 					"description_es": "Concentra energia en sus uñas y genera una poderosa cuchilla que corta a un enemigo, Causa 20% mas de daño , si el enemigo tiene mas del 50% de HP.",
@@ -843,8 +813,7 @@
 		},
 		{
 			"fighter_id": "VICE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Outrage",
 					"description": "Keeps on kicking very quickly, strikes a single enemy with the Cleave effect to own(Causes extra 20% DMG if the target has 45% or less HP remaining).",
 					"description_es": "Golpea a un enemigo con patadas fuera de control velozmente, gana el efecto CLEAVE (Causa 20% de daño extra si el objetivo tiene menos del 45% de HP).",
@@ -872,8 +841,7 @@
 		},
 		{
 			"fighter_id": "HEIDERN",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Moon Slasher",
 					"description": "Use special skills to strike a column Double DMG against TANK Fighters.",
 					"description_es": "Golpea una columna, doble de daño a Tankes.",
@@ -901,8 +869,7 @@
 		},
 		{
 			"fighter_id": "SAISYU",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Doubleshot Ecstasy",
 					"description": "Makes use of Kusanagi's bloodline to conjure up scorching flames, then strikes a single enemy with great combos with burning",
 					"description_es": "Hace uso del legado de la sangre Kusanagi y conjura flamas que golpean y queman.",
@@ -930,8 +897,7 @@
 		},
 		{
 			"fighter_id": "TAKUMA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Zanretsu Ken",
 					"description": "Keeps on striking an enemy with 10% chance to stun them.",
 					"description_es": "Golpea al enemigo con 10% de chance de STUN.",
@@ -959,8 +925,7 @@
 		},
 		{
 			"fighter_id": "HEAVY_D",
-			"skills": [
-				{
+			"skills": [{
 					"name": "R S D",
 					"description": "HEAVY.D strikes a single enemy to increase own 20% Crit(1 round). if Lucky is in battle, increase own DMG by 10%(2 rounds). If Brian is in battle, increase own Res Rate by 10% (2 rounds).",
 					"description_es": "Heavy D golpea a un enemigo e incrementa su Crit en 20% 1 turno, SI Lucky esta en batalla, incrementa su DMG en 10% 2 turnos, Si Brian esta en batalla, Incrementa su Res-Rate 10% por 2 turnos.",
@@ -988,8 +953,7 @@
 		},
 		{
 			"fighter_id": "LUCKY",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Death Dunk",
 					"description": "Throws the basketball at a single enemy, with 15% chance to stun. if Heavy D is present, will also increase own DMG rate by 10% (2 rounds. if Brian is present, will increase own Res rate by 10% (2 rounds))",
 					"description_es": "Tira la pelota y golpea al enemigo en la cabeza con 15% de chance de Stun, Si Heavy D esta presente, tambien incrementa su DMG en 10% por 2 turnos, Si, Brian esta presente incrementa 10% su Res Rate por 2 turnos.",
@@ -1017,8 +981,7 @@
 		},
 		{
 			"fighter_id": "BRIAN",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Double Hammer",
 					"description": "Brian uses brute force to hit the target, causing damage to a single enemy, restoring 10% own HP. if Heavy.D is present, will enhance own DMG rate by 10%( 2 rounds), if Lucky is present, will enhance own Res-Rate by 10% (2 rounds)",
 					"description_es": "Brian usa fuerza bruta para golpear al objetivo restaurando 10% de su HP, Si, Heavy D esta presente mejora su DMG en 10% por 2 turnos. Si Lucky esta presente, gana 10% de Res Rate por 2 turnos.",
@@ -1046,8 +1009,7 @@
 		},
 		{
 			"fighter_id": "EIJI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Shadow Attack",
 					"description": "Use Kisaragi Arts to strike a single enemy with 30% chance to transform into Billy or Crazy Iori to cast skills.",
 					"description_es": "Usa artes Kisaragi para golpear a un enemigo con 30% de chance de lanzar la skill de Crazy Iori o Billy.",
@@ -1075,8 +1037,7 @@
 		},
 		{
 			"fighter_id": "KASUMI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Ecstasy Crunch",
 					"description": "Combination of Aikido and Ancient Todoh Arts, strikes a single enemy to reduce 30% Rage restore speed.",
 					"description_es": "Una combinacion de Aikido y antiguas artes Todoh, golpea a un enemigo y reduce en 30% la velocidad de recuperacion de Rage.",
@@ -1104,8 +1065,7 @@
 		},
 		{
 			"fighter_id": "SHINGO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Unfinished Misery Fire Ball",
 					"description": "This Unfinished Misery Fire Ball cannot release a flame since there is no Kusanagi's bloodline, but it is still very powerful. Strikes a single enemy, causing DMG and reducing their Rage by 300.",
 					"description_es": "Una Tecnica incompleta que no puede liberar llamas porque no tiene sangre de legado Kusanagi. Golpea un enemigo y le reduce el Rage en 300.",
@@ -1133,8 +1093,7 @@
 		},
 		{
 			"fighter_id": "OROCHI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Black Projectile",
 					"description": "Kicks out an energy wave, strikes a single enemy with 20% chance to Stun. 60% more damage against TANKS.",
 					"description_es": "Arroja una onda de energia golpeando a un enemigo, con 20% de probabilidad de STUN y 60% de daño extra contra TANKS.",
@@ -1162,8 +1121,7 @@
 		},
 		{
 			"fighter_id": "RUGAL",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Kaiser Wave",
 					"description": "Strikes an enemy hard with 20% chance to stun the target, 60% more DMG if the enemy is a DPS fighter.",
 					"description_es": "Golpea a un enemigo con un 20% de chance de Stun. 60% de daño extra si el enemigo es un DPS.",
@@ -1191,8 +1149,7 @@
 		},
 		{
 			"fighter_id": "GOENITZ",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Glacier Arm Deform",
 					"description": "Strikes a single enemy by controlling the wind with 20% chance to Stun the target, 60% more DMG against GANK fighters and 50% chance to regenerate own Rage by 100.",
 					"description_es": "Golpea a un enemigo controlando el viento, con 20% de probabilidad de Stun al objetivo; 60% mas de daño contra GANKS y 50% de probabilidad de regenerar su propio Rage en 100. ",
@@ -1220,8 +1177,7 @@
 		},
 		{
 			"fighter_id": "K",
-			"skills": [
-				{
+			"skills": [{
 					"name": "The Trigger",
 					"description": "Ignores enemies' block to attack in a series. The fewer both side Fighters, the higher DMG. 60% more DMG against Tank Fighters.",
 					"description_es": "Ignora el bloqueo del oponente. Entre menos peleadores hay en el campo (aliados u enemigos), mas grande sera el daño. 60% de daño extra a TANKS.",
@@ -1249,8 +1205,7 @@
 		},
 		{
 			"fighter_id": "MAXIMA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "M4 Steam Cannon",
 					"description": "Gathers steam in the body and bombard enemy with heavy hits, while restoring own HP by 10%;if HP is below 50%, will restore 15% HP.",
 					"description_es": "Lanza un rayo de energia de su cuerpo, golpea a un enemigo y recupera 10% de su hp, Si, su HP esta por debajo del 50% , recupera un 15%.",
@@ -1278,8 +1233,7 @@
 		},
 		{
 			"fighter_id": "WHIP",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Desert Eagle",
 					"description": "Whip draws out a dagger to cut the enemy, then takes out her desert eagle pistol to deal the fatal blow, increasing own teams rear row lethal effect (when enemy HP is greater than 50% bonus 8% DMG) ; if whip has been deployed for more 3 rounds than will gain beheading effect ( when HP is leas than 50% bonus 8% DMG). ",
 					"description_es": "Whip saca una daga que corta al enemigo, Luego toma su pistola y le da el golpe final, Incrementa el efecto LETHAL de la fila trasera (Cuando el enemigo tiene mas del 50% de HP, da un bonus de 8% de daño), Si Whip esta en el campo por mas de 3 Rounds (4 o mas), Ganara el efecto beheading (Cuando el HP sea menor al 50%, 8% de DMG adicional).",
@@ -1307,8 +1261,7 @@
 		},
 		{
 			"fighter_id": "KULA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Diamond Breath",
 					"description": "Release Anti-K' factor to freeze water in air to strike a column enemies, reducing targets' 75% HP healing and 25% chance to silence.",
 					"description_es": "Libera su factor Anti-K congelando el agua en el aire, golpea una columna y reduce el 75% de Heal Rate de los enemigos que golpea y ademas un 25% de probabilidad de silenciar.",
@@ -1336,8 +1289,7 @@
 		},
 		{
 			"fighter_id": "FOXY",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Tree of Wisdom",
 					"description": "Foxy shows off her superior swordsmanship, enhancing own Block by 30%, while reducing the target small skill probability by 30%",
 					"description_es": "Foxy golpea con su espada, aumenta en 30% su Block Rate y reduce el skill chance del enemigo en 30%.",
@@ -1365,8 +1317,7 @@
 		},
 		{
 			"fighter_id": "ANGEL",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Blue formalist",
 					"description": "Angel leaps into the air and deals rapid kicks to a síngle enemy , if the target is a male fighter, will cause +20% DMG. ",
 					"description_es": "Angel golpea a un enemigo con patadas rapidas, si el enemigo es hombre le hace 20% de daño adicional.",
@@ -1394,8 +1345,7 @@
 		},
 		{
 			"fighter_id": "IGNIZ",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Sanctuary Blockade",
 					"description": "Igniz moves quickly, cutting through the enemy like a blade, if own rage is above 50%, will deal additional 70% DMG to target, if own rage is less than 50%, will absorb 150 rage from target.",
 					"description_es": "Igniz se mueve velozmente cortando al enemigo como una cuchilla, SI su Rage esta por debajo del 50% absorbera 150 Rage del oponente; Si su Rage esta por encima de 50% igniz hace un 70% de daño adicional con su skill",
@@ -1423,8 +1373,7 @@
 		},
 		{
 			"fighter_id": "KRIZALID",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Typhoon Drive",
 					"description": "Krizalid kicks up a gust of wind at a single enemy, randomly enhance 3 allies ATK by 15%; when skills has been triggered for the third time, own skills DMG increase by 60%.",
 					"description_es": "Krisalid golpea a un enemigo con una patada de viento, Aumenta el ATK 15% de 3 aliados aleatorios, cuando se lanza su skill por tercera vez aumenta su daño en 60%.",
@@ -1452,8 +1401,7 @@
 		},
 		{
 			"fighter_id": "ZERO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Cutting Swallow Destroyer",
 					"description": "ZERO uses his coat to strike a single enemy with 15% increase of own skill chance (2 rounds). 60% DMG boost against DPS Fighter. If he lives for more than 3 rounds, it will extra increase own 30% DMG (2 rounds).",
 					"description_es": "Zero usa usa capa y golpea a un enemigo con 15% de probabilidad de aumentar su chance de lanzar skills (2 rounds). 60% de daño extra contra DPS. Si se mantiene vivo mas de 3 rounds, aumenta su daño 30% por 2 rounds.",
@@ -1481,8 +1429,7 @@
 		},
 		{
 			"fighter_id": "GEESE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Evil Ilusion Smash",
 					"description": "Rush to the enemy to strike a single target with 20% chance to stun and 60% DMG boost against DPS fighters. If the target is Geese, Billy, Yamasaki, Krauser or Mr Big, It will cause extra 60% DMG.",
 					"description_es": "Embiste al enemigo y lo golpea con 20% de probabilidad de Stun, 60% de daño extra a DPS. Si, el objetivo es Geese, Billy, Yamasaki, Krauser or Mr Big, se causara 60% de daño adicional.",
@@ -1510,8 +1457,7 @@
 		},
 		{
 			"fighter_id": "KRAUSER",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Flame Ball",
 					"description": "Attack a single enemy to decrease 200 Rage and cause target who has \"Duel\" flag 30% extra DMG.",
 					"description_es": "Ataca un enemigo, le reduce 200 de Rage, SI el enemigo tiene \"Duel Flag\" (Bandera de duelo) le hara 30% de extra DMG.",
@@ -1539,8 +1485,7 @@
 		},
 		{
 			"fighter_id": "MR_BIG",
-			"skills": [
-				{
+			"skills": [{
 					"name": "BIg Bomb",
 					"description": "Draw the power of the earth, release a powerful shock wave from the rod to attack the enemy, 30% chance to paralyze the target; if Orochi Shermie or Benimaru is present, (you or enemy), an extra 10% Crit power and pierce rate.",
 					"description_es": "Toma el poder de la tierra y libera una poderoza onda de choque de sus varas contra un enemigo, 30% de chance de paralizar, Si Orochi Shermie o Benimaru estan en campo (aliados o enemigos), gana 10% de Crit Power y Pierce Rate.",
@@ -1568,8 +1513,7 @@
 		},
 		{
 			"fighter_id": "BAO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Pycho Ball Crash",
 					"description": "Release explosive spiritual power to attack a single enemy, own DMG reflection + 25%(1 turn); while also weaking the enemy: ATK -10% and DMG - 10%(1 round)",
 					"description_es": "Libera un explosivo poder espiritual y ataca a un enemigo, incrementa su reflejo de daño en 25% por un turno; tambien debilita al enemigo, le reduce el ATK en 10% y el DMG en 10% por 1 turno.",
@@ -1597,8 +1541,7 @@
 		},
 		{
 			"fighter_id": "NAMELESS",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Ground Dagger Cut",
 					"description": "attack a single target, dealing \"Split\" effect (deal 8% max HP DMG each round, last until the end of the battle, effect can be stacked, losing HP will not gain Rage), increase 40% pierce Rate; absorbing 1 Random ally burning effect, and converted into 10% HP for Himself.",
 					"description_es": "Ataca a un objetivo dejandole el efecto SPLIT (le hace 8% de daño del maximo HP cada turno, hasta el final de la batalla, este efecto puede acumularse, la perdida de HP no le da Rage al enemigo), Sube en 40% su Pierce-Rate, Absorbe el efecto quemadura de 1 aliado aleatorio y se cura un 10%.",
@@ -1626,8 +1569,7 @@
 		},
 		{
 			"fighter_id": "MOMOKO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Cross strike",
 					"description": "Attack a column, 10% of DMG converted to HP for own row",
 					"description_es": "Ataca una columna, 10% del DMG se convierte en HP para si misma.",
@@ -1655,8 +1597,7 @@
 		},
 		{
 			"fighter_id": "ASH",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Thermidor",
 					"description": "Guaranteed to use Skill in the first round; attack a single enemy, and adding a flame effect (decrease 15% ULT DMG, each move will help Ash recover a little rage, lasts 3 rounds); if the opponent already has the flame effect, will deal 50% additional DMG.",
 					"description_es": "Garantiza el uso del Skill en el primer turno; ataca a un enemigo y aplica un efecto flama (reduce 15% el daño del ULT, cada movimiento ayuda a Ash a recuperar un poco de ira (Rage), dura 3 turnos. Si el oponente ya tiene aplicado el efecto flama, el siguiente aumenta el daño en un 50%.",
@@ -1684,8 +1625,7 @@
 		},
 		{
 			"fighter_id": "ELISABETH",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Northwest Wind",
 					"description": "Attacks a single target. Reduces Rage of a random enemy with full Rage by 200 (if there is not is such target, randomly reduce an enemy Rage by 200). When a shield is active, increase own 50% Reflect; When shields dissapear increase 50% DMG.",
 					"description_es": "Ataca a un enemigo. Reduce el Rage de un enemigo aleatorio con el Rage al maximo en 200 (Si no hay un objetivo con esas condiciones, reduce en 200 de Rage a un enemigo aleatorio), Con su escudo activo incrementa en 50% su Reflejo de daño, Cuando el escudo se rompe, gana 50% de DMG.",
@@ -1713,8 +1653,7 @@
 		},
 		{
 			"fighter_id": "NAKORURU",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Eagle Strike",
 					"description": "Nakoruru commands the eagle to peck at the enemy, with 40% chance to stun; then Nakoruru will follow-up with an attack on the target, and dispel buffs",
 					"description_es": "Nakoruru le da ordenes a su aguila y golpea un enemigo, 40% de chance de STUN, seguido a esto lo vuelve a golpear y le quita los buffs.",
@@ -1742,8 +1681,7 @@
 		},
 		{
 			"fighter_id": "HAOHMARU",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Whirlwind Rending",
 					"description": "Haohmaru uses blade whirlwind to strike a column. Decreases target 30% Crit for 1 round with 200 Rage decrease.",
 					"description_es": "Haohmaru usa su cuchilla huracan golpeando una columna, Disminuye el Critico (Crit) del objetivo principal en un 30% por 1 turno y Reduce 200 de Rage a la columna que golpea.",
@@ -1771,8 +1709,7 @@
 		},
 		{
 			"fighter_id": "UKYO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Cut",
 					"description": "Attack a column. If he hits the enemy who previously attacks himself, DMG increases by 60%; get buff based on own current HP: if the HP is lower than 80%, get 10% DMG rate and Res rate, and extra 5% CMG rate and Res rate for each 20% max HP lost; if the HP is lower than 50%, increase rage recovery speed by 20%.",
 					"description_es": "Ataca una columna. Si golpea al enemigo que lo ataco previamente, se incrementa el DMG del Skill en 60%; Obtiene distintos buffs en base a la cantidad de HP que le quede: Si su HP es menor que el 80%, obtiene 10% de DMG Rate y Res Rate, y ademas un 5% adicional de ambos por cada 20% del maximo HP perdido; Si su HP es menor al 50% incrementa si velocidad de regeneracion de rage en 20%.",
@@ -1800,8 +1737,7 @@
 		},
 		{
 			"fighter_id": "MUKAI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Rock Strike",
 					"description": "Attack a single enemy, decreasing target 50% DEF, 35% chance to stun, dealing 40% extra DMG against petrified targets; will trigger skill every round after reincarnation",
 					"description_es": "Ataca un enemigo y  disminuye en 50% la DEF, 35% chance de STUN, 40% DMG extra contra enemigos petrificados, Lanzara su skill cada round luego de revivir.",
@@ -1829,8 +1765,7 @@
 		},
 		{
 			"fighter_id": "MAGAKI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Blast Ball",
 					"description": "Attack a column, recovering 2x of own DEF worth of HP; copies the front target debuff onto the columns rear target (Cannot copy petrifaction, Eiji and Magaki passive skill effect), dispel front target buff; if no skill in previous round, skill guaranteed next round",
 					"description_es": "Ataca una columna, recuperando 2 veces su propio defensa como HP, copia el debuff que tiene el objetivo frontal y se lo traslada al de atras (No puede copiar petrificacion, La maldicion de Eiji y la habilidad pasiva de magaki), Le quita los buffs al objetivo frontal, Si no lanzo su skill en este turno es garantizado que al siguiente lo lanzara.",
@@ -1858,8 +1793,7 @@
 		},
 		{
 			"fighter_id": "SAIKI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Tokoyami-no-Fune",
 					"description": "Attack a column; add nether fire (dealing 7,5% burning DMG each round, reducing 12% ATK and DEF; for each nether soul layer, increase extra burning DMG of 2.5% HP and reducing extra 2% ATK and DEF; last 2 rounds, while the burning does not recover rage); when with nether soul layer(s), release small skill, increases DMG by 60%, 50% chance to cost a nether soul layer (no nether soul layer is consumed if any flame fighter is in the target column)",
 					"description_es": "Ataca una columna y le deja al enemigo el efecto \"Nether Fire\" (fuego inferior) (hace 7,5% de daño cada round, le reduce 12% el Ataque y la defensa; por cada alma de Saiki incrementara los efectos mencionados 2,5% extra de daño y 2% extra de reduccion de ataque y defensa, estos efectos no regeneran rage al enemigo, todo esto por 2 turnos); Cuando Saiki tiene un alma el DMG de la skill incrementa en 60%, se garantiza la skill y un 50% de chance de que le cueste un alma (si el objetivo golpeado es tipo fuego, no se le consumira ninguna)",
@@ -1887,8 +1821,7 @@
 		},
 		{
 			"fighter_id": "ADELHEID",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Leg Cut",
 					"description": "Attack a single target, deal 40% additional DMG to targets with less than 50% HP, 20% chance to Stun, if the target is killed next round guaranteed cast skill.",
 					"description_es": "Ataca a un enemigo, tiene 40% de daño adicional si el objetivo tiene menos del 50% de HP, tambien 20% de chance de Stun, Si el enemigo muere con el skill , el siguiente turno es garantizado que volvera a tirar su skill.",
@@ -1916,8 +1849,7 @@
 		},
 		{
 			"fighter_id": "MAY_LEE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Triple Kick & Flash Thunder Punch",
 					"description": "Attack a column; decrease target 10% Res Rate for 2 rounds; adding flag to both targets, each flag will help May Lee recover 10% HP(max 60%). if target flag is already maxed (3), will decrease target 200 Rage. In heroic mode, 25% chance to stun target.",
 					"description_es": "Ataca una columna, disminuye en 10% Res Rate del objetivo por 2 turnos, agrega una bandera a los objetivos, cada bandera ayudara a May Lee a recuperar 10% de HP (Max 60%), Si la bandera esta al maximo (3), disminuye 200 de Rage al objetivo. En modo heroico tiene 25% de chance de STUN.",
@@ -1945,8 +1877,7 @@
 		},
 		{
 			"fighter_id": "XIANGFEI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Dream Wave",
 					"description": "Xiangfei Lee closes in to attack a single enemy, creating a shock wave, decrease target , and surrounding fighter 20% block rate (1 round).",
 					"description_es": "Ataca un enemigo creando una onda de choque y disminuye en 20% el Block Rate por 1 turno.",
@@ -1974,8 +1905,7 @@
 		},
 		{
 			"fighter_id": "INSTINCT_IORI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "One hundred type cut",
 					"description": "Attack a single target, absorbing target 8% HP and 200 Rage; stuck target skill dmg decreased by 50% for 2 rounds",
 					"description_es": "Ataca un enemigo, absorbiendo el 8% de HP del objetivo y 200 de Rage, Disminuye el DMG del skill del enemigo en 50% por 2 turnos.",
@@ -2003,8 +1933,7 @@
 		},
 		{
 			"fighter_id": "FLAME_KYO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Fire Ball",
 					"description": "Attack single target, which cannot be blocked or resisted, adding Kyo's fire (which reduces 50% healing rate, and reduces 8% max HP each round for 2 rounds, without increasing rage), and fire shield effect (which increase own 30% DMG reflection and HP drain for 2 rounds), with 50% chance to stun target; During FLAME KYO effect, release small skill and promote to demon slaying flame.",
 					"description_es": "Ataca a un objetivo, esta skill no puede ser bloqueada o resistida, agrega a quien golpea el efecto 'Fuego de Kyo', el cual reduce en 50% los efectos de curacion y un 8% del maximo HP, por 2 turnos sin incrementar el Rage enemigo), ademas tambien crea en si mismo un escudo de fuego el cual incrementa en 30% su reflejo de DMG y su drenaje de HP por 2 turnos. Tiene un 50% de chance de Stun al Objetivo. Durante el efecto de 'Flama de Kyo', la skill menor se mejorara y se convierte en Flama de Cazador.",
@@ -2032,8 +1961,7 @@
 		},
 		{
 			"fighter_id": "KYO_NESTS",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Wicked Chew",
 					"description": "Kyo's flame instantly burst after coming in contact with the air, causing damage to a single enemy with burning for 2 rounds and creating a fire shield around himself for 1 round (Res Rate +10% and DMG Reflect +10%)",
 					"description_es": "La flama de kyo explota instantaneamente al entrar en contacto con el aire, generando daño a un enemigo, causandole quemadura por 2 turnos y creando un escudo de fuego a su alrededor por 1 turno (Res Rate +10% and DMG Reflect +10%)",
@@ -2061,8 +1989,7 @@
 		},
 		{
 			"fighter_id": "BENIMARU_2003",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Cutdown Kick",
 					"description": "Attack single target, increase its 20% rage recover speed, 20% chance to stun target; if the target has static status, skill damage increased by 40%, stun rate increased to 40%.",
 					"description_es": "Ataca a un objetivo, incrementa en 20% Su Velocidad de recuperacion de Rage, tiene 20% de probabilidad de STUN, Si; el objetivo tiene el efecto Static, el daño de la skill aumenta un 40% y 40% el STUN Rate.",
@@ -2090,8 +2017,7 @@
 		},
 		{
 			"fighter_id": "TERRY_2003",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Energy Dunk",
 					"description": "Attack a single enemy, 20% chance to stun, with 35% splash DMG, 30% of DMG also converted to HP; if only strike 1 enemy, skil DMG increased 30%, stun chance increased to 40%.",
 					"description_es": "Ataca a un enemigo, 20% de chance de STUN con un 35% de splash DMG, el 30% del daño se convierte en HP y se absorbe. Si; solo se golpea a un enemigo el daño se incrementa en 30% y la chance de STUN un 40%.",
@@ -2119,8 +2045,7 @@
 		},
 		{
 			"fighter_id": "NEW_MR_KARATE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Tiger Attack",
 					"description": "Attack a single enemy, decreasing target ATK by 20%, 25% chance to stun; Priority in attacking target affected by Robert 2002 UM skill in the last 2 rounds, if the same enemy struck, will stun (ineffective against those immune to stun)",
 					"description_es": "Ataca a un enemigo, disminuyendo 20% el ataque, con un 25% de probabilidad de Stun, tiene prioridad de ser atacado el objetivo que ataco Robert 2002 con su skill en los ultimos 2 Rounds. Si es el mismo enemigo que golpeo, se le ocasiona Stun (inefectivo contra aquellos que son inmunes a STUN)",
@@ -2148,8 +2073,7 @@
 		},
 		{
 			"fighter_id": "ROBERT_2002_UM",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Phantom Feet",
 					"description": "Attack a single enemy, decreasing target 30% DEF, increase own 20% Crit; Priority in atacking targets hit by New Mr.Karate skills in the last 2 rounds,if it strikes one of these targets, guaranteed crit.",
 					"description_es": "Ataca a un enemigo, disminuye en 30% su defensa, e incrementa 20% su probabilidad de critico, Tiene prioridad de ser atacado aquel objetivo que fue golpeado por el skill de New Mr Karate en los ultimos 2 turnos. Si el objetivo es el mismo, Garantiza golpe critico.",
@@ -2177,8 +2101,7 @@
 		},
 		{
 			"fighter_id": "OROCHI_LEONA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Moon Slasher",
 					"description": "Orochi Leona deals HP draining Damage to a column with debuffs to the main target: 40% Healing Reduction and 6% HP bleeding for two rounds.",
 					"description_es": "Orochi Leona ataca una columna causando debuffs al objetivo principal: 40% de Reducción de Curación y desangramiento por 6% del HP (dos rounds). Recuperas una fracción del daño como HP.",
@@ -2206,8 +2129,7 @@
 		},
 		{
 			"fighter_id": "OROCHI_CHRIS",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Limb Biting Blaze",
 					"description": "Strikes a single enemy with 30% chance to cause Soul Burning to keep reducing the enemy's HP and Rage",
 					"description_es": "Golpea un enemigo con 30% de chance de quemadura de alma, que reduce el HP y Rage del oponente.",
@@ -2235,8 +2157,7 @@
 		},
 		{
 			"fighter_id": "OROCHI_SHERMIE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "New moon Thunder Cloud",
 					"description": "Strikes a single enemy while dealing a random buff to herself. Includes ATK 20%, DEF 20%, Crit 20%, Pierce Rate 20%. The effects can be stacked.",
 					"description_es": "Golpea un enemigo y lanza un buff aleatorio sobre si misma. Incluye: ATK 20%, DEF 20%, Crit 20%, Pierce Rate 20%. Los efectos pueden acumularse.",
@@ -2264,8 +2185,7 @@
 		},
 		{
 			"fighter_id": "OROCHI_YASHIRO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Smothering Earth",
 					"description": "Strikes a single enemy, 12% chance to stun the target.",
 					"description_es": "Golpea un enemigo, con 12% de chance de STUN.",
@@ -2293,8 +2213,7 @@
 		},
 		{
 			"fighter_id": "CRAZY_IORI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Dark Thrust",
 					"description": "With the power of Orochi, launches a fierce attack to single target. Causes Burning status and Absorbs 200 Rage from target.",
 					"description_es": "Contiene el poder de Orochi, Lanza un salvaje ataque contra un enemigo causandole quemadura y robandole 200 de Rage.",
@@ -2322,8 +2241,7 @@
 		},
 		{
 			"fighter_id": "OMEGA_RUGAL",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Dark Sanctions",
 					"description": "Attacks a column. Gains some effects from target’s ULT as Learned Effects. (Used in Omega Rugal’s ULT). Decrease target’s Rage Regen by 50% for one round. Creates Energy Shield on himself for two rounds. (Chance to decrease Damage taken directly, works like Zero and Kula’s passive). Guaranteed trigger on first round.",
 					"description_es": "Skill garantizada al primer turno, penetra una columna de enemigos y obtiene algunos efectos de los ultras enemigos (estos efectos aprendidos pueden ser utilizados en el Ult de Omega Rugal); Ademas Lanza una onda de energia reduciendo la regeneracion de Rage (Rage Regen) de los objetivos golpeados en un 50% por 1 turno creando una barrera de energia en si mismo que le da probabilidad de reducir el daño directo recibido por 2 turnos.",
@@ -2351,8 +2269,7 @@
 		},
 		{
 			"fighter_id": "GOENIKO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Electric Wrist",
 					"description": "Attacks the unit, inflicting 10% max HP in DMG, reduce all enemies 20% Crit Power and Block for 2 Rounds. Each time Goeniko release skill: permanently increase 10% ATK Power and 15% skill probability, Max stack 3 times.",
 					"description_es": "Ataca un enemigo, inflingiendo 10% del Maximo HP como Daño, reduce en 20% el Crit Power y el Block de todos los enemigos por 2 rounds. Cada vez que Goeniko lanza su skill, incrementa permanentemente 10% su ATK y en 15% su chance de skill (es posible acumular estos efectos hasta 3 veces, max 30% ATK y 45% Skill chance)",
@@ -2380,8 +2297,7 @@
 		},
 		{
 			"fighter_id": "MR_KARATE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Zanretsu Ken",
 					"description": "Attack single enemy; 40% Stun chance, increase own 50% DMG reflection, recover 8% max HP; after fight ghost effect is triggered, small skill is unleashed every round.",
 					"description_es": "Ataca un enemigo con 40% de chance de aturdir, incrementa en 50% su reflejo de daño, recupera 8% de su maximo HP y tiene Splash DMG. Luego de que su pasiva es activada, el skill se lanzara todos los turnos.",
@@ -2409,8 +2325,7 @@
 		},
 		{
 			"fighter_id": "ATHENA_2002_UM",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Superpower Light Saber",
 					"description": "Attacks a single target, removes target's buffs; if target is in out of control state, deal 60% additional damage.",
 					"description_es": "Ataca un enemigo y le quita sus buffs; Si el objetivo tiene algun efecto de control, sufre 60% de daño adicional.",
@@ -2438,8 +2353,7 @@
 		},
 		{
 			"fighter_id": "MAKI_KAGURA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "God's Reason",
 					"description": "Attack a single target; 35% chance to increase 2 random allies 200 Rage; increase DMG against targets with \"Seal\" by 60%.",
 					"description_es": "Ataca a un enemigo con un 35% de chance de incrementar el Rage de 2 aliados aleatorios en 200, Si el objetivo golpeado tiene el estado \"Seal\" (Sello) hay 60% extra de DMG.",
@@ -2467,8 +2381,7 @@
 		},
 		{
 			"fighter_id": "VANESSA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Dash Puncher",
 					"description": "Ignore enemy block, deal combo, dealing massive DMG on a single enemy and adding a Vanessa Mark; the less own HP left, the higher DMG. When attack target has already Vanessa mark, increase 60% DMG and recover 200 Rage. (Vanessa mark can be stackeable for up 3 times)",
 					"description_es": "Ignora el bloqueo, golpea en combo, hace un daño masivo a un enemigo y le deja la marca de Vanessa, entre menos HP tenga Vanessa, mas daño hace. Cuando ataca a un objetivo que ya tiene la marca incrementa el daño que le hace en 60% y recupera 200 de Rage. La marca de Vanessa puede acumularse en el oponente hasta 3 veces.",
@@ -2496,8 +2409,7 @@
 		},
 		{
 			"fighter_id": "TUNG_FU_RUE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Max Shou Ha",
 					"description": "Strikes a column. 40% chance to stun main target and restore each pupil 100 Rage. (200 Rage if there is only one pupil and restore own Rage if there's no pupil). Converts 30% DMG to heal own HP. 100% chance to trigger skill if Climax Super effects.",
 					"description_es": "Golpea una columna. Tiene 40% de chance de Stun al objetivo principal y restaura 100 de Rage a cada pupilo. (200 de Rage si solo queda 1 pupilo o recupera Rage a si mismo si no hay pupilos). Convierte el 30% de DMG que hace en HP y se cura. Ademas tiene 100% de chance de lanzar su Skill si esta activado el Climax Super Effect.",
@@ -2525,8 +2437,7 @@
 		},
 		{
 			"fighter_id": "SHUN_EI",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Aqua Spear",
 					"description": "Releases different skills according to the different own locations: Front: Aqua Spear, Strikes single target with 40% chance to Stun. Enhances power of water and increases DMG by 8% of target's current HP. Increases randomly three allies' 20% restorage ability in 2 rounds. Rear: Rising Efreet. Strikes single target with 40% chance to Stun. Enhances power of fire and increases DMG by 8% of target's current HP. Increases randomly three allies' 20% HP Drain in 2 rounds.",
 					"description_es": "Lanza diferentes skills segun la ubicacion en donde este. Si esta en el frente utiliza Aqua Spear: Golpea a un enemigo con 40% de chance de Stun. Mejora su poder de agua y aumenta su DMG en 8% con respecto al maximo HP del objetivo, ademas incrementa en 20% la velocidad de recuperacion de salud de 3 aliados aleatorios por 2 turnos. Si esta en la linea trasera utiliza Rising Efreet. Golpea a un enemigo con 40% de chance de Stun. Mejora su poder de fuego y aumenta su DMG en 8% con respecto al maximo HP del objetivo, ademas incrementa en 20% el HP Drain de 3 aliados aleatorios por 2 turnos.",
@@ -2554,8 +2465,7 @@
 		},
 		{
 			"fighter_id": "CLONE_ZERO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Cutting Swallow",
 					"description": "Attack single enemy, dealing 30% extra damage to target with less than 50% HP left; within 2 rounds, 50% chance to reduce damage upon self by 30%.",
 					"description_es": "Ataca a un enemigo, hace 30% de extra DMG a los objetivos que tengan menos del 50% de HP, durante 2 turnos tiene 50% de probabilidad de reducir el daño que recibe en 30%.",
@@ -2583,8 +2493,7 @@
 		},
 		{
 			"fighter_id": "NIGHTMARE_GEESE",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Double Reppuuken",
 					"description": "Attack a column, with 40% chance to paralyze main target, increasing own 50% blood drain; deal 40% extra damage on all nightmare targets; after getting all the revenge power, release small skill (if ULT kills target, gets all the revenge power, trigger small skill since next round ).",
 					"description_es": "Ataca una columna, tiene un 40% de chance de paralyzar al objetivo principal, incrementa en 50% su propio drenaje de HP, hace 40% de daño extra a todos los enemigos en pesadilla; Luego de obtener el poder de la venganza, lanzara una skill (Si el ULT mata al objetivo, obtiene este poder de la venganza y lanzara skill desde el siguiente turno)",
@@ -2612,8 +2521,7 @@
 		},
 		{
 			"fighter_id": "JHUN_HOON",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Exhaust Attack",
 					"description": "Attack a column, with 20% chance to stun target; reduce targets' Res rate by 30% (for 1 round), and turns 20% of the damage into HP; deal 60% extra DMG upon GANK fighters.",
 					"description_es": "",
@@ -2641,8 +2549,7 @@
 		},
 		{
 			"fighter_id": "CATTY_LEONA",
-			"skills": [
-				{
+			"skills": [{
 					"name": "X-Caliber",
 					"description": "Attacking single enemy, with severe injury effect for 2 rounds (reduce target's 70% healing rate, reducing 10% HP each round, does not incur rage recovery. Lasts for 2 rounds), absorb targets and surrounding fighters' 10% small skill rate for 2 rounds (self small skill rate max increase 35%) When Catty Leona has Genesis mark, deal extra damage of 10% max HP on target When Catty Leona has tortoise mark, recover 10% own max HP; when Catty Leona has super tortoise mark, recover extra 5% max HP; When Catty Leona has serpent mark, attack deals 50% extra damage; when Catty Leona has super serpent mark, recover 100 extra rage When Catty Leona has bear mark, reduce target's 200 rage; when Catty Leona has super bear mark, steal target's buff effect When Catty Leona has tiger mark, dispel a random ally's controlled effect; when Catty Leona has super tiger mark, recover that ally's 8% HP \n\n",
 					"description_es": "Ataca a un enemigo, dejandole un efecto lesion que dura 2 turnos (Le reduce en 70% el efecto de curacion, y 10% de HP cada turno, esto no le generara Rage). Absorbe del objetivo y los adyacentes 10% del small skill chance de estos por 2 turnos y se incrementa su propia chance de lanzar skill (Max 35%). Cuando Catty Leona tiene la marca de Genesys, hace un daño adicional del 10% del amximo HP del objetivo. Cuando Catty Leona tiene la marca de la tortuga, recuperara 10%  de su maximo HP. Cuando Catty Leona tiene la marca de Super Tortuga recupera un 5% adicional. Cuando Catty Leona tiene la marca de la serpiente, sus ataques con skill hacen 50% de daño extra. Cuando Catty Leona tiene la marca de Super Serpiente recupera 100 extra de Rage. Cuando Catty Leona tiene la marca del oso, reduce 200 de Rage al enemigo. Cuando Catty Leona tiene la marca de Super Oso le roba al objetivo sus buffs. Cuando Catty Leona tiene la marca de tigre le quita a un aliado aleatorio un efecto de control y Cuando Catty Leona tiene la marca de Super Tigre ese aliado ademas recupera 8% de HP.",
@@ -2670,8 +2577,7 @@
 		},
 		{
 			"fighter_id": "SHION",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Meteor Arrow",
 					"description": "Attack single enemy with lowest HP; reduce target's rage by 200 and increase own Crit Res by 40%; if a fighter of opposite sex is hit, deal 50% extra damage.",
 					"description_es": "Ataca al enemigo con menor HP y le reduce el rage en 200 e incrementa su propio Crit Rate en 40%; SI un peleador del sexo opuesto es golpeado, se hace un 50% de daño adicional.",
@@ -2699,8 +2605,7 @@
 		},
 		{
 			"fighter_id": "SHEEN_WOO",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2728,8 +2633,7 @@
 		},
 		{
 			"fighter_id": "HINAKO",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Twisting Smash",
 					"description": "Attack a single enemy, increase self column's block rate by 30%",
 					"description_es": "",
@@ -2757,8 +2661,7 @@
 		},
 		{
 			"fighter_id": "LEONA_XIII",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2786,8 +2689,7 @@
 		},
 		{
 			"fighter_id": "LIN",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Lethalvator",
 					"description": "Attack single enemy, adding Poison effect upon target (lose 8% max HP each round until battle ends. This effect is stackable and does not cause rage recovery); if attack hits poisoned enemy, recover 8% max HP; if attack hits NETS fighter, the DMG increase",
 					"description_es": "Ataca a un solo enemigo, agregando el efecto Veneno sobre el objetivo (pierde 8% de HP máximo en cada ronda hasta que termine la batalla. Este efecto es acumulable y no causa recuperación de Rage); si el ataque golpea al enemigo envenenado, recupera un 8%",
@@ -2815,8 +2717,7 @@
 		},
 		{
 			"fighter_id": "RAMON",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2844,8 +2745,7 @@
 		},
 		{
 			"fighter_id": "OSWALD",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2873,8 +2773,7 @@
 		},
 		{
 			"fighter_id": "DUO_LON",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2902,8 +2801,7 @@
 		},
 		{
 			"fighter_id": "SETH",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2931,8 +2829,7 @@
 		},
 		{
 			"fighter_id": "ROBERT_XIII",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2960,8 +2857,7 @@
 		},
 		{
 			"fighter_id": "ATHENA_XIII",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -2989,10 +2885,9 @@
 		},
 		{
 			"fighter_id": "RALF_XIII",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
-					"description": null,
+					"description": "Attack a single enemy, attack the target with Explosive Gunpowder first;decrease the target 's DEF by 50% and Res Rate by 20% for 2 rounds; decrease the target's Rage by 200,and adds an extra layer of Explosive Gunpowder to the target;restore the same amount of Rage as the target 's Rage decreased. The Rage decreasing effect of this attack won't be intensified through combo,besides,this effect won 't cause Crit Hit and won't be blocked.",
 					"description_es": null,
 					"description_pt": null
 				},
@@ -3018,8 +2913,7 @@
 		},
 		{
 			"fighter_id": "CLARK_XIII",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -3047,8 +2941,7 @@
 		},
 		{
 			"fighter_id": "KENSOU_XII",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -3076,8 +2969,7 @@
 		},
 		{
 			"fighter_id": "MAI_NEW",
-			"skills": [
-				{
+			"skills": [{
 					"name": "Nocturnal Plover",
 					"description": "Attack a single target, damage increases by 40% for male fighters. Recover 100 Rage for self and a random female ally, 30% chance to tempt male targets (add confusion effect upon target, making him unable to release a small skill or Ult. within 1 round, and making him attack Alluring Mai and copy buff to Alluring Mai.This does not take effect upon taunted or confused target); increase own control-free rate by 30%",
 					"description_es": "",
@@ -3105,8 +2997,7 @@
 		},
 		{
 			"fighter_id": "VICE XIII",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -3134,8 +3025,7 @@
 		},
 		{
 			"fighter_id": "MIZUCHI",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
@@ -3163,8 +3053,7 @@
 		},
 		{
 			"fighter_id": "NAKORURU RASETSU",
-			"skills": [
-				{
+			"skills": [{
 					"name": null,
 					"description": null,
 					"description_es": null,
