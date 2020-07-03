@@ -763,9 +763,9 @@
 		{
 			"fighter_id": "LEONA_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "K"
 			}
 		},
 		{
