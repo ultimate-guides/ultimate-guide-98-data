@@ -1329,7 +1329,7 @@
 		{
 			"fighter_id": "ATHENA_XIII",
 			"fightsoul_id": "TURTLE",
-			"name": "athena xiii",
+			"name": "SuperStar Athena",
 			"chinese_name": "超能偶像雅典娜",
 			"api": 15,
 			"type_id": "GANK",
@@ -1368,7 +1368,7 @@
 		{
 			"fighter_id": "KENSOU_XII",
 			"fightsoul_id": "TIGER",
-			"name": "kensou xii",
+			"name": "Rising Dragon Kensou",
 			"chinese_name": "小龙飞天椎拳崇",
 			"api": 15,
 			"type_id": "DPS",

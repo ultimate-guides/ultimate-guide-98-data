@@ -2,6 +2,26 @@
 	"time_line": [
 		{
 			"title": "TIME LIMITED CHEST",
+			"fighter_id": "VICE_XIII",
+			"date": "07/06/2019"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
+			"fighter_id": "MIZUCHI",
+			"date": "12/07/2019"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
+			"fighter_id": "CLARK_XIII",
+			"date": "09/08/2019"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
+			"fighter_id": "DUO_LON",
+			"date": "13/09/2019"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
 			"fighter_id": "ROCK_HOWARD",
 			"date": "26/06/2020"
 		}
