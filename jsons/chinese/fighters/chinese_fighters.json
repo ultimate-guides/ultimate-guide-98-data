@@ -1468,6 +1468,32 @@
 			"badge_id": "DAZZLIING",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "KULA_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "Meitenkun",
+			"chinese_name": "明天君",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "FEMALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 0,
+			"striker": 0
+		},
+		{
+			"fighter_id": "K_XIV",
+			"fightsoul_id": "TIGER",
+			"name": "K XIV",
+			"chinese_name": "明天君",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 0,
+			"striker": 0
 		}
 	]
 }
