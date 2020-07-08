@@ -1494,6 +1494,32 @@
 			"badge_id": "DAZZLIING",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "SAIKI_DEMON",
+			"fightsoul_id": "SPACE",
+			"name": "Saiki Demon",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 1,
+			"striker": 0
+		},
+		{
+			"fighter_id": "KIM_XIII",
+			"fightsoul_id": "SPACE",
+			"name": "Kim XIII",
+			"chinese_name": "金XIII ",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 1,
+			"striker": 0
 		}
 	]
 }
