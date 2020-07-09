@@ -6,8 +6,7 @@
 			"type": "ALL",
 			"bonus": "5%",
 			"effect": "Own ATK",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_strong_atk.png"
+			"slot": 1
 		},
 		{
 			"name": "Pierce",
@@ -15,8 +14,7 @@
 			"type": "ALL",
 			"bonus": "",
 			"effect": "Own Pierce",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_pierce.png"
+			"slot": 1
 		},
 		{
 			"name": "Senior Strong ATK",
@@ -24,8 +22,7 @@
 			"type": "ALL",
 			"bonus": "8%",
 			"effect": "Own ATK",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_strong_atk.png"
+			"slot": 1
 		},
 		{
 			"name": "Senior Pierce",
@@ -33,8 +30,7 @@
 			"type": "ALL",
 			"bonus": "",
 			"effect": "Own Pierce",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_pierce.png"
+			"slot": 1
 		},
 		{
 			"name": "Super Strong ATK",
@@ -42,8 +38,7 @@
 			"type": "ALL",
 			"bonus": "",
 			"effect": "Own ATK",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_strong_atk.png"
+			"slot": 1
 		},
 		{
 			"name": "Super Pierce",
@@ -51,8 +46,7 @@
 			"type": "ALL",
 			"bonus": "",
 			"effect": "Own Pierce",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_pierce.png"
+			"slot": 1
 		},
 		{
 			"name": "Super DMG",
@@ -60,8 +54,7 @@
 			"type": "ALL",
 			"bonus": "",
 			"effect": "Own DMG",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_dmg.png"
+			"slot": 3
 		},
 		{
 			"name": "Crit (DPS)",
@@ -69,8 +62,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own Crit",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_crit_dps.png"
+			"slot": 1
 		},
 		{
 			"name": "Senior Crit (DPS)",
@@ -78,8 +70,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own Crit",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_crit_dps.png"
+			"slot": 1
 		},
 		{
 			"name": "Super Crit (DPS)",
@@ -87,8 +78,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own Crit",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_crit_dps.png"
+			"slot": 1
 		},
 		{
 			"name": "Coordinated ATK",
@@ -96,8 +86,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "1 random ally ATK",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_coordinated_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Weakness Attack",
@@ -105,8 +94,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "1 random ally Strike ability",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_weakness_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Coordinated Attack",
@@ -114,8 +102,7 @@
 			"type": "DPS",
 			"bonus": "8%",
 			"effect": "2 random ally ATK",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_coordiinated_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Weakness Attack",
@@ -123,8 +110,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "2 random ally Strike ability",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_weakness_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Super Coordinated Attack",
@@ -132,8 +118,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "All rear ally ATK",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_coordinated_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Ult Weakness Attack",
@@ -141,8 +126,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "All rear ally Strike ability",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_ult_weakness_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Fatal Blow (DPS)",
@@ -150,8 +134,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own Fatal Blow ability",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_fatal_blow_dps.png"
+			"slot": 3
 		},
 		{
 			"name": "Senior Skill Pierce",
@@ -159,8 +142,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own DMG towards Gank",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_skill_pierce.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Fatal Blow (DPS)",
@@ -168,8 +150,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own Fatal Blow ability",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_fatal_blow_dps.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Skill Pierce",
@@ -177,8 +158,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own DMG towards Gank",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_skill_pierce.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Crit Power",
@@ -186,8 +166,7 @@
 			"type": "DPS",
 			"bonus": "",
 			"effect": "Own Crit Power",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_fatal_blow_dps.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Control (GANK)",
@@ -195,8 +174,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "Own Control",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_control_gank.png"
+			"slot": 1
 		},
 		{
 			"name": "Senior Control (GANK)",
@@ -204,8 +182,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "Own Control",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_control_gank.png"
+			"slot": 1
 		},
 		{
 			"name": "DMG Reduction",
@@ -213,8 +190,7 @@
 			"type": "GANK",
 			"bonus": "7%",
 			"effect": "1 random rear ally Res Rate",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_dmg_reduction.png"
+			"slot": 2
 		},
 		{
 			"name": "Support Battle",
@@ -222,8 +198,7 @@
 			"type": "GANK",
 			"bonus": "7%",
 			"effect": "1 random rear ally DMG",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_support_battle.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior DMG Reduction",
@@ -231,8 +206,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "2 random rear ally Res Rate",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_dmg_reduction.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Support Battle",
@@ -240,8 +214,7 @@
 			"type": "GANK",
 			"bonus": "8%",
 			"effect": "2 random rear ally DMG",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_coordiinated_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Super DMG Reduction",
@@ -249,8 +222,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "All rear Ally Res Rate",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_dmg_reduction.png"
+			"slot": 2
 		},
 		{
 			"name": "Super Support Battle",
@@ -258,8 +230,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "All rear Ally DMG",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_coordinated_attack.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Tank Pierce",
@@ -267,8 +238,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "Own DMG towards Tank",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_fatal_blow_dps.png"
+			"slot": 3
 		},
 		{
 			"name": "Senior Slash (GANK)",
@@ -276,8 +246,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "Own Slash Ability",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_skill_pierce.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Tank Pierce",
@@ -285,8 +254,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "Own DMG towards Tank",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_fatal_blow_dps.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Slash (GANK)",
@@ -294,8 +262,7 @@
 			"type": "GANK",
 			"bonus": "",
 			"effect": "Own Slash ability",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_skill_pierce.png"
+			"slot": 3
 		},
 		{
 			"name": "ATK Pierce",
@@ -303,8 +270,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "Own DMG towards DPS",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_atk_pierce.png"
+			"slot": 1
 		},
 		{
 			"name": "Senior ATK Pierce",
@@ -312,8 +278,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "Own DMG towards DPS",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_control_gank.png"
+			"slot": 1
 		},
 		{
 			"name": "Super ATK Pierce",
@@ -321,8 +286,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "Own DMG towards DPS",
-			"slot": 1,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_control_gank.png"
+			"slot": 1
 		},
 		{
 			"name": "Protection",
@@ -330,8 +294,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "1 random front ally DEF",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_dmg_reduction.png"
+			"slot": 2
 		},
 		{
 			"name": "Alert",
@@ -339,8 +302,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "1 random front ally Anti-Crit",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_alert.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Protection",
@@ -348,8 +310,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "2 random front ally DEF",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_dmg_reduction.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Alert",
@@ -357,8 +318,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "2 random front ally Anti-Crit",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_alert.png"
+			"slot": 2
 		},
 		{
 			"name": "Super Protection",
@@ -366,8 +326,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "All front ally Def",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_dmg_reduction.png"
+			"slot": 2
 		},
 		{
 			"name": "Super Alert",
@@ -375,8 +334,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "All front ally Anti-Crit",
-			"slot": 2,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_alert.png"
+			"slot": 2
 		},
 		{
 			"name": "Senior Tenacity",
@@ -384,8 +342,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "2 random rear ally Ult Res",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_skill_pierce.png"
+			"slot": 3
 		},
 		{
 			"name": "Senior Control (TANK)",
@@ -393,8 +350,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "Own Control",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_senior_control_tank.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Tenacity",
@@ -402,8 +358,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "All rear ally Ult Res",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_skill_pierce.png"
+			"slot": 3
 		},
 		{
 			"name": "Super Control (TANK)",
@@ -411,8 +366,7 @@
 			"type": "TANK",
 			"bonus": "",
 			"effect": "Own Control",
-			"slot": 3,
-			"img_url": "https://www.mxl-apps.com/ugkof98api_staging/assets/images/aidbooks/book_super_control_tank.png"
+			"slot": 3
 		}
 	]
 }
