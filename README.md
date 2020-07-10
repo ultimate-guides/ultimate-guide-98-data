@@ -8,7 +8,7 @@ The purpose of this page is to act as an issue / feature tracker. No source is a
 
 ## How To
 
-Click on the [Issues Tab](https://github.com/finalpets/ultimate-guide-98-data/issues) and search for an existing issue. Voting thumbs up on an issue will increase its priority and attention. Duplicates will eventually be closed.
+Click on the [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) and search for an existing issue. Voting thumbs up on an issue will increase its priority and attention. Duplicates will eventually be closed.
 
 If the bug / issue you want to report doesn't exist, hit "New Issue" and select from the correct option.
 
