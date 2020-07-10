@@ -1,0 +1,112 @@
+{
+	"runes": [
+		{
+			"name": "Wolves Anger",
+			"effect_2": "[set Attributes] : Increase ? % ATK",
+			"effect_2_es": "[set Attributes] : Aumenta ? % el ATK",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do ATK",
+			"effect_4": "[Explosive Skill Effect] : Increase own ?a % ATK, ?b % Res Rate; decrease target ?c % Res Rate (2 rounds). [Explosive Recovery] : On odd rounds, get 1 explosive chance",
+			"effect_4_es": "[Explosive Skill Effect]: Aumenta ?a % el ATK, ?b % Res Rate; Disminuye el ?c %  de Res Rate del objetivo (2 rondas). [Explosive Recovery]: En rondas impares, obtiene 1 posibilidad activar el effecto explosivo",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % do próprio ATK, ?b % da taxa de Res; reduz ?c % da taxa de Res do alvo (2 rounds). [Explosive Recovery] : Nos rounds ímpares, obtém 1 chance de explosão.",
+			"effect_6": "[set Attributes] : Increase ?a % ATK. [Explosive Skill Effect] : All attacks will have a killer effect (for fighters with ?b % or above HP, deal ?c % additional DMG).",
+			"effect_6_es": "[set Attributes]: Incrementa ?a % el  ATK. [Explosive Skill Effect]: Todos los ataques tendrán un efecto mortal (para los peleadores con ?b % o más de HP, hara un ?c % DMG adicional).",
+			"effect_6_pt": "[Set Attributes] : Aumenta o ATK em ?a %. [Explosive Skill Effect] : Todos ataques terão o efeito Killer (contra lutadores com ?b % ou mais de HP, ganhe ?c % de DMG adicional)."
+		},
+		{
+			"name": "Dragon Tiger",
+			"effect_2": "[set Attributes] : Increase ? % ATK",
+			"effect_2_es": "[set Attributes] : Aumenta ? % el ATK",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do ATK",
+			"effect_4": "[Explosive Skill Effect] : Increase own ?a % ATK, ?b % Res Rate; decrease target ?c % Res Rate (2 rounds). [Explosive Recovery] : On even rounds, get 1 explosive chance",
+			"effect_4_es": "[Explosive Skill Effect]: Aumenta el ?a % de ATK, ?b % de Res Rate; disminuiye el ?c % de Res Rate del objetivo (2 rondas). [Explosive Recovery]: en rondas pares, obtén 1 posibilidad de activar este effecto.",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % do próprio ATK, ?b % da taxa de Res; reduz ?c % da taxa de Res do alvo (2 rounds). [Explosive Recovery] : Nos rounds pares, obtém 1 chance de explosão.",
+			"effect_6": "[set Attributes] : Increase ?a % ATK. [Explosive Skill Effect] : All attacks will deal slash effect (for fighters with ?b % or below HP, deal ?c % additional DMG).",
+			"effect_6_es": "[set Attributes]: Aumenta el ?a % de ATK. [Explosive Skill Effect]: Todos los ataques tendrán un efecto de Slash  (para los luchadores con ?b % O menos de HP, hara ?c % DMG adicional) . ",
+			"effect_6_pt": "[Set Attributes] : Aumenta o ATK em ?a %. [Explosive Skill Effect] : Todos ataques terão o efeito Slash (contra lutadores com ?b % ou menos de HP, ganhe ?c % de DMG adicional)."
+		},
+		{
+			"name": "Earth's Heart",
+			"effect_2": "[set Attributes] : Increase ? % Res Rate",
+			"effect_2_es": "[set Attributes] : Aumenta ? % el  Res Rate",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % da taxa de Res",
+			"effect_4": "[Explosive Skill Effect] : Increase own ?a % Res Rate, ?b % ATK; when attacked, decrease attacker ?c % ATK (2 rounds).\r\n[Explosive Recovery] : On odd rounds, get 1 explosive chance",
+			"effect_4_es": "[Explosive Skill Effect]: Incrementa su propia Res Rate en un ?a %, ?b % ATK; cuando es atacado, disminuye al atacante ?c % ATK (2 rondas).[Explosive Recovery]: En rondas impares, obtiene 1 probabilidad de activar el effecto",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % da própria taxa de Res, ?b % do ATK; quando for atacado, reduz em ?c % o ATK do atacante (2 rounds). [Explosive Recovery] : Nos rounds ímpares, obtém 1 chance de explosão.",
+			"effect_6": "[set Attributes] : Increase ?a % Res Rate.\r\n[Explosive Skill Effect] : In this battle, if explode is released, will decrease all enemy's  ?b % ATK and Res Rate for 1 round after death.",
+			"effect_6_es": "[set Attributes]: Incrementa ?a % Res Rate . [Explosive Skill Effect]: En esta batalla, si se activa el efecto explosivo, disminuirá todos los enemigos el ?b % de ATK y Res Rate por 1 turno después de la muerte.",
+			"effect_6_pt": "[Set Attributes] : Aumenta a taxa de Res em ?a %. [Explosive Skill Effect] : Nesta luta, se a explosão for utilizada, irá reduzir o ATK e taxa de Res de todos inimigos em  ?b % por 1 round após morrer."
+		},
+		{
+			"name": "Killing Soul",
+			"effect_2": "[set Attributes] : Increase ? % Crit and Pierce",
+			"effect_2_es": "[set Attributes]: Incrementa ? % Crit y Pierce",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do Crit e Pierce",
+			"effect_4": "[Explosive Skill Effect] : Increase own ?a % ATK, ?b % Res Rate; randomly deal additional DMG worth ?c % max HP to target affected by Crit attack.\r\n[Explosive Recovery] : On odd rounds, get 1 explosive chance",
+			"effect_4_es": "[Explosive Skill Effect]: Incrementa su propio ATK  ?a % ,?b % Res Rate; Al azar hace daño adicional equivalente al ?c % max HP del objetivo afectado por el ataque critico. [Explosive Recovery]: En rondas impares, obtén 1 efecto explosivo.",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % do próprio ATK, ?b % da taxa de Res; aplica randomicamente dano adicional equivalente a ?c % do HP máximo no alvo atingido por ataque crítico. [Explosive Recovery] : Nos rounds ímpares, obtém 1 chance de explosão.",
+			"effect_6": "[Set Attributes] : Increase ?a % Crit and Pierce.\r\n[Explosive Skill Effect] : If attack has been blocked, next round will get additional ?b % Crit and Pierce",
+			"effect_6_es": "[Set Attributes]: Incrementa ?a % el Crit y Pierce. [Explosive Skill Effect]: Si se ha bloqueado el ataque, ¿la próxima ronda obtendrá ?b % adicional de Crit y Pierce",
+			"effect_6_pt": "[Set Attributes] : Aumenta Crit e Pierce em ?a %. [Explosive Skill Effect] : Se o ataque for bloqueado, irá ganhar ?b % de Crit e Pierce no próximo round."
+		},
+		{
+			"name": "God's Wrath",
+			"effect_2": "[set Attributes] : Increase ? % Crit and Pierce",
+			"effect_2_es": "[set Attributes]: Incrementa ? % Crit y Pierce",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do Crit e Pierce",
+			"effect_4": "[Explosive Skill Effect] : Increase own ?a % ATK, ?b % Res Rate; randomly deal additional DMG worth ?c % max HP to target affected by Crit attack.\r\n\r\n[Explosive Recovery] : On even rounds, get 1 explosive chance",
+			"effect_4_es": "[Explosive Skill Effect]: Incrementa el propio ATK en un ?a %, ?b % Res RateAl azar hace daño adicional equivalente al ?c % max HP del objetivo afectado por el ataque critico. [Explosive Recovery]: En rondas pares, obtén 1 efecto explosivo.",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % do próprio ATK, ?b % da taxa de Res; aplica randomicamente dano adicional equivalente a ?c % do HP máximo no alvo atingido por ataque crítico. [Explosive Recovery] : Nos rounds pares, obtém 1 chance de explosão.",
+			"effect_6": "[Set Attributes] : Increase ?a % Crit and Pierce.\r\n[Explosive Skill Effect] : If received crit DMG, will instantly recover ?b % HP, and next round increase ?c % Crit and Pierce (max 1 per round).",
+			"effect_6_es": "[Set Attributes]: Incrementa ?a % el Crit y Pierce. [Explosive Skill Effect]: Si recibe daño crítico, se recuperará instantáneamente ?b % el HP, y aumentará la próxima ronda ?c % Crit y Pierce (máximo 1 por ronda).",
+			"effect_6_pt": "[Set Attributes] : Aumenta Crit e Pierce em ?a %. [Explosive Skill Effect] : Se receber DMG Crítico, irá recuperar instantaneamente ?b % de HP, e aumentará ?c % os próprios no próximo round (Máximo de 1 por round)"
+		},
+		{
+			"name": "Protector Soul",
+			"effect_2": "[Set Attributes] : Increase ? % Crit Res and Block",
+			"effect_2_es": "[Set Attributes]: Incrementa % Crit Res y Block",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do Crit Res e Block",
+			"effect_4": "[Explosive Skill Effect] : Increase own  ?a %  Res Rate. ?b % ATK, everytime Block is triggered, will decrease attacker ?c Rage (Max 4 times per round).\r\n[Explosive Recovery] : On odd rounds, get 1 explosive chance",
+			"effect_4_es": "[Explosive Skill Effect]: Incrementa su propio Res Rate en un ?a % ,ATK ?b % , cada vez que se activa el Bloqueo, disminuirá al atacante el Rage por %c (Máx. 4 veces por ronda). [Explosive Recovery]: En rondas impares, obtiene 1 effecto explosivo.",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % da própria taxa de Res, ?b % do ATK, toda vez que o bloqueio for utilizado, irá reduzir ?c de Rage do atacante (máximo de 4 vezes por round). [Explosive Recovery] : Nos rounds ímpares, obtém 1 chance de explosão.",
+			"effect_6": "[Set Attributes] : Increase ?a % Crit Res and Block.\r\n[Explosive Skill Effect] : Blocking will recover to self ?b Rage, decrease rage chances increased to 6.",
+			"effect_6_es": "[Set Attributes]: Incremente ?a % el Crit Res y Block. [Explosive Skill Effect]: El bloqueo recuperará a sí mismo ?b Rage, posibilidades de disminucion de rage incrementado a 6.",
+			"effect_6_pt": "[Set Attributes] : Aumenta Crit Res e Block em ?a %. [Explosive Skill Effect] : Se o ataque for bloqueado, irá ganhar ?b % de Crit e Pierce no próximo round."
+		},
+		{
+			"name": "Heart of Thorns",
+			"effect_2": "[Set Attributes] : Increase ? % DMG Reflect",
+			"effect_2_es": "[Set Attributes]: Incrementa ? % el DMG Reflect.",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do DMG Reflect",
+			"effect_4": "\"[Explosive Skill Effect] : Increase own  ?a %  Res Rate. ?b % ATK; recover ?c % HP when attacked, Max 4 times per round.\r\n[Explosive Recovery] : On odd rounds, get 1 explosive chance\"",
+			"effect_4_es": "[Explosive Skill Effect]: Incrementa su propio Res Rate en ?a %. ?b % ATK; recupera ?c % De HP cuando es atacado, Max 4 veces por ronda.[Explosive Recovery]: En rondas impares, obtiene 1 effecto explosivo.",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % da própria taxa de Res, ?b % do ATK; recupera ?c % do HP quando atacado, máximo de 4 vezes por round.. [Explosive Recovery] : Nos rounds ímpares, obtém 1 chance de explosão.",
+			"effect_6": "[Set Attributes] : Increase ?a % DMG Reflect.\r\n[Explosive Skill Effect] : When attacked, HP recovered increase ?b %, recovery chances increased to 6 times.",
+			"effect_6_es": "[Set Attributes]: Incrementa ?a % el DMG Reflect. [Explosive Skill Effect]: Cuando es atacado, la recuperacion de HP es incrementada en un ?b %, Las oportunidades  de recuperación aumentaron a 6 veces.",
+			"effect_6_pt": "[Set Attributes] : Aumenta o DMG Reflect em ?a %. [Explosive Skill Effect] : Quando atacado, a recuperação de HP aumenta em ?b %, aumenta as chances de recuperação para 6x."
+		},
+		{
+			"name": "Bolling Blood",
+			"effect_2": "[Set Attributes] : Increase ? % HP Drain",
+			"effect_2_es": "[Set Attributes]: Incrementa ? % el HP Drain.",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do HP Drain",
+			"effect_4": "[Explosive Skill Effect] : Increase own  ?a %  ATK. ?b % Res Rate;  absorb all affected target's ?c % max HP\r\n[Explosive Recovery] : On even rounds, get 1 explosive chance.",
+			"effect_4_es": "[Explosive Skill Effect]: Incrementa su propio ATK en un ?a %, Res Rate en ?b %; Absorbe todos los objetivos afectados ?c % max HP. [Explosive Recovery]: En rondas pares, obtén 1 effecto explosivo.",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % do ATK, ?b % da taxa de Res, Absorve ?c % do HP máximo de todos os alvos afetados. [Explosive Recovery] : Nos rounds pares, obtém 1 chance de explosão.",
+			"effect_6": "[Set Attributes] : Increase ?a % HP Drain.\r\n[Explosive Skill Effect] : When HP is below ?b %, get additional ?c % HP Drain.",
+			"effect_6_es": "[Set Attributes]: Incrementa en ?a % el HP Drain. [Explosive Skill Effect]: Cuando el HP está por debajo de ?b %, Obtiene ?c % de HP Drain adicional.",
+			"effect_6_pt": "[Set Attributes] : Aumenta o HP Drain em ?a %. [Explosive Skill Effect] : Quando o HP está abaixo de ?b %, obtém ?c % de HP Drain adicional."
+		},
+		{
+			"name": "Chaos",
+			"effect_2": "[Set Attributes] : Increase ? % Control.",
+			"effect_2_es": "[Set Attributes]: Incrementa ? % el control.",
+			"effect_2_pt": "[set Attributes] : Aumenta ? % do Control",
+			"effect_4": "[Explosive Skill Effect] : Increase own  ?a %  ATK. ?b % Res Rate; ?c % chance to deal debuff to target (stun, paralysis, freeze, silence).\r\n[Explosive Recovery] : On odd rounds, get 1 explosive chance.",
+			"effect_4_es": "[Explosive Skill Effect]: Incrementa su propio ATK en un ?a % ,Res Rate en un ?b %; ?c % de probabilidad de infligir debuff al objetivo (aturdimiento, parálisis, congelación, silencio). [Explosive Recovery]: En rondas impares, obtén 1 effecto explosivo.",
+			"effect_4_pt": "[Explosive Skill Effect] : Aumenta ?a % do ATK, ?b % da taxa de Res, ?c % de chance de aplicar debuff no alvo (Stun, Paralyze, Freeze, Silence). [Explosive Recovery] : Nos rounds ímpares, obtém 1 chance de explosão.",
+			"effect_6": "[Set Attributes] : Increase ?a % Control.\r\n[Explosive Skill Effect] : Probability increase to ?b % .",
+			"effect_6_es": "[Set Attributes]: Incrementa en un ?a % el control.[Explosive Skill Effect]: Probabilidad aumentada a ?b %.",
+			"effect_6_pt": "[Set Attributes] : Aumenta o Control em ?a %. [Explosive Skill Effect] : Probabilidade de aplicar debuff aumentada em ?b %."
+		}
+	]
+}
