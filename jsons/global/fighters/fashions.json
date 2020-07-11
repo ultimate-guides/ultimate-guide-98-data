@@ -1,7 +1,198 @@
 {
 	"fashions": [
 		{
-			"id": "30",
+			"fighter_id": "KYO",
+			"name": "Red Fire",
+			"cost": null,
+			"atribute_1": "ATK: +300",
+			"atribute_2": "DEF: +240",
+			"img_name": "fashion_kyo_1"
+		},
+		{
+			"fighter_id": "TERRY",
+			"name": "Baseball Uniform",
+			"cost": "2777",
+			"atribute_1": "ATK: +300",
+			"atribute_2": "Damage: +3%",
+			"img_name": "fashion_terry_1"
+		},
+		{
+			"fighter_id": "ROBERT",
+			"name": "Butler",
+			"cost": null,
+			"atribute_1": "ATK: +360",
+			"atribute_2": "Damage: +3%",
+			"img_name": "fashion_robert_1"
+		},
+		{
+			"fighter_id": "LEONA",
+			"name": "Mercenary Spirit",
+			"cost": "2077",
+			"atribute_1": "ATK: +360",
+			"atribute_2": "ULT DMG: +4%",
+			"img_name": "fashion_leona_1"
+		},
+		{
+			"fighter_id": "MAI",
+			"name": "Blossoms",
+			"cost": null,
+			"atribute_1": "ATK: +360",
+			"atribute_2": "DEF: +260",
+			"img_name": "fashion_mai_1"
+		},
+		{
+			"fighter_id": "MAI",
+			"name": "Sexy Bunny",
+			"cost": "2077",
+			"atribute_1": "ATK: +300",
+			"atribute_2": "DEF: +260",
+			"img_name": "fashion_mai_2"
+		},
+		{
+			"fighter_id": "KASUMI",
+			"name": "Taisho Girl",
+			"cost": null,
+			"atribute_1": "ATK: +360",
+			"atribute_2": "Res Rate: +3%",
+			"img_name": "fashion_kasumi_1"
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS",
+			"name": "Fashion Icon",
+			"cost": "2777",
+			"atribute_1": "ATK: 360",
+			"atribute_2": "Damage: +3%",
+			"img_name": "fashion_orochi_chris_1"
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO",
+			"name": "Rock Singer",
+			"cost": null,
+			"atribute_1": "DEF: +300",
+			"atribute_2": "Res Rate: +3%",
+			"img_name": "fashion_orochi_yashiro_1"
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE",
+			"name": "Red Robe",
+			"cost": "2777",
+			"atribute_1": "ATK: 360",
+			"atribute_2": "ULT DMG: +4%",
+			"img_name": "fashion_orochi_shermie_1"
+		},
+		{
+			"fighter_id": "ATHENA",
+			"name": "Red Dream",
+			"cost": "1077",
+			"atribute_1": "ATK: +280",
+			"atribute_2": "DEF: +260",
+			"img_name": "fashion_athena_1"
+		},
+		{
+			"fighter_id": "ATHENA",
+			"name": "Witch Heart",
+			"cost": "2077",
+			"atribute_1": "ATK: +360",
+			"atribute_2": "HP: +2000",
+			"img_name": "fashion_athena_2"
+		},
+		{
+			"fighter_id": "KENSOU",
+			"name": "Kung Fu",
+			"cost": null,
+			"atribute_1": "ATK: +280",
+			"atribute_2": "HEAL: +10%",
+			"img_name": "fashion_kensou_1"
+		},
+		{
+			"fighter_id": "RUGAL",
+			"name": "Cross-world Devil",
+			"cost": null,
+			"atribute_1": "ATK: +550",
+			"atribute_2": "DEF: +350",
+			"img_name": "fashion_rugal_1"
+		},
+		{
+			"fighter_id": "GOENITZ",
+			"name": "Ice Storm",
+			"cost": "4777",
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Res Rate: +3%",
+			"img_name": "fashion_goenitz_1"
+		},
+		{
+			"fighter_id": "K",
+			"name": "Pilot",
+			"cost": "4777",
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Crit: +3%",
+			"img_name": "fashion_k_1"
+		},
+		{
+			"fighter_id": "IGNIZ",
+			"name": "Gentle Shadow",
+			"cost": null,
+			"atribute_1": "ATK: +600",
+			"atribute_2": "Res Rate: +3%",
+			"img_name": "fashion_igniz_1"
+		},
+		{
+			"fighter_id": "KRIZALID",
+			"name": "Dark Shura",
+			"cost": null,
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Control: +5%",
+			"img_name": "fashion_krizalid_1"
+		},
+		{
+			"fighter_id": "ZERO",
+			"name": "Templar",
+			"cost": null,
+			"atribute_1": "Priority: 80",
+			"atribute_2": "Res Rate: +3%",
+			"img_name": "fashion_zero_1"
+		},
+		{
+			"fighter_id": "NAMELESS",
+			"name": null,
+			"cost": null,
+			"atribute_1": null,
+			"atribute_2": null,
+			"img_name": "fashion_nameless_1"
+		},
+		{
+			"fighter_id": "KYO_NESTS",
+			"name": "Winter's Flame",
+			"cost": null,
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Crit: +3%",
+			"img_name": "fashion_kyo_nests_1"
+		},
+		{
+			"fighter_id": "KYO_NESTS",
+			"name": "Will of Fire",
+			"cost": null,
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Priority: +50",
+			"img_name": "fashion_kyo_nests_2"
+		},
+		{
+			"fighter_id": "TERRY_2003",
+			"name": "Western Cowboy",
+			"cost": null,
+			"atribute_1": "ATK: +600",
+			"atribute_2": "Skill: +5%",
+			"img_name": "fashion_terry_2003_1"
+		},
+		{
+			"fighter_id": "OROCHI_LEONA",
+			"name": "Rock Singer",
+			"cost": null,
+			"atribute_1": "ATK: +600",
+			"atribute_2": "HP Drain: +3%",
+			"img_name": "fashion_orochi_leona_1"
+		},
+		{
 			"fighter_id": "KULA",
 			"name": "Silver Demon",
 			"cost": null,
@@ -10,7 +201,6 @@
 			"img_name": "fashion_kula_1"
 		},
 		{
-			"id": "31",
 			"fighter_id": "KULA",
 			"name": "Ice Princess",
 			"cost": null,
@@ -19,7 +209,6 @@
 			"img_name": "fashion_kula_2"
 		},
 		{
-			"id": "32",
 			"fighter_id": "KULA",
 			"name": "Ice Princess",
 			"cost": null,
