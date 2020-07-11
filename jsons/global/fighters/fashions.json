@@ -1,0 +1,31 @@
+{
+	"fashions": [
+		{
+			"id": "30",
+			"fighter_id": "KULA",
+			"name": "Silver Demon",
+			"cost": null,
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Res Rate: +3%",
+			"img_name": "fashion_kula_1"
+		},
+		{
+			"id": "31",
+			"fighter_id": "KULA",
+			"name": "Ice Princess",
+			"cost": null,
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Priority: +50",
+			"img_name": "fashion_kula_2"
+		},
+		{
+			"id": "32",
+			"fighter_id": "KULA",
+			"name": "Ice Princess",
+			"cost": null,
+			"atribute_1": "ATK: +500",
+			"atribute_2": "Control: +3%",
+			"img_name": "fashion_kula_3"
+		}
+	]
+}
