@@ -1,0 +1,40 @@
+{
+	"infos": [
+		{
+			"key": "UYIELDING",
+			"value": "Unyielding"
+		},
+		{
+			"key": "GODDESS",
+			"value": "Goddess"
+		},
+		{
+			"key": "GUARDIAN",
+			"value": "Guardian"
+		},
+		{
+			"key": "BLOOD_THORNS",
+			"value": "Blood Thorns"
+		},
+		{
+			"key": "DEVIL",
+			"value": "Devil FightSoul"
+		},
+		{
+			"key": "STORM",
+			"value": "Storm FightSoul"
+		},
+		{
+			"key": "LICH",
+			"value": "Lich"
+		},
+		{
+			"key": "WAR",
+			"value": "War God"
+		},
+		{
+			"key": "VENGEANCE",
+			"value": "Vengeance"
+		}
+	]
+}

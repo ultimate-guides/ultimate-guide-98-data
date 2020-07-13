@@ -1,0 +1,1162 @@
+{
+	"recommended_runes": [
+		{
+			"fighter_id": "KYO",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "BENIMARU",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "JOE",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "DAIMON",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "RYO",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "KIM",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "RALF",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "YASHIRO",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "BRIAN",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "MAXIMA",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "TAKUMA",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "CHANG",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "YAMAZAKI",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "BILLY",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "KASUMI",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "ANDY",
+			"runes": [
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "YURI",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "ATHENA",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "KENSOU",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "MATURE",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "VICE",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "ROBERT",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "KING",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "CHIN",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "CLARK",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "CHRIS",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "CHOI",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "CHIZURU",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "SAISYU",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "IORI",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "GOENITZ",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "NAKORURU",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "KRAUSER",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "SHINGO",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "SHERMIE",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "TERRY",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "ANGEL",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "LUCKY",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "FOXY",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "LEONA",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "EIJI",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "HEIDERN",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "WHIP",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "KRIZALID",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "MOMOKO",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "MAI",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "HEAVY_D",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "MR_BIG",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "BLUE_MARY",
+			"runes": [
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "MAY_LEE",
+			"runes": [
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "K",
+			"runes": [
+				{
+					"rune_id": "WOLVES",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "KULA",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "CHAOS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTORS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "BAO",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "RUGAL",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "HINAKO",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "ZERO",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "PROTECTOR",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		}
+	]
+}

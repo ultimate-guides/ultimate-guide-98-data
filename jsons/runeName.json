@@ -1,0 +1,40 @@
+{
+	"infos": [
+		{
+			"key": "WOLVES",
+			"value": "Wolves Anger"
+		},
+		{
+			"key": "DRAGON",
+			"value": "Dragon Tiger"
+		},
+		{
+			"key": "EARTH",
+			"value": "Earth's Heart"
+		},
+		{
+			"key": "KILLING",
+			"value": "Killing Soul"
+		},
+		{
+			"key": "GODS",
+			"value": "God's Wrath"
+		},
+		{
+			"key": "PROTECTOR",
+			"value": "Protector Soul"
+		},
+		{
+			"key": "HEART",
+			"value": "Heart of Thorns"
+		},
+		{
+			"key": "BOLLING",
+			"value": "Bolling Blood"
+		},
+		{
+			"key": "CHAOS",
+			"value": "Chaos"
+		}
+	]
+}
