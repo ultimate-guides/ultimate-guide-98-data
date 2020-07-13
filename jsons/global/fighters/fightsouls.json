@@ -858,8 +858,8 @@
 		{
 			"fighter_id": "LEONA_XIII",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "BEAR",
+				"description": "Get 115 initial rage and recover extra rage when attacking",
 				"description_es": null,
 				"description_pt": null
 			}

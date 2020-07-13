@@ -1619,16 +1619,16 @@
 			"fighter_id": "LEONA_XIII",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Silent Soldier Leona, One-man Army Ralf, Powerful & Cool Clark ",
+					"attr": "ATK + 25% "
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Silent Soldier Leona, Vice, Shermie",
+					"attr": "ATK + 25% "
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Silent Soldier Leona, Orochi Leona, Leona",
+					"attr": "HP + 25%"
 				}
 			]
 		},
