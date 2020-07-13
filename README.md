@@ -54,6 +54,7 @@ To navigate a desire section or document, see the table of content and read the 
 ## List of Fighters
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fighters.GIF" align="right" width="32%"/>
+
 Every fighter require **fighter_id** is a unique id will be referenced in all documents (skills, weapons, fashions, etc). This is the structure:
 
 ```json
@@ -93,6 +94,7 @@ To modify or add fighters go to [fighter.json](https://github.com/ultimate-guide
 ## Fightsouls
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fightsouls.jpg" align="right" width="32%"/>
+
 For modify this section use the reference of **fighter_id** .
 
 Structure:
@@ -122,6 +124,7 @@ To modify or add fightsouls go to [fightsouls.json](https://github.com/ultimate-
 ## Fates
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fates.jpeg" align="right" width="32%"/>
+
 For modify this section use the reference of **fighter_id** .
 
 Structure:
@@ -156,6 +159,7 @@ To modify or add fighters go to [fates.json](https://github.com/ultimate-guides/
 ## Partners
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/partners.jpeg" align="right" width="32%"/>
+
 For modify this section use the reference of **fighter_id** .
 
 Structure:
@@ -229,6 +233,7 @@ Structure:
 | **description:**    | English description of the weapon(the benefits).    |
 | **description_es:** | Spanish description of the weapon(the benefits).    |
 | **description_pt:** | Portuguese description of the weapon(the benefits). |
+| **contributor:**    | The name of the person who add or edit the weapon   |
 
 ## Follow us
 
