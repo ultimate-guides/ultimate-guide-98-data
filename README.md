@@ -58,8 +58,6 @@ Every fighter require **fighter_id** is a unique id will be referenced in all do
 }
 ```
 
-## Variables
-
 | Key               | Description                                                                                                                                                                                                                                                                                                           |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **fighter_id:**   | Unique ID will be reference all the information related to the fighter.                                                                                                                                                                                                                                               |
@@ -80,6 +78,7 @@ To modify or add fighters go to [fighter.json](https://github.com/ultimate-guide
 
 ## Fightsouls
 
+<img src="https://www.ultimate-guides.net/assets/ug98/img/fightsouls.jpg" align="right" width="32%"/>
 For modify this section use the reference of **fighter_id** .
 
 Structure:
@@ -108,6 +107,7 @@ To modify or add fightsouls go to [fightsouls.json](https://github.com/ultimate-
 
 ## Fates
 
+<img src="https://www.ultimate-guides.net/assets/ug98/img/fates.jpeg" align="right" width="32%"/>
 For modify this section use the reference of **fighter_id** .
 
 Structure:
