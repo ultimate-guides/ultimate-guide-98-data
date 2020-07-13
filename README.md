@@ -3,9 +3,22 @@
 <!--lint disable no-literal-urls-->
 <p align="center">  
     <img
-      alt="Node.js"
+      alt="Ug 98"
       src="https://www.ultimate-guides.net/assets/ug98/img/banner.png" 
-    />  
+    />      
+</p>
+<p align="center">  
+  <a href="https://apps.apple.com/mx/app/ultimate-guide-98/id1481396840?l=en">
+    <img
+      alt="ultimate Guide 98"
+      src="https://www.ultimate-guides.net/assets/ug98/img/appstore.png" 
+      width="32%"
+    />      
+    <img
+      alt="ultimate Guide Pro"
+      src="https://www.ultimate-guides.net/assets/ug98/img/google_play.png" 
+      width="32%"
+    />      
 </p>
 
 The propose of this repo is for everyone who wants to contribute sharing information or helping whit translation and missing content. You are free to modify all files of the App(Android/iOS), any modification will be verify before release to the real APP. I will create a list of contributors inside the app to everyone can see your names there.
