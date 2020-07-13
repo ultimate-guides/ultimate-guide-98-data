@@ -1,13 +1,11 @@
 # Ultimate Guide 98 Data
 
 <!--lint disable no-literal-urls-->
-<p align="center">
-  <a href="https://nodejs.org/">
+<p align="center">  
     <img
       alt="Node.js"
       src="https://www.ultimate-guides.net/assets/ug98/img/banner.png" 
-    />
-  </a>
+    />  
 </p>
 
 The propose of this repo is for everyone who wants to contribute sharing information or helping whit translation and missing content. You are free to modify all files of the App(Android/iOS), any modification will be verify before release to the real APP. I will create a list of contributors inside the app to everyone can see your names there.
@@ -161,7 +159,10 @@ Structure:
 
 ## Fashions
 
-<img src="https://www.ultimate-guides.net/assets/ug98/img/fashions.jpeg" align="right" width="32%"/>
+<p align="center"> 
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/fashions.jpeg"  width="32%"/>
+</p>
+
 For modify this section use the reference of **fighter_id** .
 Structure:
 
@@ -185,8 +186,11 @@ Structure:
 
 ## Weapons
 
-<img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" align="right" width="32%"/>
 For modify this section use the reference of **fighter_id** .
+
+<p align="center"> 
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" width="32%"/>
+</a>
 
 Structure:
 
