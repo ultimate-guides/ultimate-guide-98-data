@@ -141,6 +141,7 @@ To modify or add fighters go to [fates.json](https://github.com/ultimate-guides/
 
 ## Partners
 
+<img src="https://www.ultimate-guides.net/assets/ug98/img/partners.jpeg" align="right" width="32%"/>
 For modify this section use the reference of **fighter_id** .
 
 Structure:
@@ -160,8 +161,8 @@ Structure:
 
 ## Fashions
 
+<img src="https://www.ultimate-guides.net/assets/ug98/img/fashions.jpeg" align="right" width="32%"/>
 For modify this section use the reference of **fighter_id** .
-
 Structure:
 
 ```json
@@ -175,16 +176,16 @@ Structure:
 }
 ```
 
-**name:** The name of the fashion.
-
-**cost:** The cost of the fashion in diamonds (8800 need to be a number).
-
-**atribute_1, atribute_2:** The benefits of the fashion that gives when user buy it.
-
-**img_name:** The name of the fashion file.
+| Key                         | Description                                                     |
+| --------------------------- | --------------------------------------------------------------- |
+| **name:**                   | The name of the fashion.                                        |
+| **cost:**                   | The cost of the fashion in diamonds (8800 need to be a number). |
+| **atribute_1, atribute_2:** | The benefits of the fashion that gives when user buy it.        |
+| **img_name:**               | The name of the fashion file.                                   |
 
 ## Weapons
 
+<img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" align="right" width="32%"/>
 For modify this section use the reference of **fighter_id** .
 
 Structure:
@@ -202,12 +203,12 @@ Structure:
 }
 ```
 
-**name:** The name of the weapon.
-**description:** English description of the weapon(the benefits).
-
-**description_es:** Spanish description of the weapon(the benefits).
-
-**description_pt:** Portuguese description of the weapon(the benefits).
+| Key                 | Description                                         |
+| ------------------- | --------------------------------------------------- |
+| **name:**           | The name of the weapon.                             |
+| **description:**    | English description of the weapon(the benefits).    |
+| **description_es:** | Spanish description of the weapon(the benefits).    |
+| **description_pt:** | Portuguese description of the weapon(the benefits). |
 
 ## Follow us
 
