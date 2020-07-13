@@ -21,7 +21,7 @@
       src="https://www.ultimate-guides.net/assets/ug98/img/google_play.png" 
       width="32%"
     />
-
+</a>
 </div>
 
 The propose of this repo is for everyone who wants to contribute sharing information or helping whit translation and missing content. You are free to modify all files of the App(Android/iOS), any modification will be verify before release to the real APP. I will create a list of contributors inside the app to everyone can see your names there.
@@ -240,4 +240,8 @@ Twitter - https://twitter.com/98_guide
 
 ### Donate
 
+If you like our work, you can donate , 2 years of work with the comunnity to made this posible.
+
+<p align="center">  
 <a href='https://ko-fi.com/G2G11VE3M' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
