@@ -24,25 +24,25 @@
 </a>
 </div>
 
-_Read this in other languages: [English](README.md), [Spanish](README.es.md)._
+_Lee esto en otros lenguajes: [Ingles](README.md), [Español](README.es.md)._
 
-The propose of this repo is for everyone who wants to contribute sharing information or helping whit translation and missing content. You are free to modify all files of the App(Android/iOS), any modification will be verify before release to the real APP. I will create a list of contributors inside the app to everyone can see your names there.
+El proposito de este repositorio es para todos los que quieran contribuir compartiendo información o ayudando con la traducción y el contenido faltante. Pueden modificar todos los archivos de la aplicación (Android / iOS), cualquier modificación se verificará antes de su lanzamiento a la aplicación real. Creare una lista de contribuyentes dentro de la aplicación para que todos puedan ver sus nombres ahi.
 
-## Notes
+## Notas
 
-If you don't know how to use git system, don't worry you can send the modifications trough the [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) .
+Si no sabes cómo usar el sistema git, no te preocupes, puedes enviar las modificaciones a través del [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) .
 
-## How To submit a feature or Bug
+## Como enviar una mejora o subir un Bug
 
-Click on the [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) and search for an existing issue. Voting thumbs up on an issue will increase its priority and attention. Duplicates will eventually be closed.
+Presiona en [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) y busca un problema existente. Votar con aprobación sobre un tema aumentará su prioridad y atención. Los duplicados eventualmente se cerrarán.
 
-If the bug / issue you want to report doesn't exist, hit "New Issue" and select from the correct option.
+Si el error / problema que desea informar no existe, presione "New Issue" y seleccione la opción correcta.
 
-Be as detailed as you can and provide screenshots and any logs you may be able to gather from your device as they will greatly increase the time to a solution.
+Sea lo más detallado posible y proporcione capturas de pantalla y todos los registros que pueda recopilar de su dispositivo, ya que aumentarán en gran medida el tiempo para llegar a una solución.
 
-## How to contribute on a missing info, description or language
+## Cómo contribuir en la falta de información, descripción o idioma
 
-To navigate a desire section or document, see the table of content and read the rules to modify or add information.
+Para navegar por una sección o documento que desee, vea la tabla de contenido y lea las reglas para modificar o agregar información.
 
 # Table of Content
 
@@ -65,7 +65,9 @@ To navigate a desire section or document, see the table of content and read the 
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fighters.GIF" align="right" width="32%"/>
 
-Every fighter require **fighter_id** is a unique id will be referenced in all documents (skills, weapons, fashions, etc). This is the structure:
+Cada luchador requiere ** fighter_id ** es una identificación única que se hará referencia en todos los documentos (skills, weapons, fashions, etc).
+
+Estructura:
 
 ```json
 {
@@ -85,15 +87,15 @@ Every fighter require **fighter_id** is a unique id will be referenced in all do
 
 | Key               | Description                                                                                                                                                                                                                                                                                                           |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **fighter_id:**   | Unique ID will be reference all the information related to the fighter.                                                                                                                                                                                                                                               |
-| **fightsoul_id:** | The type of fightsoul (TIGER, TURTLE, SNAKE, BEAR, SPACE).                                                                                                                                                                                                                                                            |
-| **name:**         | The name of the fighter.                                                                                                                                                                                                                                                                                              |
-| **chinese_name:** | The name of the fighter in chinese (don't worry if you don't know, you can leave it at null).                                                                                                                                                                                                                         |
-| **api:**          | The aptitude of the fighter (12,13,14,15), need a number here, remove the " ".                                                                                                                                                                                                                                        |
-| **type_id:**      | The type of the fighter can be (DPS, GANK, TANK).                                                                                                                                                                                                                                                                     |
-| **gender_id:**    | The gender of the fighter, can be (MALE , FEMALE).                                                                                                                                                                                                                                                                    |
-| **tome_id:**      | The tome of the fighter , can be (SCORCHING, JUDO, KARATE, KICK, MANA, STREET, SUPER, THAI).                                                                                                                                                                                                                          |
-| **badge_id:**     | The badge of the fighter, can be (BEAUTY, DAZZLING, EARTH, FLAME, GALE, OROCHI).                                                                                                                                                                                                                                      |
+| **fighter_id:**   | La identificación única hará referencia a toda la información relacionada con el luchador.                                                                                                                                                                                                                            |
+| **fightsoul_id:** | Tipo de Fightsoul puede ser (TIGER, TURTLE, SNAKE, BEAR, SPACE).                                                                                                                                                                                                                                                      |
+| **name:**         | Nombre del peleador                                                                                                                                                                                                                                                                                                   |
+| **chinese_name:** | El nombre del luchador en chino (no se preocupe si no lo sabe, puede dejarlo en blanco).                                                                                                                                                                                                                              |
+| **api:**          | La aptitud del luchador (12,13,14,15), necesita un número aquí, elimine el "".                                                                                                                                                                                                                                        |
+| **type_id:**      | El tipo del peleador puede ser (DPS, GANK, TANK).                                                                                                                                                                                                                                                                     |
+| **gender_id:**    | El genero del peleador , puder ser (MALE , FEMALE).                                                                                                                                                                                                                                                                   |
+| **tome_id:**      | El tomo del peleador , puder ser (SCORCHING, JUDO, KARATE, KICK, MANA, STREET, SUPER, THAI).                                                                                                                                                                                                                          |
+| **badge_id:**     | El badge del peleador, puder ser (BEAUTY, DAZZLING, EARTH, FLAME, GALE, OROCHI).                                                                                                                                                                                                                                      |
 | **status:**       | The status mean if the fighter is under maintenance , if the value is 1 it mean YES, the information will will hide for everyone in the real APP. As you can see some of the unreleased characters are marked as 1, that's why you can't see in the main list of the App.                                             |
 | **striker:**      | The striker mean if the fighter also have the information about him/her striker form. Can be 0 if not, and 1 if have , as you can see inside the detail information in each fighter you press inside the APP , you notice a bottom navigation with the striker info, if you don't see its because the **striker=0** . |
 
