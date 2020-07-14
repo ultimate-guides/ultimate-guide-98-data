@@ -85,21 +85,21 @@ Estructura:
 }
 ```
 
-| Key               | Description                                                                                                                                                                                                                                                                                                           |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **fighter_id:**   | La identificación única hará referencia a toda la información relacionada con el luchador.                                                                                                                                                                                                                            |
-| **fightsoul_id:** | Tipo de Fightsoul puede ser (TIGER, TURTLE, SNAKE, BEAR, SPACE).                                                                                                                                                                                                                                                      |
-| **name:**         | Nombre del peleador                                                                                                                                                                                                                                                                                                   |
-| **chinese_name:** | El nombre del luchador en chino (no se preocupe si no lo sabe, puede dejarlo en blanco).                                                                                                                                                                                                                              |
-| **api:**          | La aptitud del luchador (12,13,14,15), necesita un número aquí, elimine el "".                                                                                                                                                                                                                                        |
-| **type_id:**      | El tipo del peleador puede ser (DPS, GANK, TANK).                                                                                                                                                                                                                                                                     |
-| **gender_id:**    | El genero del peleador , puder ser (MALE , FEMALE).                                                                                                                                                                                                                                                                   |
-| **tome_id:**      | El tomo del peleador , puder ser (SCORCHING, JUDO, KARATE, KICK, MANA, STREET, SUPER, THAI).                                                                                                                                                                                                                          |
-| **badge_id:**     | El badge del peleador, puder ser (BEAUTY, DAZZLING, EARTH, FLAME, GALE, OROCHI).                                                                                                                                                                                                                                      |
-| **status:**       | The status mean if the fighter is under maintenance , if the value is 1 it mean YES, the information will will hide for everyone in the real APP. As you can see some of the unreleased characters are marked as 1, that's why you can't see in the main list of the App.                                             |
-| **striker:**      | The striker mean if the fighter also have the information about him/her striker form. Can be 0 if not, and 1 if have , as you can see inside the detail information in each fighter you press inside the APP , you notice a bottom navigation with the striker info, if you don't see its because the **striker=0** . |
+| Key               | Description                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **fighter_id:**   | La identificación única hará referencia a toda la información relacionada con el luchador.                                                                                                                                                                                                                                                                                 |
+| **fightsoul_id:** | Tipo de Fightsoul puede ser (TIGER, TURTLE, SNAKE, BEAR, SPACE).                                                                                                                                                                                                                                                                                                           |
+| **name:**         | Nombre del peleador                                                                                                                                                                                                                                                                                                                                                        |
+| **chinese_name:** | El nombre del luchador en chino (no se preocupe si no lo sabe, puede dejarlo en blanco).                                                                                                                                                                                                                                                                                   |
+| **api:**          | La aptitud del luchador (12,13,14,15), necesita un número aquí, elimine el "".                                                                                                                                                                                                                                                                                             |
+| **type_id:**      | El tipo del peleador puede ser (DPS, GANK, TANK).                                                                                                                                                                                                                                                                                                                          |
+| **gender_id:**    | El genero del peleador , puder ser (MALE , FEMALE).                                                                                                                                                                                                                                                                                                                        |
+| **tome_id:**      | El tomo del peleador , puder ser (SCORCHING, JUDO, KARATE, KICK, MANA, STREET, SUPER, THAI).                                                                                                                                                                                                                                                                               |
+| **badge_id:**     | El badge del peleador, puder ser (BEAUTY, DAZZLING, EARTH, FLAME, GALE, OROCHI).                                                                                                                                                                                                                                                                                           |
+| **status:**       | El estado significa si el luchador está en mantenimiento, si el valor es 1 significa SÍ, la información se ocultará para todos en la aplicación real. Como puede ver, algunos de los peleadores que aun no han salido en la global están marcados como 1, por eso no puede ver en la lista principal de la aplicación.                                                     |
+| **striker:**      | El Striker quiere decir si el luchador también tiene la información sobre su forma de Striker. Puede ser 0 si NO, y 1 si es SI, ya que puede ver dentro de la información detallada de cada luchador que presiona dentro de la aplicación, observe que la navegación inferior con la información del striker aparece en los tabs, si no lo ve porque el ** striker = 0 **. |
 
-To modify or add fighters go to [fighter.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/fighters.json) or if you want the chinese version [chinese_fighters.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_fighters.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+Para modificar o agregar luchadoras ve a [fighter.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/fighters.json) o si quieres la versión china [chinese_fighters.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_fighters.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ---
 
@@ -107,7 +107,7 @@ To modify or add fighters go to [fighter.json](https://github.com/ultimate-guide
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fightsouls.jpg" align="right" width="32%"/>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 
 Structure:
 
@@ -123,21 +123,21 @@ Structure:
 }
 ```
 
-| Key                 | Description                                                                                                                                      |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **fighter_id:**     | Unique ID will be reference all the information related to the fighter.                                                                          |
-| **name:**           | Name of the fightsoul can be (TIGER, SNAKE, TURTLE, BEAR, SPACE), try to match this name with the **fightsoul_id** inside of the fighters.json . |
-| **description:**    | English description of the fightsoul, can be at any lvl you want just specify in the description.                                                |
-| **description_es:** | Spanish description of the fightsoul, can be any lvl you want just specify in the description.                                                   |
-| **description_pt:** | Portuguese description of the fightsoul, can be any lvl you want just specify in the description.                                                |
+| Key                 | Description                                                                                                                                        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **fighter_id:**     | La identificación única hará referencia a toda la información relacionada con el luchador.                                                         |
+| **name:**           | Nombre del Fightsoul puede ser (TIGER, SNAKE, TURTLE, BEAR, SPACE), try to match this name with the **fightsoul_id** inside of the fighters.json . |
+| **description:**    | Description en Ingles del fightsoul, puede ser cualquier nivel que desees solo especificalo.                                                       |
+| **description_es:** | Description en Español del fightsoul, puede ser cualquier nivel que desees solo especificalo.                                                      |
+| **description_pt:** | Description en Portugues del fightsoul, puede ser cualquier nivel que desees solo especificalo.                                                    |
 
-To modify or add fightsouls go to [fightsouls.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/fightsouls.json) or if you want the chinese version [chinese_fightsouls.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_fightsouls.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug. |
+Para modificar o agregar almas de lucha, vaya a [fightsouls.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/fightsouls.json) o si quieres la versión china [chinese_fightsouls.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_fightsouls.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error. |
 
 ## Fates
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fates.jpeg" align="right" width="32%"/>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 
 Structure:
 
