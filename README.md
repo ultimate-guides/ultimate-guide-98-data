@@ -270,7 +270,7 @@ Structure:
 
 | Key                 | Description                                        |
 | ------------------- | -------------------------------------------------- |
-| **name:**           | The name of the weapon.                            |
+| **name:**           | The name of the Skill.                             |
 | **description:**    | English description of the Skill(the benefits).    |
 | **description_es:** | Spanish description of the Skill(the benefits).    |
 | **description_pt:** | Portuguese description of the Skill(the benefits). |

@@ -44,7 +44,7 @@ Sea lo más detallado posible y proporcione capturas de pantalla y todos los reg
 
 Para navegar por una sección o documento que desee, vea la tabla de contenido y lea las reglas para modificar o agregar información.
 
-# Table of Content
+# Tabla de Contenido
 
 -   Fighters
     -   [List of fighters](#List-of-Fighters)
@@ -161,18 +161,18 @@ Structure:
 }
 ```
 
-| Key         | Description                                                                                  |
-| ----------- | -------------------------------------------------------------------------------------------- |
-| **bosses:** | The name of the fighters separate with comas, can be any name, no need fighter_id this time. |
-| **attr:**   | The benefit of complete the fighters , like ATK + 20% , HP + 25% etc.                        |
+| Key         | Description                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------- |
+| **bosses:** | El nombre de los luchadores se separa con comas, puede ser cualquier nombre, no necesita fighter_id esta vez. |
+| **attr:**   | El beneficio de completar los luchadores, como ATK + 20%, HP + 25%, etc.                                      |
 
-To modify or add fighters go to [fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/fates.json) or if you want the chinese version [chinese_fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_fates.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+Para modificar o agregar fates ve a [fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/fates.json) o si quieres la versión china [chinese_fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_fates.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Partners
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/partners.jpeg" align="right" width="32%"/>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 
 Structure:
 
@@ -195,7 +195,7 @@ Structure:
     <img src="https://www.ultimate-guides.net/assets/ug98/img/fashions.jpeg"  width="32%"/>
 </p>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 Structure:
 
 ```json
@@ -209,16 +209,16 @@ Structure:
 }
 ```
 
-| Key                         | Description                                                     |
-| --------------------------- | --------------------------------------------------------------- |
-| **name:**                   | The name of the fashion.                                        |
-| **cost:**                   | The cost of the fashion in diamonds (8800 need to be a number). |
-| **atribute_1, atribute_2:** | The benefits of the fashion that gives when user buy it.        |
-| **img_name:**               | The name of the fashion file.                                   |
+| Key                         | Description                                                    |
+| --------------------------- | -------------------------------------------------------------- |
+| **name:**                   | El nombre del Fashion.                                         |
+| **cost:**                   | El costo del Fashion en diamantes (8800 debe ser un número).   |
+| **atribute_1, atribute_2:** | Los beneficios del Fashion que da cuando el usuario la compra. |
+| **img_name:**               | El nombre del Archivo del fashion.                             |
 
 ## Weapons
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 
 <p align="center"> 
     <img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" width="32%"/>
@@ -239,13 +239,13 @@ Structure:
 }
 ```
 
-| Key                 | Description                                         |
-| ------------------- | --------------------------------------------------- |
-| **name:**           | The name of the weapon.                             |
-| **description:**    | English description of the weapon(the benefits).    |
-| **description_es:** | Spanish description of the weapon(the benefits).    |
-| **description_pt:** | Portuguese description of the weapon(the benefits). |
-| **contributor:**    | The name of the person who add or edit the weapon   |
+| Key                 | Description                                                                   |
+| ------------------- | ----------------------------------------------------------------------------- |
+| **name:**           | El nombre del arma.                                                           |
+| **description:**    | Description en Ingles del arma(los beneficios).                               |
+| **description_es:** | Description en Español del arma(los beneficios).                              |
+| **description_pt:** | Description en Portuguese del arma(los beneficios).                           |
+| **contributor:**    | El nombre de la persona que agrega o edita el arma. ejemplo (PETS - Server 5) |
 
 ## Skills
 
@@ -253,7 +253,7 @@ Structure:
     <img src="https://www.ultimate-guides.net/assets/ug98/img/skills.jpeg"  width="32%"/>
 </p>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 Structure:
 
 ```json
@@ -270,14 +270,14 @@ Structure:
 }
 ```
 
-| Key                 | Description                                        |
-| ------------------- | -------------------------------------------------- |
-| **name:**           | The name of the weapon.                            |
-| **description:**    | English description of the Skill(the benefits).    |
-| **description_es:** | Spanish description of the Skill(the benefits).    |
-| **description_pt:** | Portuguese description of the Skill(the benefits). |
+| Key                 | Description                          |
+| ------------------- | ------------------------------------ |
+| **name:**           | El nombre del skill.                 |
+| **description:**    | Description en Ingles del Skill.     |
+| **description_es:** | Description en Español del Skill.    |
+| **description_pt:** | Description en Portuguese del Skill. |
 
-To modify or add skills go to [skills.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills.json) or if you want the chinese version [chinese_fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+Para modificar o agregar skills, vaya a [skills.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills.json) o si quieres la versión china [chinese_fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Skills 8 Elements (Gates)
 
@@ -285,7 +285,7 @@ To modify or add skills go to [skills.json](https://github.com/ultimate-guides/u
     <img src="https://www.ultimate-guides.net/assets/ug98/img/skills_elements.jpeg"  width="32%"/>
 </p>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 
 Structure:
 
@@ -320,7 +320,7 @@ Structure:
 | **water_es:**   | Spanish description of the water.              |
 | **water_pt:**   | Portuguese description of the water.           |
 
-To modify or add skills_elements go to [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) or if you want the chinese version [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+To modify or add skills_elements go to [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) o si quieres la versión china [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Time Line
 
@@ -328,7 +328,7 @@ To modify or add skills_elements go to [skills_elements.json](https://github.com
     <img src="https://www.ultimate-guides.net/assets/ug98/img/time_line.jpeg"  width="32%"/>
 </p>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 
 Structure:
 
@@ -356,13 +356,13 @@ Structure:
 | **fighter_id:** | The fighter_id where need to get all the info from the fighters.json or chinese_fighters.json, fighter_id need to exist in that files before put in the time Line |
 | **date:**       | The release date of the time limited chest or other events                                                                                                        |
 
-To modify or add Time Line go to [time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/time_line.json) or if you want the chinese version [chinese_time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_time_line.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+To modify or add Time Line go to [time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/time_line.json) o si quieres la versión china [chinese_time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_time_line.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Recommended Runes
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/recommended_runes.GIF" align="right" width="32%"/>
 
-For modify this section use the reference of **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** .
 
 Structure:
 
@@ -394,7 +394,7 @@ Structure:
 | **description_es:** | The Spanish Description of why is good for the fighter                                    |
 | **description_pt:** | The Portuguese Description of why is good for the fighter                                 |
 
-To modify or add Recommended runes go to [recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/recommended_runes.json) or if you want the chinese version [chinese_recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_recommended_runes.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+To modify or add Recommended runes go to [recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/recommended_runes.json) o si quieres la versión china [chinese_recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_recommended_runes.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Follow us
 
