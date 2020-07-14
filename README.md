@@ -48,8 +48,12 @@ To navigate a desire section or document, see the table of content and read the 
     -   [List of fighters](#List-of-Fighters)
     -   [Fightsouls](#Fightsouls)
     -   [Fates](#Fates)
+    -   [Weapons](#Weapons)
 -   Others
+
     -   [Time Line](#Time-Line)
+    -   [Follow us](#Follow-us)
+    -   [Donate](#Donate)
 
 ## List of Fighters
 
