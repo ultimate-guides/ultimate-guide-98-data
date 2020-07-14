@@ -1533,6 +1533,45 @@
 			"badge_id": "DAZZLIING",
 			"status": 1,
 			"striker": 0
+		},
+		{
+			"fighter_id": "MAXIMA_XIV",
+			"fightsoul_id": "BEAR",
+			"name": "MAXIMA XIV",
+			"chinese_name": "マキシマXIV ",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 1,
+			"striker": 0
+		},
+		{
+			"fighter_id": "CHANG_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "CHANG XIV",
+			"chinese_name": "チャンXIV",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 1,
+			"striker": 0
+		},
+		{
+			"fighter_id": "CHOI_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "CHOI XIV",
+			"chinese_name": "チョイ XIV",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 1,
+			"striker": 0
 		}
 	]
 }

@@ -52,6 +52,21 @@
 		},
 		{
 			"title": "TIME LIMITED CHEST",
+			"fighter_id": "MAXIMA_XIV",
+			"date": "07/04/2020"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
+			"fighter_id": "CHANG_XIV",
+			"date": "06/05/2020"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
+			"fighter_id": "CHOI_XIV",
+			"date": "02/06/2020"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
 			"fighter_id": "SAIKI_DEMON",
 			"date": "07/07/2020"
 		},
