@@ -48,6 +48,7 @@ To navigate a desire section or document, see the table of content and read the 
     -   [List of fighters](#List-of-Fighters)
     -   [Fightsouls](#Fightsouls)
     -   [Fates](#Fates)
+    -   [Partners](#Partners)
     -   [Weapons](#Weapons)
     -   [Skills](#Skills)
     -   [Skills 8 Elements (Gates)](<#Skills-8-Elements-(Gates)>)
