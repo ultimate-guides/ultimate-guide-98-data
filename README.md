@@ -316,6 +316,42 @@ Structure:
 
 To modify or add skills_elements go to [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) or if you want the chinese version [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
 
+## Time Line
+
+<p align="center"> 
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/time_line.jpeg"  width="32%"/>
+</p>
+
+For modify this section use the reference of **fighter_id** .
+
+Structure:
+
+```json
+"time_line": [{
+	"title": "TIME LIMITED CHEST",
+	"fighter_id": "MAXIMA_XIV",
+	"date": "07/04/2020"
+},
+{
+	"title": "TIME LIMITED CHEST",
+	"fighter_id": "CHANG_XIV",
+	"date": "06/05/2020"
+},
+{
+	"title": "TIME LIMITED CHEST",
+	"fighter_id": "CHOI_XIV",
+	"date": "02/06/2020"
+}]
+```
+
+| Key             | Description                                                                                                                                                       |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **title:**      | The title of the event if was time Limited or other event.                                                                                                        |
+| **fighter_id:** | The fighter_id where need to get all the info from the fighters.json or chinese_fighters.json, fighter_id need to exist in that files before put in the time Line |
+| **date:**       | The release date of the time limited chest or other events                                                                                                        |
+
+To modify or add Time Line go to [time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/time_line.json) or if you want the chinese version [chinese_time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_time_line.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+
 ## Follow us
 
 Facebook Fan Page - https://www.facebook.com/UgKof98/
