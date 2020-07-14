@@ -55,6 +55,7 @@ To navigate a desire section or document, see the table of content and read the 
 -   Others
 
     -   [Time Line](#Time-Line)
+    -   [Recommended Runes](#Recommended-Runes)
     -   [Follow us](#Follow-us)
     -   [Donate](#Donate)
 
@@ -353,6 +354,44 @@ Structure:
 
 To modify or add Time Line go to [time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/time_line.json) or if you want the chinese version [chinese_time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_time_line.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
 
+## Recommended Runes
+
+<img src="https://www.ultimate-guides.net/assets/ug98/img/recommended_runes.GIF" align="right" width="32%"/>
+
+For modify this section use the reference of **fighter_id** .
+
+Structure:
+
+```json
+"recommended_runes": [
+		{
+			"fighter_id": "KYO",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		}]
+```
+
+| Key                 | Description                                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| **rune_id:**        | The id of the Rune can be (KILLING, GODS, WOLVES, CHAOS, BOLLING, DRAGON, EARTH, HEART ). |
+| **description:**    | The English Description of why is good for the fighter                                    |
+| **description_es:** | The Spanish Description of why is good for the fighter                                    |
+| **description_pt:** | The Portuguese Description of why is good for the fighter                                 |
+
+To modify or add Recommended runes go to [recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/recommended_runes.json) or if you want the chinese version [chinese_recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_recommended_runes.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+
 ## Follow us
 
 Facebook Fan Page - https://www.facebook.com/UgKof98/
@@ -368,4 +407,3 @@ If you like our work, you can donate , 2 years of work with the comunnity to mad
 <p align="center">
 <a href='https://ko-fi.com/G2G11VE3M' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
-````
