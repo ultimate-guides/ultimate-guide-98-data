@@ -1520,6 +1520,19 @@
 			"badge_id": "DAZZLIING",
 			"status": 1,
 			"striker": 0
+		},
+		{
+			"fighter_id": "KING_XIII",
+			"fightsoul_id": "SNAKE",
+			"name": "KING XIII",
+			"chinese_name": "キングXIII ",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "FEMALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLIING",
+			"status": 1,
+			"striker": 0
 		}
 	]
 }
