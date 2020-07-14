@@ -49,6 +49,7 @@ To navigate a desire section or document, see the table of content and read the 
     -   [Fightsouls](#Fightsouls)
     -   [Fates](#Fates)
     -   [Weapons](#Weapons)
+    -   [Skills](#Skills)
 -   Others
 
     -   [Time Line](#Time-Line)
@@ -239,6 +240,38 @@ Structure:
 | **description_pt:** | Portuguese description of the weapon(the benefits). |
 | **contributor:**    | The name of the person who add or edit the weapon   |
 
+## Skills
+
+<p align="center"> 
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/skills.jpeg"  width="32%"/>
+</p>
+
+For modify this section use the reference of **fighter_id** .
+Structure:
+
+```json
+{
+	"fighter_id": "KYO",
+	"skills": [
+		{
+			"name": "Fire Ball",
+			"description": "Make use of Kusanagi's bloodline to conjure up scorching flames, then strikes a single enemy with great combos with burning. Also cause burning damage for 2 rounds.",
+			"description_es": "Hace uso del linaje de la sangre Kusanagi para conjurar abrasadoras llamas, luego ataca a un solo objetivo único con gran combinación en llamas. Ademas causa efecto quemadura por 2 rondas.",
+			"description_pt": "Usa a sua linhagem Kusanagi para conjurar chamas ardentes e, em seguida, atingir um único inimigo com grandes combinações, causando queimaduras. Também causa dano de queimadura por 2 rodadas."
+		}
+	]
+}
+```
+
+| Key                 | Description                                        |
+| ------------------- | -------------------------------------------------- |
+| **name:**           | The name of the weapon.                            |
+| **description:**    | English description of the Skill(the benefits).    |
+| **description_es:** | Spanish description of the Skill(the benefits).    |
+| **description_pt:** | Portuguese description of the Skill(the benefits). |
+
+To modify or add fighters go to [skills.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills.json) or if you want the chinese version [chinese_fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+
 ## Follow us
 
 Facebook Fan Page - https://www.facebook.com/UgKof98/
@@ -251,6 +284,7 @@ Twitter - https://twitter.com/98_guide
 
 If you like our work, you can donate , 2 years of work with the comunnity to made this posible.
 
-<p align="center">  
+<p align="center">
 <a href='https://ko-fi.com/G2G11VE3M' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
+````
