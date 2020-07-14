@@ -50,6 +50,7 @@ To navigate a desire section or document, see the table of content and read the 
     -   [Fates](#Fates)
     -   [Weapons](#Weapons)
     -   [Skills](#Skills)
+    -   [Skills 8 Elements (Gates)](<#Skills-8-Elements-(Gates)>)
 -   Others
 
     -   [Time Line](#Time-Line)
@@ -270,7 +271,50 @@ Structure:
 | **description_es:** | Spanish description of the Skill(the benefits).    |
 | **description_pt:** | Portuguese description of the Skill(the benefits). |
 
-To modify or add fighters go to [skills.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills.json) or if you want the chinese version [chinese_fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+To modify or add skills go to [skills.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills.json) or if you want the chinese version [chinese_fates.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+
+## Skills 8 Elements (Gates)
+
+<p align="center"> 
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/skills_elements.jpeg"  width="32%"/>
+</p>
+
+For modify this section use the reference of **fighter_id** .
+
+Structure:
+
+```json
+"skills_elements": [
+		{
+			"fighter_id": "KYO",
+			"skills_elements": {
+				"lake": "Increases allies ATK in battle. <font color='#FFA726'>When Kyo enters the fight, if the match has Iori or Crazy Iori (ally or foe), increase own Control Resist by 30% for 2 rounds and increase initial Rage by 200.</font>",
+				"lake_es": "Incrementa el ATK de los aliados. <font color='#FFA726'>Cuando Kyo esta en el campo, Si Iori o Crazy Iori (aliado u enemigo) estan en batalla, Incrementara su resistencia al control en 30% por 2 rounds e incrementara su rage inicial en 200.</font>",
+				"lake_pt": "Usa a sua linhagem Kusanagi para conjurar chamas ardentes e, em seguida, atingir um único inimigo com grandes combinações, causando queimaduras. Também causa dano de queimadura por 2 rodadas. <font color='#FFA726'>Recupera 100 de Rage.</font>",
+				"thunder": "Make use of Kusanagi's bloodline to conjure up scorching flames, then strikes a single enemy with great combos with burning. Also cause burning damage for 2 rounds. <font color='#FFA726'>Restore own rage by 100.</font>",
+				"thunder_es": "Hace uso del linaje de la sangre Kusanagi para conjurar abrasadoras llamas, luego ataca a un solo objetivo único con gran combinación en llamas. Ademas causa efecto quemadura por 2 rondas. <font color='#FFA726'>Recupera 100 de Rage.</font>",
+				"thunder_pt": "Usa a sua linhagem Kusanagi para conjurar chamas ardentes e, em seguida, atingir um único inimigo com grandes combinações, causando queimaduras. Também causa dano de queimadura por 2 rodadas. <font color='#FFA726'>Recupera 100 de Rage.</font>",
+				"water": "Strikes a column, burning them and reducing their Rage by 300. <font color='#FFA726'>Reduce targets 100% recovery rage for 1 round, deal 20% additional DMG to the front row.</font>",
+				"water_es": "Impacta a una columna quemando los enemigos y reduciendoles la ira (rage) por 300. <font color='#FFA726'>Los enemigos golpeados no cargaran Rage por 1 turno, 20% de daño adicional al enemigo que este en la fila delantera.</font>",
+				"water_pt": "Atinge uma coluna de inimigos, causando queimadura <font color='#FFA726'>e reduzindo 300 de rage. Reduz completamente a recarga de rage do inimigo atingido por 1 round; causa 20% de dano adicional ao inimigo atingido que estiver na linha de frente.</font>"
+			}
+		}
+		]
+```
+
+| Key             | Description                                    |
+| --------------- | ---------------------------------------------- |
+| **lake:**       | English description of the lake element.       |
+| **lake_es:**    | Spanish description of the lake element.       |
+| **lake_pt:**    | Portuguese description of the lake element.    |
+| **thunder:**    | English description of the thunder element.    |
+| **thunder_es:** | Spanish description of the thunder element.    |
+| **thunder_pt:** | Portuguese description of the thunder element. |
+| **water:**      | English description of the water element.      |
+| **water_es:**   | Spanish description of the water.              |
+| **water_pt:**   | Portuguese description of the water.           |
+
+To modify or add skills_elements go to [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) or if you want the chinese version [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
 
 ## Follow us
 
