@@ -2930,11 +2930,17 @@
 			]
 		},
 		{
-			"fighter_id": "ROBERT_XIII",
+			"fighter_id": "ROBERT_XI",
 			"skills": [
 				{
-					"name": null,
-					"description": null,
+					"name": "Phantom Leg",
+					"description": "Attack a single enemy, attack bounty target first; Bounty Hunt permanently reduce the Crit and Crit Power of bounty target by 20% (can be dispelled); Bounty Reward: steal the target's small skill Res by 20% for 2 rounds; if the target is a 14-apt Fighter, restore own MAX HP by 10%; if the target is a 15-apt Fighter, restore own, MAX HP by 15%; reduce the target's ATK, DEF and the speed of Rage restoration by 20%; when attacking the bounty target, if its HP is less than 50%, restore 100 Rage, and gain 80% Control-Free for one round. Deal 160%+15 DMG to the target ",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Haou Shoukou Ken",
+					"description": "Attack a single enemy, attack bounty target first High Bounty Hunt reduce DMG, ULT DMG, Confrol. and HP Drain of the bounty target by 20% for 2 rounds; increase DMG. Res Rate, and HP Drain by 20%; High Bounty Reward: steal the target's ULT Res by 15% for 2 rounds; if the target is a 14-apt Fighter, restore own MAX HP by 15%; if the target is a 15-apt Fighter, restore own MAX HP by 25%; deal an extra DMG to Tank fighters by 25%: increase Crit of all Tank fighters in Robert Xl's column by 20%; release small skill this round; for the next 2 rounds, reduce DMG ally DPS fighters take from TANK fighters by 10%, reduce DMG ally GANK fighters take from DPS fighters by 10%. reduce DMG ally TANK fighters take from GANK fighters by 10% (the effect will not be dispelled or stolen). After the weapon awakens, the effect will be improved in an all-round way. The extra DMG will be dealt to the bounty target Deal 400%+24 DMG to the target",
 					"description_es": null,
 					"description_pt": null
 				},
@@ -2945,14 +2951,8 @@
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
-					"description_pt": null
-				},
-				{
-					"name": null,
-					"description": null,
+					"name": "Bounty Combo",
+					"description": "When each round starts, a random enemy (except Yuri) will be marked as a bounty target (if there is a bounty target, there won't be mark). The mark will exist until the bounty target dies. When the bounty target dies, Robert Xl's ULT Res and small skill Res will permanently increase by 15% (can be dispelled). When a "bounty target" is attacked, an extra 30 Rage will be restored to the fighter who attacks; when a bounty target dies, 100 Rage will be immediately restored to all ally fighters, and an exta-a 100 Rage will be restored to Robert Xl and the fighter who kills the bounty target. reward, Concentrated Combo effect will be superimposed (increase ATK by 10%, up to 4 levels); when the bounty target dies, the Concentrated Combo effect will be interrupted and the count reset When Robert Xl's HP drops below 60%, Debuff will be immediately cleared, 20% HP will be restoreed, which takes effect up to twice. When the bounty target dies, the chance of the effect will be reset When there is a bounty target. Robert Xl's DEF increases by 30% and is immune to stunning; otherwise, Robert Xl's ATK and DEF increases by 15%. Robert Xl will release a small skill for the first round. Interfere Skill]: Reduce all the enemies' ATK, not stackable with other interfere skills. Interfere skill does not take effect when the fighter is deployed as an aid fighter. Decrease all enemies ATK by 15% (At lvl 1)",
 					"description_es": null,
 					"description_pt": null
 				}

@@ -910,10 +910,10 @@
 			}
 		},
 		{
-			"fighter_id": "ROBERT_XIII",
+			"fighter_id": "ROBERT_XI",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "SNAKE",
+				"description": "restore 40 extra Rage when attacking, and restore a large amount of Rage when ally or enemy dies",
 				"description_es": null,
 				"description_pt": null
 			}

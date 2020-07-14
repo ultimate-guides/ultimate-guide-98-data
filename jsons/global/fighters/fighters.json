@@ -1314,9 +1314,9 @@
 			"striker": 0
 		},
 		{
-			"fighter_id": "ROBERT_XIII",
+			"fighter_id": "ROBERT_XI",
 			"fightsoul_id": "SNAKE",
-			"name": "robert xiii",
+			"name": "robert xi",
 			"chinese_name": "罗伯特XI",
 			"api": 15,
 			"type_id": "GANK",

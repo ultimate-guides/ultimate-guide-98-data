@@ -1718,19 +1718,19 @@
 			]
 		},
 		{
-			"fighter_id": "ROBERT_XIII",
+			"fighter_id": "ROBERT_XI",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Robert Xl, Robert, Robert 2002 UM ",
+					"attr": "ATK+ 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "obert Xl, Mr. Karate, New Mr.Karate, Yuri ",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Robert Xl, Benimaru, Hinako,",
+					"attr": "HP + 25%"
 				}
 			]
 		},
