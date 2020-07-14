@@ -921,8 +921,8 @@
 		{
 			"fighter_id": "ATHENA_XIII",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "TURTLE",
+				"description": "Gain 24 extra Rage when under attack and much extra Rage when attacking",
 				"description_es": null,
 				"description_pt": null
 			}

@@ -1738,16 +1738,16 @@
 			"fighter_id": "ATHENA_XIII",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Superstar Athena, Shun'ei, Tung Fu Rue ",
+					"attr": " ATK+ 25% "
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Superstar Athena, Kensou, Bao",
+					"attr": "ATK+25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Superstar Athena, Athena , Athena 2002 UM",
+					"attr": "HP + 25%"
 				}
 			]
 		},

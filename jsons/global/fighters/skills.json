@@ -2962,8 +2962,14 @@
 			"fighter_id": "ATHENA_XIII",
 			"skills": [
 				{
-					"name": null,
-					"description": null,
+					"name": "Superpower Sword",
+					"description": "Attack a column, decrease the targets' healing effect by 40% and if the target is male fighter the effect will be 60% (last for whole battle and ignore debuff-free). Add healing effect on one ally fighter with the lowest HP percentage (recover HP of 120% ATK at once then recover HP of 80% ATK and 50 Rage in the next 2 rounds). Deal 160%+15 DMG to a column",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Crystal Wave",
+					"description": "Attack random enemy in rear row, deal 30% DMG to the enemies around the main target and this DMG won' t restore Rage. Increase 20% own Res Rate. Clear all ally female fighters' debuff and the target' s buff. Decrease the main target' s 30% Crit Power and Block Power, and the effect will be 40% if the target is male fighter. Recover all allies HP of 100% ATK. According to the number of Healing releases, this ULT will provide Superstar Athena extra effects for 2 rounds as follows. Once, increase 25% Anti-Crit Twice, increase 15% ATK. Three times, increase 15% DEF. Four times, increase 25% Block. After weapon awakened, the effects will greatly increase. It could decrease the main target' s Anti-ULT and make Superstar Athena herself and some Idolater cast skills in this round. Deal 400%+24 DMG to target",
 					"description_es": null,
 					"description_pt": null
 				},
@@ -2974,14 +2980,8 @@
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
-					"description_pt": null
-				},
-				{
-					"name": null,
-					"description": null,
+					"name": "Superstar",
+					"description": "Increase 40% healing rate. When Superstar Athena appears, all ally fighter will become Idolater (Increase 30% healing rate till Superstar Athena dies). Increase own Res Rate and male Idolater get 30% effect female Idolater get 60% effect and 10% Anti-Crit for 2 rounds. When Superstar Athena appears, she will increase 6% ATK, small skill Res rate, and Anti-ULT per one Idolater .When each Idolater dies, she will increase 200 Rage, 6% ULT DMG (stack 5 times as much and last for whole battle), 20% Crit (stack 5 times as much and be cleared when ULT makes CriQ. When only Superstar Athena and one enemy appear, she will increase 15% ATK, ULT DMG. skill Res rate, Anti-ULT and 30% Crit, and last for whole battle. When there' s Idolater .Superstar Athena will get Eternal Idol effect (restore 250 Rage at once when her Rage decreases each time except cast ULT. Superstar Athena won' t die when get deadly DMG, no more than once for each round). When triggering the undying effect of Eternal Idol , the Idolater with highest HP percentage will ti'igger Support (clear Superstar Athena' s debuff and make her be immune to debuff for 1 round. If this Idolater has more than 50% HP, it will fransfer 30% HP to Superstar Athena). Meanwhile, this Idolater' s debuff (include petoification) will be cleared and get the Healing effect Increase 20% Res Rate",
 					"description_es": null,
 					"description_pt": null
 				}
