@@ -1271,7 +1271,7 @@
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0,
+			"status": 1,
 			"striker": 0
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0,
+			"status": 1,
 			"striker": 0
 		},
 		{
@@ -1310,7 +1310,7 @@
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0,
+			"status": 1,
 			"striker": 0
 		},
 		{
@@ -1362,7 +1362,7 @@
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0,
+			"status": 1,
 			"striker": 0
 		},
 		{
@@ -1392,7 +1392,7 @@
 			"striker": 0
 		},
 		{
-			"fighter_id": "VICE XIII",
+			"fighter_id": "VICE_XIII",
 			"fightsoul_id": "TIGER",
 			"name": "vice xiii",
 			"chinese_name": "死亡微笑薇丝",
@@ -1401,7 +1401,7 @@
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0,
+			"status": 1,
 			"striker": 0
 		},
 		{
@@ -1414,7 +1414,7 @@
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0,
+			"status": 1,
 			"striker": 0
 		},
 		{
