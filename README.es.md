@@ -310,17 +310,17 @@ Structure:
 
 | Key             | Description                                    |
 | --------------- | ---------------------------------------------- |
-| **lake:**       | English description of the lake element.       |
-| **lake_es:**    | Spanish description of the lake element.       |
-| **lake_pt:**    | Portuguese description of the lake element.    |
-| **thunder:**    | English description of the thunder element.    |
-| **thunder_es:** | Spanish description of the thunder element.    |
-| **thunder_pt:** | Portuguese description of the thunder element. |
-| **water:**      | English description of the water element.      |
-| **water_es:**   | Spanish description of the water.              |
-| **water_pt:**   | Portuguese description of the water.           |
+| **lake:**       | Descripcion en Ingles del lake element.        |
+| **lake_es:**    | Descripcion en Español del lake element.       |
+| **lake_pt:**    | Descripcion en Portuguese del lake element.    |
+| **thunder:**    | Descripcion en Ingles del thunder element.     |
+| **thunder_es:** | Descripcion en Español del thunder element.    |
+| **thunder_pt:** | Descripcion en Portuguese del thunder element. |
+| **water:**      | Descripcion en Ingles del water element.       |
+| **water_es:**   | Descripcion en Español del water.              |
+| **water_pt:**   | Descripcion en Portuguese del water.           |
 
-To modify or add skills_elements go to [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) o si quieres la versión china [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
+Para modificar o agregar skills_elements, vaya a [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) o si quieres la versión china [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Time Line
 
@@ -350,13 +350,13 @@ Structure:
 }]
 ```
 
-| Key             | Description                                                                                                                                                       |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **title:**      | The title of the event if was time Limited or other event.                                                                                                        |
-| **fighter_id:** | The fighter_id where need to get all the info from the fighters.json or chinese_fighters.json, fighter_id need to exist in that files before put in the time Line |
-| **date:**       | The release date of the time limited chest or other events                                                                                                        |
+| Key             | Description                                                                                                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **title:**      | El título del evento si fue por tiempo limitado u otro evento.                                                                                                            |
+| **fighter_id:** | El fighter_id se necesita para obtener toda la información de fighters.json o chinese_fighters.json, fighter_id debe existir en esos archivos antes de poner el time Line |
+| **date:**       | La fecha de lanzamiento del Time Limited Chest u otros eventos.                                                                                                           |
 
-To modify or add Time Line go to [time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/time_line.json) o si quieres la versión china [chinese_time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_time_line.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
+Para modificar o agregar Time Line, vaya a [time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/time_line.json) o si quieres la versión china [chinese_time_line.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_time_line.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Recommended Runes
 
@@ -387,14 +387,14 @@ Structure:
 		}]
 ```
 
-| Key                 | Description                                                                               |
-| ------------------- | ----------------------------------------------------------------------------------------- |
-| **rune_id:**        | The id of the Rune can be (KILLING, GODS, WOLVES, CHAOS, BOLLING, DRAGON, EARTH, HEART ). |
-| **description:**    | The English Description of why is good for the fighter                                    |
-| **description_es:** | The Spanish Description of why is good for the fighter                                    |
-| **description_pt:** | The Portuguese Description of why is good for the fighter                                 |
+| Key                 | Description                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------------------ |
+| **rune_id:**        | La identificación de la Runa puede ser (KILLING, GODS, WOLVES, CHAOS, BOLLING, DRAGON, EARTH, HEART ). |
+| **description:**    | Descripcion en Ingles de porque es bueno para el peleador                                              |
+| **description_es:** | Descripcion en Español de porque es bueno para el peleador                                             |
+| **description_pt:** | Descripcion en Portuguese de porque es bueno para el peleador                                          |
 
-To modify or add Recommended runes go to [recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/recommended_runes.json) o si quieres la versión china [chinese_recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_recommended_runes.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
+Para modificar o agregar runas recomendadas, vaya a [recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/recommended_runes.json) o si quieres la versión china [chinese_recommended_runes.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_recommended_runes.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Follow us
 
@@ -406,7 +406,7 @@ Twitter - https://twitter.com/98_guide
 
 ### Donate
 
-If you like our work, you can donate , 2 years of work with the comunnity to made this posible.
+Si le gusta nuestro trabajo, puede donar hemos trabajdo 2 años con la comunidad para que esto sea posible.
 
 <p align="center">
 <a href='https://ko-fi.com/G2G11VE3M' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
