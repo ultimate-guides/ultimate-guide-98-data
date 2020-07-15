@@ -284,7 +284,7 @@ To modify or add skills go to [skills.json](https://github.com/ultimate-guides/u
     <img src="https://www.ultimate-guides.net/assets/ug98/img/skills_elements.jpeg"  width="32%"/>
 </p>
 
-For modify this section use the reference of **fighter_id** . To visualize the improve of the skill add the tag`<font color='#FFA726'> Texto que cambiara de color</font>` with this everyone will see with color like the image above.
+For modify this section use the reference of **fighter_id** . To visualize the improve of the skill add the tag`<font color='#FFA726'>`<font color='#FFA726'> `Text with color`</font>`</font>` with this everyone will see with color like the image above.
 
 Structure of the json:
 
