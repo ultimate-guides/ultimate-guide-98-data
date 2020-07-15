@@ -109,7 +109,7 @@ Para modificar o agregar luchadoras ve a [fighter.json](https://github.com/ultim
 
 Para modificar esta sección use la referencia de **fighter_id** .
 
-Structure:
+Estructura del json:
 
 ```json
 {
@@ -139,7 +139,7 @@ Para modificar o agregar almas de lucha, vaya a [fightsouls.json](https://github
 
 Para modificar esta sección use la referencia de **fighter_id** .
 
-Structure:
+Estructura del json:
 
 ```json
 {
@@ -174,7 +174,7 @@ Para modificar o agregar fates ve a [fates.json](https://github.com/ultimate-gui
 
 Para modificar esta sección use la referencia de **fighter_id** .
 
-Structure:
+Estructura del json:
 
 ```json
 {
@@ -196,7 +196,7 @@ Structure:
 </p>
 
 Para modificar esta sección use la referencia de **fighter_id** .
-Structure:
+Estructura del json:
 
 ```json
 {
@@ -224,7 +224,7 @@ Para modificar esta sección use la referencia de **fighter_id** .
     <img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" width="32%"/>
 </a>
 
-Structure:
+Estructura del json:
 
 ```json
 {
@@ -254,7 +254,8 @@ Structure:
 </p>
 
 Para modificar esta sección use la referencia de **fighter_id** .
-Structure:
+
+Estructura del json:
 
 ```json
 {
@@ -287,7 +288,7 @@ Para modificar o agregar skills, vaya a [skills.json](https://github.com/ultimat
 
 Para modificar esta sección use la referencia de **fighter_id** .
 
-Structure:
+Estructura del json:
 
 ```json
 "skills_elements": [
@@ -330,7 +331,7 @@ Para modificar o agregar skills_elements, vaya a [skills_elements.json](https://
 
 Para modificar esta sección use la referencia de **fighter_id** .
 
-Structure:
+Estructura del json:
 
 ```json
 "time_line": [{
@@ -364,7 +365,7 @@ Para modificar o agregar Time Line, vaya a [time_line.json](https://github.com/u
 
 Para modificar esta sección use la referencia de **fighter_id** .
 
-Structure:
+Estructura del json:
 
 ```json
 "recommended_runes": [

@@ -65,7 +65,7 @@ To navigate a desire section or document, see the table of content and read the 
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fighters.GIF" align="right" width="32%"/>
 
-Every fighter require **fighter_id** is a unique id will be referenced in all documents (skills, weapons, fashions, etc). This is the structure:
+Every fighter require **fighter_id** is a unique id will be referenced in all documents (skills, weapons, fashions, etc). This is the structure of the json:
 
 ```json
 {
@@ -107,7 +107,7 @@ To modify or add fighters go to [fighter.json](https://github.com/ultimate-guide
 
 For modify this section use the reference of **fighter_id** .
 
-Structure:
+Structure of the json:
 
 ```json
 {
@@ -137,7 +137,7 @@ To modify or add fightsouls go to [fightsouls.json](https://github.com/ultimate-
 
 For modify this section use the reference of **fighter_id** .
 
-Structure:
+Structure of the json:
 
 ```json
 {
@@ -172,7 +172,7 @@ To modify or add fighters go to [fates.json](https://github.com/ultimate-guides/
 
 For modify this section use the reference of **fighter_id** .
 
-Structure:
+Structure of the json:
 
 ```json
 {
@@ -194,7 +194,7 @@ Structure:
 </p>
 
 For modify this section use the reference of **fighter_id** .
-Structure:
+Structure of the json:
 
 ```json
 {
@@ -222,7 +222,7 @@ For modify this section use the reference of **fighter_id** .
     <img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" width="32%"/>
 </a>
 
-Structure:
+Structure of the json:
 
 ```json
 {
@@ -252,7 +252,8 @@ Structure:
 </p>
 
 For modify this section use the reference of **fighter_id** .
-Structure:
+
+Structure of the json:
 
 ```json
 {
@@ -285,7 +286,7 @@ To modify or add skills go to [skills.json](https://github.com/ultimate-guides/u
 
 For modify this section use the reference of **fighter_id** .
 
-Structure:
+Structure of the json:
 
 ```json
 "skills_elements": [
@@ -328,7 +329,7 @@ To modify or add skills_elements go to [skills_elements.json](https://github.com
 
 For modify this section use the reference of **fighter_id** .
 
-Structure:
+Structure of the json:
 
 ```json
 "time_line": [{
@@ -362,7 +363,7 @@ To modify or add Time Line go to [time_line.json](https://github.com/ultimate-gu
 
 For modify this section use the reference of **fighter_id** .
 
-Structure:
+Structure of the json:
 
 ```json
 "recommended_runes": [
