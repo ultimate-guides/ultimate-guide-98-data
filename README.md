@@ -54,6 +54,7 @@ To navigate a desire section or document, see the table of content and read the 
     -   [Weapons](#Weapons)
     -   [Skills](#Skills)
     -   [Skills 8 Elements (Gates)](<#Skills-8-Elements-(Gates)>)
+    -   [Strikers](#Strikers)
 -   Others
 
     -   [Time Line](#Time-Line)
@@ -320,6 +321,90 @@ Structure of the json:
 | **water_pt:**   | Portuguese description of the water.           |
 
 To modify or add skills_elements go to [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) or if you want the chinese version [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
+
+## Strikers
+
+For modify this section use the reference of **fighter_id** .
+
+<p align="center"> 
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/strikers.jpeg" width="32%"/>
+</a>
+
+Structure of the json:
+
+```json
+"strikers": [
+		{
+			"fighter_id": "KYO",
+			"striker_info": {
+				"trigger_condition": "Round 1 onwards, will trigger Aid when 2 of your fighters trigger skill within each round, cooldwn for 2 rounds.",
+				"trigger_condition_es": null,
+				"trigger_condition_pt": null,
+				"green_1": "Aid Skill will also cause burning, losing 2.5% HP, lasts 2 rounds",
+				"green_1_es": "",
+				"green_1_pt": "",
+				"blue_1": "Burning DMG effect increased to 3.5%",
+				"blue_1_es": "",
+				"blue_1_pt": "",
+				"purple_1": "Burning effect decrease target 10% rage recovery, 2 rounds",
+				"purple_1_es": "",
+				"purple_1_pt": "",
+				"purple_2": "Burning effect increase to 3 rounds",
+				"purple_2_es": "",
+				"purple_2_pt": "",
+				"orange_1": "Burning DMG increased to 4.5%",
+				"orange_1_es": "",
+				"orange_1_pt": "",
+				"orange_2": "Burning decrease rage recovery effect increased to 20%",
+				"orange_2_es": "",
+				"orange_2_pt": "",
+				"orange_3": "Burning effect increased to 4 rounds",
+				"orange_3_es": "",
+				"orange_3_pt": "",
+				"red": "",
+				"red_es": "",
+				"red_pt": "",
+				"red_1": "",
+				"red_1_es": "",
+				"red_1_pt": ""
+			}
+		}]
+```
+
+| Key                       | Description                                                             |
+| ------------------------- | ----------------------------------------------------------------------- |
+| **trigger_condition:**    | English description of the condition too activate the striker (aid).    |
+| **trigger_condition_es:** | Spanish description of the condition too activate the striker (aid).    |
+| **trigger_condition_pt:** | Portuguese description of the condition too activate the striker (aid). |
+| **green_1:**              | English description of the green promote.                               |
+| **green_1_es:**           | Spanish description of the green promote.                               |
+| **green_1_pt:**           | Portuguese description of the green promote.                            |
+| **blue_1:**               | English description of the blue + 1 promote.                            |
+| **blue_1_es:**            | Spanish description of the blue + 1 promote.                            |
+| **blue_1_pt:**            | Portuguese description of the blue + 1 promote.                         |
+| **purple_1:**             | English description of the purple + 1 promote.                          |
+| **purple_1_es:**          | Spanish description of the purple + 1 promote.                          |
+| **purple_1_pt:**          | Portuguese description of the purple + 1 promote.                       |
+| **purple_2:**             | English description of the purple + 2 promote.                          |
+| **purple_2_es:**          | Spanish description of the purple + 2 promote.                          |
+| **purple_2_pt:**          | Portuguese description of the purple + 2 promote.                       |
+| **orange_1:**             | English description of the orange + 1 promote.                          |
+| **orange_1_es:**          | Spanish description of the orange + 1 promote.                          |
+| **orange_1_pt:**          | Portuguese description of the orange + 1 promote.                       |
+| **orange_2:**             | English description of the orange + 2 promote.                          |
+| **orange_2_es:**          | Spanish description of the orange + 2 promote.                          |
+| **orange_2_pt:**          | Portuguese description of the orange + 2 promote.                       |
+| **orange_3:**             | English description of the orange + 3 promote.                          |
+| **orange_3_es:**          | Spanish description of the orange + 3 promote.                          |
+| **orange_3_pt:**          | Portuguese description of the orange + 3 promote.                       |
+| **red:**                  | English description of the red promote.                                 |
+| **red_es:**               | Spanish description of the red promote.                                 |
+| **red_pt:**               | Portuguese description of the red promote.                              |
+| **red_1:**                | English description of the red + 1 promote.                             |
+| **red_1_es:**             | Spanish description of the red + 1 promote.                             |
+| **red_1_pt:**             | Portuguese description of the red + 1 promote.                          |
+
+To modify or add strikers go to [strikers.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/strikers.json) or if you want the chinese version [chinese_strikers.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_strikers.json), once you finished you can pull request your modification or you can open a issue to request a feature or a bug.
 
 ## Time Line
 

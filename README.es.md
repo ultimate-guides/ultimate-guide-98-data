@@ -54,6 +54,7 @@ Para navegar por una sección o documento que desee, vea la tabla de contenido y
     -   [Weapons](#Weapons)
     -   [Skills](#Skills)
     -   [Skills 8 Elements (Gates)](<#Skills-8-Elements-(Gates)>)
+    -   [Strikers](#Strikers)
 -   Others
 
     -   [Time Line](#Time-Line)
@@ -322,6 +323,90 @@ Estructura del json:
 | **water_pt:**   | Descripcion en Portuguese del water.           |
 
 Para modificar o agregar skills_elements, vaya a [skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/skills_elements.json) o si quieres la versión china [chinese_skills_elements.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_skills_elements.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
+
+## Strikers
+
+For modify this section use the reference of **fighter_id** .
+
+<p align="center"> 
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/strikers.jpeg" width="32%"/>
+</a>
+
+Estructura del json:
+
+```json
+"strikers": [
+		{
+			"fighter_id": "KYO",
+			"striker_info": {
+				"trigger_condition": "Round 1 onwards, will trigger Aid when 2 of your fighters trigger skill within each round, cooldwn for 2 rounds.",
+				"trigger_condition_es": null,
+				"trigger_condition_pt": null,
+				"green_1": "Aid Skill will also cause burning, losing 2.5% HP, lasts 2 rounds",
+				"green_1_es": "",
+				"green_1_pt": "",
+				"blue_1": "Burning DMG effect increased to 3.5%",
+				"blue_1_es": "",
+				"blue_1_pt": "",
+				"purple_1": "Burning effect decrease target 10% rage recovery, 2 rounds",
+				"purple_1_es": "",
+				"purple_1_pt": "",
+				"purple_2": "Burning effect increase to 3 rounds",
+				"purple_2_es": "",
+				"purple_2_pt": "",
+				"orange_1": "Burning DMG increased to 4.5%",
+				"orange_1_es": "",
+				"orange_1_pt": "",
+				"orange_2": "Burning decrease rage recovery effect increased to 20%",
+				"orange_2_es": "",
+				"orange_2_pt": "",
+				"orange_3": "Burning effect increased to 4 rounds",
+				"orange_3_es": "",
+				"orange_3_pt": "",
+				"red": "",
+				"red_es": "",
+				"red_pt": "",
+				"red_1": "",
+				"red_1_es": "",
+				"red_1_pt": ""
+			}
+		}]
+```
+
+| Key                       | Description                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| **trigger_condition:**    | Descripcion en Ingles de las condiciones para activiar el striker (aid).     |
+| **trigger_condition_es:** | Descripcion en Español de las condiciones para activiar el striker (aid).    |
+| **trigger_condition_pt:** | Descripcion en Portuguese de las condiciones para activiar el striker (aid). |
+| **green_1:**              | Descripcion en Ingles del green promote.                                     |
+| **green_1_es:**           | Descripcion en Español del green promote.                                    |
+| **green_1_pt:**           | Descripcion en Portuguese del green promote.                                 |
+| **blue_1:**               | Descripcion en Ingles del blue + 1 promote.                                  |
+| **blue_1_es:**            | Descripcion en Español del blue + 1 promote.                                 |
+| **blue_1_pt:**            | Descripcion en Portuguese del blue + 1 promote.                              |
+| **purple_1:**             | Descripcion en Ingles del purple + 1 promote.                                |
+| **purple_1_es:**          | Descripcion en Español del purple + 1 promote.                               |
+| **purple_1_pt:**          | Descripcion en Portuguese del purple + 1 promote.                            |
+| **purple_2:**             | Descripcion en Ingles del purple + 2 promote.                                |
+| **purple_2_es:**          | Descripcion en Español del purple + 2 promote.                               |
+| **purple_2_pt:**          | Descripcion en Portuguese del purple + 2 promote.                            |
+| **orange_1:**             | Descripcion en Ingles del orange + 1 promote.                                |
+| **orange_1_es:**          | Descripcion en Español del orange + 1 promote.                               |
+| **orange_1_pt:**          | Descripcion en Portuguese del orange + 1 promote.                            |
+| **orange_2:**             | Descripcion en Ingles del orange + 2 promote.                                |
+| **orange_2_es:**          | Descripcion en Español del orange + 2 promote.                               |
+| **orange_2_pt:**          | Descripcion en Portuguese del orange + 2 promote.                            |
+| **orange_3:**             | Descripcion en Ingles del orange + 3 promote.                                |
+| **orange_3_es:**          | Descripcion en Español del orange + 3 promote.                               |
+| **orange_3_pt:**          | Descripcion en Portuguese del orange + 3 promote.                            |
+| **red:**                  | Descripcion en Ingles del red promote.                                       |
+| **red_es:**               | Descripcion en Español del red promote.                                      |
+| **red_pt:**               | Descripcion en Portuguese del red promote.                                   |
+| **red_1:**                | Descripcion en Ingles del red + 1 promote.                                   |
+| **red_1_es:**             | Descripcion en Español del red + 1 promote.                                  |
+| **red_1_pt:**             | Descripcion en Portuguese del red + 1 promote.                               |
+
+Para modificar o agregar strikers, vaya a [strikers.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/strikers.json) o si quieres la versión china [chinese_strikers.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_strikers.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Time Line
 
