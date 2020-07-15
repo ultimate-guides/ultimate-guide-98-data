@@ -286,7 +286,7 @@ Para modificar o agregar skills, vaya a [skills.json](https://github.com/ultimat
     <img src="https://www.ultimate-guides.net/assets/ug98/img/skills_elements.jpeg"  width="32%"/>
 </p>
 
-Para modificar esta sección use la referencia de **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** . Para que la mejora sea mas notoria incluye el tag `<font color='#FFA726'> Texto que cambiara de color</font>` asi sera mas visible como se ve en la imagen de arriba
 
 Estructura del json:
 
