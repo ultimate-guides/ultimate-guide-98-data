@@ -64,6 +64,8 @@ Para navegar por una sección o documento que desee, vea la tabla de contenido y
 
 ## List of Fighters
 
+[![Everything Is AWESOME](https://www.ultimate-guides.net/assets/ug98/img/github_fightersList.png)](https://youtu.be/HBwH86Onp6E 'Fighters List')
+
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fighters.GIF" align="right" width="32%"/>
 
 Cada luchador requiere ** fighter_id ** es una identificación única que se hará referencia en todos los documentos (skills, weapons, fashions, etc).
