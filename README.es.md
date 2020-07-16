@@ -15,7 +15,7 @@
       src="https://www.ultimate-guides.net/assets/ug98/img/appstore.png" 
       width="32%"
     />
-  <a href="https://play.google.com/store?hl=en">
+  <a href="https://play.google.com/store/apps/details?id=com.ultimateguides.ultimatePro">
 <img
       alt="ultimate Guide Pro"
       src="https://www.ultimate-guides.net/assets/ug98/img/google_play.png" 
