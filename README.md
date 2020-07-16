@@ -32,6 +32,21 @@ The propose of this repo is for everyone who wants to contribute sharing informa
 
 If you don't know how to use git system, don't worry you can send the modifications trough the [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) .
 
+## Unlock all the Assets of the APPs
+
+Go to Settings Android/iOS and hit the Code button and type the password: **ug98**
+
+<div align="center">
+    <img
+      alt="ultimate Guide 98"
+      src="https://www.ultimate-guides.net/assets/ug98/img/unlock_ios.jpeg" 
+      width="32%" />
+	  <img
+      alt="ultimate Guide 98"
+      src="https://www.ultimate-guides.net/assets/ug98/img/unllock_android.png" 
+      width="32%" />	
+</div>
+
 ## How To submit a feature or Bug
 
 Click on the [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) and search for an existing issue. Voting thumbs up on an issue will increase its priority and attention. Duplicates will eventually be closed.

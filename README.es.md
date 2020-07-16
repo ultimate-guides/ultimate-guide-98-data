@@ -32,6 +32,21 @@ El proposito de este repositorio es para todos los que quieran contribuir compar
 
 Si no sabes cómo usar el sistema git, no te preocupes, puedes enviar las modificaciones a través del [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) .
 
+## Desbloquea todas las imagenes de la APPs
+
+Ve a Settings Android/iOS y presiona el boton Code password: **ug98**
+
+<div align="center">
+    <img
+      alt="ultimate Guide 98"
+      src="https://www.ultimate-guides.net/assets/ug98/img/unlock_ios.jpeg" 
+      width="32%" />
+	  <img
+      alt="ultimate Guide 98"
+      src="https://www.ultimate-guides.net/assets/ug98/img/unllock_android.png" 
+      width="32%" />	
+</div>
+
 ## Como enviar una mejora o subir un Bug
 
 Presiona en [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) y busca un problema existente. Votar con aprobación sobre un tema aumentará su prioridad y atención. Los duplicados eventualmente se cerrarán.
