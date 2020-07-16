@@ -1789,16 +1789,16 @@
 			"fighter_id": "KENSOU_XII",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Rising Dragon Kensou, Superstar Athena, Kensou, Athena ",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Rising Dragon Kensou, Bao,  Chin ",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Own Rising Dragon Kensou ,Robert 2002 UM, Shingo, ",
+					"attr": "ATK + 25%"
 				}
 			]
 		},

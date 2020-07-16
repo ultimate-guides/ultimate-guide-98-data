@@ -948,7 +948,7 @@
 		{
 			"fighter_id": "KENSOU_XII",
 			"fightsoul": {
-				"name": null,
+				"name": "Recover 40 exfra Rage when attacking, and recover 40 Rage if ally or enemy dies.",
 				"description": null,
 				"description_es": null,
 				"description_pt": null

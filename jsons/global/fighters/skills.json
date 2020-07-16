@@ -3049,8 +3049,14 @@
 			"fighter_id": "KENSOU_XII",
 			"skills": [
 				{
-					"name": null,
-					"description": null,
+					"name": "Ryuu Bokko ",
+					"description": "Attack a column, dispel the target column buft absorb the main target's HP by 10%; increase the Crit and Crit Power by 30%; increase DMG caused to those who have been affected by Dragon Eclipse of the target column by 30%; recover 150 Rage; when Rage is lower than 300, the Recovery will double, and recover the same amounts, of Rage for a random Fighter whose Rage is not full on your side; if Rising Dragon Kensou is in Dragon Mode, two layers of Psychic Spirit will be restored, and there is a 50% chance that small skills be released in next Deal 200%+24 DMG to a column",
+					"description_es": "Ataca una columna, disipa el buft de la columna objetivo absorbe el PS del objetivo principal un 10%; aumentar el poder Crit y Crit en un 30%; aumento de DMG causado a aquellos que se han visto afectados por Eclipse de dragón de la columna objetivo en un 30%; recuperar 150 de ira; cuando la ira es inferior a 300, la recuperación se duplicará y recuperará la misma cantidad de ira para un luchador al azar cuya ira no está llena de tu lado; si Rising Dragon Kensou está en Modo Dragón, dos capas de Espíritu Psíquico serán restauradas, y hay un 50% de probabilidades de que las pequeñas habilidades sean liberadas en el próximo Transaccione 200% 24 DMG a una columna",
+					"description_pt": null
+				},
+				{
+					"name": "Shinryuu Seioushou ",
+					"description": "Attack a single enemy, deal 40% DMG to a random enemy, increase ATK and DEF by 20% and Pierce by 30%: deal an extra DMG to all targets hit by 80% ATK, and there Is a 40% chance to add Dragon Eclipse effect (deal constant DMG with no Rage restoration to the target and decrease the target's healing effect and the speed of Rage restoration by 40% for two rounds) to the target each layer of Psychic Spirit has a 10% chance to absorb main target's small skill for 2 rounds, and then one layer of Psychic Spirit will be restored. After the weapon awakens, the effect will be improved in an all-round way. Each layer of Dragon Spirit will absorb 10% of the main target's small skill Res and ULT Res for 2 rounds, and a layer of Dragon Spirit will be gained. Deal 400%+24 DMG to the target Dragon Eclipse deals 100%+7 constant DMG",
 					"description_es": null,
 					"description_pt": null
 				},
@@ -3061,14 +3067,8 @@
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
-					"description_pt": null
-				},
-				{
-					"name": null,
-					"description": null,
+					"name": "Rising Dragon s ",
+					"description": "The psychic power will greatiy sfrengthen normal attack DAAG and small skills, and all DMG caused ignore the immunity to Debuff, but the small skills become more difficult to be activated (the chance is reduced by 40%); increase normal attack DMG; normal attack absorbs the target's HP by 8%, has a 40% chance to stun the target and has a 30% chance to obtain a layer of Psychic Spirit (increase Res Rate and Anti-Crit by 9%, four layers can be added at mosfl; Gain four layers of Psychic Spirit at the beginning of the battle, and fcim one layer of Psychic Spirit into Dragon Spirit (increase DIVIG and ULT DMG by 11%, three times at most) at the beginning of each round. When Dragon Spirit is added to three layers, Rising Dragon Kensou will devour all Psychic Spirit and enter the Dragon Mode (recover HP by 20% instantly, increase DMG and ULT DMG by 33%, and exti'a DMG of small skills will be increased for one round, during which Psychic Spirit cannot be obtained), and the small skills must be released in this round; when Rising Dragon Kensou acts in Dragon Mode, he will immediately dispel his own Debuff (including petrifaction); Each DMG received will not exceed 70% of MAX HP (DMG received will be reduced to 35% in Dragon Mode); After being attacked, if the HP is lower than 50%, Dragon Rage (instantly gain a layer of Dragon Spirit, which recovers 20% HP and 200 Rage,and immune to Rage Reduction effect in one round) will be activated. once at most in each round; if there is only one Fighter in both sides at the beginning of battle, Dragon Rage will not recover HP. Increase own 60% Normal Attack DMG During the Dragon Mode, increase own 20% small skill DMG",
 					"description_es": null,
 					"description_pt": null
 				}
