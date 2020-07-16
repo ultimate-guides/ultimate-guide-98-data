@@ -1381,9 +1381,9 @@
 		{
 			"fighter_id": "MAI_NEW",
 			"fightsoul_id": "TIGER",
-			"name": "Aluring Mai",
+			"name": "mai new",
 			"chinese_name": "魅 · 不知火舞",
-			"api": 15,
+			"api": 14,
 			"type_id": "DPS",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
