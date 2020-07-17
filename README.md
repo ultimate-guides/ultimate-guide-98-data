@@ -1,6 +1,7 @@
 # Ultimate Guide 98 Data
 
 ![Node.js CI](https://github.com/ultimate-guides/ultimate-guide-98-data/workflows/Node.js%20CI/badge.svg?branch=master)
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/ultimate-guides/ultimate-guide-98-data/watchers/)
 
 <!--lint disable no-literal-urls-->
 <p align="center">  
