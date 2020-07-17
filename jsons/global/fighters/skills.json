@@ -3080,13 +3080,13 @@
 				{
 					"name": "Nocturnal Plover",
 					"description": "Attack a single target, damage increases by 40% for male fighters. Recover 100 Rage for self and a random female ally, 30% chance to tempt male targets (add confusion effect upon target, making him unable to release a small skill or Ult. within 1 round, and making him attack Alluring Mai and copy buff to Alluring Mai.This does not take effect upon taunted or confused target); increase own control-free rate by 30%",
-					"description_es": "",
+					"description_es": "Ataca a un solo objetivo, el daño aumenta en un 40% para los luchadores masculinos. Recupera 100 Rage para ti y una aliada femenina al azar, 30% de probabilidad de tentar a los objetivos masculinos (agrega efecto de confusión sobre el objetivo, lo que lo hace incapaz de liberar el small skill o Ult. En 1 ronda, y lo hace atacar a Alluring Mai y copiar buff a Alluring Mai. Esto no tiene efecto sobre el objetivo burlado o confundido); aumentar su propio control-free en un 30%",
 					"description_pt": ""
 				},
 				{
 					"name": "Blossom Storm",
 					"description": "Increase own DMG rate and Res rate by 20% for 2 rounds, attack a column; 50% chance to tempt male targets (add confusion effect upon target, making him unable to release small skill or ULt within 1 round, and making him attack Alluring Mai and copy buff to Alluring Mai, This does not take effect upon taunted or confused target); recover 100 rage for back row fighters Awaken to greatly increase the effect and recover rage for the team.",
-					"description_es": "",
+					"description_es": "Aumenta la tasa de DMG y la Res Rate en un 20% durante 2 rondas, ataca una columna; 50% de probabilidad de tentar a los objetivos masculinos (agregue efecto de confusión sobre el objetivo, lo que lo hará incapaz de liberar small skill o ULt en 1 ronda, y lo hará atacar a Alluring Mai y copiar buff a Alluring Mai, esto no tiene efecto sobre el objetivo burlado o confundido ); recupera 100 de Rage para los luchadores de la última fila.",
 					"description_pt": ""
 				},
 				{
@@ -3098,7 +3098,7 @@
 				{
 					"name": "Dance of the Phoenix",
 					"description": "Increase own rage recovery speed; when deployed, increease Ult damage by 4% for each female fighter on own side (throughout the battle); all attack deal burning effect upon hit target (which causes 100% attack burning damage each round for 2 rounds. The burning does not incur rage recovery) and if the target is male, the small skill and ULt deal soul burning effect (which causes 100% attack burning damage and reduces 100 rage each round for 2 rounds. The burning does not incur rage recovery); each time she deals the ult, increase own ATK and DEF by 5%. wichj can stack up to 3 times.",
-					"description_es": "",
+					"description_es": "Aumentar la velocidad de recuperación de ira propia; cuando se despliega, aumenta el daño de Ult en un 4% para cada luchadora en su propio lado (durante la batalla); todos los efectos de ataque de ataque al objetivo golpeado (que causa un 100% de daño de ataque de ataque en cada ronda durante 2 rondas. El incendio no incurre en recuperación de ira) y si el objetivo es hombre, la habilidad pequeña y el ULT causan efecto de quema de alma (que causa 100 % de daño de ataque de ataque y reduce 100 de ira en cada ronda durante 2 rondas. La quema no genera recuperación de ira); cada vez que reparta el ult, aumenta su propio ATK y DEF en un 5%. que puede acumularse hasta 3 veces.",
 					"description_pt": ""
 				}
 			]
