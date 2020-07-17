@@ -957,8 +957,8 @@
 		{
 			"fighter_id": "MAI_NEW",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "SNAKE",
+				"description": "Attack recovers extra rage by 40, while injury recovers certain extra rage.",
 				"description_es": null,
 				"description_pt": null
 			}
