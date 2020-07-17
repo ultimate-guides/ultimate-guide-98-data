@@ -1995,7 +1995,7 @@
 				},
 				{
 					"name": "Power of Origin",
-					"description": "Increase front ally DMG, rear ally max HP (when deployed only 1 effect will be activated); Upon entering fight, if there is only Iori himself, both effects activate, each round will randomly dispel a random ally debuff (freeze, paralysis, stun, silence, s",
+					"description": "Increase front ally DMG, rear ally max HP (when deployed only 1 effect will be activated); Upon entering fight, if there is only Iori himself, both effects activate, each round will randomly dispel a random ally debuff (freeze, paralysis, stun, silence, soul burn); when deployed, if certain fightsoul in your team exceeds 2, will get the effects of this fightsoul.\n[Captain Skill]: When deployed, if certain fightsoul in your team exceeds 2, will increase all allies (including self) 40% block rate for 2 rounds (does not stack with igniz support skill)",
 					"description_es": "Incrementa el DMG del aliado del frente o el maximo HP del aliado trasero (solo 1 efecto a la vez), Al entrar en batalla si solo esta Iori se activan ambos efectos. Cada round aleatoriamente quitara un debuff de nivel 1 de un aliado (freeze, paralysis, st",
 					"description_pt": ""
 				}
@@ -2679,19 +2679,19 @@
 				},
 				{
 					"name": "Dual Push",
-					"description": "Attack a column; dispel own debuff and increase own DMG Res by 20%; reduce target column's DMG Res by 20%; turn 30% of the total damage to heal self and ally with lowest HP. Deal small skill this round. If this ULT doesn't kill any enemy, there's 50% chan",
+					"description": "Attack a column; dispel own debuff and increase own DMG Res by 20%; reduce target column's DMG Res by 20%; turn 30% of the total damage to heal self and ally with lowest HP. Deal small skill this round. If this ULT doesn't kill any enemy, there's 50% chance to trigger Emei Spear (up to once each round): recover full rage inmediately and switch to ULT Emei Spear, increasing own ATK and DEF by 15%, and attack random target (attack first the target hit by previous ULT), dispel their buff; deal extra damage of 120% ATK (the damage neglects immune effect), and add cutting effect upon  target (lose 10% max HP upon round start, reduce 50% healing effect. Lasts for 2 rounds).\nAfter the weapon is awakened, fully increase the effect. If the ULT doesn't kill anyone, trigger Emei Spear.",
 					"description_es": "Ataca una columna; se quita sus debuffs e incrementa en 20% su DMG Rate; Reduce en 20% la Res Rate de la columna que golpea; Convierte el 30% del DMG que hace en HP y se cura a si mismo y al aliado con menor HP. Luego garantiza que lance su skill menor es",
 					"description_pt": null
 				},
 				{
-					"name": "",
+					"name": "Remote ATK-HP Enhance",
 					"description": null,
 					"description_es": "",
 					"description_pt": null
 				},
 				{
 					"name": "SkillFull Change",
-					"description": "When Shion enters the battlefield, if more than a half of the allies are female, Shion pretends to be a female (and therefore considered a female instead of male);\nincrease own cri power, increase 7% crit rate and block rate for each fighter of shion's cu",
+					"description": "When Shion enters the battlefield, if more than a half of the allies are female, Shion pretends to be a female (and therefore considered a female instead of male);\nincrease own cri power, increase 7% crit rate and block rate for each fighter of shion's current gender (including Shion), max 28%; if only one fighter on each side when Shion enters the battle, increase 15% crit rate and block rate; During Round 1 after Shion makes his debut, he is inmune to any debuff; dispel own debuff (petrification included) for each figther of Shion's opposite sex dies on either side; recover 15% own HP for each fighter of Shion's sex dies on either side;\nWhen fatally injured, Shion escapes to an extra dimension (which will dispel own buff and debuff) and returns upon own side's next round, recovering 50% HP and seizing all buff and 300 rage from the last enemy who attacked Shion previously. This effect can be triggered once only during each battle.",
 					"description_es": "Cuando Shion entra en el campo, Si mas de la mitad de tus aliados son mujeres, Shion pretendera que es una mujer y SI hay mas hombres pretendera que es hombre. Incrementa su Crit power, Incrementa en 7% su Crit Rate y Block Rate por cada peleador del gene",
 					"description_pt": null
 				}
@@ -2732,25 +2732,25 @@
 				{
 					"name": "Twisting Smash",
 					"description": "Attack a single enemy, increase self column's block rate by 30%",
-					"description_es": "",
+					"description_es": "Ataca a un solo enemigo, aumentando el bloqueo de su columna en un 30%",
 					"description_pt": ""
 				},
 				{
 					"name": "Sumo Throw",
 					"description": "Attack a single enemy, reducing target's control-free rate by 30%, with 50% chance to stun. This lasts for 2 rounds.",
-					"description_es": "",
+					"description_es": "Ataca a un solo objetivo, reduciendo su resistencia al control en un 30% y teniendo un 50% de chance de aplicar Stun. Este Stun durara 2 turnos.",
 					"description_pt": ""
 				},
 				{
-					"name": "",
-					"description": "",
-					"description_es": "",
+					"name": "Super HP Enhancement",
+					"description": "Permanently increase own HP.",
+					"description_es": "Aumenta permanentemente su HP.",
 					"description_pt": ""
 				},
 				{
 					"name": "Controller",
 					"description": "Increase own block rate, with 50% chance to recover 200 extra rage when blocking",
-					"description_es": "",
+					"description_es": "Aumenta su propio bloqueo, con un 50% de probabilidades de ganar un 200 de Rage extra cuando bloquea.",
 					"description_pt": ""
 				}
 			]
@@ -2761,13 +2761,13 @@
 				{
 					"name": "V-Chop",
 					"description": "Strikes a single target Silent Soldier Leona will permanently increase 12% small skill probability when she silence enemy once. (Max stack 3 times) In the first two rounds, V-Chop will cause injury effect (the target will decrease 50% Healing Rate and lose 8% HP each round without restoring Rage. For 2 rounds), and increase 2 random ally fighters 15% Res Rate. From the third round, the 50% DMG made by V-Chop will turn into HP for ally fighter who has the lowest HP, and decrease 2 random enemy fighters 15% DMG. Deal 160%+15 DMG to target",
-					"description_es": null,
+					"description_es": "Ataca a un solo objetivo. Leona aumentara permanentemente su probabilidad de Skill en un 12% cuando ella silencie a un enemigo (hasta un maximo de 3 veces). En los dos primeros Rounds, V-Chop causara efecto de sangrado (al objetivo se le reducira un 50% su curacion y perdera 8% de HP cada round sin poder recuperar Rage. El efecto dura 2 rounds), y aumentara en un 15% el Res Rate de 2 aliados aleatorios. Desde el tercer round, el 50% del DMG de V-Chop se convertira en HP para el aliado que posea la menor cantidad de HP, y reducira en un 15% el DMG de 2 enemigos aleatorios.",
 					"description_pt": null
 				},
 				{
-					"name": "Sober",
+					"name": "Saber",
 					"description": "Strikes a single target and increase 25% own ATK & DEF for 2 rounds. When triggering ULT in the first two rounds, make Lethal effect on all ally fighters (the DMG will increase 25% when enemy fighter's HP is above  50%), and the attacked target will decrease 20% Res Rate and Rage Recovery. If the target isn't killed, it has 80% chance to be silenced for 1 round. When triggering ULT form the third round, make Slash effect on all ally fighters (the DMG will increase 20% when enemy fighter's HP is below 45%), and make 40% splash DMG against nearby enemies. If the target is killed, there will be 35% chance to silence all other targets which were hit for 1 round. Deal 400%+24 DMG to target",
-					"description_es": null,
+					"description_es": "Ataca a un solo enemigo y aumenta en un 25% su propio ATK y DEF por 2 rounds. Cuando lanza su ULT en los primeros 2 rounds, otorga el efecto \"Lethal\" en todos los aliados (auementara en un 25% el DMG cuando el HP del enemigo este sobre el 50%), y le reducira un 20% el Res Rate y la recuperacion de Rage al enemigo. Si el objetivo no muere, habra un 80% de probabilidad de que quede silenciado por un round. Cuando Leona lanza su ULT desde el tercer turno, otorga el efecto \"Slash\" a todos los aliados (el DMG auementara en un 20% si el HP del enemigo es menor a 45%), y aplicara un 40% de splash DMG a los enemigos cercanos. Si el enemigo muere, habra un 35% de probabilidad de que los otros objetivos queden silenciados por un round.",
 					"description_pt": null
 				},
 				{
@@ -2779,7 +2779,7 @@
 				{
 					"name": "Silent Soldier",
 					"description": "Get DMG and Res Rate. When Silent Soldier Leona appears. If in the front, she can increase 20% Anti-ULT and restore 40 extra Rage when under attack. If in the rear. she can increase 20% ULT DMG and restore 40 extra Rage when ally fighters die. When there is only Silent Soldier Leona, she can get all the effects above. Silent Soldier Leona is immune to silence effects. When under attack, triggers Tactics Adoption effect (increase 10% Res Rate and max stack 4 times. All stacks will be cleared at the end of round) Silent Soldier Leona won't die immediately when getting fatal DMG. Instead. She can clear all debuffe and restore 30% HP, and silence the attacker for 2 rounds (no more than once in each battle) When Silent Soldier Leona appears, If there're no less than 3 fighters from Ikari Team in your formation or aid formation. Silent Soldier Leona will get 35% Conti-ol. Increase 15% DMG and Res Rate",
-					"description_es": null,
+					"description_es": "Obtiene DMG y Res Rate. Cuando Silent Soldier Leona entra, si esta en la linea del frente aumentara en un 20% su ULT-Res y restaurara 40 extra de Rage cuando es atacada. Si esta en la linea de atras, aumentara en un 20% su ULT-DMG y recuperara un 40 extra de Rage cuando un aliado muere. Si solo esta presente Silent Soldier Leona, obtiene todos los efectos anteriores. Silent Soldier Leona es inmune al silencio. Cuando es atacada, aplica el efecto \"Tactics Adoption\" (aumentara en 10% su Res Rate hasta un maximo de 4 veces. Estos se reiniciaran al final del turno); Silent Soldier Leona no morira su recibe un DMG fatal, en su lugar, se quitara todos los debuffs y recuperara un 30% de su HP, silenciando a su atacante por dos rounds (solamente una vez por combate). Cuando Silent Soldier Leona entra, si hay mas de 3 luchadores del Ikari Team en tu formacion o como strikers, Silent Soldier Leona ganara un 35% de control.",
 					"description_pt": null
 				}
 			]
@@ -2846,27 +2846,27 @@
 			"fighter_id": "OSWALD",
 			"skills": [
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Diamond",
+					"description": "Attack single enemy with 40% splash DMG against nearby enemies, and all the caused damage doesn't restore Rage. Extra effects vary depending on held cards:\nSpade: Recover 100 Rage for self and a random ally.\nHeart: Recover 10% max HP for self and a random ally.\nDiamond: Cause 60% extra DMG. Cause \"Slash\" (lose 8% max HP each round, without incurring rage restoration, for 2 rounds) to the main target.\nClub: 50% chance to stun the main target, and the 25% chance to stun nearby enemies.",
+					"description_es": "Ataca a un solo enemigo, con un 40% de splash DMG contra los enemigos cercanos, el daño no restaurara Rage. Efectos extra se realizaran dependiendo de las cartas que posea:\nSpade: Recupera 100 de Rage para si mismo y un aliado aleatorio.\nHeart:Recupera un 10% de HP maximo a el y a un aliado.\nDiamond:Causa 60% de daño adicional, causando \"Slash\" (el enemigo pierde un 8% de HP, sin recuperar Rage por 2 rounds) al enemigo principal.\nClub: 50% de probabilidad de stunear al objetivo principal y un 25% de probabilidad de stunear a los enemigos cercanos.",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Poker Flash",
+					"description": "Attack single enemy and increase 20% ATK and DEF; get the \"Shaman Card\" effect (each attack will cause extra DMG of 13% max HP for 2 rounds). Extra effects vary depending on held cards:\nSpade: Steal 200 Rage from the target.\nHeart: Steal 15% max HP from the target.\nDiamond: Increase \"Shaman Card\" DMG by 50%.\nClub: Clear the target's buff and a random controlled ally's debuff.\nAfter weapon awakened, an extra chance is granted for drawing card.",
+					"description_es": "Ataca a un solo enemigo y aumenta en un 20% su ATK y DEF; obtiene el efecto \"Shaman Card\" (cada ataque que cause tendra un DMG extra equivalente al 13% del HP maximo del enemigo por 2 rounds). Tendra efectos extra dependiendo de las cartas que posea:\nSpade: Roba 200 de Rage al objetivo.\nHeart: Roba 15% del HP maximo del objetivo.\nDiamond: Aumenta el DMG del efecto \"Shaman Card\" en un 50%.\nClub: Limpia los buff del objetivo y limpia los debuff de un aliado aleatorio.\nTras despertar el arma, tendra un chance extra para robar una carta.",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Card ATK-HP Enhancement",
+					"description": "Permanently increase ATK and HP.",
+					"description_es": "Aumenta permanentemente el ATK y el HP.",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Trick Master",
+					"description": "Increase Res Rate and 20% max HP. When Oswald appears, he can draw one card (hold for 2 rounds). Since Round 2, he can draw one card (hold for 2 rounds) upon own round start, and extra effects vary depending on held cards (sure to draw a new suit):\nSpade: Recover 150 Rage upon round start. When Rage decreased (except for realising ULT), recover 200 Rage at once.\nHeart: Get 54% Crit Res. Recover 13% Max HP upon round start.\nDiamond: Increase 20% DMG rate, sure to trigger small skill.\nClub: Upon Round start, dispel all own debuff;\nIn Round 1, get 25% extra ULT Res. (This skill's attributes only take effect in battle)",
+					"description_es": "Aumenta su Res Rate y en un 20% su HP maximo. Cuando Oswald entra, puede robar una carta (la mantiene por 2 rounds). Desde el segundo Round, el puede robar una carta (la mantiene por dos rounds) cada vez que el round inicia, y obtiene varios efectos dependiendo de las cartas que posee (se asegura que saldra una distinta):\nSpade: Recupera 150 de Rage cuando el round inicia. Cuando este pierde Rage (excepto al lanzar su ULT), recupera 200 de Rage de inmediato.\nHeart: Obtiene 54% de Crit Res. Recupera un 13% de su HP maximo cuando el round inicia.\nDiamond: Aumenta en 20% su DMG Rate, se asegura que lanzara skill en este round.\nClub: Cuando el round inicia, se quita todos los debuff.\nEn el primer round, obtiene un 25% extra de ULT-Res. (Estos atributos solo seran aplicados en combate)",
 					"description_pt": null
 				}
 			]
@@ -2935,25 +2935,25 @@
 				{
 					"name": "Phantom Leg",
 					"description": "Attack a single enemy, attack bounty target first; Bounty Hunt permanently reduce the Crit and Crit Power of bounty target by 20% (can be dispelled); Bounty Reward: steal the target's small skill Res by 20% for 2 rounds; if the target is a 14-apt Fighter, restore own MAX HP by 10%; if the target is a 15-apt Fighter, restore own, MAX HP by 15%; reduce the target's ATK, DEF and the speed of Rage restoration by 20%; when attacking the bounty target, if its HP is less than 50%, restore 100 Rage, and gain 80% Control-Free for one round. Deal 160%+15 DMG to the target ",
-					"description_es": null,
+					"description_es": "Ataca a un solo enemigo, priorizando al Bounty Target; su skill permanentemente reducira el Crit y el Crit Power del objetivo en un 20% (se puede quitar); Bounty Reward: Roba en un 20% el Skill-Res del objetivo por 2 rounds; si el objetivo es un aptitud 14, restaurara su propio HP maximo en un 10%; si el objetivo es un aptitud 15, restaurara su propio HP maximo en un 15%; reduce el ATK, DEF y recuperacion de Rage del objetivo en un 20%; cuando ataca al Bounty Target, si su HP es menor a 50%, restaura 100 de Rage y gana un 80% de resistencia al control por un turno.",
 					"description_pt": null
 				},
 				{
 					"name": "Haou Shoukou Ken",
 					"description": "Attack a single enemy, attack bounty target first High Bounty Hunt reduce DMG, ULT DMG, Confrol. and HP Drain of the bounty target by 20% for 2 rounds; increase DMG. Res Rate, and HP Drain by 20%; High Bounty Reward: steal the target's ULT Res by 15% for 2 rounds; if the target is a 14-apt Fighter, restore own MAX HP by 15%; if the target is a 15-apt Fighter, restore own MAX HP by 25%; deal an extra DMG to Tank fighters by 25%: increase Crit of all Tank fighters in Robert Xl's column by 20%; release small skill this round; for the next 2 rounds, reduce DMG ally DPS fighters take from TANK fighters by 10%, reduce DMG ally GANK fighters take from DPS fighters by 10%. reduce DMG ally TANK fighters take from GANK fighters by 10% (the effect will not be dispelled or stolen). After the weapon awakens, the effect will be improved in an all-round way. The extra DMG will be dealt to the bounty target Deal 400%+24 DMG to the target",
-					"description_es": null,
+					"description_es": "Ataca a un solo objetivo, priorizando al Bounry Target. El ataque reduce el DMG, ULT DMG, Control y HP Drain del objetivo en un 20% por 2 rounds; aumentando asi su propio DMG, Res Rate y HP Drain en un 20%; High Bounty Reward: Roba un 15% de ULT Res del objetivo por 2 rounds, si el objetivo es un aptitud 14, restaurara su propio HP maximo en un 15%; si el objetivo es un aptitud 15, restaurara su propio HP maximo en un 25%; efectuando un DMG extra a los Tank en un 25%; aumenta el critico de todos los Tanks en la columna de Robert XI en un 20%; asegurara la skill en este turno, y por los siguientes dos turnos, reduce el DMG que los DPS reciben de los Tanks en un 10%; el DMG de que los Ganks reciben de los DPS en un 10% y el DMG que los Tanks reciben de los Ganks en un 10% (el efecto no puede ser quitado o robado).\nTras despertar el arma, los efectos se mejoran en gran medida. DMG extra se efectuara contra el Bounty Target.",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Extreme ATK-HP Enhancement",
+					"description": "Permanently increase own ATK and HP.",
+					"description_es": "Aumenta permanentemente el ATK y el HP.",
 					"description_pt": null
 				},
 				{
 					"name": "Bounty Combo",
 					"description": "When each round starts, a random enemy (except Yuri) will be marked as a bounty target (if there is a bounty target, there won't be mark). The mark will exist until the bounty target dies. When the bounty target dies, Robert Xl's ULT Res and small skill Res will permanently increase by 15% (can be dispelled). When a bounty target is attacked, an extra 30 Rage will be restored to the fighter who attacks; when a bounty target dies, 100 Rage will be immediately restored to all ally fighters, and an exta-a 100 Rage will be restored to Robert Xl and the fighter who kills the bounty target. reward, Concentrated Combo effect will be superimposed (increase ATK by 10%, up to 4 levels); when the bounty target dies, the Concentrated Combo effect will be interrupted and the count reset When Robert Xl's HP drops below 60%, Debuff will be immediately cleared, 20% HP will be restoreed, which takes effect up to twice. When the bounty target dies, the chance of the effect will be reset When there is a bounty target. Robert Xl's DEF increases by 30% and is immune to stunning; otherwise, Robert Xl's ATK and DEF increases by 15%. Robert Xl will release a small skill for the first round. Interfere Skill]: Reduce all the enemies' ATK, not stackable with other interfere skills. Interfere skill does not take effect when the fighter is deployed as an aid fighter. Decrease all enemies ATK by 15% (At lvl 1)",
-					"description_es": null,
+					"description_es": "En cada round, un enemigo aleatorio (excepto Yuri) sera marcado como el Bounty Target (si ya existe uno, no se marcara a ningun otro enemigo). La marca permanecera hasta que el Bounty Target muera. Cuando el Bounty Target muera, el ULT Res y el Skill Res de Robert XI permanentemente se aumentara en un 15% (puede ser quitado). Cuando el Bounty Target es atacado, el peleador que realice el ataque recibira un 30 de Rage extra; cuando el Bounty Target muere, 100 de rage sera inmediatamente restaurado a todos los aliados, y un 100 extra de Rage sera restaurado para Robert XI y el luchador que mate al Bounty Target.\nCuando Robert XI ataca al Bounty Target, acumulara el efecto \"Concentrated Combo\" (aumentando su ataque en un 10%, acumulandose hasta 4 veces); cuando el Bounty Target muere, el efecto del \"Concentrated Combo\" se reiniciara.\nCuando el HP de Robert XI esta en menos del 60%, se limpiara inmediatamente los debuffs y se curara un 20% de su HP, este efecto puede activarse dos veces; cuando el Bounty Target muere, el contador del efecto se reiniciara.\nSi el Bounty Target esta presente, la DEF de Robert XI aumenta en un 30% y se vuelve inmune al stun; De lo contrario, el ATK y la DEF de Robert XI aumenta en un 15%. Robert XI asegurara su skill en el primer round.\n[Interfere Skill]: Reduce el ATK de todos los enemigos, no se puede acumular con otros interfere skills. Esta Interfere Skill no tendra efecto si el luchador esta como striker.",
 					"description_pt": null
 				}
 			]
@@ -2964,25 +2964,25 @@
 				{
 					"name": "Superpower Sword",
 					"description": "Attack a column, decrease the targets' healing effect by 40% and if the target is male fighter the effect will be 60% (last for whole battle and ignore debuff-free). Add healing effect on one ally fighter with the lowest HP percentage (recover HP of 120% ATK at once then recover HP of 80% ATK and 50 Rage in the next 2 rounds). Deal 160%+15 DMG to a column",
-					"description_es": null,
+					"description_es": "Ataca a una columna, reduciendo los efectos de curacion en un 40% y si el objetivo es un hombre el efecto aumentara a un 60% (dura por toda la batalla e ignora la inmunidad al debuff). Añade un efecto de curacion al aliado con el menor porcentaje de HP disponible (recupera HP basado en el 120% del ATK de inmediato, regenerando HP basado en el 80% del ATK y 50 de Rage por los siguientes 2 rounds).",
 					"description_pt": null
 				},
 				{
 					"name": "Crystal Wave",
 					"description": "Attack random enemy in rear row, deal 30% DMG to the enemies around the main target and this DMG won' t restore Rage. Increase 20% own Res Rate. Clear all ally female fighters' debuff and the target' s buff. Decrease the main target' s 30% Crit Power and Block Power, and the effect will be 40% if the target is male fighter. Recover all allies HP of 100% ATK. According to the number of Healing releases, this ULT will provide Superstar Athena extra effects for 2 rounds as follows. Once, increase 25% Anti-Crit Twice, increase 15% ATK. Three times, increase 15% DEF. Four times, increase 25% Block. After weapon awakened, the effects will greatly increase. It could decrease the main target' s Anti-ULT and make Superstar Athena herself and some Idolater cast skills in this round. Deal 400%+24 DMG to target",
-					"description_es": null,
+					"description_es": "Ataca a un enemigo aleatorio en la linea trasera, dañando con un 30% de DMG a los enemigos alrededor del objetivo con un daño que no regenerara Rage. Aumenta en un 20% su propio Res Rate. Limpia todos los debuffs de las aliadas mujeres y quitara los buffs del enemigo objetivo. Reduce el Crit Power y el Block Power del objetivo en un 30%, el efecto aumentara a 40% si el objetivo es un hombre. Restaura el HP de todos los aliados en un 100% de su ATK.\nDependiendo del numero de curaciones realizadas, este ULT entregara efectos extras por los siguientes dos rounds.\nUna vez: Aumenta en un 25% el Anti-Crit.\nDos veces: Aumenta en un 15% el ataque.\nTres veces: Aumenta en un 15% la DEF.\nCuatro veces: Aumenta en un 25% el bloqueo.\nTras despertar el arma, los efectos aumentan en todo sentido. Reducira el Anti-ULT del objetivo y hara a Superstar Athena y a sus \"fans\" soltar skills en este round.",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Superpower ATK-HP",
+					"description": "Permanently increases ATK and HP.",
+					"description_es": "Aumenta permanentemente el ATK y el HP.",
 					"description_pt": null
 				},
 				{
 					"name": "Superstar",
 					"description": "Increase 40% healing rate. When Superstar Athena appears, all ally fighter will become Idolater (Increase 30% healing rate till Superstar Athena dies). Increase own Res Rate and male Idolater get 30% effect female Idolater get 60% effect and 10% Anti-Crit for 2 rounds. When Superstar Athena appears, she will increase 6% ATK, small skill Res rate, and Anti-ULT per one Idolater .When each Idolater dies, she will increase 200 Rage, 6% ULT DMG (stack 5 times as much and last for whole battle), 20% Crit (stack 5 times as much and be cleared when ULT makes CriQ. When only Superstar Athena and one enemy appear, she will increase 15% ATK, ULT DMG. skill Res rate, Anti-ULT and 30% Crit, and last for whole battle. When there' s Idolater .Superstar Athena will get Eternal Idol effect (restore 250 Rage at once when her Rage decreases each time except cast ULT. Superstar Athena won' t die when get deadly DMG, no more than once for each round). When triggering the undying effect of Eternal Idol , the Idolater with highest HP percentage will ti'igger Support (clear Superstar Athena' s debuff and make her be immune to debuff for 1 round. If this Idolater has more than 50% HP, it will fransfer 30% HP to Superstar Athena). Meanwhile, this Idolater' s debuff (include petoification) will be cleared and get the Healing effect Increase 20% Res Rate",
-					"description_es": null,
+					"description_es": "Aumenta en un 40% los efectos de curacion. Cuando Superstar Athena entra, todos los luchadores aliados se vuelven \"fans\" (aumentando en 30% los efectos de curacion hasta que Superstar Athena muera). Aumenta su propio Res Rate, donde los \"fans\" masculinos tendran un 30% de este efecto y las \"fans\" femeninas obtendran un 60% de este y un 10% de Anti-Crit por 2 rounds. Cuando Superstar Athena entra, aumentara un 6% su ataque, Skill-Res y Anti-ULT por cada \"fans\" presente. Cuando un \"fans\" muere, recupera 200 de Rage, 6% de ULT-DMG (acumulandose hasta 5 veces y durando toda la batalla), 20% de Critico (acumulandose hasta 5 veces y reiniciandose cuando su ULT pegue critico). Cuando entra Superstar Athena, si solo ella y un enemigo estan presentes en ambos lados, ella aumentara en un 15% el ATK, ULT-DMG, Skill-Res, Anti-ULT y en un 30% el Anti-Crit por el resto de la batalla.\nCuando haya \"fans\" presentes en la pelea, Athena obtiene el efecto \"Eternal Idol\" (restaura 250 de Rage cada vez que esta lo pierde, excepto cuando lanza su ULT). Cuando reciba DMG letal, esta no morira (solo disponible una vez por round), pudiendo activar el efecto Undying, donde el \"fan\" con mayor porcentaje de HP apoyara a esta (limpia los debuffs de Athena y la hace inmune a los debuffs por un round. Si el \"fan\" tiene mas del 50% de HP, transferira un 30% a Superstar Athena). Ademas, los debuffs de este \"fan\" (incluyendo la petrificacion) seran limpiados y obtendra el efecto curativo de su Skill.",
 					"description_pt": null
 				}
 			]
@@ -2991,27 +2991,27 @@
 			"fighter_id": "RALF_XIII",
 			"skills": [
 				{
-					"name": null,
+					"name": "Explosive Punch",
 					"description": "Attack a single enemy, attack the target with Explosive Gunpowder first;decrease the target 's DEF by 50% and Res Rate by 20% for 2 rounds; decrease the target's Rage by 200,and adds an extra layer of Explosive Gunpowder to the target;restore the same amount of Rage as the target 's Rage decreased. The Rage decreasing effect of this attack won't be intensified through combo,besides,this effect won 't cause Crit Hit and won't be blocked.",
-					"description_es": null,
+					"description_es": "Ataca a un unico enemigo, atacando al objetivo que tenga \"Explosive Gunpowder\" primero; reduciendo la DEF en un 50% y el Res Rate en un 20% por 2 rounds; reduce 200 de Rage del objetivo y añade una capa extra de \"Explosive Gunpowder\" al enemigo; restaura la misma cantidad de Rage que le ha bajado al objetivo. El efecto de reduccion de Rage de este ataque no se vera intensificado por el combo, ademas, este efecto no podra causar critico y no puede ser bloqueado.",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Galactica Phantom",
+					"description": "Attack a single enemy, attack the target with \"Explosive Gunpowder\" first; restore 60 rage to allies in back row; increase own ATK, DEF and Anti-Crit by 20% for 2 rounds; own attack ignores the target's DEF for 1 round; increase own ULT DMG by 10% (an extra 4% ULT DMG will be increased when each layer of \"Explosive Gunpowder\" is detonated, up to 20%); if the target doesn't have \"Explosive Gunpowder\" before One-man Army Ralf attacks, an extra layer of \"Explosive Gunpowder\" will be added to the target; if the target has more than 3 layers of \"Explosive Gunpowder\", all of the \"Explosive Gunpowder\" will be detonated, and small skill will be released this round.\nAfter the weapon awakends, the effect will be improved in an all-round way. A random enemy's Rage will be decreased, and the same amount of Rage will be restored to One-man Army Ralf.",
+					"description_es": "Ataca a un solo objetivo, atacando al objetivo que posea \"Explosive Gunpowder\" primero; restaura 60 de Rage a los aliados en la fila trasera; aumenta su propio ATK, DEF y Anti-Crit en un 20% por 2 rounds; este ataque ignora la DEF del objetivo por un round; aumenta su propio ULT DMG en un 10% (un 4% extra de ULT DMG se aumentara con cada capa de \"Explosive Gunpowder\" que sea detonada, hasta un maximo de 20%); si el objetivo no posee \"Explosive Gunpowder\" al momento de que One-man Ralf ataca, una capa extra de \"Explosive Gunpowder\" se añadira al objetivo, si el objetivo tiene mas de 3 capas de \"Explosive Gunpowder\", todas las capas de \"Explosive Gunpowder\" seran detonadas y se asegurara la skill en este round.\nAl despertar el arma, los efectos mejoran en todo sentido. El Rage de un enemigo aleatorio sera reducido, y la misma cantidad de Rage sera restaurado para One-man Army Ralf.",					
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Troops ATK-HP Enhancement",
+					"description": "Permanently increases ATK and HP.",
+					"description_es": "Aumenta permanentemente el ATK y el HP.",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Explosive Gunpowder",
+					"description": "Increase own Rage recovery speed by 50%, other Ikari Team members' Rage recovery speed increase by 25%; own small skill and ULT ATK will add a layer of \"Explosive Gunpowder\" to the target (the effect cannot be resisted, and can be added up to 6 times); one layer of \"Explosive Gunpowder\" will be added when the target with \"Explosive Gunpowder\" attacks; 8% own HP will be restored when each layer of \"Explosive Gunpowder\" is added to the target; when the \"Explosive Gunpowder\" is detonated, an extra DMG of the target's DEF (120% + 90% x the layers of \"Explosive Gunpowder\") will be caused to the target, and 50% splash DMG will be caused to surrounding enemies (all detonation DMG ignores debuff). At the same time, 4% own HP will be restored when each layer of \"Explosive Gunpowder\" is detonated; increase own DEF by 70% and DMG by 15%; when attacked by the target with no \"Explosive Gunpowder\", One-man Army Ralf will be treated as having an extra 30% Anti-Crit (the effect still works even if there's no enemy with \"Explosive Gunpowder\");\nOwn debuff will be dispelled (including petrification) when One-man Army Ralf is at full Rage, and control effect is immune. The effect will last until next time One-man Army ralf releases his ULT (one round at most);\nIf there are at least three members of the Ikari Warriors on own side and Aid team in first round, increase own Anti-ULT by 20% for two rounds.\n[Interfere Skill]: Decrease all the enemies' ATK, not stackable with other interfere skills. Interfere skill does not take effect when the target id deployed as an aid fighter.",
+					"description_es": "Aumenta su propia recuperacion de Rage en un 50%, otros miembros del Ikari Team auementan su regeneracion de Rage en un 25%. Su skill y ULT añadiran capas de \"Explosive Gunpowder\ al objetivo (el efecto no puede ser resistido, hasta un maximo de 6 veces); una capa de \"Explosive Gunpowder\" sera añadida cuando un objetivo con este efecto ataque; 8% de su HP sera restaurado cuando cada capa de \"Explosive Gunpowder\ sea añadida al objetivo; cuando el \"Explosive Gunpowder\" sea detonado, se realizara daño extra basado en la DEF del objetivo (120% + 90% x cada capa de \"Explosive Gunpowder\") y un 50% de splash DMG sera causado a loe enemigos cercanos (todo el DMG de la denotacion ignora el debuff). Al mismo tiempo, 4% de su propio HP sera restaurado por cada capa de \"Explosive Gunpowder\" que sea detonada; aumentando su propia defensa en un 70% y el DMG en un 15%; cuando sea atacado por un objetivo que no posea nada de \"Explosive Gunpowder\", One-man Army Ralf se tratara como si tuviese un 30% extra de Anti-Crit (el efecto aun sirve si no hay ningun enemigo con \"Explosive Gunpowder\");\nSe quitara todos los debuffs (incluyendo la petrificacion cuando One-man Army Ralf tenga todo el Rage cargado, y se vuelve inmune al control. El efecto durara hasta la proxima vez que One-man Army Ralf lance su ULT (un round como maximo)\nSi hay almenos tres miembros del Ikari Team en la formacion o de strikers, aumentara su propio Anti-ULT en un 20% por dos rounds.\n[Interfere Skill]: Reduce el ATK de todos los enemigos, no se puede acumular con otros interfere skills. Esta Interfere Skill no tendra efecto si el luchador esta como striker.",
 					"description_pt": null
 				}
 			]
@@ -3051,25 +3051,25 @@
 				{
 					"name": "Ryuu Bokko ",
 					"description": "Attack a column, dispel the target column buft absorb the main target's HP by 10%; increase the Crit and Crit Power by 30%; increase DMG caused to those who have been affected by Dragon Eclipse of the target column by 30%; recover 150 Rage; when Rage is lower than 300, the Recovery will double, and recover the same amounts, of Rage for a random Fighter whose Rage is not full on your side; if Rising Dragon Kensou is in Dragon Mode, two layers of Psychic Spirit will be restored, and there is a 50% chance that small skills be released in next Deal 200%+24 DMG to a column",
-					"description_es": "Ataca una columna, disipa el buft de la columna objetivo absorbe el PS del objetivo principal un 10%; aumentar el poder Crit y Crit en un 30%; aumento de DMG causado a aquellos que se han visto afectados por Eclipse de dragón de la columna objetivo en un 30%; recuperar 150 de ira; cuando la ira es inferior a 300, la recuperación se duplicará y recuperará la misma cantidad de ira para un luchador al azar cuya ira no está llena de tu lado; si Rising Dragon Kensou está en Modo Dragón, dos capas de Espíritu Psíquico serán restauradas, y hay un 50% de probabilidades de que las pequeñas habilidades sean liberadas en el próximo Transaccione 200% 24 DMG a una columna",
+					"description_es": "Ataca a una columna, disipando los buffs de la columna objetivo; absorbe el HP del objetivo principal en un 10%; aumenta el Crit y el Crit Power en un 30%; aumenta el DMG en enemigos de la columna objetivo que se vean afectados con \"Dragon Eclipse\" en un 30%; recupera 150 de Rage; cuando el Rage es inferior a 300, la recuperación se duplicará y recuperará la misma cantidad de Rage para un luchador al azar cuyo Rage no está completo de tu lado; si Rising Dragon Kensou está en \"Dragon Mode\", dos capas de \"Psychic Spirit\" serán restauradas, y hay un 50% de probabilidad de que lance Skill en el siguiente turno.",
 					"description_pt": null
 				},
 				{
 					"name": "Shinryuu Seioushou ",
 					"description": "Attack a single enemy, deal 40% DMG to a random enemy, increase ATK and DEF by 20% and Pierce by 30%: deal an extra DMG to all targets hit by 80% ATK, and there Is a 40% chance to add Dragon Eclipse effect (deal constant DMG with no Rage restoration to the target and decrease the target's healing effect and the speed of Rage restoration by 40% for two rounds) to the target each layer of Psychic Spirit has a 10% chance to absorb main target's small skill for 2 rounds, and then one layer of Psychic Spirit will be restored. After the weapon awakens, the effect will be improved in an all-round way. Each layer of Dragon Spirit will absorb 10% of the main target's small skill Res and ULT Res for 2 rounds, and a layer of Dragon Spirit will be gained. Deal 400%+24 DMG to the target Dragon Eclipse deals 100%+7 constant DMG",
-					"description_es": null,
+					"description_es": "Ataca a un solo objetivo, dañando con un 40% de su DMG a otro enemigo aleatorio; Aumenta su ATK y DEF en un 20% y su Pierce en un 30%; dando un daño extra equivalente al 80% de su ATK a todos los enemigos afectados, con un 40% de probabilidad de añadir el efecto \"Dragon Eclipse\" a estos (El efecto dañara constantemente al enemigo, sin poder regenerarle Rage y reduciendo los efectos de curacion y la velocidad a la que regenera Rage en un 40%; durando dos turnos), cada capa de \"Psychic Spirit\" poseen un 10% de probabilidades de absorber la probabilidad de skill al objetivo por 2 rounds, y una capa sera restaurada al terminar la animacion. Tras despertar su arma, los efectos seran mejorados en gran medida. Cada capa de \"Dragon Spirit\" absorvera un 10% de resistencia a las Skills y los ULT por dos turnos, ademas de ganar una capa de \"Dragon Spirit\".",
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
+					"name": "Superpower ATK-HP Enhancement",
+					"description": "Permanently increase ATK and HP.",
+					"description_es": "Aumenta permanentemente el ATK y el HP.",
 					"description_pt": null
 				},
 				{
-					"name": "Rising Dragon s ",
+					"name": "Rising Dragon",
 					"description": "The psychic power will greatiy sfrengthen normal attack DAAG and small skills, and all DMG caused ignore the immunity to Debuff, but the small skills become more difficult to be activated (the chance is reduced by 40%); increase normal attack DMG; normal attack absorbs the target's HP by 8%, has a 40% chance to stun the target and has a 30% chance to obtain a layer of Psychic Spirit (increase Res Rate and Anti-Crit by 9%, four layers can be added at mosfl; Gain four layers of Psychic Spirit at the beginning of the battle, and fcim one layer of Psychic Spirit into Dragon Spirit (increase DIVIG and ULT DMG by 11%, three times at most) at the beginning of each round. When Dragon Spirit is added to three layers, Rising Dragon Kensou will devour all Psychic Spirit and enter the Dragon Mode (recover HP by 20% instantly, increase DMG and ULT DMG by 33%, and exti'a DMG of small skills will be increased for one round, during which Psychic Spirit cannot be obtained), and the small skills must be released in this round; when Rising Dragon Kensou acts in Dragon Mode, he will immediately dispel his own Debuff (including petrifaction); Each DMG received will not exceed 70% of MAX HP (DMG received will be reduced to 35% in Dragon Mode); After being attacked, if the HP is lower than 50%, Dragon Rage (instantly gain a layer of Dragon Spirit, which recovers 20% HP and 200 Rage,and immune to Rage Reduction effect in one round) will be activated. once at most in each round; if there is only one Fighter in both sides at the beginning of battle, Dragon Rage will not recover HP. Increase own 60% Normal Attack DMG During the Dragon Mode, increase own 20% small skill DMG",
-					"description_es": null,
+					"description_es": "El poder psiquico de Kensou aumentara en gran medida el daño de sus ataques normales y Skill, y todo el daño causado ignorara la inmunidad a los Debuff, pero su Skill sera mas dificil se activarse (las chances de lanzarla se reducen un 40%).\nAumenta el daño de sus ataques normales, absorbiendo con estos un 8% del HP del enemigo y ganando un 40% de probabilidad de aplicar Stun, posee un 30% de probabilidad de obtener una capa de \"Psychic Spirit\" (aumentando su Res Rate y Anti-Crit en un 9%, pudiendo tener hasta 4 capas al mismo tiempo); al inicio de la batalla, Kensou inicia con 4 capas de \"Psychic Spirit\", y transformara una capa de ellas en \"Dragon Spirit\" (aumentando el DMG y el ULT DMG en un 11%, tres veces como maximo) al inicio de cada round.\nCuando \"Dragon Spirit\" llega a las tres capas, Rising Dragon Kensou devorara todas las capas de \"Psychic Spirit\" para entrar en \"Dragon Mode\" (recuperara un 20% de su HP al instante, aumentara su DMG y ULT DMG en un 33%, y hara un DMG extra con su skill por un round, pero no ganara capas de \"Psychic Spirit\" durante este), y su Skill se lanzara si o si en este round; cuando Rising Dragon Kensou entra en \"Dragon Mode\", inmediatamente se quitara todos los debuffs (incluyendo petrificacion); Todo el daño recibido no podra superar el 70% de su HP maximo (todo el DMG recibido se reducira en un 35% durante este estado).\nTras ser atacado, si su HP es menor al 50%, entrara en el modo \"Dragon Rage\" (instantaneamente ganara una capa de \"Dragon Spirit\", el cual le recuperara un 20% de su HP y 200 de Rage, ganando inmunidad a la reduccion de Rage por un round) el cual puede ser activado una vez por round; si solo hay un luchador en ambos lados al inicio del combate, \"Dragon Rage\" no va a regenerar HP.",
 					"description_pt": null
 				}
 			]
@@ -3080,13 +3080,13 @@
 				{
 					"name": "Nocturnal Plover",
 					"description": "Attack a single target, damage increases by 40% for male fighters. Recover 100 Rage for self and a random female ally, 30% chance to tempt male targets (add confusion effect upon target, making him unable to release a small skill or Ult. within 1 round, and making him attack Alluring Mai and copy buff to Alluring Mai.This does not take effect upon taunted or confused target); increase own control-free rate by 30%",
-					"description_es": "Ataca a un solo objetivo, el daño aumenta en un 40% para los luchadores masculinos. Recupera 100 Rage para ti y una aliada femenina al azar, 30% de probabilidad de tentar a los objetivos masculinos (agrega efecto de confusión sobre el objetivo, lo que lo hace incapaz de liberar el small skill o Ult. En 1 ronda, y lo hace atacar a Alluring Mai y copiar buff a Alluring Mai. Esto no tiene efecto sobre el objetivo burlado o confundido); aumentar su propio control-freeen un 30%",
+					"description_es": "",
 					"description_pt": ""
 				},
 				{
 					"name": "Blossom Storm",
 					"description": "Increase own DMG rate and Res rate by 20% for 2 rounds, attack a column; 50% chance to tempt male targets (add confusion effect upon target, making him unable to release small skill or ULt within 1 round, and making him attack Alluring Mai and copy buff to Alluring Mai, This does not take effect upon taunted or confused target); recover 100 rage for back row fighters Awaken to greatly increase the effect and recover rage for the team.",
-					"description_es": "Aumenta la tasa de DMG y la Res Rate en un 20% durante 2 rondas, ataca una columna; 50% de probabilidad de tentar a los objetivos masculinos (agregue efecto de confusión sobre el objetivo, lo que lo hará incapaz de liberar small skill o ULt en 1 ronda, y lo hará atacar a Alluring Mai y copiar buff a Alluring Mai, esto no tiene efecto sobre el objetivo burlado o confundido ); recupera 100 de Rage para los luchadores de la última fila.",
+					"description_es": "",
 					"description_pt": ""
 				},
 				{
@@ -3097,8 +3097,8 @@
 				},
 				{
 					"name": "Dance of the Phoenix",
-					"description": "Increase own rage recovery speed; when deployed, increease Ult damage by 4% for each female fighter on own side (throughout the battle); all attack deal burning effect upon hit target (which causes 100% attack burning damage each round for 2 rounds. The burning does not incur rage recovery) and if the target is male, the small skill and ULt deal soul burning effect (which causes 100% attack burning damage and reduces 100 rage each round for 2 rounds. The burning does not incur rage recovery); each time she deals the ult, increase own ATK and DEF by 5%. wich can stack up to 3 times.",
-					"description_es": "Aumentar la velocidad de recuperación de ira propia; cuando se despliega, aumenta el daño de Ult en un 4% para cada luchadora en su propio lado (durante la batalla); todos los efectos de ataque de ataque al objetivo golpeado (que causa un 100% de daño de ataque de ataque en cada ronda durante 2 rondas. El incendio no incurre en recuperación de ira) y si el objetivo es hombre, la habilidad pequeña y el ULT causan efecto de quema de alma (que causa 100 % de daño de ataque de ataque y reduce 100 de ira en cada ronda durante 2 rondas. La quema no genera recuperación de ira); cada vez que reparta el ult, aumenta su propio ATK y DEF en un 5%. que puede acumularse hasta 3 veces.",
+					"description": "Increase own rage recovery speed; when deployed, increease Ult damage by 4% for each female fighter on own side (throughout the battle); all attack deal burning effect upon hit target (which causes 100% attack burning damage each round for 2 rounds. The burning does not incur rage recovery) and if the target is male, the small skill and ULt deal soul burning effect (which causes 100% attack burning damage and reduces 100 rage each round for 2 rounds. The burning does not incur rage recovery); each time she deals the ult, increase own ATK and DEF by 5%. wichj can stack up to 3 times.",
+					"description_es": "",
 					"description_pt": ""
 				}
 			]
