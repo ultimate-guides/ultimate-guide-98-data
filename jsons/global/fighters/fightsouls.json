@@ -885,8 +885,8 @@
 		{
 			"fighter_id": "OSWALD",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "TURTLE",
+				"description": "Restore 116 Rage when attacked, and get much Rage at start",
 				"description_es": null,
 				"description_pt": null
 			}
