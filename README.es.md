@@ -1,8 +1,5 @@
 # Ultimate Guide 98 Data
 
-![Node.js CI](https://github.com/ultimate-guides/ultimate-guide-98-data/workflows/Node.js%20CI/badge.svg?branch=master)
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/ultimate-guides/ultimate-guide-98-data/watchers/)
-
 <!--lint disable no-literal-urls-->
 <p align="center">  
     <img
@@ -10,6 +7,14 @@
       src="https://www.ultimate-guides.net/assets/ug98/img/banner.png" 
     />      
 </p>
+
+![Node.js CI](https://github.com/ultimate-guides/ultimate-guide-98-data/workflows/Node.js%20CI/badge.svg?branch=master)
+![GitHub last commit](https://img.shields.io/github/last-commit/ultimate-guides/ultimate-guide-98-data?logo=github)
+![GitHub followers](https://img.shields.io/github/followers/ultimate-guides?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ultimate-guides/ultimate-guide-98-data?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/98_guide?style=social)
+![Discord](https://img.shields.io/discord/433856287894405123?logo=discord&style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ultimate-guides/ultimate-guide-98-data)
 
 <div align="center">
   <a href="https://apps.apple.com/mx/app/ultimate-guide-98/id1481396840?l=en">
