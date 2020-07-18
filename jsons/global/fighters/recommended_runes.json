@@ -1159,6 +1159,28 @@
 			]
 		},
 		{
+			"fighter_id": "GOENIKO",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "SHION",
+			"runes": [
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "MAGAKI",
 			"runes": [
 				{
