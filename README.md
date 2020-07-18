@@ -10,6 +10,7 @@
 
 ![Node.js CI](https://github.com/ultimate-guides/ultimate-guide-98-data/workflows/Node.js%20CI/badge.svg?branch=master)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ultimate-guides/ultimate-guide-98-data?logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/ultimate-guides/ultimate-guide-98-data?logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/ultimate-guides?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/ultimate-guides/ultimate-guide-98-data?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/98_guide?style=social)
