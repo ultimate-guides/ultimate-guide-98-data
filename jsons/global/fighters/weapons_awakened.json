@@ -924,8 +924,8 @@
 			"fighter_id": "SHION",
 			"weapon_awakened": {
 				"name": "Unavailable",
-				"description": "Unavailable",
-				"description_es": "Unavailable",
+				"description": "Attack a column; dispel own debuff and increase own DMG Res by <font color='#FFA726'>30%</font>; reduce target column's DMG Res by <font color='#FFA726'>30%</font>; turn <font color='#FFA726'>40%</font> of the total damage to heal self and ally with lowest HP. Deal small skill this round. If this ULT doesn't kill any enemy, trigger Emei Spear (up to once each round): recover full rage immediately and switch to ULT Emei Spear, increasing own ATK and DEF by <font color='#FFA726'>20%</font>, and attack random target (attack first the target hit by previous ULT), dispel their buff; deal extra damage of <font color='#FFA726'>150%</font> ATK (the damage neglects immune effect), and add cutting effect upon target (lose 10% max HP upon round start, reduce 50% healing effect. Lasts for 2 rounds). ",
+				"description_es": "Ataca una columna; disipa el debuff propio y aumenta el propio DMG Res en un <font color='#FFA726'>30%</font>; reduce el DMG Res de la columna objetivo en un <font color='#FFA726'>30%</font>; vuelve el <font color='#FFA726'>40%</font> del daño total para curarse y un aliado con el HP más bajo. Hace Small skill en esta ronda. Si este ULT no mata a ningún enemigo, hay un 50% de posibilidades de activar Emei Spear (hasta una vez en cada ronda): recupera el Rage completo de inmediato y cambia a ULT Emei Spear, aumentando el ATK y la DEF en un <font color='#FFA726'>20%</font>, y ataca al objetivo aleatorio (ataca primero al objetivo alcanzado por ULT anterior), disipa su beneficio; inflige daño adicional de <font color='#FFA726'>150%</font> ATK (el daño descuida el efecto inmune) y agrega efecto de corte sobre el objetivo (pierde un 10% de HP máximo al inicio de la ronda, reduce un 50% el efecto de curación. Dura 2 rondas). Después de despertar el arma, aumenta completamente el efecto. si el ULT no mata a nadie, dispara Emei Spear.",
 				"description_pt": "Unavailable",
 				"contributor": "Unavailable"
 			}
@@ -953,11 +953,11 @@
 		{
 			"fighter_id": "LEONA_XIII",
 			"weapon_awakened": {
-				"name": null,
-				"description": null,
-				"description_es": null,
+				"name": "Battle-scarred Saber",
+				"description": "Strikes a single target and increase 35% own ATK and DEF for 2 rounds. When triggering ULT in the first two rounds, attack enemy fighter with the highest HP. Makes Lethal effect on all ally fighters (the DMG will increase  when enemy fighter's HP is above 50%), and decrease target 25% Res Rate and Rage Recovery. If the target isn't killed, it has 100% chance to be silenced for 1 round. When triggering ULT from the third round, make Slash effect on all ally fighters (the DMG will increase  when enemy fighter's HP is below 45%), and make  splash DMG against nearby enemies. If the target is killed, there will be chance to silence all other targets which were hit for 1 round.",
+				"description_es": "Golpea a un solo objetivo y aumenta un 35% el ATK y la DEF durante 2 rondas. Al activar ULT en las dos primeras rondas, ataca al enemigo con el HP más alto. Hace efecto letal en todos los luchadores aliados cuando el HP del luchador enemigo esté por encima del 50%), y disminuirá la Res Rate y la recuperación de Rage 25% del objetivo. Si el objetivo no es asesinado, tiene un 100% de posibilidades de ser silenciado durante 1 Ronda. Al activar ULT desde la tercera Ronda, hace el efecto Slash en todos los luchadores aliados (el DMG aumentará un 25% cuando el HP del luchador enemigo esté por debajo del 45%), y hace un DMG igual contra los enemigos cercanos. Si el objetivo es asesinado, habrá un 50% de posibilidades de silenciar a todos los demás objetivos que fueron alcanzados durante 1 ronda.",
 				"description_pt": null,
-				"contributor": null
+				"contributor": "HENRY0422 - Server 43"
 			}
 		},
 		{
@@ -983,11 +983,11 @@
 		{
 			"fighter_id": "OSWALD",
 			"weapon_awakened": {
-				"name": null,
-				"description": null,
+				"name": "Trump Card",
+				"description": "Attack a single enemy and increase the attack and defense by 30% ; get the \"Shaman Card\" effect (each attack will cause extra DMG of 13% max HP for 2 rounds); immediately draw another card Some playing cards (can hold two rounds), and produce additional effects based on the currently playing cards: Spade: Steal 200 Rage from the target. Hearts: Steal 15% max HP from the target; Diamond: Increase \"Shaman Card\"  DMG by 50%;  Club: Clear the target's buff and a random controlled ally's debuff",
 				"description_es": null,
-				"description_pt": null,
-				"contributor": null
+				"description_pt": "Ataca um único inimigo e aumenta o ATK e DEF em 30%; obtém o efeito \"Shaman Card\" (cada ataque irá causar DMG extra de 13% do HP máximo por 2 rounds); imediatamente compra outra carta jogando alguma (pode segurar por 2 rounds), e produz efeitos adicionais baseados nas cartas que possui atualmente: Espadas: Rouba 200 de Rage do alvo. Coração (Copas_: Rouba 15% do HP máximo do alvo; Diamante (Ouros): Aumenta o DMG do \"Shaman Card\" em 50%; Paus: Dissipa buffs do alvo e o debuff de um aliado controlado aleatório.",
+				"contributor": "UG TEAM"
 			}
 		},
 		{
@@ -1024,10 +1024,10 @@
 			"fighter_id": "ATHENA_XIII",
 			"weapon_awakened": {
 				"name": null,
-				"description": null,
+				"description": "Attack a random enemy in rear row, <font color='#FFA726'>decrease the target's 25% Anti-ULT</font>. Deal 30% DMG to the enemies around the main target and this DMG won't restore Rage. Increase <font color='#FFA726'>30%</font> own Res Rate. Clear all ally female fighters' debuff <font color='#FFA726'>(Include petrification)</font>  and the target's buff. Decrease all enemy fighters' 30% Crit Power. and Block Power and the effect will be 40% for male fighters. Recover all allies' HP of 100% ATK <font color='#FFA726'>and 10% DMG</font>, Make random 2 fighters cast skill among herself and \"Idolater\" who didn't cast skill this round (Herself first). According to the number of \"Healing releases\", this ULT will provide Superstar Athena extra effects for 2 rounds as follow. Once Increase <font color='#FFA726'>30%</font> Anti-Crit. Twice , increase <font color='#FFA726'>20%</font> ATK. Three times, increase <font color='#FFA726'>20%</font> DEF. Four times, increase <font color='#FFA726'>30%</font> Block.",
 				"description_es": null,
 				"description_pt": null,
-				"contributor": null
+				"contributor": "2k] Armando server 45"
 			}
 		},
 		{
@@ -1063,11 +1063,11 @@
 		{
 			"fighter_id": "MAI_NEW",
 			"weapon_awakened": {
-				"name": null,
-				"description": null,
+				"name": "Fire Folding Fan",
+				"description": "Increase own DMG rate and Res rate by 30% for 2 rounds, attack a column; 70% chance to tempt male targets (add confusion effect upon target, making him unable to release small skill or Ult within 1 round, and making him attack Alluring Mai and copy buff to Alluring Mai, This does not take effect upon taunted or confused target); recover 100 rage for back row fighters Awaken to greatly increase the effect and recover rage for the team.",
 				"description_es": null,
-				"description_pt": null,
-				"contributor": null
+				"description_pt": "Aumenta as próprias taxas de DMG e RES em 30% por 2 rounds, ataca uma coluna; 70% de chance de causar Tempt nos alvos masculinos (adiciona o efeito de confusão no alvo, tornando-o incapaz de usar a skill menor ou ULT por 1 round e faz ele atacar Alluring Mai que copia o buff para ela. Isso não tem efeito sobre um alvo com “Taunt” ou “Confuse”); recupera 100 de Rage para os lutadores da linha de trás. O despertar causa um grande aumento nos efeitos e recuperação de Rage do time.",
+				"contributor": "UG TEAM"
 			}
 		},
 		{
