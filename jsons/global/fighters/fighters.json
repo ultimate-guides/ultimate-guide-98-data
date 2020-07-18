@@ -1205,7 +1205,7 @@
 			"type_id": "DPS",
 			"gender_id": "MALE",
 			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
+			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0
 		},
@@ -1243,7 +1243,7 @@
 			"api": 15,
 			"type_id": "GANK",
 			"gender_id": "FEMALE",
-			"tome_id": "JUDO",
+			"tome_id": "STREET",
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0
@@ -1282,8 +1282,8 @@
 			"api": 15,
 			"type_id": "TANK",
 			"gender_id": "MALE",
-			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
+			"tome_id": "KICK",
+			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0
 		},
@@ -1321,8 +1321,8 @@
 			"api": 15,
 			"type_id": "GANK",
 			"gender_id": "MALE",
-			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
+			"tome_id": "KICK",
+			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0
 		},
@@ -1334,7 +1334,7 @@
 			"api": 15,
 			"type_id": "GANK",
 			"gender_id": "FEMALE",
-			"tome_id": "JUDO",
+			"tome_id": "SUPER",
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0
@@ -1347,8 +1347,8 @@
 			"api": 15,
 			"type_id": "TANK",
 			"gender_id": "MALE",
-			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
+			"tome_id": "STREET",
+			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0
 		},
@@ -1373,8 +1373,8 @@
 			"api": 15,
 			"type_id": "DPS",
 			"gender_id": "MALE",
-			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
+			"tome_id": "SUPER",
+			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0
 		},
