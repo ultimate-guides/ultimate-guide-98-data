@@ -864,10 +864,10 @@
 			"fighter_id": "TUNG_FU_RUE",
 			"weapon_awakened": {
 				"name": "Master Belt Soul",
-				"description": "",
-				"description_es": "",
-				"description_pt": "",
-				"contributor": ""
+				"description": "Strikes all enemies. Causes the more DMG (120% at most) if there are the less targets. Increases own 35% DMG and Res Rate for 2 rounds. Pupils have 100% chance to cast skills for this round. Each DMG received will not exceed 35% of max HP in 2 rounds after casting ultimate. Causes extra 5% of  max HP against each target after Climax Super Effect. (Extra DMG will not restore Rage.",
+				"description_es": "Golpea a todos los enemigos. Hace mas daño entre menos enemigos objetivos hay (maximo 120%). Incrementa en 35% su DMG y Res Rate por 2 turnos. Los pupilos tendran 100% de chance de lanzar el Skill este round. El daño maximo que puede recibir en un golpe luego que lanza su ULT no puede ser superior al 35% de su maximo HP. Hace 5% de daño extra del maximo HP a los enemigos golpeados si esta activo el Climax Super Effect (El daño extra que ahce no generara Rage a los enemigos).",
+				"description_pt": "Ataca todos inimigos. Causa mais DMG (120% no máximo) quanto menor a quantidade de alvos. Aumenta os próprios DMG e taxa de Res por 2 rounds. Os pupilos tem 100% de chance de usar as skills neste round. Cada dano recebido não irá exceder 35% do HP máximo por 2 rounds após usar o ULT. Causa 5% de dano extra do HP máximo contra cada alvo após o efeito \"Super Climax\" (DMG extra não restaura Rage).",
+				"contributor": "UG TEAM"
 			}
 		},
 		{
