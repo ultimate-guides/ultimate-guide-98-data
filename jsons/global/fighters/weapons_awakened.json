@@ -874,10 +874,10 @@
 			"fighter_id": "SHUN_EI",
 			"weapon_awakened": {
 				"name": "Customized Headphones",
-				"description": "",
-				"description_es": "",
-				"description_pt": "",
-				"contributor": ""
+				"description": "Strike a column. If there's a rear target, enhances the skill after rampage and causes 30% extra DMG against the rear. Increases own 20% ATK and DEF and absorbs 20% speed of targets Rage restorage. Gain different effects according to different power. Power of Water: Restore all allies HP by 100% of ATK. Power of FIre: causes every target extra DMG by 100% of ATK.",
+				"description_es": "Golpea una columna. Si hay un objetivo trasero, mejora la habilidad después del golpe y causa un 30% de DMG adicional al objetivo trasero. Aumenta su propio 20% ATK y DEF y absorbe 20% de velocidad de Restauración de Rage de loos objetivos. Obtiene diferentes efectos de acuerdo con diferentes poderes. Power of Water: Restaura a todos los aliados HP en un 100% de ATK. Power of Fire: causa a cada objetivo DMG extra en un 100% del ATK.",
+				"description_pt": "Ataca uma coluna. Se há um alvo atrás, melhora a habilidade após o efeito \"Rampage\" e causa 30% de DMG extra neste alvo. Aumenta seu próprio ATK e DEF em 20% e absorve 20% de velocidade de regeneração de Rage dos alvos. Ganha diferentes efeitos de acordo com seu poder. Poder da Água: Restaura o HP de todos aliados em 100% de seu ATK. Poder do Fogo: Causa em cada alvo 100% de DMG extra do seu ATK. ",
+				"contributor": "UG TEAM"
 			}
 		},
 		{
