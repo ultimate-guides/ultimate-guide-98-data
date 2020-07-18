@@ -2,6 +2,7 @@
 
 ![Node.js CI](https://github.com/ultimate-guides/ultimate-guide-98-data/workflows/Node.js%20CI/badge.svg?branch=master)
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/ultimate-guides/ultimate-guide-98-data/watchers/)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
 <!--lint disable no-literal-urls-->
 <p align="center">  
