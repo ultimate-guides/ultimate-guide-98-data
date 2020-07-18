@@ -1159,6 +1159,40 @@
 			]
 		},
 		{
+			"fighter_id": "MAGAKI",
+			"runes": [
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "TUNG_FU_RUE",
+			"runes": [
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "FLAME_KYO",
 			"runes": [
 				{
