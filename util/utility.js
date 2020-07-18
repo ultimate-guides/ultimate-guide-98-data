@@ -6,6 +6,21 @@ const isJsonValidJSON = (string) => {
 	}
 	return true;
 };
+const isValidFightsoul = (name) => {
+	if (
+		name == 'SNAKE' ||
+		name == 'TIGER' ||
+		name == 'TURTLE' ||
+		name == 'BEAR' ||
+		name == 'SPACE' ||
+		name == null
+	) {
+		return true;
+	} else {
+		return false;
+	}
+};
 module.exports = {
 	isJsonValidJSON,
+	isValidFightsoul,
 };
