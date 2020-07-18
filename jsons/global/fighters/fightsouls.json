@@ -930,8 +930,8 @@
 		{
 			"fighter_id": "RALF_XIII",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "BEAR",
+				"description": "Gain 400 Rage initially, restore extra Rage when being attacked (Lvl 20)",
 				"description_es": null,
 				"description_pt": null
 			}

@@ -1670,16 +1670,16 @@
 			"fighter_id": "OSWALD",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Oswald, Ash",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Oswald, Iori, K",
+					"attr": "HP + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Oswald, Tung Fu Rue, Chin",
+					"attr": "HP + 25%"
 				}
 			]
 		},
@@ -1755,16 +1755,16 @@
 			"fighter_id": "RALF_XIII",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "One-man Army Ralf, Catty Leona, Nightmare Geese",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "One-man Army Ralf, Ralf, Heavy D, Orochi Yashiro",
+					"attr": "HP + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "One-man Army Ralf, Oswald, Maxima, ZERO",
+					"attr": "HP + 25%"
 				}
 			]
 		},
