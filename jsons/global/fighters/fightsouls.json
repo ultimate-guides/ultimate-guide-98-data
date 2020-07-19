@@ -950,7 +950,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "Recover 40 exfra Rage when attacking, and recover 40 Rage if ally or enemy dies.",
-				"description_es": null,
+				"description_es": "Recupera 40 Rage extra cuando ataca, y recupera 40 Rage si un alliado o enemigo muere",
 				"description_pt": null
 			}
 		},
