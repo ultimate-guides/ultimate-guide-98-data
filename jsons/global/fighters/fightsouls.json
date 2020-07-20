@@ -887,7 +887,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "Restore 116 Rage when attacked, and get much Rage at start",
-				"description_es": null,
+				"description_es": "Recupera 116 Rage cuando es atacado, y gana mas Rage al inicio de la batalla",
 				"description_pt": null
 			}
 		},
