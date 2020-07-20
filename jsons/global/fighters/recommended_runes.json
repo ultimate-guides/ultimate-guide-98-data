@@ -1215,6 +1215,23 @@
 			]
 		},
 		{
+			"fighter_id": "MR_KARATE",
+			"runes": [
+				{
+					"rune_id": "BOLLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "FLAME_KYO",
 			"runes": [
 				{
