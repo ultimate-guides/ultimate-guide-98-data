@@ -41,6 +41,10 @@ El proposito de este repositorio es para todos los que quieran contribuir compar
 
 Si no sabes cómo usar el sistema git, no te preocupes, puedes enviar las modificaciones a través del [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) .
 
+## Beta Programs
+
+Si quieres unirte al programa Beta y ayudarnos con contenido anticipado da click en [Android](https://play.google.com/apps/testing/com.ultimateguides.ultimatePro), ademas tenemos un canal dedicado a mandar notificaciones cuando una version esta disponible atravez del discord.
+
 ## Desbloquea todas las imagenes de la APPs
 
 Ve a Settings Android/iOS y presiona el boton Code password: **ug98**
