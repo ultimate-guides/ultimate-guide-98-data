@@ -41,6 +41,10 @@ The propose of this repo is for everyone who wants to contribute sharing informa
 
 If you don't know how to use git system, don't worry you can send the modifications trough the [Issues Tab](https://github.com/ultimate-guides/ultimate-guide-98-data/issues) .
 
+## Beta Programs
+
+If you want to join and help us with early access content [Android](https://play.google.com/apps/testing/com.ultimateguides.ultimatePro), we also have a dedicated discord Channel with notifications when new releases come out.
+
 ## Unlock all the Assets of the APPs
 
 Go to Settings Android/iOS and hit the Code button and type the password: **ug98**
