@@ -440,6 +440,8 @@ Para modificar o agregar strikers, vaya a [strikers.json](https://github.com/ult
 
 ## Events
 
+[![Global Events](https://www.ultimate-guides.net/assets/ug98/img/github_events.png)](https://youtu.be/A9OauQCo1-k 'Global Events')
+
 <p align="center"> 
     <img src="https://www.ultimate-guides.net/assets/ug98/img/events.jpeg"  width="32%"/>
 </p>
