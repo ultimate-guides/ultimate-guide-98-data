@@ -1,0 +1,35 @@
+.label_fightsoul > input{ /* HIDE RADIO */
+  visibility: hidden; /* Makes input not-clickable */
+  position: absolute; /* Remove input from document flow */
+}
+.label_fightsoul > input + img{ /* IMAGE STYLES */
+  cursor:pointer;
+  border:2px solid transparent;
+  width: 50%;
+
+}
+.label_fightsoul > input:checked + img{ /* (RADIO CHECKED) IMAGE STYLES */
+  border:3px solid #007bff;
+}
+
+.input-fates {
+  width: 50%;
+}
+
+.custom-control-label{
+  margin-left: 15px;
+}
+
+#fighter_name {
+  width: 30%;
+}
+
+.photo {
+  float: left;
+  margin: 0.5em;
+  border: 1px solid #ccc;
+  padding: 1em;
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+  text-align: center;
+  font-size: 0.8em;
+}
