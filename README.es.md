@@ -441,11 +441,11 @@ Para modificar o agregar strikers, vaya a [strikers.json](https://github.com/ult
 ## Events
 
 <p align="center"> 
-    <img src="https://www.ultimate-guides.net/assets/ug98/img/evemts.jpeg"  width="32%"/>
+    <img src="https://www.ultimate-guides.net/assets/ug98/img/events.jpeg"  width="32%"/>
 </p>
 
 Para modificar los events hay una se debe ingresar a la pagina oficial de la [kof98umol](http://98kof-us.game-bean.com/t2/178/3575.html) y entrar al mes que corresponden los eventos
-deben copiar desde donde empieza el primer evento ejemplo: despues del time:　 2020-07-22 03:49 hasta el ultimo evento incluyendo el punto ".", y pegarlo en la pagona [Events Generator]() , les va a generar los eventos en formato json todo desordenado, para ordernalo copien todo el codigo y pegenlo en esta pagina [jsonLint](https://jsonlint.com/) y presionen el boton validate Json. Les va acomodar todo el codigo, copian todo y lo reemplazan en el archivo ([events.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/events.json)) agregan comentario del pull request y listo, una vez validado todos tendremos los nuevos eventos.
+deben copiar desde donde empieza el primer evento ejemplo: despues del time:　 2020-07-22 03:49 hasta el ultimo evento incluyendo el punto ".", y pegarlo en la pagina [Events Generator](https://www.ultimate-guides.net/assets/ug98/eventsGenerator/events.html) , les va a generar los eventos en formato json todo desordenado, para ordernalo copien todo el codigo y pegenlo en esta pagina [jsonLint](https://jsonlint.com/) y presionen el boton validate Json. Les va acomodar todo el codigo, copian todo y lo reemplazan en el archivo ([events.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/events.json)) agregan comentario del pull request y listo, una vez validado todos tendremos los nuevos eventos.
 
 ## Time Line
 
