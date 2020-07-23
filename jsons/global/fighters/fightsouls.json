@@ -860,7 +860,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "Get 115 initial rage and recover extra rage when attacking",
-				"description_es": null,
+				"description_es": "Consigue 115 de Rage inicial y recupera Rage adicional al atacar",
 				"description_pt": null
 			}
 		},
@@ -914,7 +914,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "restore 40 extra Rage when attacking, and restore a large amount of Rage when ally or enemy dies",
-				"description_es": null,
+				"description_es": "restaura 40 de Rage extra cuando atacas y restaura una gran cantidad de Rage cuando muere tu aliado o enemigo",
 				"description_pt": null
 			}
 		},
@@ -923,7 +923,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "Gain 24 extra Rage when under attack and much extra Rage when attacking",
-				"description_es": null,
+				"description_es": "Gana 24 Rage extra cuando estás bajo ataque y mucha Rage extra cuando atacas",
 				"description_pt": null
 			}
 		},
@@ -932,7 +932,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "Gain 400 Rage initially, restore extra Rage when being attacked (Lvl 20)",
-				"description_es": null,
+				"description_es": "Gana 400 Rage inicialmente, restaura Rage extra cuando eres atacado (Niv. 20)",
 				"description_pt": null
 			}
 		},
@@ -959,7 +959,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "Attack recovers extra rage by 40, while injury recovers certain extra rage.",
-				"description_es": null,
+				"description_es": "El ataque recupera Rage adicional en 40, mientras que la lesión recupera cierta Rage adicional.",
 				"description_pt": null
 			}
 		},
@@ -968,7 +968,7 @@
 			"fightsoul": {
 				"name": "TIGER",
 				"description": "Gain 55 Rage when the fighter is dead in either side, and restore extra Rage when attacked",
-				"description_es": null,
+				"description_es": "Gana 55 de Rage cuando el luchador está muerto en cualquier lado, y restaura Rage adicional cuando es atacado",
 				"description_pt": null
 			}
 		},
