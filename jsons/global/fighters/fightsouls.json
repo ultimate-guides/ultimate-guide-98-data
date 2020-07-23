@@ -966,8 +966,8 @@
 		{
 			"fighter_id": "VICE_XIII",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "TIGER",
+				"description": "Gain 55 Rage when the fighter is dead in either side, and restore extra Rage when attacked",
 				"description_es": null,
 				"description_pt": null
 			}

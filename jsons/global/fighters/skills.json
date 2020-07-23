@@ -2999,7 +2999,7 @@
 				{
 					"name": "Galactica Phantom",
 					"description": "Attack a single enemy, attack the target with \"Explosive Gunpowder\" first; restore 60 rage to allies in back row; increase own ATK, DEF and Anti-Crit by 20% for 2 rounds; own attack ignores the target's DEF for 1 round; increase own ULT DMG by 10% (an extra 4% ULT DMG will be increased when each layer of \"Explosive Gunpowder\" is detonated, up to 20%); if the target doesn't have \"Explosive Gunpowder\" before One-man Army Ralf attacks, an extra layer of \"Explosive Gunpowder\" will be added to the target; if the target has more than 3 layers of \"Explosive Gunpowder\", all of the \"Explosive Gunpowder\" will be detonated, and small skill will be released this round.\nAfter the weapon awakends, the effect will be improved in an all-round way. A random enemy's Rage will be decreased, and the same amount of Rage will be restored to One-man Army Ralf.",
-					"description_es": "Ataca a un solo objetivo, atacando al objetivo que posea \"Explosive Gunpowder\" primero; restaura 60 de Rage a los aliados en la fila trasera; aumenta su propio ATK, DEF y Anti-Crit en un 20% por 2 rounds; este ataque ignora la DEF del objetivo por un round; aumenta su propio ULT DMG en un 10% (un 4% extra de ULT DMG se aumentara con cada capa de \"Explosive Gunpowder\" que sea detonada, hasta un maximo de 20%); si el objetivo no posee \"Explosive Gunpowder\" al momento de que One-man Ralf ataca, una capa extra de \"Explosive Gunpowder\" se añadira al objetivo, si el objetivo tiene mas de 3 capas de \"Explosive Gunpowder\", todas las capas de \"Explosive Gunpowder\" seran detonadas y se asegurara la skill en este round.\nAl despertar el arma, los efectos mejoran en todo sentido. El Rage de un enemigo aleatorio sera reducido, y la misma cantidad de Rage sera restaurado para One-man Army Ralf.",					
+					"description_es": "Ataca a un solo objetivo, atacando al objetivo que posea \"Explosive Gunpowder\" primero; restaura 60 de Rage a los aliados en la fila trasera; aumenta su propio ATK, DEF y Anti-Crit en un 20% por 2 rounds; este ataque ignora la DEF del objetivo por un round; aumenta su propio ULT DMG en un 10% (un 4% extra de ULT DMG se aumentara con cada capa de \"Explosive Gunpowder\" que sea detonada, hasta un maximo de 20%); si el objetivo no posee \"Explosive Gunpowder\" al momento de que One-man Ralf ataca, una capa extra de \"Explosive Gunpowder\" se añadira al objetivo, si el objetivo tiene mas de 3 capas de \"Explosive Gunpowder\", todas las capas de \"Explosive Gunpowder\" seran detonadas y se asegurara la skill en este round.\nAl despertar el arma, los efectos mejoran en todo sentido. El Rage de un enemigo aleatorio sera reducido, y la misma cantidad de Rage sera restaurado para One-man Army Ralf.",
 					"description_pt": null
 				},
 				{
@@ -3107,8 +3107,14 @@
 			"fighter_id": "VICE_XIII",
 			"skills": [
 				{
-					"name": null,
-					"description": null,
+					"name": "Deicide",
+					"description": "Attack a single enemy, and there is a 40% chance to make the target stunned; restore own 150 Rage; store 10% of damage that is dealt to the target in the \"Cauldron of Pain\", and convert 10% of own ATK to DEF after the attack for 1 round; if Death Vice attacks a target with the \"Despair Mark\", an 30% extra damage will be added (the damage ignores the immunity to Debuff effects), an extra 30 Rage will be restored, and an extra 3% of damage will be stored in \"Cauldron of Pain\". Deal 160%+15 DMG to the target (Lvl 1)",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Overkill",
+					"description": "Attack a single enemy, release all the damages that are stored in \"Cauldron of Pain\" to the primary target (the damage ignores the immunity to Debuff effects but affiected by DMG and Res Rate); increase own DMG and Res Rate by 20% for 2 rounds, and add the \"Despair Mark\" to the target (reduce the target's Res Rate by 15% and HP healing rate received by 30%; the effect which lasts for 2 rounds ignores the immunity to Debuff effects and can't be dispelled); if the target already had the \"Despair Mark\" before Death Vice attacks, the \"Despair Mark\" won't be added and this attack gains an exfra DMG by 10% for 1 round, and the CD of the \"Herald of Despair\" will be decreased for 1 round. After the weapon awakens, the effect will be improved in an all-round way. The \"Despair Mark\" will be spread in specific situation. Deal 400%+24 DMG to the target",
 					"description_es": null,
 					"description_pt": null
 				},
@@ -3119,14 +3125,8 @@
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
-					"description_pt": null
-				},
-				{
-					"name": null,
-					"description": null,
+					"name": "Death Smile",
+					"description": "When Death Vice is deployed, gain \"Despair Power\", which lasts for the whole batde (increase DMG, Res Rate, and HP drain by 16%), and small skill will be released in first round. On the enemy's turn, store 50% of the damage received in the \"Cauldron of Pain\" [the \"Cauldron of Pain\" stores the damage that is UP to 7 times own ATK since deployment (the status of \"Cauldron of Pain\" won't be reset after Death Vice dies), and the damage of \"Cauldron of Pain\" will be accumulated again after ULT is released]; in own fajm, if the damage that is stored in \"Cauldron of Pain\" Is more than 80% of its upper limit, own Debuff and peto'ification will be cleared, and all of the Rage will be restored. When Death Vice dies, \"Herald of Despair\" effect will be activated (resurrect in next own turn, restore HP by 30%, inherit all of the Rage, store 30% damage of the upper limit of the \"Cauldron of Pain\", gain ULT Res and small skill Res by 25% for 1 round); The CD of \"Herald of Despair\" is 3 rounds, and it can take effect up to twice per battle (if there are fewer than six fighters in own side when Death Vice is deployed, the effect will only take effect once). When \"Herald of Despair\" is activated. the effect of \"Despair Power\" will increase by 150% (the effect can't be stacked with other effects). [Interfere Skill]: Decrease all the enemies' ATK. not stackable with other interfere skills. Interfere skill does not take effect when the fighter is deployed as an aid fighter. Decrease all enemies ATK by 15%",
 					"description_es": null,
 					"description_pt": null
 				}

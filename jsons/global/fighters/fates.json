@@ -1823,16 +1823,16 @@
 			"fighter_id": "VICE_XIII",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Death Vice , Cruel Beauty Mature,  CattyLeona ",
+					"attr": "ATK+ 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Death Vice , Rugal, Mature , Vice ",
+					"attr": "ATK+ 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Death Vice, Alluring Mai, Orochi Shermie",
+					"attr": " HP + 25%"
 				}
 			]
 		},

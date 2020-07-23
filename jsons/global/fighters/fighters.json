@@ -1394,14 +1394,14 @@
 		{
 			"fighter_id": "VICE_XIII",
 			"fightsoul_id": "TIGER",
-			"name": "vice xiii",
+			"name": "Death Vice",
 			"chinese_name": "死亡微笑薇丝",
 			"api": 15,
 			"type_id": "GANK",
 			"gender_id": "FEMALE",
-			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
-			"status": 1,
+			"tome_id": "THAI",
+			"badge_id": "OROCHI",
+			"status": 0,
 			"striker": 0
 		},
 		{
