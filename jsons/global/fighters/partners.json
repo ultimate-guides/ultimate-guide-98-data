@@ -843,9 +843,9 @@
 		{
 			"fighter_id": "KENSOU_XII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "BAO",
+				"partner_2": "ATHENA_2002",
+				"partner_3": "CHIN"
 			}
 		},
 		{
