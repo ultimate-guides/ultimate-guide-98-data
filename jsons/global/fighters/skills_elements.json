@@ -1437,7 +1437,7 @@
 				"thunder": null,
 				"thunder_es": null,
 				"thunder_pt": null,
-				"water": null,
+				"water": Attack  enemy fighters with the highest ATK in rear row, drecrease its 25% Anti-ULT and 15% ATK, deal 30% DMG to the enemy fighters around and 15% DMG to other enemy fighters, and this DMG won' t restore Rage. Increase own 35% Res Rate. Clear all ally female  fighters' debuff (include petrification) and the target' s buff. Drecrease all enemy fighters' 30% Crit Power  and Block Power, and the effect will be 40% for male fighters. Recover all allies' HP of 100% ATK and 10% DMG, ally fighters with the lowest HP percentage will get 50% recovery more. Make random 2 fighters cast skills among herself and ally fighters who didn' t cast skills this round (herself firts). According to the number or \"Healing\" realese, this ULT will provide Superstar Anthena extra effects for 2 rounds as follows. Once, increase 35% Anti-Crit. Twice, increase 20% ATK and DEF. Three times, increase 15% Crit Power. When there' s only Superstar Anthena, she will get all effects above ignoring the numer of \"Healing\" releases.
 				"water_es": null,
 				"water_pt": null
 			}
