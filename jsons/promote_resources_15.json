@@ -1,0 +1,148 @@
+{
+	"promotes": [
+		{
+			"color": "Green",
+			"potion": 6,
+			"max_material": 1,
+			"min_material": 1
+		},
+		{
+			"color": "Green + 1",
+			"potion": 18,
+			"max_material": 4,
+			"min_material": 4
+		},
+		{
+			"color": "Green + 2",
+			"potion": 24,
+			"max_material": 10,
+			"min_material": 5
+		},
+		{
+			"color": "Blue",
+			"potion": 36,
+			"max_material": 20,
+			"min_material": 7
+		},
+		{
+			"color": "Blue + 1",
+			"potion": 50,
+			"max_material": 30,
+			"min_material": 10
+		},
+		{
+			"color": "Blue + 2",
+			"potion": 67,
+			"max_material": 42,
+			"min_material": 14
+		},
+		{
+			"color": "Blue + 3",
+			"potion": 100,
+			"max_material": 51,
+			"min_material": 17
+		},
+		{
+			"color": "Purple",
+			"potion": 150,
+			"max_material": 78,
+			"min_material": 26
+		},
+		{
+			"color": "Purple + 1",
+			"potion": 200,
+			"max_material": 102,
+			"min_material": 34
+		},
+		{
+			"color": "Purple + 2",
+			"potion": 335,
+			"max_material": 162,
+			"min_material": 54
+		},
+		{
+			"color": "Purple + 3",
+			"potion": 540,
+			"max_material": 246,
+			"min_material": 82
+		},
+		{
+			"color": "Purple + 4",
+			"potion": 670,
+			"max_material": 330,
+			"min_material": 110
+		},
+		{
+			"color": "Orange",
+			"potion": 1010,
+			"max_material": 480,
+			"min_material": 160
+		},
+		{
+			"color": "Orange + 1",
+			"potion": 1340,
+			"max_material": 645,
+			"min_material": 215
+		},
+		{
+			"color": "Orange + 2",
+			"potion": 2100,
+			"max_material": 1005,
+			"min_material": 335
+		},
+		{
+			"color": "Orange + 3",
+			"potion": 2690,
+			"max_material": 1515,
+			"min_material": 505
+		},
+		{
+			"color": "Orange + 4",
+			"potion": 3360,
+			"max_material": 2010,
+			"min_material": 670
+		},
+		{
+			"color": "Orange + 5",
+			"potion": 4200,
+			"max_material": 2265,
+			"min_material": 755
+		},
+		{
+			"color": "Red",
+			"potion": 3360,
+			"max_material": 2520,
+			"min_material": 840
+		},
+		{
+			"color": "Red + 1",
+			"potion": 4800,
+			"max_material": 3540,
+			"min_material": 1180
+		},
+		{
+			"color": "Red + 2",
+			"potion": 5400,
+			"max_material": 4030,
+			"min_material": 1340
+		},
+		{
+			"color": "Red + 3",
+			"potion": 5400,
+			"max_material": 4030,
+			"min_material": 1340
+		},
+		{
+			"color": "Red + 4",
+			"potion": 5400,
+			"max_material": 4030,
+			"min_material": 1340
+		},
+		{
+			"color": "Red + 5",
+			"potion": 5400,
+			"max_material": 4030,
+			"min_material": 1340
+		}
+	]
+}
