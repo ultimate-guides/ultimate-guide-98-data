@@ -1350,6 +1350,23 @@
 					"desceiption_pt": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "ROBERT_XI",
+			"runes": [
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "DRAGON",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
 		}
 	]
 }
