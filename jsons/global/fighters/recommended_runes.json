@@ -1032,6 +1032,23 @@
 			]
 		},
 		{
+			"fighter_id": "INSTINCT_IORI",
+			"runes": [
+				{
+					"rune_id": "DRAGON",
+					"description": "If the formation is BEAR, you can use this rune, because he can ULT in the first Round",
+					"description_es": "Si la formacion es OSO, puedes usar esta runa le va muy bien porque inica en el primer Round con ULT.",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "WOLVES",
+					"description": "If the formation is TIGER you can use this rune, genral speaking he will ULT the second Round, so he will benefit with it",
+					"description_es": "Si la formacion es TIGRE puedes usar esta runa, por lo general lanzan el ULT el segundo turno y se beneficia con el ULT.",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "BAO",
 			"runes": [
 				{
