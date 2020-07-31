@@ -1072,6 +1072,17 @@
 			]
 		},
 		{
+			"fighter_id": "KENSOU_XII",
+			"runes": [
+				{
+					"rune_id": "GODS",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "BAO",
 			"runes": [
 				{
