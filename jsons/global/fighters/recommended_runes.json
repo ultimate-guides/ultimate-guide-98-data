@@ -1049,6 +1049,29 @@
 			]
 		},
 		{
+			"fighter_id": "SAIKI",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "If SAIKI does'nt have the SMaxs yet, you can put in front whit this Rune, he can recover a lot of HP with it.",
+					"description_es": "Si SAIKI aun no tiene el Smaxs puede usar esta Runa estando Enfrente, para que dure mas en la batalla, ya que se recupera mucha vida",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "This rune can help with the Res Rate and apply a curse when he dies.",
+					"description_es": "Esta runa tambien puede ser util ya que da Res Rate y aplica un Maleficio cuando Saiki muere.",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "KILLING",
+					"description": "If SAIKI has the SMaxs this rune can help him if he does a CRIT, will improve the DMG.",
+					"description_es": "Si SAIKI tiene SMAXS esta runa puede ayudarlo a potenciar el DMG final si hace Critico.",
+					"desceiption_pt": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "BAO",
 			"runes": [
 				{
