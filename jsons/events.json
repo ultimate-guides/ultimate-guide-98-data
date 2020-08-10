@@ -5,14 +5,14 @@
 		"dayEnd": 8,
 		"description": "Welcome to Shermie Adventure. Embark on a fun filled adventure with Shermie and find amazing treasures.",
 		"month": "Aug",
-		"month_id": 0,
+		"month_id": 8,
 		"name": "Shermie Adventure. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_ShermiAdv.png"
 	}, {
 		"day": 7,
 		"dayEnd": 8,
 		"description": "Defeat the Orochi Leona clones a certain number of times during the event to get Orochi Leona[Frag].",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Team Battle to get Orochi Leona. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
@@ -20,7 +20,7 @@
 		"day": 7,
 		"dayEnd": 9,
 		"description": "",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Evolution Promoting Pack. ",
 		"eveimgurl": ""
@@ -28,7 +28,7 @@
 		"day": 7,
 		"dayEnd": 9,
 		"description": "Double SP for the first 5 purchases during the event! (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Double SP for first 5 purchases. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_sp_double.png"
@@ -36,7 +36,7 @@
 		"day": 7,
 		"dayEnd": 9,
 		"description": "Rare fashion for Death Vice is available during the event.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fashion Pack. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
@@ -44,7 +44,7 @@
 		"day": 7,
 		"dayEnd": 10,
 		"description": "During the event, use Egg Machine, and there is chance to get Death Vice and Robert XI Awaken Weapon Frag, Tome, Badge and other rare items.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Weapons Egg Machine. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_weapon_egg.png"
@@ -52,7 +52,7 @@
 		"day": 7,
 		"dayEnd": 10,
 		"description": "Spend a certain amount of Diamonds during the event and get awesome rewards!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Spend for Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
@@ -60,7 +60,7 @@
 		"day": 8,
 		"dayEnd": 9,
 		"description": "Mini game - Seal Orochi is unlocked! Come help seal orochi Now!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Minigame - Seal Orochi. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_seal_orochi.png"
@@ -68,7 +68,7 @@
 		"day": 8,
 		"dayEnd": 9,
 		"description": "Defeat the Instinct Iori clones a certain number of times during the event to get Instinct Iori[Frag].",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Team Battle to get Instinct Iori. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
@@ -76,7 +76,7 @@
 		"day": 8,
 		"dayEnd": 10,
 		"description": "Complete certain tasks for rewards during the event! (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Refine Blessing for Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_refine_blessing.png"
@@ -84,7 +84,7 @@
 		"day": 9,
 		"dayEnd": 10,
 		"description": "Come and eat fruits with Kula to get rewards! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Kula's Fruits Adventure. ",
 		"eveimgurl": ""
@@ -92,7 +92,7 @@
 		"day": 9,
 		"dayEnd": 10,
 		"description": "Defeat the Crazy Iori clones a certain number of times during the event to get Crazy Iori[Frag].",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Team Battle to get Crazy Iori. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
@@ -100,7 +100,7 @@
 		"day": 9,
 		"dayEnd": 10,
 		"description": "",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Time-limited Gift Pack. ",
 		"eveimgurl": ""
@@ -108,7 +108,7 @@
 		"day": 9,
 		"dayEnd": 10,
 		"description": "Rare fashion for Robert XI is available during the event.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fashion Pack. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
@@ -116,7 +116,7 @@
 		"day": 10,
 		"dayEnd": 11,
 		"description": "Pop Balloons is unlocked during the event. Hit the balloon accurately to get rich rewards!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Pop Balloons. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_pop_balloons.png"
@@ -124,7 +124,7 @@
 		"day": 10,
 		"dayEnd": 11,
 		"description": "Mirage Challenge chance+2 during the event! Come challenge Mirage Challenge stages!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Mirage Challenge Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_mirage.png"
@@ -132,7 +132,7 @@
 		"day": 10,
 		"dayEnd": 12,
 		"description": "Challenge Biography certain number of times to gain valuable rewards during the event. (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Biography Challenge Gift. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_biography.png"
@@ -140,7 +140,7 @@
 		"day": 10,
 		"dayEnd": 12,
 		"description": "Rune Converter is unlocked for limited time. It's up to you to decide your own runes!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Rune Converter. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_rune_converter.png"
@@ -148,7 +148,7 @@
 		"day": 10,
 		"dayEnd": 12,
 		"description": "Hot Runes event is unlocked, come get it and increase your power now!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Hot Runes. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_rune_converter.png"
@@ -156,7 +156,7 @@
 		"day": 10,
 		"dayEnd": 12,
 		"description": "Aid Doll Machine is unlocked, get Athena 2002 UM Aid Soul chest and more rare items!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Aid Doll Machine. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_aid_doll_machine.png"
@@ -164,7 +164,7 @@
 		"day": 10,
 		"dayEnd": 12,
 		"description": "During the event, Fighter's Aid Pack is unlocked for limited time! Get it now!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Aid Pack Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_aid_pack.png"
@@ -172,7 +172,7 @@
 		"day": 10,
 		"dayEnd": 12,
 		"description": "During the event, Aid Skill Book is unlocked for limited time! Get it now!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Aid Skill Book Exchange. ",
 		"eveimgurl": ""
@@ -180,7 +180,7 @@
 		"day": 10,
 		"dayEnd": 12,
 		"description": "Recharge 45 Diamonds for 1 hammer (max 10/day). Use 1 hammer and 10 Diamonds to smash eggs.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Egg Frenzy (Diamond). ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_eggs.png"
@@ -188,7 +188,7 @@
 		"day": 11,
 		"dayEnd": 12,
 		"description": "Aircraft Game is here, take your fight into the sky, let's go!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Mini game-Aircraft. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Aircraft_Game.png"
@@ -196,7 +196,7 @@
 		"day": 11,
 		"dayEnd": 12,
 		"description": "Female Fighters Challenge chance+2 during the event! Come challenge Female Fighters Challenge stages! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Female Fighters Challenge Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_female.png"
@@ -204,7 +204,7 @@
 		"day": 12,
 		"dayEnd": 13,
 		"description": "Kyo's Tower Drop is available during the event. Get rich rewards with your wit!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Kyo's Tower Drop. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_tower.png"
@@ -212,7 +212,7 @@
 		"day": 12,
 		"dayEnd": 13,
 		"description": "Defeat the Mukai clones a certain number of times during the event to get Mukai[Frag].",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Team Battle to get Mukai. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
@@ -220,7 +220,7 @@
 		"day": 12,
 		"dayEnd": 14,
 		"description": "Complete certain tasks and claim awesome rewards! (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Task Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_task_rewards.png"
@@ -228,7 +228,7 @@
 		"day": 12,
 		"dayEnd": 14,
 		"description": "Rare fashion for Superstar Athena is available during the event.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fashion Pack. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
@@ -236,7 +236,7 @@
 		"day": 12,
 		"dayEnd": 15,
 		"description": "1 of 2 Lucky Draw is coming! Rising Dragon Kensou and Superstar Athena are waiting for you! Don't miss out!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "1 of 2 Lucky Draw. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_lucky_draw.png"
@@ -244,7 +244,7 @@
 		"day": 12,
 		"dayEnd": 15,
 		"description": "During the event, use Egg Machine, and there is chance to get Rising Dragon Kensou and Superstar Athena Awaken Weapon Frag, Tome, Badge and other rare items.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Weapons Egg Machine. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_weapon_egg.png"
@@ -252,7 +252,7 @@
 		"day": 12,
 		"dayEnd": 15,
 		"description": "Draw a certain number of times in Lucky Draw during the event to get rich rare items!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Lucky Draw Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_lucky_draw.png"
@@ -260,7 +260,7 @@
 		"day": 12,
 		"dayEnd": 15,
 		"description": "Spend a certain amount of Diamonds during the event and get awesome rewards!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Spend for Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
@@ -268,7 +268,7 @@
 		"day": 13,
 		"dayEnd": 14,
 		"description": "What treasures can you dig up from Ash secret garden? Come check it out!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Ash Secret Garden. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Secret_Garden.png"
@@ -276,7 +276,7 @@
 		"day": 13,
 		"dayEnd": 14,
 		"description": "EXP Rush Challenge chance+2 during the event! Come challenge EXP Rush Challenge stages! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "EXP Rush Challenge Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_EXP_Rush.png"
@@ -284,7 +284,7 @@
 		"day": 14,
 		"dayEnd": 15,
 		"description": "What are you waiting for, come challenge it now, be the first to get 2048!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "2048 Challenge. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_2048.png"
@@ -292,7 +292,7 @@
 		"day": 14,
 		"dayEnd": 15,
 		"description": "Gold Rush challenge chance+2 during the event! Come challenge Gold Rush stages! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Gold Rush Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_gold_rush.png"
@@ -300,7 +300,7 @@
 		"day": 14,
 		"dayEnd": 16,
 		"description": "During the event, you can get double earnings in Main Campaigns. (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Campaign Rewards Doubled. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_double_campaign.png"
@@ -308,7 +308,7 @@
 		"day": 14,
 		"dayEnd": 15,
 		"description": "Rare fashion for Rising Dragon Kensou is available during the event.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fashion Pack. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
@@ -316,7 +316,7 @@
 		"day": 15,
 		"dayEnd": 16,
 		"description": "Kensou eats Buns during the event. Play the game and claim rewards!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Mini game-Eat Buns. ",
 		"eveimgurl": ""
@@ -324,7 +324,7 @@
 		"day": 15,
 		"dayEnd": 16,
 		"description": "Defeat the Terry 2003 clones a certain number of times during the event to get Terry 2003[Frag].",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Team Battle to get Terry 2003. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
@@ -332,7 +332,7 @@
 		"day": 15,
 		"dayEnd": 16,
 		"description": "Promotion Gem exchange during the event, come join it! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Promotion Gem Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_promotion_gem_exchange.png"
@@ -340,7 +340,7 @@
 		"day": 15,
 		"dayEnd": 17,
 		"description": "Equipment pack can increase One-man Army Ralf to:",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fighter Equipment Pack (One-man Army Ralf). ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_equipment.png"
@@ -348,7 +348,7 @@
 		"day": 15,
 		"dayEnd": 17,
 		"description": "Upgrade pack can increase One-man Army Ralf to:",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fighter Upgrade Pack (One-man Army Ralf). ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_upgrade.png"
@@ -356,7 +356,7 @@
 		"day": 15,
 		"dayEnd": 17,
 		"description": "Rare fashion for One-man Army Ralf is available during the event.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fashion Pack. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
@@ -364,7 +364,7 @@
 		"day": 15,
 		"dayEnd": 20,
 		"description": "",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Time-limited Chest (One-man Army Ralf). ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_time_limited_chest.png"
@@ -372,7 +372,7 @@
 		"day": 15,
 		"dayEnd": 20,
 		"description": "Spend a certain amount of Diamonds to receive amazing rewards including Diamonds and Cuisines!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Diamonds for Gifts. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_diamond_gifts.png"
@@ -380,7 +380,7 @@
 		"day": 15,
 		"dayEnd": 22,
 		"description": "Top-up 135 Diamonds every day during the event for rewards, top-up 5 out of 7 days to claim the mega reward!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Top-up for reward. ",
 		"eveimgurl": ""
@@ -388,7 +388,7 @@
 		"day": 16,
 		"dayEnd": 17,
 		"description": "Kula Defense War unlocks during the event, test your speed and claim great rewards!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Kula Defense War. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_defense_war.png"
@@ -396,7 +396,7 @@
 		"day": 16,
 		"dayEnd": 17,
 		"description": "Defeat the K' clones a certain number of times during the event to get K'[Frag].",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Team Battle to get K'. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
@@ -404,7 +404,7 @@
 		"day": 16,
 		"dayEnd": 18,
 		"description": "Accumulate certain quantity of ultimate trial points during the event and claim extra rewards! (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Rewards for Trial Points. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_trial_point.png"
@@ -412,7 +412,7 @@
 		"day": 16,
 		"dayEnd": 17,
 		"description": "",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Time-Limited Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_time_limited_exchange.png"
@@ -420,7 +420,7 @@
 		"day": 17,
 		"dayEnd": 18,
 		"description": "Train your superpower by charging the crystal ball and get rewards! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Superpower Drill . ",
 		"eveimgurl": ""
@@ -428,7 +428,7 @@
 		"day": 17,
 		"dayEnd": 18,
 		"description": "Mirage Challenge chance+2 during the event! Come and challenge Mirage Challenge stages!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Mirage Challenge Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_mirage.png"
@@ -436,7 +436,7 @@
 		"day": 17,
 		"dayEnd": 18,
 		"description": "BOSS Fighter cuisine is available in Mystic store during the event.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Mystic Store. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_mystic_store.png"
@@ -444,7 +444,7 @@
 		"day": 17,
 		"dayEnd": 20,
 		"description": "During the event, use Egg Machine, and there is chance to get One-man Army Ralf Awaken Weapon Frag, Tome, Badge and other rare items.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Weapons Egg Machine. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_weapon_egg.png"
@@ -452,7 +452,7 @@
 		"day": 18,
 		"dayEnd": 19,
 		"description": "Super Gold Scratcher is here, who knows what you may get!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Super Scratcher. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_super_scratcher.png"
@@ -460,7 +460,7 @@
 		"day": 18,
 		"dayEnd": 19,
 		"description": "Female Fighters Challenge chance+2 during the event! Come challenge Female Fighters Challenge stages! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Female Fighters Challenge Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_female.png"
@@ -468,7 +468,7 @@
 		"day": 18,
 		"dayEnd": 20,
 		"description": "Opening hidden safes in Ultimate Trials for double Golds, come get it now! (Only doubled for free tries) (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Double Gold in Trial Hidden Safe. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_double_gold_trial.png"
@@ -476,7 +476,7 @@
 		"day": 18,
 		"dayEnd": 20,
 		"description": "Exchange for the fighter fragments you need now, don't miss this rare opportunity!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fighter Fragment Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_frag_exchange.png"
@@ -484,7 +484,7 @@
 		"day": 18,
 		"dayEnd": 19,
 		"description": "Tome and Tome material can be exchanged for one another during the event, please take note that each Tome can only be exchanged once, choose carefully!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Tome Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_tome_exange.png"
@@ -492,7 +492,7 @@
 		"day": 19,
 		"dayEnd": 20,
 		"description": "Welcome to Shermie Adventure. Embark on a fun filled adventure with Shermie and find amazing treasures.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Shermie Adventure. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_ShermiAdv.png"
@@ -500,7 +500,7 @@
 		"day": 19,
 		"dayEnd": 20,
 		"description": "Defeat the Mr.Karate clones a certain number of times during the event to get Mr.Karate[Frag].",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Team Battle to get Mr.Karate. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
@@ -508,7 +508,7 @@
 		"day": 19,
 		"dayEnd": 20,
 		"description": "Badge and Badge material can be exchanged for one another during the event, please take note that each badge can only be exchanged once, choose carefully!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Badge Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_badge_exchange.png"
@@ -516,7 +516,7 @@
 		"day": 20,
 		"dayEnd": 21,
 		"description": "Mini game - Seal Orochi unlocked! Come help seal orochi Now!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Minigame - Seal Orochi. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_seal_orochi.png"
@@ -524,7 +524,7 @@
 		"day": 20,
 		"dayEnd": 21,
 		"description": "EXP Rush Challenge chance+2 during the event! Come challenge EXP Rush Challenge stages! ",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "EXP Rush Challenge Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_EXP_Rush.png"
@@ -532,7 +532,7 @@
 		"day": 20,
 		"dayEnd": 22,
 		"description": "",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Campaign Master. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_campaing_master_main.png"
@@ -540,7 +540,7 @@
 		"day": 20,
 		"dayEnd": 22,
 		"description": "During the event, Fighter Weapon Frags are available for limited time. Get it now!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Fighter Weapon Awakening Frag Pack Exchange. ",
 		"eveimgurl": ""
@@ -548,7 +548,7 @@
 		"day": 20,
 		"dayEnd": 22,
 		"description": "During the event, open Esoteric Chest for certain times to gain extra rewards!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Draw Esoteric Stone for rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_draw_esoteric.png"
@@ -556,7 +556,7 @@
 		"day": 20,
 		"dayEnd": 22,
 		"description": "Exchange for ULT Esoteric Stones during the event, don't miss out! (Daily Reset)",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "ULT Esoteric Stone Limited Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_ULT_Esoteric_Chest.png"
@@ -564,7 +564,7 @@
 		"day": 20,
 		"dayEnd": 23,
 		"description": "During the event, participate in the FightSoul Wish and there is a chance to get rewards including FightSoul Book Frags, Awakening Gems, and Power Fragment Chests.",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "FightSoul Wish. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_FS_wish.png"
@@ -572,7 +572,7 @@
 		"day": 20,
 		"dayEnd": 23,
 		"description": "Spend a certain amount of Diamonds during the event and get awesome rewards!",
-		"month_id": 0,
+		"month_id": 8,
 		"month": "Aug",
 		"name": "Spend for Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
