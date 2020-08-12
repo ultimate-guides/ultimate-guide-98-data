@@ -217,6 +217,14 @@
 			"img_name": "fashion_kula_3"
 		},
 		{
+			"fighter_id": "KING_XIII",
+			"name": "",
+			"cost": "8888",
+			"atribute_1": "",
+			"atribute_2": "",
+			"img_name": "fashion_king_xiii_2"
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"name": "",
 			"cost": "8888",
