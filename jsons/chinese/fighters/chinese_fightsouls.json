@@ -976,8 +976,8 @@
 			"fighter_id": "MIZUCHI",
 			"fightsoul": {
 				"name": "SPACE",
-				"description": "",
-				"description_es": "",
+				"description": "At the beginning of each round, gain 180 rage and restore a lot of HP (level 20)",
+				"description_es": "Al inicio de cada ronda, gana 180 Rage y recupera mucha HP (level 20)",
 				"description_pt": ""
 			}
 		},

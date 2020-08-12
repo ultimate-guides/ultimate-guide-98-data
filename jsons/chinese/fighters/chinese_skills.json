@@ -3461,14 +3461,14 @@
 			"skills": [
 				{
 					"name": null,
-					"description": null,
+					"description": "Attack enemy's; 40% chance to stun the main target; reduce the main target's attack and defense by 20% (2 rounds); cause 30% additional damage to all targets affected by \"septic blood\"; restore their own HP, the value is equal to the enemy 50% of the total value of the \"septic\" effect received by all characters on the field (recover at least 80% of their own attack power); if at least half of the characters on the enemy field are affected by \"septic\", the minor skills will switch To attack all the enemy",
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
 				},
 				{
 					"name": null,
-					"description": null,
+					"description": "Attack the enemy with the highest HP; increase its own damage by 20% to avoid debuff; increase its own offense and defense according to the target's life ratio before being hit (minimum 5%, maximum 15%); cause additional damage of 8% of the target's life limit; cause 20% The \"septic\" effect (destroy the upper limit of the target's life, the amount of damage is equivalent to a certain percentage of the loss of life from this skill); dispel the negative status and petrification of a fighter in our side (the controlled one is preferred); after death , Resurrect the next time you take action, restore 30% of your health, and return to full anger (this effect can only be triggered once per battle). After the weapon is awakened, the effect is fully improved, and part of the target's anger can be extracted",
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": "攻击敌方生命值最高单体；提升自身20%伤害免伤；根据目标受击前生命比例提升自身攻防（最少5%，最多15%）；造成目标8%生命上限的额外伤害；造成20%的“败血”效果（破坏目标生命上限，破坏量等同于本次技能使其损失生命值的一定比例）；驱散我方一名格斗家（被控制者优先）的负面状态及石化；死亡后，在下次己方行动时复活，回复30%生命值，并回满怒气（该效果每场战斗仅可触发一次）。武器觉醒后，效果全面提升，井可抽取目标部分怒气\r\n对目标造成 %+ 点伤害（1级，每级增加0.5%，24点）\r\n对目标造成 %+ 点伤害（132级）"
@@ -3482,7 +3482,7 @@
 				},
 				{
 					"name": null,
-					"description": null,
+					"description": "When you enter the field, increase your own damage rate and damage immunity rate, and other characters on your side gain 50% effect; if you have more than one player when you enter the field, at the beginning of each round, the fighter with the lowest health rate will restore 10% of health to An under-furious fighter on his side returns 100 anger, with a 50% probability of silence a random enemy for one round; the first round of appearance is immune control and rage reduction effect; every time he is critically hit or his health falls below 30% after being hit, Recover 30% of the lost health of oneself, and increase 10% riot rate and 7% small skill probability (stackable, lasting the entire battle), each battle takes effect up to 4 times, reset after resurrection; caused by Jiao’s skills All damage ignores the immune negative status effect; when it enters the field, it provides self- buffs according to the type of each fighter (not including self) on the field (each of the following buffs can be stacked up to three times); attack: each provides 20% bloodsucking rate ; Defense: Each player provides 10% crit rate; Skill: Each player provides 10% rage return speed, and an additional 100 rage is gained on the stage; [Captain Skill] When on the stage, if there is an offense in all fighters on the field except yourself There are three types of fighters:, defense, and skill, which increase the resistance of all your own fighters by 30% and 15% damage prevention rate for 2 rounds (cannot be effective with other captain skills at the same time)",
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": "登场时，提升自身伤害率及免伤率，己方场上其他角色获得50%效果；若登场时己方多于一人，则每回合开始时，为己方生命比例最低格斗家回复10%生命值，为己方一名未满怒格斗家回复100怒气，50%概率沉默随机一名敌人一回合；登场首回合免疫控制及降怒效果；每次被暴击或受击后生命值低于30%时，恢复自身已损失生命值的30%，并提升10%抗暴率和7%小技能概率（可叠加，持续整场战斗），每场战斗最多生效4次，复活后重置；蛟的技能造成的所有伤害无视免疫负面狀态效果；\r\n登场时，根据己方场上各个格斗家（不含自身）的类型为自身提供增益（以下每种增益最多可叠加三次）；\r\n攻：每名提供20%吸血率；\r\n防：每名提供10%暴击率；\r\n技：每名提供10%回怒速度，登场时额外获得100怒气；\r\n【队长技】登场时，若己方场上除自身外的所有格斗家中存在攻、防、技三种格斗家，增加己方全体格斗家30%绝技抗性和15%免伤率2回合（不能与其他队长技同时生效）\r\n提升自身 %伤害率，提升自身 %免伤率（1级，每级增加0.06%，0.1%）\r\n提升自身 %伤害率，提升自身 %免伤率（132级）"
