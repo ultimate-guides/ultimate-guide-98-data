@@ -177,8 +177,8 @@
 				"thunder": "Uses psychic force to conjure up a spherical impact wave to strike a single enemy <font color='#FFA726'>with 90% Healing Rate reduction. If the target is male, it will cause extra 30% DMG.</font>",
 				"thunder_es": "Usa fuerza psíquica para evocar una onda esférica de impacto que golpea a un solo enemigo <font color='#FFA726'>y reduce en 90% su sanacion. Si el objetivo es masculino 30% de DMG adicional.</font>",
 				"thunder_pt": "Usa a força psíquica para conjurar uma onda de impacto esférica para acertar um único inimigo <font color='#FFA726'>e causando 90% de redução no Healing Rate. Se o alvo for masculino, causará um DMG extra de 30%.</font>",
-				"water": "Athena uses a swimsuit to surround herself with a Superpower Ball. The ball heals <font color='#FFA726'>all allies' Fighters.</font>",
-				"water_es": "Athena usa un traje de baño para rodearse de una esfera de Superpoder (Superpower Ball). <font color='#FFA726'>La esfera recupera HP a todos los aliados.</font>",
+				"water": "Athena uses a swimsuit to surround herself with a Superpower Ball. The ball heals <font color='#FFA726'>all allies' Fighters. Attack the enemy with lowest HP based on 30% of the healing and reduces target dmg 50%</font>",
+				"water_es": "Athena usa un traje de baño para rodearse de una esfera de Superpoder (Superpower Ball). <font color='#FFA726'>La esfera recupera HP a todos los aliados. Ataca al enemigo con el HP mas bajo y reduce su DMG en 50%</font>",
 				"water_pt": "Athena usa um traje de banho para cercar a si mesma com uma “Superpower Ball”, <font color='#FFA726'>curando todos os aliados. Após isso, concentra toda a energia acumulada em sua mão e a lança sobre um inimigo aleatório, causando Redução de DMG.</font>"
 			}
 		},

@@ -1922,6 +1922,23 @@
 			]
 		},
 		{
+			"fighter_id": "KING_XIII",
+			"fates": [
+				{
+					"bosses": "King XIII, Alluring Mai, Yuri",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "King XIII, Goeniko, Mature XIII",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "King XIII, King, Joe",
+					"attr": "ATK + 25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"fates": [
 				{

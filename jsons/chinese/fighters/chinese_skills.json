@@ -3636,6 +3636,39 @@
 			]
 		},
 		{
+			"fighter_id": "KING_XIII",
+			"skills": [
+				{
+					"name": null,
+					"description": "attacks one enemy boosts 30% skill dmg absorbs 200 rage from a random enemy (prioritize highest atk enemies) heals 15% of lost HP If her ult was used this turn she gets 5% DMG and res rate if not she becomes immune to rage reduce for 1 round",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": null
+				},
+				{
+					"name": null,
+					"description": "Attacks 2 enemies boosting 20% ATK and DEF  removing enemies buffs deals 120% additional DMG to the main target (ignores DMG immunity) reduces target 30% DMG immunity and King can ignore it for 2 rounds boost 5% skill DMG for those who triggered it this round",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": "Increase immunity boosts 30% DMG res rate and crit rate boost allies skill rate 10% and 25% to herself Based on her positioning if she is at the frontlane gets 30% ult res and 100 rage when hit (Aka becomes a turtle soul) and if she is backlane she will have 30% ult DMG and 10% rage regen in 1 vs 1 situations she will have both effects activated All of King attacks deal poison (lasts 2 rounds can be stacked ignore immunity unable to dispel reduce 15% atk and 30% skill chance for every 3 hits she gets heals 8% HP (the counter does not reset after the next round) when HP drops to 0 heals 30% gets 20% ult DMG and 30% ult res and immunity she can activate it twice on arena but once in 1 vs 1 ",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"skills": [
 				{

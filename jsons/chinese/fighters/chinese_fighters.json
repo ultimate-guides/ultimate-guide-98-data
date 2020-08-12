@@ -1529,9 +1529,9 @@
 			"api": 15,
 			"type_id": "GANK",
 			"gender_id": "FEMALE",
-			"tome_id": "STREET",
-			"badge_id": "DAZZLING",
-			"status": 1,
+			"tome_id": "THAI",
+			"badge_id": "BEAUTY",
+			"status": 0,
 			"striker": 0
 		},
 		{

@@ -1922,6 +1922,23 @@
 			}
 		},
 		{
+			"fighter_id": "KING_XIII",
+			"skills_elements": {
+				"lake": "Shares 50% of the immunity to whoever is next to her (back or front) Boosts 35% DMG RES rate and crit rate instead of 30%  35% of skill chance boost to herself instead of 25% 15% skill chance to allies instead of 10%  35% ult res instead of 30% in frontlane 35% ult DMG instead of 30% in backlane Reduces 20% ATK AND  DEF  TOO and 50% skill chance instead of 15% and 30%  If she gets hits by poison immediatly dispel it and restore 10% HP and 200 rag Heals 8% HP and it goes up based on her HP left (if lower it goes up to 20%) Heals 50% HP after it drops to 0 and gets 25% Ult DMG and 40% Ult res instead of 20% and 30%",
+				"lake_es": null,
+				"lake_pt": null,
+				"lake_zh": "",
+				"thunder": "Deals 10% of enemy max HP as additional DMG Absorbs 250 rage instead of 200 Heals 25% of her HP instead of 15%",
+				"thunder_es": null,
+				"thunder_pt": null,
+				"thunder_zh": "",
+				"water": "boosts 35% ATK and DEF instead of 30% removes the debuffs of the ally that is next to King (front or back) gives 40% control free to that ally deals 240% additional DMG instead of 180% deals 10% of enemies max HP as additional DMG if they carry poison effect reduces target 50% DMG immunity instead of 40% boost 8% skill DMG instead of 6.5% when the ult hits an enemy it will permanently increase King res rate crit rate and block by 4.5% up to 10 times boosts perfect chance of allies 40% instead of 30%",
+				"water_es": null,
+				"water_pt": null,
+				"water_zh": ""
+			}
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"skills_elements": {
 				"lake": null,

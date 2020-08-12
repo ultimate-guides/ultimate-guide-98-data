@@ -1018,6 +1018,15 @@
 			}
 		},
 		{
+			"fighter_id": "KING_XIII",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"fightsoul": {
 				"name": "TIGER",
