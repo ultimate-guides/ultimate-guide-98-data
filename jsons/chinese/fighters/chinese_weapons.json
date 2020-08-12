@@ -1214,7 +1214,7 @@
 			"fighter_id": "KING_XIII",
 			"weapon_awakened": {
 				"name": null,
-				"description": null,
+				"description": "boosts 30% DMG and DEF instead of 20% remove own debuffs 180% of additional DMG to main target instead of 120% reduces target 40% DMG immunity instead of 30% boost 6.5% skill DMG instead of 5% to allies that triggered skill boosts perfect chance of allies 30% (1 round) for every objective you attack boost crit res 3% and block and crit rate 5% (stackable up to 10 times)",
 				"description_es": null,
 				"description_pt": null,
 				"description_zh": null,
