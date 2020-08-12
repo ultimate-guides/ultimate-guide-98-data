@@ -1840,16 +1840,16 @@
 			"fighter_id": "MIZUCHI",
 			"fates": [
 				{
-					"bosses": "",
-					"attr": ""
+					"bosses": "Mizuchi, Chris, Orochi Chris, Orochi",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": "",
-					"attr": ""
+					"bosses": "Mizuchi, Death Vice, Mature XIV",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": "",
-					"attr": ""
+					"bosses": "Mizuchi, Instinct Iori, Flame Kyo",
+					"attr": "HP + 25%"
 				}
 			]
 		},

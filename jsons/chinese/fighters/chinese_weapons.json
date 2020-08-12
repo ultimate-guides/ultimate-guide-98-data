@@ -1192,7 +1192,7 @@
 			"fighter_id": "MIZUCHI",
 			"weapon_awakened": {
 				"name": null,
-				"description": null,
+				"description": "Attack the enemy with the highest HP; increase its own damage by 30% to avoid injury; increase its own offense and defense according to the target's life ratio before being hit (at least 10%, at most 25%, non-dispellable ); cause additional damage of 10% of the target's life limit; Inflict 35% of the \"septic\" effect (destroy the target's upper limit of life, and the amount of damage is equivalent to a certain percentage of the loss of life from this skill); dispel the negative status and petrification of one of our fighters (the controlled one is preferred) ; After death, resurrect at the next action of your side, restore 50% of the health value, and return to full rage (this effect can only be triggered once per battle); draw 40% of the target's current rage value (this effect cannot be critical and will not Blocked), if the drawn rage value is less than 100 points, an additional 200 rage will be restored",
 				"description_es": null,
 				"description_pt": null,
 				"description_zh": null,
