@@ -215,6 +215,14 @@
 			"atribute_1": "ATK: +500",
 			"atribute_2": "Control: +3%",
 			"img_name": "fashion_kula_3"
+		},
+		{
+			"fighter_id": "ROCK_HOWARD",
+			"name": "",
+			"cost": "8888",
+			"atribute_1": "",
+			"atribute_2": "",
+			"img_name": "fashion_rock_howard_2"
 		}
 	]
 }
