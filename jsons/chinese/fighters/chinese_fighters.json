@@ -1465,7 +1465,7 @@
 			"type_id": "GANK",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0
 		},
@@ -1478,7 +1478,7 @@
 			"type_id": "TANK",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0
 		},
@@ -1491,7 +1491,7 @@
 			"type_id": "DPS",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0
 		},
@@ -1504,7 +1504,7 @@
 			"type_id": "TANK",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 1,
 			"striker": 0
 		},
@@ -1517,7 +1517,7 @@
 			"type_id": "TANK",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 1,
 			"striker": 0
 		},
@@ -1530,7 +1530,7 @@
 			"type_id": "GANK",
 			"gender_id": "FEMALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 1,
 			"striker": 0
 		},
@@ -1543,7 +1543,7 @@
 			"type_id": "GANK",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 1,
 			"striker": 0
 		},
@@ -1556,7 +1556,7 @@
 			"type_id": "TANK",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 1,
 			"striker": 0
 		},
@@ -1569,7 +1569,7 @@
 			"type_id": "DPS",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 1,
 			"striker": 0
 		},
@@ -1582,7 +1582,7 @@
 			"type_id": "GANK",
 			"gender_id": "MALE",
 			"tome_id": "STREET",
-			"badge_id": "DAZZLIING",
+			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0
 		}
