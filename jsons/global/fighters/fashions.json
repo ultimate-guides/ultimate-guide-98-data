@@ -225,6 +225,14 @@
 			"img_name": "fashion_king_xiii_2"
 		},
 		{
+			"fighter_id": "CHANG_XIV",
+			"name": "",
+			"cost": "8888",
+			"atribute_1": "",
+			"atribute_2": "",
+			"img_name": "fashion_chang_xiv_2"
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"name": "",
 			"cost": "8888",
