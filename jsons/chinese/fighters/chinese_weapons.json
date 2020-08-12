@@ -1211,6 +1211,17 @@
 			}
 		},
 		{
+			"fighter_id": "CHANG_XIV",
+			"weapon_awakened": {
+				"name": null,
+				"description": "",
+				"description_es": null,
+				"description_pt": null,
+				"description_zh": null,
+				"contributor": null
+			}
+		},
+		{
 			"fighter_id": "KING_XIII",
 			"weapon_awakened": {
 				"name": null,

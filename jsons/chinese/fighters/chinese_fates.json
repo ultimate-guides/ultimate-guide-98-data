@@ -1922,6 +1922,23 @@
 			]
 		},
 		{
+			"fighter_id": "CHANG_XIV",
+			"fates": [
+				{
+					"bosses": "Chang XIV,  Chang, Choi XIV",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Chang XIV, Kim, Jhun Hoon",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Mr big, Krauser",
+					"attr": "ATK + 25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "KING_XIII",
 			"fates": [
 				{

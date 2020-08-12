@@ -3636,6 +3636,39 @@
 			]
 		},
 		{
+			"fighter_id": "CHANG_XIV",
+			"skills": [
+				{
+					"name": null,
+					"description": "Attacks an enemy (prioritizes the one he has previously attacked with ult before) heals based on 300% of your ATK boosts 10% skill chance permanently (up to 4 times) deals 8% of enemy max HP as additional DMG (ignoring dmg immunity) if the enemy def is lower than Chang deals \"septic\" effect if the enemy def is higher skill DMG will be doubled",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": null
+				},
+				{
+					"name": null,
+					"description": "Attacks one enemy boosts ATK and control-free 20% this ignores block and res rate 40% chance to stun reduce enemy 20% control-free ult res and 40% def  If you can not grab the enemy (be it gold card, Mukai statue etc) will skip the animation but deals the same DMG",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": "Boosts 35% ATK and DEF 20% healing rate 30% skill res and ult res when he dies for the first time 100% chance to revive if there are more people during round start there is a 50% chance to revive for a second time when reviving get permanently 10% DEF and 30% control-free if Chang died during or after second turn skip enemy turn gets a DEF to ATK conversion gives 2 allies with the lowest rage 400 rage and cleanse CCs (if there are 6 or less chars in the field only gives rage to one of them) After he revives he gets immunity to CCs and will have guarranteed skill",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "KING_XIII",
 			"skills": [
 				{
