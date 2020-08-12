@@ -903,6 +903,14 @@
 				"partner_2": null,
 				"partner_3": null
 			}
+		},
+		{
+			"fighter_id": "ROCK_HOWARD",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
 		}
 	]
 }

@@ -1920,6 +1920,23 @@
 				"water_pt": null,
 				"water_zh": "攻击一列目标，提升自身30%攻防和45%破击率；若自身生命值高于50%，提升自身30%伤害率，否则回复自身15%最大生命值；对防格斗家造成伤害增加40%；80%几率使主目标陷入“睡眠”（1回合，不可驱散），目标累计受到其生命上限（含被“败血”部分）30%的伤害时会提前醒来，魔像形态无界、武装吉普、售货机等无法被睡眠；本回合必定释放小技能\r\n对目标列造成 %+ 点伤害（1级，每级增加0.2%，25点）\r\n对目标列造成 %+ 点伤害（132级）"
 			}
+		},
+		{
+			"fighter_id": "ROCK_HOWARD",
+			"skills_elements": {
+				"lake": null,
+				"lake_es": null,
+				"lake_pt": null,
+				"lake_zh": "",
+				"thunder": null,
+				"thunder_es": null,
+				"thunder_pt": null,
+				"thunder_zh": "",
+				"water": null,
+				"water_es": null,
+				"water_pt": null,
+				"water_zh": ""
+			}
 		}
 	]
 }

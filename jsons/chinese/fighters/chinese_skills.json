@@ -3013,6 +3013,7 @@
 			"skills": [
 				{
 					"name": "Twisting Smash",
+					"description": null,
 					"description_es": "",
 					"description_pt": "",
 					"description_zh": "Attack a single enemy, increase self column's block rate by 30%"
@@ -3045,6 +3046,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3077,6 +3079,7 @@
 			"skills": [
 				{
 					"name": "Lethalvator",
+					"description": null,
 					"description_es": "Ataca a un solo enemigo, agregando el efecto Veneno sobre el objetivo (pierde 8% de HP máximo en cada ronda hasta que termine la batalla. Este efecto es acumulable y no causa recuperación de Rage); si el ataque golpea al enemigo envenenado, recupera un 8%",
 					"description_pt": null,
 					"description_zh": "Attack single enemy, adding Poison effect upon target (lose 8% max HP each round until battle ends. This effect is stackable and does not cause rage recovery); if attack hits poisoned enemy, recover 8% max HP; if attack hits NETS fighter, the DMG increase"
@@ -3109,6 +3112,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3141,6 +3145,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3173,6 +3178,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3205,6 +3211,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3237,6 +3244,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3269,6 +3277,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3301,6 +3310,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3333,6 +3343,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3365,6 +3376,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3397,6 +3409,7 @@
 			"skills": [
 				{
 					"name": "Nocturnal Plover",
+					"description": null,
 					"description_es": "",
 					"description_pt": "",
 					"description_zh": "Attack a single target, damage increases by 40% for male fighters. Recover 100 Rage for self and a random female ally, 30% chance to tempt male targets (add confusion effect upon target, making him unable to release a small skill or Ult. within 1 round, and making him attack Alluring Mai and copy buff to Alluring Mai.This does not take effect upon taunted or confused target); increase own control-free rate by 30%"
@@ -3429,6 +3442,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3494,6 +3508,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3526,6 +3541,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3558,6 +3574,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3590,6 +3607,7 @@
 			"skills": [
 				{
 					"name": null,
+					"description": null,
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": null
@@ -3614,6 +3632,39 @@
 					"description_es": null,
 					"description_pt": null,
 					"description_zh": "登场时，提升自身绝技伤害；提升自身30%免伤率、抗暴率和20%受到的治疗量；每次释放小技能后，自身进入“瞌睡”状态（提升30%绝技抗性，敌方阵上格斗家每次行动后，自身回复已损失生命值的10%），己方行动时醒来；“瞌睡”时累计受到2次攻击会提前醒来，并立即获得200怒气和50%免控率（1回合）；从“瞌睡”中醒来时驱散自身负面状态及石化；每当怒气被降低时，立即回复150怒气；受到的单次伤害不会超过生命上限的60%（登场时，敌方人数越多，该比例越小，最低降至35%）；生命值低于40%时，立即回复30%最大生命值和200怒气，该效果每场战斗最多生效4次（登场时敌方仅一人，则仅可生效一次）；自身被“睡眠”时，立即回复15%最大生命值，并将“睡眠”转换为“瞌睡”\r\n提升自身 %绝技伤害（1级，每级增加0.2%）\r\n提升自身 %绝技伤害（132级）"
+				}
+			]
+		},
+		{
+			"fighter_id": "ROCK_HOWARD",
+			"skills": [
+				{
+					"name": null,
+					"description": "attack a single enemy restore 150 rage boost skill chance 10% (can be stacked up to 3 times) first skill will release \"greece fist\" greece fist: increase DMG rateand control 20% deals 80% splash DMG to enemies behind (damage does not restore rage) 40% of applying Paralisis to enemies hit by this skill restore HP based on 30% of DMG dealt and switch to gale fist Gale fist (aka Speed Dunk): boosts 20% crit rate HP drain deals 40% splash damage boosts 40% skill DMG restores 150 rage and switch to greece fist",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": null
+				},
+				{
+					"name": null,
+					"description": "attack all enemies less targets more DMG up to 100% steals 20% of main target ATK and DEF and increase crit damage 20% dispel all debuffs makes the main target go into a dream (decreases 35% DMG and 70% control rate ignores CC immunity cant be dispelled  demonic dream can only be applied to one enemy) deals 80% additional DMG to the main target steals 200 rage and 50% chance to paralize a random enemy weapon will unlock \"Fist of light\" in certain cirscumstances",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": "Boost crit rate and res rate 35% DMG and control free all damage caused ignores damage immunity on enemy round heals HP based of (ATK x 50% of the ammount of characters on both sides) and gives half the ammount to surrounding allies gives 100 rage to an ally without full rage whenever an ally dies for the first time Rock will inherit that ally will to increase DMG and DMG immunity 5% recovers 15% HP and inherits 50% of that ally rage (this does not account for advanced strikers) when HP drops to 0 he will not die remove all CCs get 20% healing rate for the whole battle and restores 50% HP and get 300 rage (this effect can be triggered twice unless in 1 vs 1 then it will be once)",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
 				}
 			]
 		}

@@ -1016,6 +1016,15 @@
 				"description_es": null,
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "ROCK_HOWARD",
+			"fightsoul": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
 		}
 	]
 }

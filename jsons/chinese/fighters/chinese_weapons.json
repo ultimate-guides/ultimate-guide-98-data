@@ -1200,7 +1200,18 @@
 			}
 		},
 		{
-			"fighter_id": "NAKORURU RASETSU",
+			"fighter_id": "NAKORURU_RASETSU",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"description_zh": null,
+				"contributor": null
+			}
+		},
+		{
+			"fighter_id": "ROCK_HOWARD",
 			"weapon_awakened": {
 				"name": null,
 				"description": null,
