@@ -747,121 +747,121 @@
 		{
 			"fighter_id": "SHEEN_WOO",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "RALF",
+				"partner_2": "CLARK",
+				"partner_3": "RUGAL"
 			}
 		},
 		{
 			"fighter_id": "HINAKO",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "LEONA",
+				"partner_2": "MAI",
+				"partner_3": "KASUMI"
 			}
 		},
 		{
 			"fighter_id": "LEONA_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "K"
 			}
 		},
 		{
 			"fighter_id": "LIN",
 			"partners": {
-				"partner_1": "CHRIS",
-				"partner_2": "YASHIRO",
-				"partner_3": "BRIAN"
+				"partner_1": "ROBERT",
+				"partner_2": "MAI",
+				"partner_3": "BENIMARU_2003"
 			}
 		},
 		{
 			"fighter_id": "RAMON",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "BLUE_MARY",
+				"partner_2": "CLARK",
+				"partner_3": "ANGEL"
 			}
 		},
 		{
 			"fighter_id": "OSWALD",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "ROBERT",
+				"partner_2": "CHIN",
+				"partner_3": "SHEEN_WOO"
 			}
 		},
 		{
 			"fighter_id": "DUO_LON",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "BENIMARU",
+				"partner_2": "KENSOU",
+				"partner_3": "SHEEN_WOO"
 			}
 		},
 		{
 			"fighter_id": "SETH",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "RAMON",
+				"partner_2": "LIN",
+				"partner_3": "VANESSA"
 			}
 		},
 		{
 			"fighter_id": "ROBERT_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "YURI",
+				"partner_2": "TAKUMA",
+				"partner_3": "NEW_MR_KARATE"
 			}
 		},
 		{
 			"fighter_id": "ATHENA_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "MOMOKO",
+				"partner_2": "BAO",
+				"partner_3": "KULA"
 			}
 		},
 		{
 			"fighter_id": "RALF_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "HEIDERN",
+				"partner_2": "CLARK",
+				"partner_3": "OROCHI_LEONA"
 			}
 		},
 		{
 			"fighter_id": "CLARK_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "HEIDERN",
+				"partner_2": "RALF",
+				"partner_3": "OROCHI_LEONA"
 			}
 		},
 		{
 			"fighter_id": "KENSOU_XII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "BAO",
+				"partner_2": "CHIN",
+				"partner_3": "ATHENA_2002_UM"
 			}
 		},
 		{
 			"fighter_id": "MAI_NEW",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "MAI",
+				"partner_2": "BENIMARU",
+				"partner_3": "TERRY_2003"
 			}
 		},
 		{
 			"fighter_id": "VICE_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "VICE",
+				"partner_2": "MATURE",
+				"partner_3": "OROCHI"
 			}
 		},
 		{
@@ -875,33 +875,33 @@
 		{
 			"fighter_id": "NAKORURU_RASETSU",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "HAOHMARU",
+				"partner_2": "UKYO",
+				"partner_3": "NAKORURU"
 			}
 		},
 		{
 			"fighter_id": "RYO_MR_KARATE",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "RYO",
+				"partner_2": "YURI",
+				"partner_3": "ROBERT_2002_UM"
 			}
 		},
 		{
 			"fighter_id": "MATURE_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "MATURE",
+				"partner_2": "VICE",
+				"partner_3": "CRAZY_IORI"
 			}
 		},
 		{
 			"fighter_id": "MEITENKUN",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "KENSOU",
+				"partner_2": "CHIN",
+				"partner_3": "ATHENA_2002_UM"
 			}
 		},
 		{
