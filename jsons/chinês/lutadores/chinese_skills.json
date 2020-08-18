@@ -3705,31 +3705,31 @@
 			"fighter_id": "ROCK_HOWARD",
 			"skills": [
 				{
-					"name": null,
+					"name": "gale Fist",
 					"description": "attack a single enemy restore 150 rage boost skill chance 10% (can be stacked up to 3 times) first skill will release \"greece fist\" greece fist: increase DMG rateand control 20% deals 80% splash DMG to enemies behind (damage does not restore rage) 40% of applying Paralisis to enemies hit by this skill restore HP based on 30% of DMG dealt and switch to gale fist Gale fist (aka Speed Dunk): boosts 20% crit rate HP drain deals 40% splash damage boosts 40% skill DMG restores 150 rage and switch to greece fist",
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "ataca um único inimigo e restaura 150 de rage,chance de aumento de skill em 10% (pode ser acumulado até 3 vezes) a primeira skill irá liberar \" punho da Grécia \ "punho da Grécia: aumenta a proporção de DMG e de controlar em 20%,dá 80% de splash DMG nos inimigos atrás(o dano não restaura a raiva) 40% de chance de Paralisar os inimigos atingidos por esta skill,restaura o HP com base em 30% do DMG dado e muda para o "punho do vendaval" Punho do vendaval (também conhecido como Speed ​​Dunk): aumenta 20% da taxa crítica e drenagem de HP,causa 40% de splash DMG aos inimigos ao redor,aumenta o dano dessa skill em 40%,restaura um adicional de 150 de raiva e muda para "punho grego"",
 					"description_zh": null
 				},
 				{
-					"name": null,
+					"name": "raging storm",
 					"description": "attack all enemies less targets more DMG up to 100% steals 20% of main target ATK and DEF and increase crit damage 20% dispel all debuffs makes the main target go into a dream (decreases 35% DMG and 70% control rate ignores CC immunity cant be dispelled  demonic dream can only be applied to one enemy) deals 80% additional DMG to the main target steals 200 rage and 50% chance to paralize a random enemy weapon will unlock \"Fist of light\" in certain cirscumstances",
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ataque todos os inimigos,quanto menos alvos tiver,maior vai ser o dano(no máximo 100%); absorva 20% de ataque e defesa do alvo principal,faça o alvo principal cair em um sonho (diminui 35% da taxa de dano e 70% da taxa de controle,dura 1 rodada,ignora imunidade negativa,não pode ser dissipado,mas apenas um inimigo pode estar em um sonho ao mesmo tempo.) Pode causar 80% de dano extra ao alvo principal,absorve a raiva do alvo principal em 200 e 50% de chance de paralisar uma pessoa atingida aleatoriamente,aumenta seu próprio dano em 20%,Dissipa status negativos,obtem ou atualiza o efeito de recuperação contínua.Depois que a arma for despertada, o efeito será totalmente melhorado e pode ser alterado para matar "Fist of Light" em circunstâncias especiais",
 					"description_zh": ""
 				},
 				{
-					"name": null,
+					"name": "hungry Wolf attack enhancement",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Aumente permanentemente seu próprio poder de ataque e saúde",
 					"description_zh": ""
 				},
 				{
-					"name": null,
+					"name": "Son of destiny",
 					"description": "Boost crit rate and res rate 35% DMG and control free all damage caused ignores damage immunity on enemy round heals HP based of (ATK x 50% of the ammount of characters on both sides) and gives half the ammount to surrounding allies gives 100 rage to an ally without full rage whenever an ally dies for the first time Rock will inherit that ally will to increase DMG and DMG immunity 5% recovers 15% HP and inherits 50% of that ally rage (this does not account for advanced strikers) when HP drops to 0 he will not die remove all CCs get 20% healing rate for the whole battle and restores 50% HP and get 300 rage (this effect can be triggered twice unless in 1 vs 1 then it will be once)",
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Quando ele entra no palco,ele aumenta sua própria taxa de ataque crítico,taxa de controle,taxa de dano em 35%,taxa de livre de ferimentos e taxa de control-free em 35%. Todo o dano causado por si mesmo ignora a imunidade negativa. Sempre que o turno do inimigo começar, cure o seu próprio (ataque e o número total de pessoas no campo em "50%) e restaure metade desse valor para cada um dos amigos ao redor; sempre que seu turno começa, ele e os lutadores arredores são atribuídos aleatoriamente,uma pessoa que não está cheia de raiva, cada uma recupera 100 de raiva; quando cada um de seus lutadores morre pela primeira vez(assistência não incluída)pode herdar sua vontade de aumentar a taxa de danos em 5% e a taxa de imunidade a danos em 5% (empilhável) e restaurar 15% da saúde e herdar 50% da raiva]; não morrerá ao receber dano fatal,Dissipe imediatamente seus próprios negativos e petrificação, aumente a quantidade de cura que você recebe em 20% (acumulável, durando por toda a batalha) e restaure 50% da saúde e 300 de raiva. Este efeito pode ser ativado até 2 vezes (se o seu lado tiver apenas 1  As pessoas podem acionar 1 vez no máximo)",
 					"description_zh": ""
 				}
 			]
