@@ -3540,31 +3540,31 @@
 			"fighter_id": "RYO_MR_KARATE",
 			"skills": [
 				{
-					"name": null,
+					"name": "Jie Chuan · Xiang chaotic feet",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ataque um único inimigo; 40% de probabilidade de aplicar taunt no alvo; aumente a taxa de reflect em 20%; da próxima vez que você for controlado,imediatamente desfaça seu próprio estado negativo e petrificação e restaure 15% da saúde (continua a ser consumido, mas ao mesmo tempo pode ter até  Uma camada do efeito)",
 					"description_zh": null
 				},
 				{
-					"name": null,
+					"name": "Jie Chuan Upanishad · Overlord Supreme Fist",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ataque um único inimigo,aumente sua própria taxa de dano e a taxa de imunidade em 20%;reduza a taxa de dano do alvo em 20%,a taxa de imunidade e 50 pontos de raiva quando atingido (1 rodada); causa dano adicional de 15% da saúde máxima do alvo(Ignore os efeitos do estado negativo de imunidade); Reduza a quantidade de cura recebida pelo alvo em 40% (2 rodadas); Depois que a arma for despertada,o efeito será totalmente melhorado,ela pode aumentar seu próprio poder de ataque de acordo com sua própria taxa de reflect e dissipar o estado negativo de um amigo",
 					"description_zh": "攻击敌方单体，提升自身20%伤害率和免伤率；降低目标20%伤害率、免伤率，及50点受击回怒（1回合）；造成目标最大生命值15%的额外伤害（无视免疫负面状态效果）；降低目标40%受到的治疗量（2回合）；武器觉醒后，效果全面提升，可根据自身反弹率提升自身攻击力，并驱散一名友方的负面状态\r\n对目标造成 %+ 点伤害（1级，每级增加0.5%，24点）\r\n对目标造成 %+ 点伤害（132级）"
 				},
 				{
-					"name": null,
+					"name": "Ultimate blood attack enhancement",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Aumente permanentemente seu próprio poder de ataque e saúde",
 					"description_zh": "永久提升自身的攻击力和生命值\r\n提升自身 %攻击力和生命值（1级，每级增加0.05%）\r\n提升自身 %攻击力和生命值（132级）"
 				},
 				{
-					"name": null,
+					"name": "Thorns Assassination Array",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Quando você entrar no jogo, aumente sua própria taxa de reflect,sua primeira linha obtém 40% desse efeito(você pode empilhar quando estiver na primeira linha); quando você entrar no jogo,aumente 30% de defesa,40% de taxa de tumulto e 15% de saúde máxima; saúde baixa  Com 50%, ganha mais 30% de defesa e imunidade aos efeitos de redução de raiva por 1 rodada; quando o valor de saúde for inferior a 25%, ele dissipará imediatamente seu estado negativo e petrificação, restaurará 25% da saúde e reduzirá o atacante mais próximo em 40% da quantidade de cura recebida(por 2 rodadas,ignorando os efeitos negativos da imunidade,não pode ser dissipado),este efeito pode ser acionado no máximo uma vez por rodada; quando o dano letal é recebido,ele não morrerá e ganhará imediatamente 25% de resistência a ultimate e menor habilidade de resistência (continuando a batalha inteira não pode ser sobreposta) e restaura 25% da saúde (a quantidade de recuperação não será alterada).Este efeito só pode ser acionado três vezes por batalha(se houver apenas um inimigo no campo de batalha,ele só pode ser acionado uma vez)",
 					"description_zh": "登场时，提升自身反弹率，己方前排获得该效果的40%（自身在前排时可叠加）；登场时，提升30%防御力、40%抗暴率和15%最大生命值；生命值低于50%时，获得额外30%防御力，并免疫怒气降低效果，持续1回合；生命值低于25%时，立即驱散自身负面状态及石化，回复25%生命值，并降低最近攻击者40%受到的治疗量（2回合，无视免疫负面状态效果，不可驱散），该效果每回合最多触发一次；受到致死伤害时，不会死亡，立即获得25%绝技抗性和小技能抗性（持续整场战斗，不可叠加），并回复25%生命值（该回复量不会被改变），该效果每场战斗仅可触发三次（若登场时敌方仅一人，则仅可触发一次）\r\n提升自身 %反弹率（1级，每级增加0.3%）\r\n提升自身 %反弹率（132级）"
 				}
 			]
