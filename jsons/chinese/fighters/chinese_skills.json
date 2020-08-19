@@ -3606,31 +3606,31 @@
 			"fighter_id": "MEITENKUN",
 			"skills": [
 				{
-					"name": null,
+					"name": "Pillow kill",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ataque o único inimigo; aumente seu próprio pequeno dano de skill em 20%; cause dano adicional de 10% da saúde máxima do alvo(este dano ignora o efeito do status imunológico negativo); cada um dos dois lutadores com a taxa de saúde mais baixa irá recuperar o dano atual de 70% Da Saúde",
 					"description_zh": null
 				},
 				{
-					"name": null,
+					"name": "Daydream Double",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Ataque uma fila de alvos,aumente seu próprio ataque e defesa e a taxa de demolição de 30%; se sua própria saúde for maior que 50%,aumente sua própria taxa de dano em 20%,caso contrário,restaure 10% de sua saúde máxima; aumente o dano aos anti-lutadores em 30%; 60% de chance de o alvo principal cair no "sono"(1 rodada)e acordar cedo quando 20% de seu limite de vida(incluindo a parte "septicizada") o dano for acumulativo.Aviões de carga,etc,não podem ser adormecidos; pequenas habilidades devem ser liberadas nesta rodada; depois que a arma for despertada,o efeito será melhorado para todas as pessoas,e"sono"se tornará impossível de dissipar",
 					"description_zh": "攻击一列目标，提升自身20%攻防和30%破击率；若自身生命值高于50%，提升自身20%伤害率，否则回复自身10%最大生命值；对防格斗家造成伤害增加30%；60%几率使主目标陷入“睡眠”（1回合），目标累计受到其生命上限（含被“败血”部分）20%的伤害时会提前醒来，魔像形态无界、武装吉普、售货机等无法被睡眠；本回合必定释放小技能；武器觉醒后，效果全民提升，且“睡眠”变为不可驱散\r\n对目标列造成 %+ 点伤害（1级，每级增加0.2%，25点）\r\n对目标列造成 %+ 点伤害（132级）"
 				},
 				{
-					"name": null,
+					"name": "Eight pole blood attack enhancement",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Aumente permanentemente seu próprio poder de ataque e saúde",
 					"description_zh": "永久提升自身的攻击力和生命值\r\n提升自身 %攻击力和生命值（1级，每级增加0.05%）\r\n提升自身 %攻击力和生命值（132级）"
 				},
 				{
-					"name": null,
+					"name": "eight pole sleep sleep fist",
 					"description": null,
 					"description_es": null,
-					"description_pt": null,
+					"description_pt": "Na estréia, aumente seu próprio dano de dublê; aumente sua própria taxa de 30% sem danos,taxa de tumulto e 20% da quantidade de cura recebida; cada vez que você libera uma pequena habilidade,você entrará no estado "sonolento" (aumentar 30% de resistência a dublês,formação de inimigo  Após cada ação, o lutador superior recuperará 10% da saúde perdida) e acordará quando estiver em ação; se receber 2 ataques quando estiver "dormindo", ele acorda cedo e imediatamente ganha 200 de raiva e 50% de taxa de imunidade de controle(1 rodada); ao acordar de "sonolência", dissipar o estado negativo e a petrificação; sempre que a raiva for reduzida, restaure imediatamente 150 de raiva; o único dano recebido não excederá 60% do limite de vida (quando o inimigo  Quanto maior o número de partes, menor a proporção e o mínimo é reduzido para 35%); quando o valor de saúde é inferior a 40%, ele restaura imediatamente 30% do valor máximo de saúde e 200 de raiva. Este efeito terá efeito até 4 vezes por batalha (o inimigo  Apenas uma pessoa só pode fazer efeito uma vez); quando uma pessoa está "dormindo", ela restaura imediatamente 15% de sua saúde máxima e converte "dormindo" em "sonolento"",
 					"description_zh": "登场时，提升自身绝技伤害；提升自身30%免伤率、抗暴率和20%受到的治疗量；每次释放小技能后，自身进入“瞌睡”状态（提升30%绝技抗性，敌方阵上格斗家每次行动后，自身回复已损失生命值的10%），己方行动时醒来；“瞌睡”时累计受到2次攻击会提前醒来，并立即获得200怒气和50%免控率（1回合）；从“瞌睡”中醒来时驱散自身负面状态及石化；每当怒气被降低时，立即回复150怒气；受到的单次伤害不会超过生命上限的60%（登场时，敌方人数越多，该比例越小，最低降至35%）；生命值低于40%时，立即回复30%最大生命值和200怒气，该效果每场战斗最多生效4次（登场时敌方仅一人，则仅可生效一次）；自身被“睡眠”时，立即回复15%最大生命值，并将“睡眠”转换为“瞌睡”\r\n提升自身 %绝技伤害（1级，每级增加0.2%）\r\n提升自身 %绝技伤害（132级）"
 				}
 			]
