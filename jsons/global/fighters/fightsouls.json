@@ -937,6 +937,15 @@
 			}
 		},
 		{
+			"fighter_id": "CUTIE_TERRY",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Gain 115 Rage initially, restore extra Rage when attacking (Lvl 1)",
+				"description_es": "Gana 115 Rage inicialmente, restaura Rage extra cuando eres atacado (lvl 1)",
+				"description_pt": null
+			}
+		},
+		{
 			"fighter_id": "CLARK_XIII",
 			"fightsoul": {
 				"name": null,

@@ -1081,6 +1081,16 @@
 			}
 		},
 		{
+			"fighter_id": "CUTIE_TERRY",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
 			"fighter_id": "MIZUCHI",
 			"weapon_awakened": {
 				"name": null,

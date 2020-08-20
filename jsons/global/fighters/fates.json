@@ -1837,6 +1837,23 @@
 			]
 		},
 		{
+			"fighter_id": "CUTIE_TERRY",
+			"fates": [
+				{
+					"bosses": "Cutie terry ,Catty Leona, Momoko",
+					"attr": "ATK+ 25%"
+				},
+				{
+					"bosses": "Cutie terry ,Terry 2003, Terry",
+					"attr": "ATK+ 25%"
+				},
+				{
+					"bosses": "Cutie terry ,Terry, Goenitz, Goeniko",
+					"attr": " ATK+ 25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "MIZUCHI",
 			"fates": [
 				{

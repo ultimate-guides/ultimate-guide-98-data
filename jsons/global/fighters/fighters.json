@@ -1353,6 +1353,19 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "CUTIE_TERRY",
+			"fightsoul_id": "BEAR",
+			"name": "Cutie Terry",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "FEMALE",
+			"tome_id": "STREET",
+			"badge_id": "BEAUTY",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "CLARK_XIII",
 			"fightsoul_id": "BEAR",
 			"name": "clark xiii",
