@@ -1585,6 +1585,19 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "BILLY_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "Billy XIV",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "GALE",
+			"status": 1,
+			"striker": 0
 		}
 	]
 }
