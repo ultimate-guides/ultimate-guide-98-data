@@ -1596,7 +1596,7 @@
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 1,
+			"status": 0,
 			"striker": 0
 		},
 		{
@@ -1609,7 +1609,7 @@
 			"gender_id": "MALE",
 			"tome_id": "KICK",
 			"badge_id": "EARTH",
-			"status": 1,
+			"status": 0,
 			"striker": 0
 		}
 	]
