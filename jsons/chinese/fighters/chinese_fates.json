@@ -1971,6 +1971,40 @@
 					"attr": "ATK + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "BILLY_XIV",
+			"fates": [
+				{
+					"bosses": "Billy XIV, Shion, Mr big",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Billy XIV, Hein Southtown Overlord Geese",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Billy XIV, Billy , Ralf",
+					"attr": "ATK + 25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "TERRY_XIII",
+			"fates": [
+				{
+					"bosses": "Terry Xiii, Terry 2003, terry",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Terry Xiii, Rock Howard , Southtown overlord Geese",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Terry Xiii, Joe , Andy",
+					"attr": "ATK + 25%"
+				}
+			]
 		}
 	]
 }

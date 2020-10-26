@@ -1043,6 +1043,24 @@
 				"description_es": null,
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "BILLY_XIV",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "TERRY_XIII",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
 		}
 	]
 }

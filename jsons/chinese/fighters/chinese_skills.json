@@ -3733,6 +3733,72 @@
 					"description_zh": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "BILLY_XIV",
+			"skills": [
+				{
+					"name": "?",
+					"description": "Attacks a lane increase block rate the value is equal to the sum of hit targets (20% each) but it won't exceed 60% this can not be dispeled restores 20% HP (not affected by healing rate) and 200 rage if he gets rage reduced within a round restores 200 rage",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": null
+				},
+				{
+					"name": "?",
+					"description": "Attacks a lane increase atk and def by 20% this skill enjoys flame flow damage bonus consume 15% of your HP to deal 15% of enemy max HP as additional DMG ignoring DMG immunity increases 20-40% ult and skill res based on current HP (lower HP higher effect)",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": "?",
+					"description": "Increase max HP boost 35% DMG DMG immunity and 40% skill rate can only be healed by his own skill effects when your round starts get fire shield (based on 15% of your current HP and 50% of your lost HP and get 5% DMG resist) this can only be applied 10 times in a battle or 6 if they are less than 6 enemies when the shield breaks for the first time reduces front row 200 rage and increase res rate by 30% when HP drops to 0 get an additional fire shield and get CC immunity and if you are in front or the only one in your team can get flame shield (absorbs your current fire shield  and permanently increase atk by 4%) otherwise dispel all CC and get 6% DEF permanently",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				}
+			]
+		},
+		{
+			"fighter_id": "TERRY_XIII",
+			"skills": [
+				{
+					"name": "Slash kick",
+					"description": "Attacks a column (prioritizes enemies with broken mark) increase control-free by 40% 40% chance to stun an enemy recovers HP based on 200% atk and 200 rage if it hits an enemy with broken mark detonate the mark and deals 50%-120% additional damage based on how much the mark lasted and reduce 50 rage",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": null
+				},
+				{
+					"name": "power geyser",
+					"description": "Attacks a column (prioritizes enemies with broken mark) increase 20% atk res rate and crit rate enemies hit by this ult can get broken mark deals 60% unreflectable additional damage if enemy is killed with this ult restore 100 rage if you attack an enemy with broken mark ignores 15% ult res this round will cast skill",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": "full of rage",
+					"description": "Increase crit rate by 40% 25% rage gain and 35% atk and def rage cap increases to 2000 points (skills effects will count as if it has 1000 rage) all damage caused by his skills ignore res rate when his HP is lower than 60% heals 50% HP based on atk 15% ult and skill res (stackable twice last 2 rounds) can be triggered once every round when HP reachs 0 recover HP based on 500% of his atk and 500 rage dispel CCs increase 30% atk res rate rage recovery and become immune to rage reduce this can be used twice at most (only once in 1 vs 1) at enemy's turn start reduce a random enemy 150 rage and absorb a broken mark when you absorb a broken mark recovers 15% HP and get 30% def and 70% control-free Interference skill reduces enemies atk and gets 10% res rate (2 rounds)",
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				}
+			]
 		}
 	]
 }
