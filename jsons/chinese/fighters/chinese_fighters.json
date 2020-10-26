@@ -1599,5 +1599,18 @@
 			"status": 1,
 			"striker": 0
 		}
+		{
+			"fighter_id": "TERRY_XIII",
+			"fightsoul_id": "BEAR",
+			"name": "Terry XIII",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "KICK",
+			"badge_id": "EARTH",
+			"status": 1,
+			"striker": 0
+		}
 	]
 }
