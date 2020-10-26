@@ -948,8 +948,8 @@
 		{
 			"fighter_id": "CLARK_XIII",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "BEAR",
+				"description": "Gain 115 Rage initially, restore extra Rage when attacking",
 				"description_es": null,
 				"description_pt": null
 			}

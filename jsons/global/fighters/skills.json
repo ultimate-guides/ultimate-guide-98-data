@@ -3020,8 +3020,14 @@
 			"fighter_id": "CLARK_XIII",
 			"skills": [
 				{
-					"name": null,
-					"description": null,
+					"name": "Air Throw",
+					"description": "Attack a single enemy; if the target enemy is a fighter with Bear Soul, increase own Rage restorat'on speed by 151, otherwise the total damage of the attack increases by 30%; gain 1 layer of \"Pain Potential\"; the chance of releasing small skill increases by 10% when dark XIII gains 1 layer of \"Pain Potential\", the effect will last for the entire fight up to 40%; restore 15% of own HP. Deal 160%+15 DMG to the target",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Vufcan Punch",
+					"description": "Attack a single enemy, increase own ATK and DEF by 20%; there is a 40% chance to make the target stunned for one round, if the sunning effect isn't activated, increase DMG of this attack by 15%; decrease Anti-Crit of the target by 20% and ignore the effect of the immunity to Debuff for 1 round; increase own damage to GANK fighters by 20% for 1 round; gain 1 layer of \"Pain Potential\" if own HP percentage is less than 30%; gain 50% exfra Crit for the first ULT in the battle. After the weapon awakens, the effect will be improved in an all-round way. There is a chance to switch ULT to \"Ultimate dark Destroyer\". Deal 400%+24 DMG to the target",
 					"description_es": null,
 					"description_pt": null
 				},
@@ -3032,14 +3038,8 @@
 					"description_pt": null
 				},
 				{
-					"name": null,
-					"description": null,
-					"description_es": null,
-					"description_pt": null
-				},
-				{
-					"name": null,
-					"description": null,
+					"name": "Mercenary's Creed",
+					"description": "Increase own ULT damage when deployed, and ULT damage of allies that belong to Ikari Warriors increases by 50%; increase own Crit by 25%; increase Crit and DMG of each fighter on own side (including dark XIII) by 4%, increase Anti-Crit and Res Rate of each enemy by 5%; if dark XIII is the only fighter when deployed, increase Crit, Anti-Crit, DMG and Res Rate of dark XIII by 12%; whenever being attacked and own Rage is decreased, decrease 200 Rage of the attacker, recover own 50% of Rage decreased and 100 extra Rage; whenever the enemy's turn begins, decrease 100 Rage of a random enemy, the effect won't be activated if dark XIII is the only fighter when deployed; if own life percentage is less than 50% after being attacked, immediately gain 1 layer of \"Pain Potential\" (up to 4 layers at the same time, 1 layer of \"Pain Potential\" will be decreased each time being attacked, dark XIII gains 100% extra Res Rate with \"Pain Potential\", and the Res Rate ratio has nothing to do with the layer numbers), the effect can be activated up to 4 times for each fight (there's no limit for the chances the \"Pain Potential\" can be added by an active skill, and it won't be counted as the passive activation chances); the effect can be activated only once if dark XIII is the only fighter when deployed; dark XIII will not die immediately when he takes fatal damage, instead, his Debuff and petrification status will be cleared, his HP will restore by 20% and he will gain 200 Rage. The effect can only be act'vated once for each fight if there are at least 3 members of the Ikari Warriors on own side or in Aid Formation when deployed, increase own Crit by 15% for two rounds. Increase own ULT DMG by 20%",
 					"description_es": null,
 					"description_pt": null
 				}

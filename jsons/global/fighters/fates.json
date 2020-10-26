@@ -1772,16 +1772,16 @@
 			"fighter_id": "CLARK_XIII",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Clark XIII, Shlon, Clark ",
+					"attr": " ATK+ 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "Clark XIII, Silent Soldier Leona, One-man ArmyRalf",
+					"attr": "ATK+25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": " Clark Xlll, Terry, Lucky",
+					"attr": "ATK+ 25%"
 				}
 			]
 		},

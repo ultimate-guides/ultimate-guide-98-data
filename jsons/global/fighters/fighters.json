@@ -1373,8 +1373,8 @@
 			"api": 15,
 			"type_id": "DPS",
 			"gender_id": "MALE",
-			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
+			"tome_id": "KARATE",
+			"badge_id": "DAZZLING",
 			"status": 1,
 			"striker": 0
 		},
