@@ -615,5 +615,54 @@
 		"month": "Oct.",
 		"name": "Halloween Single Top-up. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Single_Top_Up.png"
+	},
+		  {
+		"day": 29,
+		"dayEnd": 2,
+		"description": "Benefits for Halloween are available now! Recharge up to a specified amount in a single top-up during the event to get valuable Halloween rewards!",
+		"month": "Oct.",
+		"month_id": 10,
+		"name": "                    Halloween Single Top-up. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Single_Top_Up.png"
+	}, {
+		"day": 30,
+		"dayEnd": 2,
+		"description": "",
+		"month_id": 10,
+		"month": "Oct.",
+		"name": "Halloween Special Campaign. ",
+		"eveimgurl": ""
+	}, {
+		"day": 30,
+		"dayEnd": 2,
+		"description": "",
+		"month_id": 10,
+		"month": "Oct.",
+		"name": "Collecting Jack-o'-Lantern . ",
+		"eveimgurl": ""
+	}, {
+		"day": 30,
+		"dayEnd": 2,
+		"description": "Complete special tasks during Halloween to claim rich rewards!",
+		"month_id": 10,
+		"month": "Oct.",
+		"name": "Halloween Special Task. ",
+		"eveimgurl": ""
+	}, {
+		"day": 30,
+		"dayEnd": 2,
+		"description": "Use your Jack-o'-Lantern to exchange for special items during Halloween! Don't miss this chance!",
+		"month_id": 10,
+		"month": "Oct.",
+		"name": "Halloween Exchange Store. ",
+		"eveimgurl": ""
+	}, {
+		"day": 30,
+		"dayEnd": 2,
+		"description": "Mysterious Jack-o'-Lantern can be exchanged during Halloween! Rare items are waiting for you!",
+		"month_id": 10,
+		"month": "Oct.",
+		"name": "Halloween Jack-o'-Lantern Mysterious Store. ",
+		"eveimgurl": ""
 	}]
 }
