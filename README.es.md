@@ -249,7 +249,7 @@ Estructura del json:
 
 ## Weapons
 
-Para modificar esta sección use la referencia de **fighter_id** . Para que la mejora sea mas notoria incluye el tag `<font color='#FFA726'>`<font color='#FFA726'> `Texto que cambiara de color`</font>`</font>` asi sera mas visible como se ve en la imagen de arriba
+Para modificar esta sección use la referencia de **fighter_id** . Para que la mejora sea mas notoria incluye el tag `<font color='#FFA726'>`<font color='#FFA726'> `Texto que cambiara de color`</font>`</font>` asi sera mas visible.
 
 <p align="center"> 
     <img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" width="32%"/>
