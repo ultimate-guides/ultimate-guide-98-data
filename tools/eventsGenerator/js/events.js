@@ -390,18 +390,18 @@ $('#generate').click(function () {
 					//obj.dayEnd = d[1]
 					mes = d[0].split(' ');
 
-					if (mes[0] == 'January') obj.month_id = 1;
-					else if (mes[0] == 'February') obj.month_id = 2;
-					else if (mes[0] == 'March') obj.month_id = 3;
-					else if (mes[0] == 'April') obj.month_id = 4;
-					else if (mes[0] == 'May') obj.month_id = 5;
-					else if (mes[0] == 'June') obj.month_id = 6;
-					else if (mes[0] == 'July') obj.month_id = 7;
-					else if (mes[0] == 'August') obj.month_id = 8;
-					else if (mes[0] == 'September') obj.month_id = 9;
-					else if (mes[0] == 'October') obj.month_id = 10;
-					else if (mes[0] == 'November') obj.month_id = 11;
-					else if (mes[0] == 'December') obj.month_id = 12;
+					if (mes[0].includes('Jan')) obj.month_id = 1;
+					else if (mes[0].includes('Feb')) obj.month_id = 2;
+					else if (mes[0].includes('Mar')) obj.month_id = 3;
+					else if (mes[0].includes('Apr')) obj.month_id = 4;
+					else if (mes[0].includes('May')) obj.month_id = 5;
+					else if (mes[0].includes('Jun')) obj.month_id = 6;
+					else if (mes[0].includes('Jul')) obj.month_id = 7;
+					else if (mes[0].includes('Aug')) obj.month_id = 8;
+					else if (mes[0].includes('Sep')) obj.month_id = 9;
+					else if (mes[0].includes('Oct')) obj.month_id = 10;
+					else if (mes[0].includes('Nov')) obj.month_id = 11;
+					else if (mes[0].includes('Dec')) obj.month_id = 12;
 
 					obj.month = mes[0];
 					console.log('Mes:' + obj.month);
