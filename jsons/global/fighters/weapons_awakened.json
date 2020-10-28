@@ -1041,15 +1041,15 @@
 			}
 		},
 		{
-			"fighter_id": "CLARK_XIII",
-			"weapon_awakened": {
-				"name": null,
-				"description": null,
-				"description_es": null,
-				"description_pt": null,
-				"contributor": null
-			}
-		},
+	"fighter_id": "CLARK_XIII",
+	"weapon_awakened": {
+		"name": null,
+		"description": "Attack a single enemy, increase own ATK and DEF by 30%; there is a 50% chance to make the target stunned for one round, if the stunning effect isn’t activated. increase DMG of this attack by 20i%; decrease Anti-Crit of the target by 30% and ignore the affect of the immunity to Debuff for 1 round; increase own damage to GANK fighters by 30% for 1 round: gain 1 layer of  \" Pain Potential \" if own HP percentage is lass than 40%; gain 70% Anti-Crit  for the first ULT in the battle. There is a 35% chance to switch ULT to \" Ultimate dark Destroyer \", which attacks a single enemy. Except far the original effect, the attack ignores Block and Res Rate of the target; if the target  cannot be grabbed (such as the Golem form of Mukai. Armed Jeep, Vending Machine, and the target that is frozen or petrified), the switch will not be activated. If the switch isn’t activated . the switch chance will increase by 35% up to 100%. and the switch chance will be reset after the switch is activated. Deal 489%+2856 DMG to the target \" Ultimate Clark Destroyer \" deals 570.8%+3570 DMG to the target",
+		"description_es": null,
+		"description_pt": null,
+		"contributor": null
+	}
+},
 		{
 			"fighter_id": "KENSOU_XII",
 			"weapon_awakened": {
