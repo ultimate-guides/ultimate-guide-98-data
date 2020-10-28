@@ -249,7 +249,7 @@ Estructura del json:
 
 ## Weapons
 
-Para modificar esta sección use la referencia de **fighter_id** .
+Para modificar esta sección use la referencia de **fighter_id** . Para que la mejora sea mas notoria incluye el tag `<font color='#FFA726'>`<font color='#FFA726'> `Texto que cambiara de color`</font>`</font>` asi sera mas visible como se ve en la imagen de arriba
 
 <p align="center"> 
     <img src="https://www.ultimate-guides.net/assets/ug98/img/weapons.JPG" width="32%"/>
@@ -277,6 +277,8 @@ Estructura del json:
 | **description_es:** | Description en Español del arma(los beneficios).                              |
 | **description_pt:** | Description en Portuguese del arma(los beneficios).                           |
 | **contributor:**    | El nombre de la persona que agrega o edita el arma. ejemplo (PETS - Server 5) |
+
+Para modificar o agregar weapons, vaya a [weapons.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/weapons.json) o si quieres la versión china [chinese_weapons.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_weapons.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Skills
 
