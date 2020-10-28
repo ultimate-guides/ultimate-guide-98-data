@@ -278,7 +278,7 @@ Estructura del json:
 | **description_pt:** | Description en Portuguese del arma(los beneficios).                           |
 | **contributor:**    | El nombre de la persona que agrega o edita el arma. ejemplo (PETS - Server 5) |
 
-Para modificar o agregar weapons, vaya a [weapons.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/weapons.json) o si quieres la versión china [chinese_weapons.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_weapons.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
+Para modificar o agregar weapons, vaya a [weapons_awakened.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/global/fighters/weapons.json) o si quieres la versión china [chinese_weapons.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/chinese/fighters/chinese_weapons.json), una vez que haya terminado, puede solicitar su modificación o puede abrir un problema para solicitar una función o un error.
 
 ## Skills
 
