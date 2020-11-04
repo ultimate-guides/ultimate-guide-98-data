@@ -3028,7 +3028,7 @@
 				{
 					"name": "Vufcan Punch",
 					"description": "Attack a single enemy, increase own ATK and DEF by 20%; there is a 40% chance to make the target stunned for one round, if the sunning effect isn't activated, increase DMG of this attack by 15%; decrease Anti-Crit of the target by 20% and ignore the effect of the immunity to Debuff for 1 round; increase own damage to GANK fighters by 20% for 1 round; gain 1 layer of \"Pain Potential\" if own HP percentage is less than 30%; gain 50% exfra Crit for the first ULT in the battle. After the weapon awakens, the effect will be improved in an all-round way. There is a chance to switch ULT to \"Ultimate dark Destroyer\". Deal 400%+24 DMG to the target",
-					"description_es": null,
+					"description_es": "Ataca a un solo enemigo, aumenta el ATK y la DEF propios en un 20%; hay un 40% de probabilidad de aturdir al objetivo durante un asalto, si el efecto de sol no está activado, aumenta el DMG de este ataque en un 15%; Disminuye el Anti-Crit del objetivo en un 20% e ignora el efecto de la inmunidad a Debuff durante 1 ronda; aumentar el daño propio a los luchadores GANK en un 20% durante 1 asalto; gana 1 capa de \" Potencial de dolor \" si el porcentaje de HP propio es inferior al 30%; gana 50% exfra Crit por el primer ULT en la batalla. Una vez que el arma se despierta, el efecto se mejorará en todos los aspectos. Existe la posibilidad de cambiar ULT a \" Ultimate Dark Destroyer \". Otorga 400% + 24 DMG al objetivo",
 					"description_pt": null
 				},
 				{
