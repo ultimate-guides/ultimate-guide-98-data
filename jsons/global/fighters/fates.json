@@ -1854,6 +1854,23 @@
 			]
 		},
 		{
+			"fighter_id": "K_XIV",
+			"fates": [
+				{
+					"bosses": "Transcendence K, Whip Fate , Krizalid,",
+					"attr": "ATK+ 25% "
+				},
+				{
+					"bosses": "Transcendence K, Ice Doll Kula, Maxima XIV",
+					"attr": "ATK+ 25% "
+				},
+				{
+					"bosses": "Transcendence K, Saisyu, Kyo NESTS. Saiki",
+					"attr": "ATK+ 25% "
+				}
+			]
+		},
+		{
 			"fighter_id": "MIZUCHI",
 			"fates": [
 				{

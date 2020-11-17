@@ -3138,7 +3138,7 @@
 				{
 					"name": "Burn Knuckle",
 					"description": "Attack a column, deal an extra 30% damage to the main target, reduce the target's Rage restoration speed by 30%, add the \"Power Diffusion\" mark to the target for 2 rounds, and restore 150 Rage to 2 random allies (front-row fighters first). Deal 160%+15 DMG to the target",
-					"description_es": "",
+					"description_es": "Ataca una columna, inflige un 30% de daño adicional al objetivo principal, reduce la velocidad de restauración de Rage del objetivo en un 30%, agrega la marca \" Power Diffusion \" al objetivo durante 2 rondas y restaura 150 Rage a 2 aliados aleatorios ( luchadores de primera fila primero). Otorga 160% + 15 DMG al objetivo",
 					"description_pt": null
 				},
 				{
@@ -3156,6 +3156,35 @@
 				{
 					"name": "Power Geyser ",
 					"description": "Improve own small skill Res and ULT Res, decrease the Rage of the target who is hit by Cutie Terry. When a fight begins, Cutie Terry will be immune to death for 3 times (the effect will last for the whole fight), and for each female fighter on own side (Cutie Terry is excluded), the chance of immunity to death for Cutie Terry will be added once (twice at most). When Cutie Terry is deployed, she will accumulate the power twice per round, and she can have a maximum of 5 iterations of power effects. The power will disappear after Cutie Terry with the [Power Blast] effect for 2 rounds, and Cutie Terry needs to accumulate the power again.The specific effect for different accumulated times is as follows:  Once: Increase own ATK and DEF by 20%, gain the [Power Load] effect and increase own Rage restoration speed by 25%. Twice: Increase own Crit and Anti-Crit by 20%. 3 times: Increase own ULT damage by 20%, gain the [Power Burst] effect and restore 150 Rage after attacking. 4 times: Increase own Crit damage by 25%. 5 times: Increase own ULT damage by 20%, gain the [Power Blast] effect each attack deals an extra damage that equals to 7% of AAAX HP of the target (ignores the immunity to Debuffl and restores own 7% of HP. If there is only Cutie Terry on own side at the beginning of own turn,Cutie  Terry will gain the [Power Blast] effect at once. In this round, Cutie Terry will be immune to Rage decreasing effect and HP will be restored in each subsequent round (HP restored=10% of MAX HP+4%*Power level*MAX HP) until the end of the battle (this effect won't be activated If Cutie Terry is the only fighter who is deployed at the beginning of the battle). Decrease 50 Rage of the target Increase own small skill Res and ULT Res by 25% ",
+					"description_es": "",
+					"description_pt": null
+				}
+			]
+		},
+		{
+			"fighter_id": "K_XIV",
+			"skills": [
+				{
+					"name": "Trigger Second Shoot",
+					"description": "Attack a single enemy, increase own Anti-Crit by 30%; if the attack causes critical hit, 12% extra damage of the target's MAX HP will be dealt (the damage ignores the immunity to Debuff); if Transcendence K' is in the back row or if there's only Transcendence K' on own side, the \"Fury of Flame\" effect will be gained, Flame allies will restore 50 Rage when they are hit, and Transcendence K' will restore 50 exto-a Rage and HP which is 100% of his ATK. The effect will last for 2 rounds, and it can be activated 3 times each round). Deal 160%+15 DMG to the target",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": "Chain Drive",
+					"description": "Attack a single enemy, increase own DMG and Res Rate by 20%, and dispel own Debufr, add \"Transcendence Flame\" to the target (dealing continuous damage which won't restore the Rage to the target; the effect will last for 2 rounds and won't be dispelled); decrease ULT Res of the target by 10% (the effect will last for 1 round and ignore the immunity to Debuff) and decrease 250 Rage of the target; if the attack causes critical hit, 30% extra damage of this attack will be dealt to the enemy behind the target (the damage ignores the immunity to Debuff and won't restore Rage); add \"Transcendence Flame\" to the target After the weapon awakens, the effect will be improved in an all-round way. The terrain effect \"Flame River\" will be activated. Deal 400%+24 DMG to the target \"Transcendence Flame\" deals 100% DMG to the target",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Transcendence ",
+					"description": "Increase Flame ULT damage of fighters on own side, and increase own Res Rate by 15%, ATK, DEF and HP Drain by 35%; be immune to Debuff when deployed in the first round, and the small skill will be released; gain 7 layers of \"Transcendence Soul\" (each layer of \"Transcendence Soul\" provides 15% Crit to Transcendence K', up to 7); 1 layer of \"Transcendence Soul\" will be cost for each critical hit (1 extra layer will be cost for each critical hit caused by ULT, and 100 Rage will be restored for the cost of each layer), and 1 layer will be added if the attack doesn't cause critical hit; if Transcendence K' is the only Flame fighter on non-Flame ally will be seen as Flame fighter for the whole battle (this fighter won't get Flame ULT damage effecfl; gain 1 layer of \"Transcendence Soul\" when Flame ally dies, and restore 20% MAX HP and 300 Rage. Transcendence K' won't die the first time he takes a mortal damage, andhis Debuff will be dispelled immediately (including petrification); restore HP which is 500% of own ATK; increase own ULT Res and small skill Res by 35% (the effect will last for the whole battle); gains 2 layers of \"Transcendence Soul\". Increase 20% DMG of the Flame ULT of all the allies deployed and aid allies",
 					"description_es": "",
 					"description_pt": null
 				}

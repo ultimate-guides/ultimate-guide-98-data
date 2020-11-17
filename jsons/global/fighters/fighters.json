@@ -1431,6 +1431,19 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "K_XIV",
+			"fightsoul_id": "TIGER",
+			"name": "Transcendence K",
+			"chinese_name": "明天君",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "SCORCHING",
+			"badge_id": "FLAME",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "NAKORURU_RASETSU",
 			"fightsoul_id": "TIGER",
 			"name": "nakoruru rasetsu",

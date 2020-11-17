@@ -982,6 +982,15 @@
 			}
 		},
 		{
+			"fighter_id": "K_XIV",
+			"fightsoul": {
+				"name": "Transcendence Soul",
+				"description": "Gain a large number of Rages initially, restore 55 Rage if one ally or enemy dies",
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
 			"fighter_id": "MIZUCHI",
 			"fightsoul": {
 				"name": null,

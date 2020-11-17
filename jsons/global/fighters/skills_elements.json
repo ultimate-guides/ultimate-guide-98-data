@@ -1471,6 +1471,20 @@
 			}
 		},
 		{
+			"fighter_id": "K_XIV",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": null,
+				"lake_pt": null,
+				"thunder": "",
+				"thunder_es": null,
+				"thunder_pt": null,
+				"water": null,
+				"water_es": null,
+				"water_pt": null
+			}
+		},
+		{
 			"fighter_id": "CLARK_XIII",
 			"skills_elements": {
 				"lake": null,
