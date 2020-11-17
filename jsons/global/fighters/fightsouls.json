@@ -986,7 +986,7 @@
 			"fightsoul": {
 				"name": "Transcendence Soul",
 				"description": "Gain a large number of Rages initially, restore 55 Rage if one ally or enemy dies",
-				"description_es": null,
+				"description_es": "Gana una gran cantidad de rage inicialmente, restaura 55 de rage si un aliado o enemigo muere",
 				"description_pt": null
 			}
 		},
