@@ -1854,6 +1854,23 @@
 			]
 		},
 		{
+			"fighter_id": "MATURE_XIII",
+			"fates": [
+				{
+					"bosses": "Cruel Beauty Mature, Death Vice, Mizuchi,",
+					"attr": "ATK+ 25% "
+				},
+				{
+					"bosses": "Cruel Beauty Mature, Clark XIII. Shion",
+					"attr": "ATK+ 25% "
+				},
+				{
+					"bosses": "Cruel Beauty Mature, Alluring Mai, Shermie",
+					"attr": "ATK+ 25% "
+				}
+			]
+		},
+		{
 			"fighter_id": "K_XIV",
 			"fates": [
 				{

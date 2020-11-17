@@ -1091,6 +1091,16 @@
 			}
 		},
 		{
+			"fighter_id": "MATURE_XIII",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
 			"fighter_id": "K_XIV",
 			"weapon_awakened": {
 				"name": null,
