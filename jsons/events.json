@@ -519,5 +519,86 @@
 		"month": "Nov.",
 		"name": "Orange Esoteric Exchange. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_esoteric_exchange.png"
+	},
+		  {
+		"day": 18,
+		"dayEnd": 24,
+		"description": "Login every day to get Thanksgiving Balloons during Thanksgiving season. Balloons can be exchanged for rare items, remember to login every day!",
+		"month": "Nov.",
+		"month_id": 11,
+		"name": "Thanksgiving Login Rewards. ",
+		"eveimgurl": ""
+	}, {
+		"day": 18,
+		"dayEnd": 21,
+		"description": "Complete Transcendence K' Task during the event to get special rewards!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Transcendence K' Time-limited Task. ",
+		"eveimgurl": ""
+	}, {
+		"day": 18,
+		"dayEnd": 21,
+		"description": "Complete Transcendence K' theme task during the event to get Transcendence K' Weapon Pack!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Transcendence K' Theme Task. ",
+		"eveimgurl": ""
+	}, {
+		"day": 18,
+		"dayEnd": 21,
+		"description": "Transcendence K' Pack is on sale for a limited time! You can't miss this opportunity!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Transcendence K' Pack On Sale. ",
+		"eveimgurl": ""
+	}, {
+		"day": 18,
+		"dayEnd": 21,
+		"description": "Recharge up to a specified amount in a single recharge during Thanksgiving season to get valuable rewards!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Thanksgiving Single Recharge. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 28,
+		"description": "Complete the tasks during Thanksgiving season to get Thanksgiving Balloons! What are you waiting for?",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Thanksgiving Special Task. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 30,
+		"description": "Rare items are on sale at a discount during Thanksgiving season! Don't miss the chance!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "7. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 28,
+		"description": "Balloon Lucky Bags can be exchanged during Thanksgiving season! Come and test your luck!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Thanksgiving Balloon Pack. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 28,
+		"description": "Use your Thanksgiving Balloons to exchange for rare items! Come and attend the event!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Thanksgiving Balloon Exchange. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 28,
+		"description": "Recharge up to a specified amount during the event to get valuable Thanksgiving rewards!",
+		"month_id": 11,
+		"month": "Nov.",
+		"name": "Thanksgiving Cumulative Recharge for Resource. ",
+		"eveimgurl": ""
 	}]
 }
