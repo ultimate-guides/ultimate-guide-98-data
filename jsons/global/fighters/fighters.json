@@ -1436,7 +1436,7 @@
 			"name": "Cruel Beauty Mature",
 			"chinese_name": "残酷美貌麦卓",
 			"api": 15,
-			"type_id": "GANK",
+			"type_id": "DPS",
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
