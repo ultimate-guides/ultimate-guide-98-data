@@ -1425,9 +1425,9 @@
 			"api": 15,
 			"type_id": "GANK",
 			"gender_id": "MALE",
-			"tome_id": "JUDO",
-			"badge_id": "BEAUTY",
-			"status": 1,
+			"tome_id": "MANA",
+			"badge_id": "OROCHI",
+			"status": 0,
 			"striker": 0
 		},
 		{

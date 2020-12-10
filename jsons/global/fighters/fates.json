@@ -1891,16 +1891,16 @@
 			"fighter_id": "MIZUCHI",
 			"fates": [
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "mizuchi, Orochi chris, Orochi",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "mizuchi, Death Vice, Cruel Beauty Mature ",
+					"attr": "ATK + 25%"
 				},
 				{
-					"bosses": null,
-					"attr": null
+					"bosses": "mizuchi, Instinct Iori, Flame Kyo",
+					"attr": "HP + 25%"
 				}
 			]
 		},

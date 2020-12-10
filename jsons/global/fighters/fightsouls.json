@@ -1002,8 +1002,8 @@
 		{
 			"fighter_id": "MIZUCHI",
 			"fightsoul": {
-				"name": null,
-				"description": null,
+				"name": "SPACE",
+				"description": "Gain 85 Rage when each round starts, restore a large amount of HP",
 				"description_es": null,
 				"description_pt": null
 			}
