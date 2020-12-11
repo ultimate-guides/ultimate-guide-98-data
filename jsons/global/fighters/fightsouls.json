@@ -1004,7 +1004,7 @@
 			"fightsoul": {
 				"name": "SPACE",
 				"description": "Gain 85 Rage when each round starts, restore a large amount of HP",
-				"description_es": null,
+				"description_es": "Gana 85 de Rage cuando comienza cada ronda, restaura una gran cantidad de HP",
 				"description_pt": null
 			}
 		},
