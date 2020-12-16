@@ -593,5 +593,38 @@
 		"month": "Dec.",
 		"name": "EXP Rush Challenge Chance+2. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_EXP_Rush.png"
+	},
+		  {
+		"day": 18,
+		"dayEnd": 25,
+		"description": "Mizuchi Fighter Trial is opening now! Mizuchi can be challenged once per day during the event time. Defeat Mizuchi and get Time-limited Draw Ticket which can be used for draw during the Mizuchi Time-limited Chest Event.",
+		"month": "Dec.",
+		"month_id": 12,
+		"name": "Mizuchi Fighter Trial. ",
+		"eveimgurl": ""
+	}, {
+		"day": 18,
+		"dayEnd": 25,
+		"description": "Christmas Benefit Task is coming! Complete tasks and get great rewards including Clark XIII, Cutie Terry, Death Vice and One-man Army Ralf fragments!",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Benefit Task. ",
+		"eveimgurl": ""
+	}, {
+		"day": 18,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Lucky House. ",
+		"eveimgurl": ""
+	}, {
+		"day": 18,
+		"dayEnd": 1,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Benefit Pack. ",
+		"eveimgurl": ""
 	}]
 }
