@@ -1009,6 +1009,15 @@
 			}
 		},
 		{
+			"fighter_id": "KULA_XIV",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Gain 44 Rage when being hit, and gain a large amount of Rage initially",
+				"description_es": "",
+				"description_pt": null
+			}
+		},
+		{
 			"fighter_id": "NAKORURU RASETSU",
 			"fightsoul": {
 				"name": null,

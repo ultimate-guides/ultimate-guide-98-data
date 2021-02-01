@@ -1121,6 +1121,16 @@
 			}
 		},
 		{
+			"fighter_id": "KULA_XIV",
+			"weapon_awakened": {
+				"name": "",
+				"description": "",
+				"description_es": "",
+				"description_pt": null,
+				"contributor": ""
+			}
+		},
+		{
 			"fighter_id": "NAKORURU RASETSU",
 			"weapon_awakened": {
 				"name": null,

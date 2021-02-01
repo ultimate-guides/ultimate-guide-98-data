@@ -3249,6 +3249,35 @@
 			]
 		},
 		{
+			"fighter_id": "KULA_XIV",
+			"skills": [
+				{
+					"name": "Ray Spin ",
+					"description": "Attack the enemies in a column; absorb 200 Rage of the main target, and there's a 30% chance to freeze the main target for 1 round: increase own Block and Anti-Crit by 20%, and restore own shield duration by 20% (10% of own AftAX HP will be restored if there is no shield); deal 20% extra damage to the target that is frozen by this attack. Deal 160%+15 DMG to the target column",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": "Diamond Arena",
+					"description": "Attack all enemies, the fewer the enemies, the higher the damage of this attack will be (120% increase at most); increase own ATK, DEF and Anti-Crit by 20%; decrease DMG of the enemy whose Rage is higher than 500 by 20%; there is a 50% chance to freeze 2 random enemies for 1 round; decrease Anti-Crit and healing rate of the frozen target by 20%, and deal damage that equals to 8% of MAX HP to the frozen target; activate the terrain effect \"Arctic Realm\" (the effect will last for the whole fight but the effect will lose efficacy when the fighters in the battle switch the terrain), and Ice Doll Kula will gain \"Freezing Heart\" effect for 2 rounds (if the terrain effect is \"Arctic Realm\", decrease Rage Restoration speed of all enemies by 30%, and the effect won't be dispelled); the effect of this skill ignores the immunity to Debuff except for \"Freeze\" effect. After the weapon awakens, the effect will be improved in an all-round way. Ice Doll Kula's \"Freeze\" effect improves to \"Frost Freeze\" effect Deal 155%+25 DMG to all enemies",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Ice Doll ",
+					"description": "Gain \"Ice Shield\" when deployed (the HP of the shield is 50% of own MAX HP; Ice Doll Kula is immune to stjnning, paralysis, silence and pefrification Debuff with the shield; increase own Res Rate, small skill Res and ULT Res by 30%); increase own Res Rate, small skill Res and ULT Res by 20% for first 2 rounds when \"Ice Shield\" is gained (if the shield is broken, the Buff that is provided by it will be retained for 1 round); if there is only one fighter on both sides, increase own DMG and ULT DftAG by 50% for the whole fight; Immediately freeze ownself when receiving lethal damage and dispel own Debuff (including petrification), and can't be selected as the target; the freezing status will be removed when own round starts; own HP and Rage will restore by 30% and 300 respectively (this effect can only be activated once each fight; Ice Doll Kula is immune to \"Freeze\" and \"Frost Freeze\" effect and 150 Rage will be restored when own Rage is decreased in enemy's round. [Interfere Skill]: Decrease ATK of all enemies for the whole fight and decrease Res Rate of all enemies for 2 rounds.   Decrease ATK of all enemies by 15%",
+					"description_es": "",
+					"description_pt": null
+				}
+			]
+		},
+		{
 			"fighter_id": "NAKORURU RASETSU",
 			"skills": [
 				{

@@ -1905,6 +1905,23 @@
 			]
 		},
 		{
+			"fighter_id": "KULA_XIV",
+			"fates": [
+				{
+					"bosses": "Ice Doll Kula, Foxy, Angel",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Ice Doll Kula, Transcendence K, Maxima XIV ",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Ice Doll Kula, Athena 2002 UM, Yuri, Momoko",
+					"attr": "HP + 25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "NAKORURU RASETSU",
 			"fates": [
 				{
