@@ -1232,5 +1232,78 @@
 		"month": "May.",
 		"name": "Spend for Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
+	},
+		  {
+		"day": 9,
+		"dayEnd": 13,
+		"description": "",
+		"month": "May.",
+		"month_id": 5,
+		"name": "4th Anniversary Surprise Card. ",
+		"eveimgurl": ""
+	}, {
+		"day": 13,
+		"dayEnd": 27,
+		"description": "",
+		"month_id": 5,
+		"month": "May.",
+		"name": "Wish List. ",
+		"eveimgurl": ""
+	}, {
+		"day": 13,
+		"dayEnd": 27,
+		"description": "",
+		"month_id": 5,
+		"month": "May.",
+		"name": "Anniversary Pack. ",
+		"eveimgurl": ""
+	}, {
+		"day": 13,
+		"dayEnd": 27,
+		"description": "",
+		"month_id": 5,
+		"month": "May.",
+		"name": "KOF Cinema. ",
+		"eveimgurl": ""
+	}, {
+		"day": 13,
+		"dayEnd": 20,
+		"description": "Complete the tasks during the carnival event to get rewards! Complete all the tasks to get Meitenkun!",
+		"month_id": 5,
+		"month": "May.",
+		"name": "4th Anniversary 7-Days Carnival. ",
+		"eveimgurl": ""
+	}, {
+		"day": 13,
+		"dayEnd": 20,
+		"description": "Enter the secret words in the 4th Anniversary Words event to exchange for rich rewards!",
+		"month_id": 5,
+		"month": "May.",
+		"name": "Anniversary Words. ",
+		"eveimgurl": ""
+	}, {
+		"day": 13,
+		"dayEnd": 27,
+		"description": "",
+		"month_id": 5,
+		"month": "May.",
+		"name": "Distant Land Advent. ",
+		"eveimgurl": ""
+	}, {
+		"day": 19,
+		"dayEnd": 25,
+		"description": "KOF Bet is coming! Bet on the the right team and there's a chance for you to get different kinds of drawing tickets! Who will be the last winner?",
+		"month_id": 5,
+		"month": "May.",
+		"name": "KOF Bet. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 27,
+		"description": "4th Anniversary Lucky Bag is on sale now! Get the valuable Lucky Bag and get rare items including 15-apt Fighters, weapons, and fashions!",
+		"month_id": 5,
+		"month": "May.",
+		"name": "4th Anniversary Lucky Bag. ",
+		"eveimgurl": ""
 	}]
 }
