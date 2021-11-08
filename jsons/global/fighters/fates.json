@@ -1937,6 +1937,23 @@
 					"attr": null
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE_02UM",
+			"fates": [
+				{
+					"bosses": "Orochi Shermie 02UM, Orochi Chris 02UM, Orochi Yashiro 02UM, Goenitz 02UM",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Orochi Shermie 02UM, Orochi Shermie",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Orochi Shermie 02UM, Alluring Mai, Mature",
+					"attr": "HP + 25%"
+				}
+			]
 		}
 	]
 }

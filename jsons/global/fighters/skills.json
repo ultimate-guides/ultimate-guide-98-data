@@ -3305,6 +3305,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE_02UM",
+			"skills": [
+				{
+					"name": "Takeru Mikazuchi",
+					"description": "Attacks a single enemy, and absorb its MAX HP by 15% and 200 Rage; gain a level of \"charging mark\", each level of \"charging mark\" decreases the Control-free of the target by 7% for 1 round (63% at most, and the effect ignores the immunity to Debuft; the effect will be 63% when Orochi Shermie 02UM enters the status of \"full charging\"); there's a 40% chance to make the target paralyzed; make two paralyzed enemies enter the \"ionization\" status at most (the next attack won't deal damage, and the effect ignores the immunity to Debuff and can't be dispelled). Deal 160%+15 DMG to the target ",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Shukumei-Genei-Shinshi",
+					"description": "Attack the enemies in a column, and increase own ATK, DEF, and Control by 20%; there's a 50% chance to paralyze the enemies in the back row; if Orochi Shermie 02UM has 9 levels of \"charging mark\" before she attacks, then she will consume 9 levels of \"charging mark\" and enters the status of \"full charging\" (the status will provide the Buff that is equal to the one that a full level of \"charging mark\" that can provide for 1 round, and the Buff can be stacked with other Buff of the same type); if own Crit is higher than the Anti-Crit of the target, Orochi Shermie 02UM will gain extra Crit Power and DMG by 40%; when the next round starts, there's a 40% chance to paralyze ownself. Deal 280%+25 DMG to the target column",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Charging",
+					"description": "Increase own DMG, Res Rate, and ULT DMG by 30%; increase own Pierce and small skill chance by 40%; if the fighter on own side hits a paralyzed enemy, or the attack makes the enemy paralyzed, Orochi Shermie 02UM will gain a level of \"charging mark\" (9 levels at most, and each level increases Crit by 5%), this effect can be activated\" 3 times at most per round; when her \"charging mark\" reaches MAX level, all allies' HP that is equal to 200% of their ATK will be restored; If Orochi Shermie 02UM's HP percentage is lower than 60% when she's being hit, she will counterattack with the small skill (once at most per battle); she's immune to the \"ionization\" effect; when she's paralyzed, she will devour her paralysis effect and the one around herself and dispel her Debuff, after that, she will gain a level of \"charging mark\", she can gain 15% of MAX HP and 100 Rage for each level of \"charging mark\": when Orochi Shermie 02UM receives fatal damage she won't die, 50% of her HP and 300 Rage will be restored, and 2 levels of \"charging mark\" will be gained, besides, she will be immune to Rage decreasing effect for 1 round and 20% of her ULT Res and small skill Res will be permanently increased (the Buff can be stacked and can be inherited after the resurrection), this effect can gainea, Desides, Sne will de immune to Rage decreasing effect for 1 round and 20% of her ULT Res and small skill Res will be permanently increased (the Buff can be stacked and can be inherited after the resurrection), this effect can be activated twice at most per battle. Increase own MG and Res Rate by 50%",
+					"description_es": null,
+					"description_pt": null
+				}
+			]
 		}
 	]
 }

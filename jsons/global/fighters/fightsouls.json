@@ -1025,6 +1025,15 @@
 				"description_es": null,
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "OROCHI_SHERMIE_02UM",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Gain 55 Rage initially, and gain extra Rage when the fighter is dead on either side",
+				"description_es": null,
+				"description_pt": null
+			}
 		}
 	]
 }
