@@ -1639,6 +1639,19 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "MAI_XIV",
+			"fightsoul_id": "BEAR",
+			"name": "Mai XIV",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "FEMALE",
+			"tome_id": "SCORCHING",
+			"badge_id": "FIRE",
+			"status": 1,
+			"striker": 0
+		},
+		{
 			"fighter_id": "ROBERT_XIV",
 			"fightsoul_id": "TURTLE",
 			"name": "Robert XIV",
