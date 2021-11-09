@@ -1149,6 +1149,16 @@
 				"description_pt": null,
 				"contributor": null
 			}
+		},
+		{
+			"fighter_id": "KIM_XIII",
+			"weapon_awakened": {
+				"name": "Expert Belt",
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
 		}
 	]
 }

@@ -1494,6 +1494,19 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "KIM_XIII",
+			"fightsoul_id": "TURTLE",
+			"name": "Kim XIII",
+			"chinese_name": "罗刹娜可露露",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "KICK",
+			"badge_id": "EARTH",
+			"status": 0,
+			"striker": 0
 		}
 	]
 }

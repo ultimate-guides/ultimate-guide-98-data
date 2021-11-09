@@ -1034,6 +1034,15 @@
 				"description_es": null,
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "KIM_XIII",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Gain 24 extra Rage when attacking orbeing attacked, and gain Rage whenthe fighter is dead on either side",
+				"description_es": null,
+				"description_pt": null
+			}
 		}
 	]
 }

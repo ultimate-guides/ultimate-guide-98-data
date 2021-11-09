@@ -1954,6 +1954,23 @@
 					"attr": "HP + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "KIM_XIII",
+			"fates": [
+				{
+					"bosses": "Kim XIII, Chang XIV, Choi XIV",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Kim XIII, May Lee, Jhun Hoon",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Kim XIII, Robert Xl, Purple Nakoruru",
+					"attr": "HP + 25%"
+				}
+			]
 		}
 	]
 }
