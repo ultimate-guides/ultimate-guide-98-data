@@ -1971,6 +1971,23 @@
 					"attr": "HP + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "OVERLORD_GEESE",
+			"fates": [
+				{
+					"bosses": "Overlord Geese, Hungry Wolf Terry, Rock Howard,",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Overlord Geese, Billy XIV, Hein,",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Overlord Geese, Omega Rugal, Rugal",
+					"attr": "ATK + 25%"
+				}
+			]
 		}
 	]
 }

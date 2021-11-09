@@ -1507,6 +1507,19 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "OVERLORD_GEESE",
+			"fightsoul_id": "TIGER",
+			"name": "Overlord Geese",
+			"chinese_name": "罗刹娜可露露",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "KICK",
+			"badge_id": "GALE",
+			"status": 0,
+			"striker": 0
 		}
 	]
 }

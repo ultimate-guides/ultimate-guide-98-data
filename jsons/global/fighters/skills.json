@@ -3363,6 +3363,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "OVERLORD_GEESE",
+			"skills": [
+				{
+					"name": "Tendoh Kudaki",
+					"description": "Attack the enemies in a column; increase own Block by 35%; there's a 40% chance to stun a random enemy in the target column for 1 round (stun and decrease Rage restoration speed of the target by 100%); restore Own HP by 20%; restore 60 Rage per round for 2 rounds; decrease the damage that is dealt by GANK fighters by 30%; the following effect will be added to the skill according to the type of the target fighter for 1 round (the effect ignores the immunity to Debuff and can't be dispelled, and it can be stacked with other same-type Debuff: PS: decrease DMG of the target by 10%; GANK: decrease ULT skill damage of the target by 10%. Deal 160%+15 DMG to the target column",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Raigou Reppuu Ken",
+					"description": "Attack a single enemy (the target with the \"Nightmare\" mark will be attacked first); absorb DMG, Res Rate and Crit of the target by 20% (this effect ignores the immunity to Debuff); there is a 50%~70% chance of paralyzing the target for 1 round (the more the fighters on the battlefield, the higher the chance will be); an extra 20%~40% damage of this skill will be dealt (the damage will be 40%~60% if the main target is in the front row, the fewer the fighters on the battlefield, the higher the boost of the damage will bel; if this attack makes Crit Hit, it will deal splash damage that equals to 30% of this attack's damage to the surrounding enemies of the main target (this attack won't restore Rage to the enemy). Deal 400%+25 DMG to the target",
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Divine Protection",
+					"description": "Increase own ULT skill damage when deployed; increase own damage by 10%, increase own ATK, DEF and Crit by 35%; the damage that is equal to 8% of the target's MAX HP will be added to the attack (the effect will be increased to 20% if the target has the shield); if Overlord Geese takes the damage that is more than 40% of his HP once in the enemy's round, he will enter \"Avatar\" status (expanding the size, restore own HP by 30%, increase own Control-free by 80%, increase own small skill Res and ULT Res by 30% for 1 round, the effect can only be activated once each round); if it's the enemy's round, and Overlord Geese is under the status of \"Avatar\". then the acting skill will be activated when Overlord Geese is attacked by the ULT skill (being immune to the damage this time, and release \"Raigou Reppuu Ken\" to counterattack the enemy once, the effect can only be activated once each round, 3 times per battle at most; this attack will not take effect if there is only one enemy when deployed); Before dying for the first time in each battle, the single damage taken will not exceed 50% of own MAX HP (it will not take effect if there is only one enemy when deployed); there's a 100% chance that Overlord Geese can resurrect when he first dies, and 50% of his MAX HP and all Rage will be restored (it will not take effect if there is only one enemy when deployed); he won't die the first time he takes fatal damage, and all the Debuff and petrification effects will be dispelled; 400 Rage and 50% of MAX HP will be restored (the healing won't be affected by the healing amount changes); each death adds or refreshes \"Nightmare\" status for the killer (decreasing DMG and Crit of the target by 35% and Anti-Crit by 70% for 2 rounds, the effect ignores the immunity to Debuff and can't be dispelled). Increase own ULT DMG by 20%",
+					"description_es": null,
+					"description_pt": null
+				}
+			]
 		}
 	]
 }

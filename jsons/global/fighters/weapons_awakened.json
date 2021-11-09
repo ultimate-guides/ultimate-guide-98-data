@@ -1159,6 +1159,16 @@
 				"description_pt": null,
 				"contributor": null
 			}
+		},
+		{
+			"fighter_id": "OVERLORD_GEESE",
+			"weapon_awakened": {
+				"name": "Overlord Whisband",
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
 		}
 	]
 }
