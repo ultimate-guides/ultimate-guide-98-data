@@ -1613,6 +1613,19 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "GORO_02UM",
+			"fightsoul_id": "SNAKE",
+			"name": "Goro Daimon",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "GALE",
+			"status": 1,
+			"striker": 0
+		},
+		{
 			"fighter_id": "ROBERT_XIV",
 			"fightsoul_id": "TURTLE",
 			"name": "Robert XIV",
@@ -1622,7 +1635,7 @@
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 0,
+			"status": 1,
 			"striker": 0
 		}
 	]

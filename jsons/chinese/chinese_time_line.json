@@ -92,6 +92,11 @@
 		},
 		{
 			"title": "TIME LIMITED CHEST",
+			"fighter_id": "GORO_02UM",
+			"date": "02/09/2021"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
 			"fighter_id": "ROBERT_XIV",
 			"date": "02/11/2021"
 		}
