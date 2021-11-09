@@ -1611,6 +1611,19 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "ROBERT_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "Robert XIV",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "GALE",
+			"status": 0,
+			"striker": 0
 		}
 	]
 }
