@@ -3312,13 +3312,13 @@
 				{
 					"name": "Takeru Mikazuchi",
 					"description": "Attacks a single enemy, and absorb its MAX HP by 15% and 200 Rage; gain a level of \"charging mark\", each level of \"charging mark\" decreases the Control-free of the target by 7% for 1 round (63% at most, and the effect ignores the immunity to Debuft; the effect will be 63% when Orochi Shermie 02UM enters the status of \"full charging\"); there's a 40% chance to make the target paralyzed; make two paralyzed enemies enter the \"ionization\" status at most (the next attack won't deal damage, and the effect ignores the immunity to Debuff and can't be dispelled). Deal 160%+15 DMG to the target ",
-					"description_es": null,
+					"description_es": "Ataca a un solo enemigo y absorbe su MAX HP en un 15% y 200 de Rage; gana un nivel de \"charging mark \", cada nivel de \"charging mark \" disminuye el Control-free del objetivo en un 7% durante 1 ronda (63% como máximo, y el efecto ignora la inmunidad a Debuft; el el efecto será del 63% cuando Orochi Shermie 02UM entre en el estado de \"full charging \"); hay un 40% de posibilidades de que el objetivo quede paralizado; hace que dos enemigos paralizados entren en el estado de \"ionización \" como máximo (el siguiente ataque no causará daño, y el efecto ignora la inmunidad a Debuff y no se puede disipar). Otorga 160% + 15 DMG al objetivo",
 					"description_pt": null
 				},
 				{
 					"name": "Shukumei-Genei-Shinshi",
 					"description": "Attack the enemies in a column, and increase own ATK, DEF, and Control by 20%; there's a 50% chance to paralyze the enemies in the back row; if Orochi Shermie 02UM has 9 levels of \"charging mark\" before she attacks, then she will consume 9 levels of \"charging mark\" and enters the status of \"full charging\" (the status will provide the Buff that is equal to the one that a full level of \"charging mark\" that can provide for 1 round, and the Buff can be stacked with other Buff of the same type); if own Crit is higher than the Anti-Crit of the target, Orochi Shermie 02UM will gain extra Crit Power and DMG by 40%; when the next round starts, there's a 40% chance to paralyze ownself. Deal 280%+25 DMG to the target column",
-					"description_es": null,
+					"description_es": "Ataca a los enemigos en una columna y aumenta el ATK, la DEF y el Control propios en un 20%; hay un 50% de posibilidades de paralizar a los enemigos de la última fila; si Orochi Shermie 02UM tiene 9 niveles de \"charging mark\" antes de atacar, entonces consumirá 9 niveles de \"charging mark \" y entrará en el estado de \"full charging \" (el estado proporcionará el Buff que es igual al que tiene un nivel completo de \"charging mark \" que puede proporcionar 1 ronda, y la mejora se puede acumular con otra mejora del mismo tipo); si el propio Crit es mayor que el Anti-Crit del objetivo, Orochi Shermie 02UM ganará Crit Power y DMG adicional en un 40%; cuando comienza la siguiente ronda, hay un 40% de posibilidades de paralizarse. Reparte 280% + 25 DMG a la columna objetivo",
 					"description_pt": null
 				},
 				{
