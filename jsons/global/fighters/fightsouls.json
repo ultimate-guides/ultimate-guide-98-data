@@ -1031,7 +1031,7 @@
 			"fightsoul": {
 				"name": "TIGER",
 				"description": "Gain 55 Rage initially, and gain extra Rage when the fighter is dead on either side",
-				"description_es": null,
+				"description_es": "Gana 55 de Rage inicialmente y gana más Rage cuando el luchador está muerto en cualquier lado.",
 				"description_pt": null
 			}
 		},
@@ -1040,7 +1040,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "Gain 24 extra Rage when attacking orbeing attacked, and gain Rage whenthe fighter is dead on either side",
-				"description_es": null,
+				"description_es": "Gana 24 Rage extra al atacar o ser atacado, y gana Rage cuando el luchador está muerto en cualquier lado.",
 				"description_pt": null
 			}
 		},
@@ -1049,7 +1049,7 @@
 			"fightsoul": {
 				"name": "TIGER",
 				"description": "Gain 33 Rage when being attacked, or the fighter is dead on either side and restore extra Rage when attacking",
-				"description_es": null,
+				"description_es": "Obtienes 33 de Rage  al ser atacado, o cuando un luchador muere en cualquier lado y restaura Rage adicional al atacar.",
 				"description_pt": null
 			}
 		}
