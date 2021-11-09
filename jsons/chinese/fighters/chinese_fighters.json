@@ -1626,6 +1626,19 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "ANGEL_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "Angel XIV",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "FEMALE",
+			"tome_id": "KICK",
+			"badge_id": "GALE",
+			"status": 1,
+			"striker": 0
+		},
+		{
 			"fighter_id": "ROBERT_XIV",
 			"fightsoul_id": "TURTLE",
 			"name": "Robert XIV",
