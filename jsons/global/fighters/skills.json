@@ -3341,13 +3341,13 @@
 				{
 					"name": "Hi'en Zan",
 					"description": "Attack a single enemy (Chang XIV or Choi XIV will be attacked first); there's a 30% chance to taunt the target for 1 round; decrease DMG of the target by 30%; restore own HP by 10% and Rage by 100, and if own HP percentage is lower than 50%, the amount of restoration will double. Deal 160%+15 DMG to the target",
-					"description_es": null,
+					"description_es": "Ataca a un solo enemigo (Chang XIV o Choi XIV serán atacados primero); hay un 30% de probabilidad de burlarse del objetivo durante 1 asalto; disminuye el DMG del objetivo en un 30%; restaura el HP propio en un 10% y el Rage en 100, y si el porcentaje de HP propio es inferior al 50%, la cantidad de restauración se duplicará. Otorga 160% + 15 DMG al objetivo",
 					"description_pt": null
 				},
 				{
 					"name": "Zero-Shiki Hou'ou Kyaku",
 					"description": "Attack the targets in a column (the column that Chang XIV and Choi XIV in will be attacked first; increase own DMG, Res Rate, and Anti-Crit by 20%, and increase own Anti-Crit by 4% for each enemy; increase Block of a random ally (except Kim XIll himself and the ally in the front row will be selected first), the increase is equal to 30% of Kim's Block (the effect can't be dispelled); if own HP percentage is lower than 30%; the small skill must be released this round. After the weapon awakens, the effect will be improved in an all-around way. The skill will deal massive damage to the main target. Deal 280%+25 DMG to the target column",
-					"description_es": null,
+					"description_es": "Ataca a los objetivos en una columna (la columna en la que Chang XIV y Choi XIV serán atacados primero; aumenta el DMG propio, el Res Rate y el Anti-Crítico en un 20%, y aumenta el Anti-Crítico propio en un 4% para cada enemigo; aumenta Bloqueo de un aliado aleatorio (excepto el propio Kim XIll y el aliado de la primera fila serán seleccionados primero), el aumento es igual al 30% del Bloqueo de Kim (el efecto no se puede disipar); si el propio porcentaje de HP es menor que 30%; el small skill debe liberarse en esta ronda. Después de que el arma se despierte, el efecto se mejorará de manera general. La habilidad infligirá un daño masivo al objetivo principal. Inflige 280% + 25 DMG a la columna de objetivos",
 					"description_pt": null
 				},
 				{
@@ -3359,7 +3359,7 @@
 				{
 					"name": "Righteous Master",
 					"description": "Increase own Block when deployed; increase own ATK, DEF, and MAX HP by 20%, 30%, and 20% respectively; it Block isn't activated when Kim XIll is being attacked, his Block will increase (the effect can be stacked, and it will reset when Block is activated), Increase own DEF by 200% temporarily when being attacked by Chang XIV; being immune to \"Wound\" and \"Vicious Wound\" of Choi XIV; all the attacks will deal damage that equals to 10% of own MAX HP all the targets hit (the effect ignores the immunity to Debuff, and the damage to Chang XIV and Choi XIV will double); if there's Chang XIV or Choi XIV on the enemy's field, Kim XIll gains 1000 extra Rage, and he will be immune to Debuff for 1 round; Kim XIlI won't die if he receives fatal damage, and the Debuff and petrification will be dispelled; his HP will be restored by 30% and 300 Rage will also be restored, this effect will only take effect once per battle. Increase own Block by 20% Increase own Block by 4% when Block is not activated each time Kim XIll is being attacked",
-					"description_es": null,
+					"description_es": "Aumenta el propio bloque cuando se despliega; aumentar su ATK, DEF y MAX HP en un 20%, 30% y 20% respectivamente; si el bloqueo no se activa cuando Kim XIll está siendo atacado, su bloqueo aumentará (el efecto se puede acumular y se reiniciará cuando se active el bloqueo), aumentará la DEF propia en un 200% temporalmente cuando sea atacado por Chang XIV; es inmune a \"Wound \" y \"Vicious Wound\" de Choi XIV; todos los ataques causarán un daño equivalente al 10% de los propios MAX HP de todos los objetivos alcanzados (el efecto ignora la inmunidad a Debuff, y el daño a Chang XIV y Choi XIV se duplicará); si hay Chang XIV o Choi XIV en el campo del enemigo, Kim XIll gana 1000 de Rage extra y será inmune al Debuff durante 1 asalto; Kim XIlI no morirá si recibe un daño fatal, y la Debuff y la petrificación serán disipadas; su HP se restaurará en un 30% y también se restaurarán 300 de Rage, este efecto solo tendrá efecto una vez por batalla. Aumenta el bloqueo propio en un 20% Aumenta el bloqueo propio en un 4% cuando el bloqueo no está activado cada vez que Kim XIll está siendo atacado",
 					"description_pt": null
 				}
 			]
