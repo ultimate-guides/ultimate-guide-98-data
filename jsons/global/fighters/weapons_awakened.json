@@ -1169,6 +1169,16 @@
 				"description_pt": null,
 				"contributor": null
 			}
+		},
+		{
+			"fighter_id": "VERSE",
+			"weapon_awakened": {
+				"name": "Lava Claw",
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
 		}
 	]
 }

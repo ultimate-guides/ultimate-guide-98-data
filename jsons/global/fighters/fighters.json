@@ -1520,6 +1520,19 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "VERSE",
+			"fightsoul_id": "BEAR",
+			"name": "Verse",
+			"chinese_name": "罗刹娜可露露",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "MANA",
+			"badge_id": "EARTH",
+			"status": 0,
+			"striker": 0
 		}
 	]
 }

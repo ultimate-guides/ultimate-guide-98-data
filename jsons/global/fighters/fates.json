@@ -1988,6 +1988,23 @@
 					"attr": "ATK + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "VERSE",
+			"fates": [
+				{
+					"bosses": "Verse, Saiki (Awakened), Saiki,",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Verse, Mukai, Magaki",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Verse, Duo Lon, Maxima XIV",
+					"attr": "HP + 25%"
+				}
+			]
 		}
 	]
 }

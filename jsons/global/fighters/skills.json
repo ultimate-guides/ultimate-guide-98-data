@@ -3392,6 +3392,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "VERSE",
+			"skills": [
+				{
+					"name": "Hate Knuckle",
+					"description": "Attack the enemies in a column the column of the enemy who was imprisoned will be attacked first; increase own Anti-Crit and healing rate by 35%; if the main target is imprisoned, another enemy who is in the same column as the main target will also be imprisoned (the CD of the effect is 2 round); when DPS-type fighter on own side is attacked in 2 rounds, Verse will share 35% of the damage he or she takes (having no effects on the fighters from another world), and the damage shared will be decreased by 60% (it there is more than 1 DPS-type fighter on own side, the damage will be decreased by 70%; when own HP percentage is lower than 30%, Verse won't share the damage; increase Rage restoration of Verse and DPS-type fighters on own side when being attacked by 70. Deal 160%+15 DMG to the target column",
+					"description_es": "Ataca a los enemigos en una columna: la columna del enemigo que fue encarcelado será atacada primero; aumentar el índice de curación y el anti-crítico propio en un 35%; si el objetivo principal es encarcelado, otro enemigo que esté en la misma columna que el objetivo principal también será encarcelado (el CD del efecto es 2 asaltos); cuando un luchador de tipo DPS en su propio bando es atacado en 2 rondas, Verse compartirá el 35% del daño que reciba (sin efectos en los luchadores de otro mundo), y el daño compartido se reducirá en un 60% ( si hay más de 1 luchador de tipo DPS en su propio bando, el daño se reducirá en un 70%; cuando el porcentaje de HP propio sea inferior al 30%, Verse no compartirá el daño; aumentará la restauración de Rage de los luchadores de Verse y de tipo DPS en su propio lado cuando es atacado por 70. Otorga 160% + 15 DMG a la columna objetivo",
+					"description_pt": null
+				},
+				{
+					"name": "Meteor Verse",
+					"description": "Attack the enemies in a column the column of the enemy whose HP percentage is the highest will be attacked first; increase own ATK, DEF, and Block by 20%; decrease DMG and Crit of the main target by 20%; if there are no enemies who are imprisoned, there is a 40% chance for Verse to make the main target imprisoned for 1 round, and this chance will be increased to 60% if the main target is the fighter is from another world (imprisonment: the target is unable to move, the healing amount received will be decreased by 40%, and the Debuff can be dispelled for 2 times); if the imprisonment effect fails, increase own Control by 30%. Deal 280%+25 DMG to the target column",
+					"description_es": "Ataca a los enemigos en una columna. La columna del enemigo cuyo porcentaje de HP sea el más alto será atacada primero; aumenta el ATK, la DEF y el bloqueo propios en un 20%; disminuye el DMG y el crítico del objetivo principal en un 20%; si no hay enemigos encarcelados, existe un 40% de probabilidad de que Verse haga que el objetivo principal sea encarcelado durante 1 asalto, y esta posibilidad aumentará al 60% si el objetivo principal es el luchador es de otro mundo (encarcelamiento: el objetivo no puede moverse, la cantidad de curación recibida se reducirá en un 40% y el Debuff se puede disipar 2 veces); si el efecto de encarcelamiento falla, aumenta el Control propio en un 30%. Reparte 280% + 25 DMG a la columna objetivo",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Life Link",
+					"description": "Increase own ULT Res and small skill Res; increase own DMG by 35% and MAX HP by 15%, decrease ULT damage of the fighter from another world by 30% for 1 round, gain Res Rate and Reflection that is equal to 60% of own Control (the effect will be refreshed in the battle); all of the attacks will add burning effect to the target for 2 rounds (the effect ignores the immunity to Debuff and can't be dispelled; it will deal the continuous damage that is equal to 6% of MAX HP to the target; an extra burning attack will be dealt to the fighter from another world, and the burning damage will be increased by 50%; decrease Rage restoration speed and healing rate of the target by 70% and 40% respectively, the effect ignores the immunity to Debuff; When there is a fighter on own side whose HP percentage is lower than 40% and Verse's HP percentage is higher than 90%, 10% of own MAX HP will be cost, and 300% of HP cost will be restored to an ally with the lowest HP percentage; when the enemy's round starts, 50% of the healing amount of the enemy with the lowest HP percentage in 1 round will be transferred to Verse himself (except for the healing that won't be affected by the changes of the healing amount; Verse is immune to the imprisonment effect and he can resurrect twice, all of his HP and Rage will be restored after his resurrection; his MG Res and Control will be increased by 25% after his deployment and resurrection, Verse will also be immune to Rage decreasing (last for 1 round). Increase own ULT Res and small skill Res by 20%",
+					"description_es": "Aumenta la Res ULT propia y la Small skill Res; aumenta el DMG propio en un 35% y los MAX HP  en un 15%, disminuye el daño ULT del luchador de otro mundo en un 30% durante 1 asalto, gana Res Rate y Reflexión que es igual al 60% del Control propio (el efecto se actualizará en la batalla); todos los ataques agregarán un efecto de quemado al objetivo durante 2 rondas (el efecto ignora la inmunidad a la Debuff y no se puede disipar; infligirá el daño continuo que es igual al 6% de MAX HP al objetivo; un extra El ataque ardiente se infligirá al luchador de otro mundo, y el daño ardiente aumentará en un 50%; disminuya la velocidad de restauración de Rage y la tasa de curación del objetivo en un 70% y 40% respectivamente, el efecto ignora la inmunidad al Debuff; Cuando hay un luchador en su propio bando cuyo porcentaje de HP es inferior al 40% y el porcentaje de HP de Verse es superior al 90%,  costará el 10% de su propio HP MAX, y el 300% del costo de HP se restaurará a un aliado con el menor Porcentaje de HP; cuando comienza la ronda del enemigo, el 50% de la cantidad de curación del enemigo con el porcentaje de HP más bajo en 1 ronda se transferirá a Verse mismo (excepto por la curación que no se verá afectada por los cambios en la cantidad de curación ; Verse es inmune al efecto encarcelamiento y puede resucitar dos veces, todo su HP y Rage serán restaurados después de su resurrección; su DMG Res y Control se incrementará en un 25% después de su despliegue y resurrección, Verse también será inmune a la disminución de Rage (dura 1 ronda). Aumenta la Res ULT propia y la Res al Small skill en un 20%.",
+					"description_pt": null
+				}
+			]
 		}
 	]
 }
