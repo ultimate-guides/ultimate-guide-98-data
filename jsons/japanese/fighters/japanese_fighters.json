@@ -1,0 +1,18 @@
+{
+	"fighters": [
+		{
+			"fighter_id": "HONOKA",
+			"fightsoul_id": "TIGER",
+			"name": "Honoka",
+			"chinese_name": "草薙京",
+			"api": 13,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "SCORCHING",
+			"badge_id": "FLAME",
+			"status": 0,
+			"striker": 1
+		}
+    ]
+}
+    
