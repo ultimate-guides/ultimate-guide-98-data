@@ -3,31 +3,31 @@
 		{
 			"name": "Unyielding",
 			"description": "Equipped fighter will become more brave, never give in, the longer they survive, the higher the Res Rate, the lower the HP, the higher the DMG, can even recover HP and dispel debuff.",
-			"description_es": null,
+			"description_es": "El luchador equipado se volverá más valiente, nunca se rendirá, cuanto más sobreviva, mayor será el Res Rate, menor sea HP, mayor será el DMG, incluso puede recuperar HP y disipar el debuff.",
 			"description_pt": "O lutador equipado será mais corajoso, nunca desistirá, quanto mais sobreviver, maior a taxa de Res, quanto menor o HP, maior o DMG, pode inclusive recuperar o HP e dissipar debuffs."
 		},
 		{
 			"name": "Goddess",
 			"description": "All the soul effects of the goddess can only be equipped and take effect on female fighters, can reduce enemy male fighters DEF and Res Rate, increase DEF and DMG of ally female fighters.",
-			"description_es": null,
+			"description_es": "Todos los efectos del alma de la diosa solo pueden equiparse y surtir efecto en las luchadoras (feminas), pueden reducir la DEF y el Res Rate de los luchadores masculinos enemigos, aumenta la DEF y el DMG de las luchadoras aliadas.",
 			"description_pt": "Todos os efeitos da alma de Deusa só pode equipar e ter efeito nas lutadores femininas, pode reduzir a DEF e taxa de Res dos lutadores masculinos, aumenta DEF e DMG das aliadas femininas."
 		},
 		{
 			"name": "Guardian",
 			"description": "Equipped fighter can control the DMG it receives within a certain range, and can also immunize against all control effects, greatly enhancing the survivability of the wearer",
-			"description_es": null,
+			"description_es": "El luchador equipado puede controlar el DMG que recibe dentro de un cierto rango, y también puede inmunizar contra todos los efectos de control, mejorando en gran medida la capacidad de supervivencia del portador.",
 			"description_pt": "O lutador equipado pode controlar o DMG recebido dentro de um determinado intervalo, e pode também imunizar contra todos os efeitos, aumentando consideravelmente a sobrevivência do usuário."
 		},
 		{
 			"name": "War God",
-			"description": "Equipped figher is like a war god. Odd rounds will release a powerful god of war aura. making the enemy's mind tremble, After the third round, they will gain the effect of the god of war and greatly enhance the fighter's own combat power.",
-			"description_es": null,
+			"description": "Equipped fighter is like a war god. Odd rounds will release a powerful god of war aura. making the enemy's mind tremble, After the third round, they will gain the effect of the god of war and greatly enhance the fighter's own combat power.",
+			"description_es": "El peleador equipado es como un dios de la guerra. Las rondas impares liberarán un poderoso aura de dios de la guerra. haciendo temblar la mente del enemigo, después de la tercera ronda, obtendrán el efecto del dios de la guerra y mejorarán en gran medida el poder de combate del luchador.",
 			"description_pt": "O lutador equipado é como um Deus da Guerra. Rounds ímpares irão liberar uma poderosa aura de Deus da Guerra, fazendo a mente do inimigo tremer. Após o terceiro round, ele irá ganhar o efeito do Deus da Guerra e aumentará muito o próprio poder de combate do lutador."
 		},
 		{
 			"name": "Vengeance",
 			"description": "Equipped fighter will feel huge resentment, which will be released after the fighter death, causing debuff to enemies.",
-			"description_es": null,
+			"description_es": "El luchador equipado sentirá un gran resentimiento, que se liberará después de la muerte del luchador, causando debuffs a los enemigos.",
 			"description_pt": "O lutador equipado irá sentir um enorme ressentimento, que será lançado após a morte do lutador, causando debuff nos inimigos."
 		}
 	]
