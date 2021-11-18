@@ -3376,6 +3376,17 @@
        "year":"1994",
        "gender":"male",
        "cost":"15"
-    }
+    },
+    {
+      "iname":"kyo_ss",
+      "name":"Kyo Kusanagi",
+      "rarity":"fes",
+      "atribute":"yellow",
+      "type":"ofensive",
+      "star":"5",
+      "year":"ss",
+      "gender":"male",
+      "cost":"65"
+   }
  ]
  }
