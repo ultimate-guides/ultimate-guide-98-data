@@ -3387,6 +3387,17 @@
       "year":"ss",
       "gender":"male",
       "cost":"65"
+   },
+   {
+      "iname":"sol_bad_guy",
+      "name":"Sol BadGuy",
+      "rarity":"fes",
+      "atribute":"red",
+      "type":"ofensive",
+      "star":"5",
+      "year":"gg",
+      "gender":"male",
+      "cost":"65"
    }
  ]
  }
