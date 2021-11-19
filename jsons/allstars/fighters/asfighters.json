@@ -2455,7 +2455,7 @@
     },
     {
        "iname":"kondo",
-       "name":"Isao Kondou ",
+       "name":"Isao Kondou",
        "rarity":"gold",
        "atribute":"green",
        "type":"defensive",
@@ -3378,26 +3378,268 @@
        "cost":"15"
     },
     {
-      "iname":"kyo_ss",
-      "name":"Kyo Kusanagi",
-      "rarity":"fes",
-      "atribute":"yellow",
-      "type":"ofensive",
-      "star":"5",
-      "year":"ss",
-      "gender":"male",
-      "cost":"65"
-   },
-   {
-      "iname":"sol_bad_guy",
-      "name":"Sol BadGuy",
-      "rarity":"fes",
-      "atribute":"red",
-      "type":"ofensive",
-      "star":"5",
-      "year":"gg",
-      "gender":"male",
-      "cost":"65"
-   }
+    "iname": "hinako_00",
+    "name": "Hinako Shijo",
+    "rarity": "fes",
+    "atribute": "yellow",
+    "type": "defensive",
+    "star": 5,
+    "year": 2000,
+    "gender": "female",
+    "cost": 63
+  },
+  {
+    "iname": "lin_00",
+    "name": "Lin",
+    "rarity": "fes",
+    "atribute": "green",
+    "type": "balance",
+    "star": 5,
+    "year": 2000,
+    "gender": "male",
+    "cost": 63
+  },
+  {
+    "iname": "orochichris_sp",
+    "name": "Fake Conspiracy Company Chris",
+    "rarity": "fes",
+    "atribute": "blue",
+    "type": "defensive",
+    "star": 5,
+    "year": "AS",
+    "gender": "male",
+    "cost": 63
+  },
+  {
+    "iname": "goenitz_bs",
+    "name": "Boss Syndrome Goenitz",
+    "rarity": "fes",
+    "atribute": "red",
+    "type": "offensive",
+    "star": 5,
+    "year": "BS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "igniz_bs",
+    "name": "Boss Syndrome Igniz",
+    "rarity": "fes",
+    "atribute": "blue",
+    "type": "balance",
+    "star": 5,
+    "year": "BS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "igniz_bs_1",
+    "name": "Boss Syndrome Igniz",
+    "rarity": "fes",
+    "atribute": "yellow",
+    "type": "offensive",
+    "star": 5,
+    "year": "BS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "leona_bs",
+    "name": "Boss Syndrome Leona",
+    "rarity": "fes",
+    "atribute": "purple",
+    "type": "defensive",
+    "star": 5,
+    "year": "BS",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "maxima_bs",
+    "name": "Boss Syndrome Maxima",
+    "rarity": "fes",
+    "atribute": "purple",
+    "type": "balance",
+    "star": 5,
+    "year": "BS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "zero_bs",
+    "name": "Boss Syndrome Zero",
+    "rarity": "fes",
+    "atribute": "purple",
+    "type": "offensive",
+    "star": 5,
+    "year": "BS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "zero_bs_1",
+    "name": "Boss Syndrome Zero",
+    "rarity": "fes",
+    "atribute": "green",
+    "type": "defensive",
+    "star": 5,
+    "year": "BS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "honoka_doa6",
+    "name": "Angel of Paradise Honoka",
+    "rarity": "fes",
+    "atribute": "red",
+    "type": "offensive",
+    "star": 5,
+    "year": "DOA6",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "kasumi_doa6",
+    "name": "Angel of Paradise Kasumi",
+    "rarity": "fes",
+    "atribute": "green",
+    "type": "defensive",
+    "star": 5,
+    "year": "DOA6",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "marie_doa6",
+    "name": "Angel of Paradise Marie Rose",
+    "rarity": "fes",
+    "atribute": "blue",
+    "type": "defensive",
+    "star": 5,
+    "year": "DOA6",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "nyotengu_do6",
+    "name": "Angel of Paradise Nyotengu",
+    "rarity": "fes",
+    "atribute": "purple",
+    "type": "balance",
+    "star": 5,
+    "year": "DOA6",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "honoka_ss",
+    "name": "Honoka",
+    "rarity": "fes",
+    "atribute": "yellow",
+    "type": "defensive",
+    "star": 5,
+    "year": "SS",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "kasumi_ss",
+    "name": "Kasumi",
+    "rarity": "fes",
+    "atribute": "blue",
+    "type": "offensive",
+    "star": 5,
+    "year": "SS",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "marie_ss",
+    "name": "Marie Rose",
+    "rarity": "fes",
+    "atribute": "green",
+    "type": "balance",
+    "star": 5,
+    "year": "SS",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "nyotengu_ss",
+    "name": "Nyotengu",
+    "rarity": "fes",
+    "atribute": "red",
+    "type": "defensive",
+    "star": 5,
+    "year": "SS",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "iori_ss",
+    "name": "Special Signature Iori",
+    "rarity": "fes",
+    "atribute": "purple",
+    "type": "balance",
+    "star": 5,
+    "year": "SS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "k_ss",
+    "name": "Special Signature K'",
+    "rarity": "fes",
+    "atribute": "red",
+    "type": "balance",
+    "star": 5,
+    "year": "SS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "king_ss",
+    "name": "Special Signature King",
+    "rarity": "fes",
+    "atribute": "yellow",
+    "type": "balance",
+    "star": 5,
+    "year": "SS",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "kula_ss",
+    "name": "Special Signature Kula",
+    "rarity": "fes",
+    "atribute": "blue",
+    "type": "defensive",
+    "star": 5,
+    "year": "SS",
+    "gender": "female",
+    "cost": 65
+  },
+  {
+    "iname": "kyo_ss",
+    "name": "Special Signature Kyo",
+    "rarity": "fes",
+    "atribute": "yellow",
+    "type": "ofensive",
+    "star": 5,
+    "year": "SS",
+    "gender": "male",
+    "cost": 65
+  },
+  {
+    "iname": "yuri_ss",
+    "name": "Special Signature Yuri",
+    "rarity": "fes",
+    "atribute": "green",
+    "type": "offensive",
+    "star": 5,
+    "year": "SS",
+    "gender": "female",
+    "cost": 65
+  }
  ]
  }
