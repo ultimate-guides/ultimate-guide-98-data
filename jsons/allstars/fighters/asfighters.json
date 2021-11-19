@@ -3433,8 +3433,8 @@
     "cost": 65
   },
   {
-    "iname": "igniz_bs_1",
-    "name": "Boss Syndrome Igniz",
+    "iname": "igniz_sp",
+    "name": "Phantom Ruler Igniz",
     "rarity": "fes",
     "atribute": "yellow",
     "type": "offensive",
@@ -3455,8 +3455,8 @@
     "cost": 65
   },
   {
-    "iname": "maxima_bs",
-    "name": "Boss Syndrome Maxima",
+    "iname": "maxima_sp",
+    "name": "Phantom Invader Maxima",
     "rarity": "fes",
     "atribute": "purple",
     "type": "balance",
@@ -3466,7 +3466,7 @@
     "cost": 65
   },
   {
-    "iname": "zero_bs",
+    "iname": "zerooriginal_bs",
     "name": "Boss Syndrome Zero",
     "rarity": "fes",
     "atribute": "purple",
@@ -3477,8 +3477,8 @@
     "cost": 65
   },
   {
-    "iname": "zero_bs_1",
-    "name": "Boss Syndrome Zero",
+    "iname": "zerooriginal_sp",
+    "name": "Phantom Gatekeeper Zero",
     "rarity": "fes",
     "atribute": "green",
     "type": "defensive",
@@ -3521,7 +3521,7 @@
     "cost": 65
   },
   {
-    "iname": "nyotengu_do6",
+    "iname": "nyotengu_doa6",
     "name": "Angel of Paradise Nyotengu",
     "rarity": "fes",
     "atribute": "purple",
@@ -3587,7 +3587,7 @@
     "cost": 65
   },
   {
-    "iname": "k_ss",
+    "iname": "kdash_ss",
     "name": "Special Signature K'",
     "rarity": "fes",
     "atribute": "red",
