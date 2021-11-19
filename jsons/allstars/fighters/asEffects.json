@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "iname":"kyo_13",
+            "effects": [
+                {
+                    "name": "burn"
+                },
+                {
+                    "name": "frezze"
+                }
+            ]
+        },
+        {
+            "iname":"sol_bad_guy",
+            "effects": [
+                {
+                    "name": "burn"
+                }
+            ]
+        }
+    ]
+}
