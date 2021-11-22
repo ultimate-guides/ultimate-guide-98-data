@@ -1,0 +1,122 @@
+{
+    "teams": [{
+        "team_id": "hero_team",
+        "team_name" : "Hero Team",
+        "fighters": [
+            {
+                "iname": "shun_ei"
+            },
+            {
+                "iname": "benimaru_nikaido"
+            },
+            {
+                "iname": "meitenkun"
+            }
+        ]
+    },
+    {
+        "team_id": "sacred_treasures_team",
+        "team_name" : "Sacred Treasures Team",
+        "fighters": [
+            {
+                "iname": "kyo_kusanagi"
+            },
+            {
+                "iname": "iori_yagami"
+            },
+            {
+                "iname": "chizuru_kagura"
+            }
+        ]
+    },
+    {
+        "team_id": "fatal_fury_team",
+        "team_name" : "Fatal Fury Team",
+        "fighters": [
+            {
+                "iname": "terry_bogard"
+            },
+            {
+                "iname": "andy_bogard"
+            },
+            {
+                "iname": "joe_hagashi"
+            }
+        ]
+    },
+    {
+        "team_id": "orochi_team",
+        "team_name" : "Orochi Team",
+        "fighters": [
+            {
+                "iname": "yashiro_nanakase"
+            },
+            {
+                "iname": "shermie"
+            },
+            {
+                "iname": "chris"
+            }
+        ]
+    },
+    {
+        "team_id": "art_of_fighting_team",
+        "team_name" : "Art of Fighting Team",
+        "fighters": [
+            {
+                "iname": "ryo_sakazaki"
+            },
+            {
+                "iname": "robert_garcia"
+            },
+            {
+                "iname": "king"
+            }
+        ]
+    },
+    {
+        "team_id": "ikari_team",
+        "team_name" : "Ikari Team",
+        "fighters": [
+            {
+                "iname": "leona_heidern"
+            },
+            {
+                "iname": "ralf_jones"
+            },
+            {
+                "iname": "clark_still"
+            }
+        ]
+    },
+    {
+        "team_id": "secret_agent_team",
+        "team_name" : "Secret Agent Team",
+        "fighters": [
+            {
+                "iname": "blue_mary"
+            },
+            {
+                "iname": "vanessa"
+            },
+            {
+                "iname": "luong"
+            }
+        ]
+    },
+    {
+        "team_id": "gaw_team",
+        "team_name" : "G.A.W",
+        "fighters": [
+            {
+                "iname": "antonov"
+            },
+            {
+                "iname": "ramon"
+            },
+            {
+                "iname": "king_of_dinosaurs"
+            }
+        ]
+    }]
+}
