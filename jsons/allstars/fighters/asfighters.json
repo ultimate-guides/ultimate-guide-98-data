@@ -288,7 +288,7 @@
     },
     {
        "iname":"gintoki_cos",
-       "name":"White Yaksha Gintoki ",
+       "name":"White Yaksha Gintoki",
        "rarity":"fes",
        "atribute":"blue",
        "type":"balance",
@@ -3640,6 +3640,72 @@
     "year": "SS",
     "gender": "female",
     "cost": 65
-  }
+  },
+  {
+   "iname": "badguy_gg",
+   "name": "Sol Badguy",
+   "rarity": "fes",
+   "atribute": "red",
+   "type": "balance",
+   "star": 5,
+   "year": "SS",
+   "gender": "male",
+   "cost": 65
+ },
+ {
+   "iname": "dizzy_gg",
+   "name": "Dizzy",
+   "rarity": "fes",
+   "atribute": "blue",
+   "type": "balance",
+   "star": 5,
+   "year": "SS",
+   "gender": "female",
+   "cost": 65
+ },
+ {
+   "iname": "ino_gg",
+   "name": "I-No",
+   "rarity": "fes",
+   "atribute": "green",
+   "type": "offensive",
+   "star": 5,
+   "year": "GG",
+   "gender": "female",
+   "cost": 65
+ },
+ {
+   "iname": "valentine_gg",
+   "name": "Ramlethal Valentine",
+   "rarity": "fes",
+   "atribute": "yellow",
+   "type": "defensive",
+   "star": 5,
+   "year": "GG",
+   "gender": "female",
+   "cost": 65
+ },
+ {
+   "iname": "baiken_gg",
+   "name": "Baiken",
+   "rarity": "fes",
+   "atribute": "purple",
+   "type": "offensive",
+   "star": 5,
+   "year": "SS",
+   "gender": "female",
+   "cost": 65
+ },
+ {
+   "iname": "may_gg",
+   "name": "May",
+   "rarity": "fes",
+   "atribute": "blue",
+   "type": "defensive",
+   "star": 5,
+   "year": "GG",
+   "gender": "female",
+   "cost": 65
+ }
  ]
  }
