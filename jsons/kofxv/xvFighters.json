@@ -1,0 +1,99 @@
+{
+	"fighters": [{
+			"iname": "shun_ei",
+			"name": "Shun'ei"
+		},
+		{
+			"iname": "benimaru_nikaido",
+			"name": "Benimaru"
+		},
+        {
+			"iname": "meitenkun",
+			"name": "Meitenkun"
+		},
+        {
+			"iname": "kyo_kusanagi",
+			"name": "Kyo"
+		},
+        {
+			"iname": "iori_yagami",
+			"name": "Iori"
+		},
+        {
+			"iname": "chizuru_kagura",
+			"name": "Chizuru"
+		},
+        {
+			"iname": "terry_bogard",
+			"name": "Terry"
+		},
+        {
+			"iname": "andy_bogard",
+			"name": "Andy"
+		},
+        {
+			"iname": "joe_hagashi",
+			"name": "Joe"
+		},
+        {
+			"iname": "yashiro_nanakase",
+			"name": "Yashiro"
+		},
+        {
+			"iname": "shermie",
+			"name": "Shermie"
+		},
+        {
+			"iname": "chris",
+			"name": "Chris"
+		},
+        {
+			"iname": "ryo_sakazaki",
+			"name": "Ryo"
+		},
+        {
+			"iname": "robert_garcia",
+            "name": "Robert"
+		},
+        {
+			"iname": "king",
+            "name": "King"
+		},
+        {
+			"iname": "leona_heidern",
+            "name": "Leona"
+		},
+        {
+			"iname": "ralf_jones",
+            "name": "Ralf"
+		},
+        {
+			"iname": "clark_still",
+            "name": "Clark"
+		},
+        {
+			"iname": "blue_mary",
+            "name": "Blue Mary"
+		},
+        {
+			"iname": "vanessa",
+            "name": "Vanessa"
+		},
+        {
+			"iname": "luong",
+            "name": "Luong"
+		},
+        {
+			"iname": "antonov",
+            "name": "Antonov"
+		},
+        {
+			"iname": "ramon",
+            "name": "Ramon"
+		},
+        {
+			"iname": "king_of_dinosaurs",
+            "name": "King of Dinosaurs"
+		}
+	]
+}
