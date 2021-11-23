@@ -94,6 +94,30 @@
         {
 			"iname": "king_of_dinosaurs",
             "name": "King of Dinosaurs"
+		},
+        {
+			"iname": "athena",
+            "name": "Athena Azamiya"
+		},
+        {
+			"iname": "mai",
+            "name": "Mai"
+		},
+        {
+			"iname": "yuri_sakazaki",
+            "name": "Mai"
+		},
+        {
+			"iname": "isla",
+            "name": "Isla"
+		},
+        {
+			"iname": "heidern",
+            "name": "Heidern"
+		},
+        {
+			"iname": "dolores",
+            "name": "Dolores"
 		}
 	]
 }

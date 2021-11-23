@@ -30,6 +30,21 @@
         ]
     },
     {
+        "team_id": "rival_team",
+        "team_name" : "Rival Team",
+        "fighters": [
+            {
+                "iname": "isla"
+            },
+            {
+                "iname": "heidern"
+            },
+            {
+                "iname": "dolores"
+            }
+        ]
+    },
+    {
         "team_id": "fatal_fury_team",
         "team_name" : "Fatal Fury Team",
         "fighters": [
@@ -71,6 +86,21 @@
             },
             {
                 "iname": "king"
+            }
+        ]
+    },
+    {
+        "team_id": "super_heroine_team",
+        "team_name" : "Super Heroine Team",
+        "fighters": [
+            {
+                "iname": "athena"
+            },
+            {
+                "iname": "mai"
+            },
+            {
+                "iname": "yuri_sakazaki"
             }
         ]
     },
