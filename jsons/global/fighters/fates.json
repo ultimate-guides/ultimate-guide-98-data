@@ -1939,6 +1939,23 @@
 			]
 		},
 		{
+			"fighter_id": "ROCK_HOWARD",
+			"fates": [
+				{
+					"bosses": "Rock Howard, Nightmare Geese, Terry 2003",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Rock Howard, Omega Rugal, Duo Lon",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Rock Howard, Benimaru, Andy, Shen Woo",
+					"attr": "HP + 25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "OROCHI_SHERMIE_02UM",
 			"fates": [
 				{

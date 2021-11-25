@@ -913,6 +913,14 @@
 			}
 		},
 		{
+			"fighter_id": "ROCK_HOWARD",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "GEESE",
+				"partner_3": "NIGHTMARE_GEESE"
+			}
+		},
+		{
 			"fighter_id": "OROCHI_SHERMIE_02UM",
 			"partners": {
 				"partner_1": null,
