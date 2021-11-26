@@ -1277,6 +1277,17 @@
 			}
 		},
 		{
+			"fighter_id": "OROCHI_SHERMIE_02_UM",
+			"weapon_awakened": {
+				"name": null,
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"description_zh": null,
+				"contributor": null
+			}
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"weapon_awakened": {
 				"name": null,

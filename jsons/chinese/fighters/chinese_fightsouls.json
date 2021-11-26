@@ -1072,6 +1072,15 @@
 			}
 		},
 		{
+			"fighter_id": "OROCHI_SHERMIE_02_UM",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"fightsoul": {
 				"name": "SNAKE",

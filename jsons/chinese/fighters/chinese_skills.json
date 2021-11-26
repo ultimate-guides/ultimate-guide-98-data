@@ -3834,6 +3834,39 @@
 			]
 		},
 		{
+			"fighter_id": "OROCHI_SHERMIE_02_UUM",
+			"skills": [
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UUM",
 			"skills": [
 				{
