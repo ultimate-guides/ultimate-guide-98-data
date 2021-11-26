@@ -1661,7 +1661,7 @@
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 1,
+			"status": 0,
 			"striker": 0
 		},
 		{
@@ -1674,7 +1674,7 @@
 			"gender_id": "FEMALE",
 			"tome_id": "KICK",
 			"badge_id": "GALE",
-			"status": 1,
+			"status": 0,
 			"striker": 0
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"gender_id": "FEMALE",
 			"tome_id": "SCORCHING",
 			"badge_id": "FIRE",
-			"status": 1,
+			"status": 0,
 			"striker": 0
 		},
 		{
@@ -1700,7 +1700,7 @@
 			"gender_id": "MALE",
 			"tome_id": "STREET",
 			"badge_id": "GALE",
-			"status": 1,
+			"status": 0,
 			"striker": 0
 		}
 	]
