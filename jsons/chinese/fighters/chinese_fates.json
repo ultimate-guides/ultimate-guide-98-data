@@ -2005,6 +2005,23 @@
 					"attr": "ATK + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"fates": [
+				{
+					"bosses": "",
+					"attr": ""
+				},
+				{
+					"bosses": "",
+					"attr": ""
+				},
+				{
+					"bosses": "",
+					"attr": ""
+				}
+			]
 		}
 	]
 }

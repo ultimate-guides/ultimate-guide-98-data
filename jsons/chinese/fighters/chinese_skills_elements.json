@@ -2005,6 +2005,23 @@
 				"water_pt": null,
 				"water_zh": ""
 			}
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"skills_elements": {
+				"lake": null,
+				"lake_es": null,
+				"lake_pt": null,
+				"lake_zh": "",
+				"thunder": null,
+				"thunder_es": null,
+				"thunder_pt": null,
+				"thunder_zh": "",
+				"water": null,
+				"water_es": null,
+				"water_pt": null,
+				"water_zh": ""
+			}
 		}
 	]
 }

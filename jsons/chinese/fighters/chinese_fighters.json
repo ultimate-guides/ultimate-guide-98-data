@@ -1613,6 +1613,19 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"fightsoul_id": "TURTLE",
+			"name": "O. Chris 02 UM",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "GALE",
+			"status": 1,
+			"striker": 0
+		},
+		{
 			"fighter_id": "GORO_02UM",
 			"fightsoul_id": "SNAKE",
 			"name": "Goro Daimon",
