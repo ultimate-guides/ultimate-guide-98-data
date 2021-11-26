@@ -1626,6 +1626,19 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"fightsoul_id": "SNAKE",
+			"name": "O. Yashiro 02 UM",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "GALE",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "GORO_02UM",
 			"fightsoul_id": "SNAKE",
 			"name": "Goro Daimon",

@@ -2022,6 +2022,23 @@
 					"attr": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"fates": [
+				{
+					"bosses": "",
+					"attr": ""
+				},
+				{
+					"bosses": "",
+					"attr": ""
+				},
+				{
+					"bosses": "",
+					"attr": ""
+				}
+			]
 		}
 	]
 }
