@@ -1,72 +1,84 @@
 {
 	"awakened_fightsouls": [
 		{
+			"iname": "UNYIELDING",
 			"name": "Unyielding",
 			"description": "Equipped fighter will become more brave, never give in, the longer they survive, the higher the Res Rate, the lower the HP, the higher the DMG, can even recover HP and dispel debuff.",
 			"description_es": "El luchador equipado se volverá más valiente, nunca se rendirá, cuanto más sobreviva, mayor será el Res Rate, menor sea HP, mayor será el DMG, incluso puede recuperar HP y disipar el debuff.",
 			"description_pt": "O lutador equipado será mais corajoso, nunca desistirá, quanto mais sobreviver, maior a taxa de Res, quanto menor o HP, maior o DMG, pode inclusive recuperar o HP e dissipar debuffs."
 		},
 		{
+			"iname": "GODDESS",
 			"name": "Goddess",
 			"description": "All the soul effects of the goddess can only be equipped and take effect on female fighters, can reduce enemy male fighters DEF and Res Rate, increase DEF and DMG of ally female fighters.",
 			"description_es": "Todos los efectos del alma de la diosa solo pueden equiparse y surtir efecto en las luchadoras (feminas), pueden reducir la DEF y el Res Rate de los luchadores masculinos enemigos, aumenta la DEF y el DMG de las luchadoras aliadas.",
 			"description_pt": "Todos os efeitos da alma de Deusa só pode equipar e ter efeito nas lutadores femininas, pode reduzir a DEF e taxa de Res dos lutadores masculinos, aumenta DEF e DMG das aliadas femininas."
 		},
 		{
+			"iname": "GUARDIAN",
 			"name": "Guardian",
 			"description": "Equipped fighter can control the DMG it receives within a certain range, and can also immunize against all control effects, greatly enhancing the survivability of the wearer",
 			"description_es": "El luchador equipado puede controlar el DMG que recibe dentro de un cierto rango, y también puede inmunizar contra todos los efectos de control, mejorando en gran medida la capacidad de supervivencia del portador.",
 			"description_pt": "O lutador equipado pode controlar o DMG recebido dentro de um determinado intervalo, e pode também imunizar contra todos os efeitos, aumentando consideravelmente a sobrevivência do usuário."
 		},
 		{
+			"iname": "WAR_GOD",
 			"name": "War God",
 			"description": "Equipped fighter is like a war god. Odd rounds will release a powerful god of war aura. making the enemy's mind tremble, After the third round, they will gain the effect of the god of war and greatly enhance the fighter's own combat power.",
 			"description_es": "El peleador equipado es como un dios de la guerra. Las rondas impares liberarán un poderoso aura de dios de la guerra. haciendo temblar la mente del enemigo, después de la tercera ronda, obtendrán el efecto del dios de la guerra y mejorarán en gran medida el poder de combate del luchador.",
 			"description_pt": "O lutador equipado é como um Deus da Guerra. Rounds ímpares irão liberar uma poderosa aura de Deus da Guerra, fazendo a mente do inimigo tremer. Após o terceiro round, ele irá ganhar o efeito do Deus da Guerra e aumentará muito o próprio poder de combate do lutador."
 		},
 		{
+			"iname": "VEANGEANCE",
 			"name": "Vengeance",
 			"description": "Equipped fighter will feel huge resentment, which will be released after the fighter death, causing debuff to enemies.",
 			"description_es": "El luchador equipado sentirá un gran resentimiento, que se liberará después de la muerte del luchador, causando debuffs a los enemigos.",
 			"description_pt": "O lutador equipado irá sentir um enorme ressentimento, que será lançado após a morte do lutador, causando debuff nos inimigos."
 		},
 		{
+			"iname": "STORM",
 			"name": "Storm",
 			"description": "Storm FightSoul could greatly increase wearer's small skill rate and MG, and chance to refresh ULT, enabling multiple releases of ULT during one round. Increase 20% small skill rate and 25% small skill DMG.",
 			"description_es": "Storm FightSoul podría aumentar en gran medida la tasa de small skill y la DMG del usuario, y la posibilidad de actualizar ULT, lo que permite múltiples lanzamientos de ULT durante una ronda. Aumenta un 20% la tasa de small skill y un 25% el DMG de la small skill.",
 			"description_pt": ""
 		},
 		{
+			"iname": "WOLF",
 			"name": "Wolf FightSoul",
 			"description": "Devouring Everything, Dual FightSoul Symbiosis: When Wolf FightSoul and Lamb FightSoul Wolf FightSoul • exist at the same time when the battle starts, \"Soul Barrier\" will be applied to all of the allies, and the effect will be activated when the fighter's HP is below 80%. The damage received will not exceed 30% of MAX HP for 1 Wolf FightSoul round. The higher the star of the Lamb FightSoul, the lower the Fighter Buff damage received (the effect can only be activated once per battle).",
 			"description_es": "Devorando todo, Dual FightSoul Symbiosis: cuando Wolf FightSoul y Lamb FightSoul Wolf FightSoul • existen al mismo tiempo cuando comienza la batalla, se aplicará \"Soul Barrier \" a todos los aliados, y el efecto se activará cuando el luchador con el HP está por debajo del 80%. El daño recibido no superará el 30% de los HP MÁXIMOS por 1 ronda de Wolf FightSoul. Cuanto más alta sea la estrella de Lamb FightSoul, menor será el daño de Fighter Buff recibido (el efecto solo se puede activar una vez por batalla).",
 			"description_pt": ""
 		},
 		{
+			"iname": "LAMB",
 			"name": "Lamb FightSoul",
 			"description": "Power of Awakening, Dual FightSoul Symbiosis: If Wolf FightSoul and Lamb FightSoul exist at the same time when the battle starts, \"Wind of Recovery\" will be applied to all of the allies: 30% of small skill damage will be converted to HP, and it will be restored to the small skill user. The higher the star of the Wolf FightSoul, the more HP will be converted.",
 			"description_es": "Power of Awakening, Dual FightSoul Symbiosis: Si Wolf FightSoul y Lamb FightSoul existen al mismo tiempo cuando comienza la batalla, se aplicará \"Wind of Recovery \" a todos los aliados: el 30% del daño de habilidad pequeño se convertirá en HP,, y se restaurará al usuario la small skill. Cuanto más alta sea la estrella del Wolf FightSoul, más HP se convertirá.",
 			"description_pt": ""
 		},
 		{
+			"iname": "BLOOD_THORNS",
 			"name": "Blood Thorns",
 			"description": "It could only be worn by DPS and GANK fighters. The wearer could absorb DMG Reflect from allies and each attack will have Bleeding effect which could steal enemy's HP.",
 			"description_es": "Solo pueden usarlo los luchadores DPS y GANK. El usuario podría absorber DMG Reflect de los aliados y cada ataque tendrá un efecto de sangrado que podría robar el HP del enemigo.",
 			"description_pt": ""
 		},
 		{
+			"iname": "LICH",
 			"name": "Lich",
 			"description": "The Lich Soul can add a lot of debuff to the enemy. Odd round will cast control on an enemy fighter, dispel the enemy's buff, and reduce the enemy's crit and block rate.",
 			"description_es": "El Lich Soul puede agregar muchas debuff al enemigo. La ronda impar ejercerá el control sobre un luchador enemigo, disipará el beneficio del enemigo y reducirá la tasa de críticos y bloqueos del enemigo.",
 			"description_pt": ""
 		},
 		{
+			"iname": "DEVIL",
 			"name": "Devil",
 			"description": "The Devil FightSoul can release two devils on enemies and add debuff on them continually.",
 			"description_es": "El Devil FightSoul puede liberar dos demonios sobre los enemigos y agregarles debuff continuamente.",
 			"description_pt": ""
 		},
 		{
+			"iname": "KUSANAGI_FLAME",
 			"name": "Kusanagi Flame",
 			"description": "The additional effect of the FightSoul will be activated when it's equipped by the Flame Kusanagi Flame fighters that don't belong to Kusanagi clan. Flame Shield Fighter Buff effect will be added to the equipper, Soul Burning effect will be added to ULT and small skills of the equipper, and Crit and Crit Power of the equipper will be increased.",
 			"description_es": "El efecto adicional de FightSoul se activará cuando esté equipado por los Flame Kusanagi, combatientes que no pertenecen al clan Kusanagi. El efecto Flame Shield Fighter Buff se agregará al equipo, el efecto Soul Burning se agregará al ULT y las small skill del equipo, y se incrementará el Crit y el poder crítico del equipo.",
