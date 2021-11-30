@@ -3801,7 +3801,7 @@
 			]
 		},
 		{
-			"fighter_id": "OROCHI_CHRIS_02_UUM",
+			"fighter_id": "OROCHI_CHRIS_02_UM",
 			"skills": [
 				{
 					"name": null,
@@ -3834,7 +3834,7 @@
 			]
 		},
 		{
-			"fighter_id": "OROCHI_SHERMIE_02_UUM",
+			"fighter_id": "OROCHI_SHERMIE_02_UM",
 			"skills": [
 				{
 					"name": null,
@@ -3867,7 +3867,7 @@
 			]
 		},
 		{
-			"fighter_id": "OROCHI_YASHIRO_02_UUM",
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"skills": [
 				{
 					"name": null,
