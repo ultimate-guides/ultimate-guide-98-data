@@ -1,0 +1,72 @@
+{
+	"info": [{
+        "iname": "UNYIELDING",
+        "name": "Unyielding",
+        "stars": [{
+            "lvl": 1,
+            "description": "",
+            "description_es": "",
+            "description_pt": "",
+            "blood": 100,
+            "awakening_gem": 0,
+            "book": 1,
+            "atk": 3000,
+            "def": 1200,
+            "hp": 24000,
+            "gold": 500000
+        },
+        {
+            "lvl": 2,
+            "description": "",
+            "description_es": "",
+            "description_pt": "",
+            "blood": 300,
+            "awakening_gem": 0,
+            "book": 1,
+            "atk": 6000,
+            "def": 2400,
+            "hp": 48000,
+            "gold": 10000000
+        },
+        {
+            "lvl": 3,
+            "description": "",
+            "description_es": "",
+            "description_pt": "",
+            "blood": 400,
+            "awakening_gem": 0,
+            "book": 2,
+            "atk": 9000,
+            "def": 3600,
+            "hp": 72000,
+            "gold": 20000000
+        },
+        {
+            "lvl": 4,
+            "description": "",
+            "description_es": "",
+            "description_pt": "",
+            "blood": 400,
+            "awakening_gem": 0,
+            "book": 2,
+            "atk": 3000,
+            "def": 1200,
+            "hp": 24000,
+            "gold": 500000
+        },{
+            "lvl": 5,
+            "description": "",
+            "description_es": "",
+            "description_pt": "",
+            "blood": 600,
+            "awakening_gem": 0,
+            "book": 3,
+            "atk": 3000,
+            "def": 1200,
+            "hp": 24000,
+            "gold": 500000
+        }
+    ]
+    }        
+    ]
+}
