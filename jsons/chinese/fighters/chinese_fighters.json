@@ -1702,6 +1702,19 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "BLUE_MARY_XIV",
+			"fightsoul_id": "SNEAK",
+			"name": "Blue Mary XIV",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "FEMALE",
+			"tome_id": "JUDO",
+			"badge_id": "BEAUTY",
+			"status": 0,
+			"striker": 0
 		}
 	]
 }

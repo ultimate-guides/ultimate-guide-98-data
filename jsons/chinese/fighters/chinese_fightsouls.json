@@ -1088,6 +1088,15 @@
 				"description_es": null,
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "BLUE_MARY_XIV",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": null,
+				"description_es": null,
+				"description_pt": null
+			}
 		}
 	]
 }

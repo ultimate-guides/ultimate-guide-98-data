@@ -2056,6 +2056,23 @@
 					"attr": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "BLUE_MARY_XIV",
+			"fates": [
+				{
+					"bosses": "",
+					"attr": ""
+				},
+				{
+					"bosses": "",
+					"attr": ""
+				},
+				{
+					"bosses": "",
+					"attr": ""
+				}
+			]
 		}
 	]
 }

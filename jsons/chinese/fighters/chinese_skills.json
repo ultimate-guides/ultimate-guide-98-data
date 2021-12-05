@@ -3867,6 +3867,39 @@
 			]
 		},
 		{
+			"fighter_id": "BLUE_MARY_XIV",
+			"skills": [
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null,
+					"description_zh": ""
+				}
+			]
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"skills": [
 				{
