@@ -1,0 +1,13 @@
+{
+	"chinese_fightsouls": [
+		{
+			"fighter_id": "HONAKO",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "When attacked, will restore Rage. When attacking will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		}
+    ]
+}

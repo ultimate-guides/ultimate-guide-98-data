@@ -1,0 +1,33 @@
+{
+	"skills": [
+		{
+			"fighter_id": "HONAKO",
+			"skills": [
+				{
+					"name": "BOOM",
+                    "description": "Attacks a target (prioritizes enemies marked \"enemy\"), drains 150 of the target's fury, has a 50% chance to stun. If you hit a target marked \"Enemy\", reduce his fury by 150, dealing 40% more damage with \"Mystic Force\" to all enemies marked \"Enemy\". Restores HP equal to 250% of own ATK and 200 Fury.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "BREAK BLOW",
+					"description": "Attacks a horizontal line (priority has not been marked \"enemy\"). Increases self damage by 20%, damage resistance, and penetration rate by 50% for 2 turns. Reduces target's healing rate by 25% (doubles on primary target), deals bonus damage equal to 70% of \"Mystic Force\" (doubles on primary target).  Mark \"Enemy\" on the target (ignore immunity, 2 turns, reduce target's unique damage resistance by 30%, if the enemy marked \"enemy\" is defeated, in 1 next hit will increase self's super damage by 10%, does not stack). Absorb 30% of the control rate of the enemy with the highest control rate (2 turns, ignore the immunity, can't be disarmed, when entering the battle, each enemy Engineer will increase by 8%) ). Depending on the target's system, it deals the following additional effects (ignoring immunity): Strike: reduces the main target's ultimate attack damage by 15% for 2 turns Defense: ignores the target's counterattack, reduces 70 % of main target's block rate for 2 turns Attribute: ignores 20% of main target's super damage resistance, reduces unique skill damage by 30% for 2 turns",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "QUICK RUNNER",
+					"description": "Increases self attack damage (20% at level 1). Increases ATK, Defense, Super Skill Damage Resistance, Unique Skill Damage Resistance, Critical Rate Rate by 35%. Increase self damage and damage resistance by 10% (each DOA6 ally excluding yourself will increase yourself by 4%, up to 8%). Increases block penetration by 50% of own control ratio (immediate update). If you are effectively buffed \"Ambush\" (from your Nyotengu or your SMAX) will increase your critical chance by 35%. Converts all 12% of the enemy's ultimate attack damage into \"Mystical Force\" (up to 600% of own ATK, resets at the beginning of enemy turn). Each time being attacked, will restore 20% of the lost HP (if you stand right behind Marie Rose, increase to 25%, up to 4 times each turn), depending on the attacker's system, additional buff effects The following results (can stack up to 2 tiers): Strike: increase 15% Defense damage : increase 15% damage resistanc Skill Attributes: increase 10% ATK, 20% Defense When taking fatal damage will not die , remove bad status including petrification, hide until the beginning of our side's next turn, recover 80% HP, 500 fury, for 1 turn negated with fury reduction effect, permanently increasing 8% super damage resistance. Each match activates up to 3 times, if it is 1vs1, only activates 1 time.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		}
+    ]
+}

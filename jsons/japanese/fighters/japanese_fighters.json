@@ -2,17 +2,17 @@
 	"fighters": [
 		{
 			"fighter_id": "HONOKA",
-			"fightsoul_id": "TIGER",
+			"fightsoul_id": "TURTLE",
 			"name": "Honoka",
 			"chinese_name": "草薙京",
-			"api": 13,
+			"japanise_name": "ほ の か",
+			"api": 15,
 			"type_id": "DPS",
-			"gender_id": "MALE",
-			"tome_id": "SCORCHING",
-			"badge_id": "FLAME",
+			"gender_id": "FEMALE",
+			"tome_id": "THAI",
+			"badge_id": "BEAUTY",
 			"status": 0,
-			"striker": 1
+			"striker": 0
 		}
     ]
 }
-    

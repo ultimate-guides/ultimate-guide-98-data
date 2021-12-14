@@ -1,0 +1,14 @@
+{
+	"weapons": [
+		{
+			"fighter_id": "HONAKO",
+			"weapon_awakened": {
+				"name": "Honoka hair band",
+				"description": "Attacks in a horizontal row (priority is given to enemies that have not been marked as \"enemy\"). Increases self damage by <font color='#FFA726'>30%</font> , damage resistance, and penetration rate by <font color='#FFA726'>60%</font> for 2 turns. Reduces target's healing rate by <font color='#FFA726'>30%</font> (doubles on primary target), deals bonus damage equal to <font color='#FFA726'>80%</font> of \"Mystic Force\" (doubles on primary target).  Mark \"Enemy\" on the target (skip immunity, 2 turns, reduce target's unique damage resistance by <font color='#FFA726'>35%</font> , if the enemy marked \"enemy\" is defeated, in 1 next hit. will increase self's super damage by <font color='#FFA726'>15%</font> , does not stack). Suction <font color='#FFA726'>35%</font> the control rate of the enemy with the highest control rate (2 turns, ignores the immunity, cannot be disarmed, each opponent of the enemy's Engineering type will increase by <font color='#FFA726'>12%</font> when entering the battle ). <font color='#FFA726'>This turn will definitely cast a unique move. If this attack can't cause the enemy to lose more than 40% HP, will immediately restore MAX fury (maximum 1 time per turn). If there are 4 or more enemies marked \"enemy\", will buff their own shields (shield durability is equal to 10% of \"Mystic Force\" x number of people marked, 2 CDs)</font> Depends on the target's system which deals the following effects (ignore immunity): Smash: <font color='#FFA726'>absorb 20%</font> of the primary target's ultimate attack damage  and crit chance for 2 turns Defense: ignores target's counterattacks, reducing them by <font color='#FFA726'>90%</font> primary target's block rate and <font color='#FFA726'>20% damage resistance</font> for 2 turns Attribute: ignores <font color='#FFA726'>25%</font> super resistance of main target's damage, <font color='#FFA726'>absorbs</font> 30% of unique ability damage, <font color='#FFA726'>and 60% chance to be immune</font> for 2 turns",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		}
+    ]
+}

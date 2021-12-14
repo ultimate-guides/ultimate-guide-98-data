@@ -1,0 +1,22 @@
+{
+	"fates": [
+		{
+			"fighter_id": "HONOKA",
+			"fates": [
+				{
+					"bosses": "Honako, Nyotengu, Marie Rose",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Honako, Mai XIV, Angel XIV",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Honako, Geese XIV, Omega Rugal",
+					"attr": "ATK +25%"
+				}
+			]
+		}
+    ]
+}
+    

@@ -1,0 +1,12 @@
+{
+	"partners": [
+		{
+			"fighter_id": "HONAKO",
+			"partners": {
+				"partner_1": "IGNIZ",
+				"partner_2": "KULA",
+				"partner_3": "KYO_NESTS"
+			}
+		}
+    ]
+}
