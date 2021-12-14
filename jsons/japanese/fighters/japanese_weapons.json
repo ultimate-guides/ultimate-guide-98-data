@@ -1,5 +1,15 @@
 {
 	"weapons": [
+        {
+			"fighter_id": "NYOTENGU",
+			"weapon_awakened": {
+				"name": "Honoka hair band",
+				"description": "Consume <font color='#FFA726'>20%</font> of your remaining HP, attacking in a horizontal row. Increases crit rate by <font color='#FFA726'>15~45%</font> , crit resistance, super crit resistance (2 turns, the lower the HP, the higher the stats, <font color='#FFA726'>maximum when the self HP is 30% or less</font> ). Restores <font color='#FFA726'>15%</font> of your maximum HP to all of our team DOA6 (excluding yourself). <font color='#FFA726'>Increases critical damage to all of our DOA6 Team (excluding yourself), increased by 0.4 x % of lost HP (2 turns, cannot be reversed)</font>. Increases the rage speed of all our factions by <font color='#FFA726'>8%</font> , if it's Team DOA6, it's increased by 4% (2 turns, can be stacked with the same buff).<font color='#FFA726'>If own HP is below 60%, will buff the effect of \"Ambush\" to 1 random ally (2 turns, increase damage by 20% and attack damage, priority is given to Teammates DOA6 excluding self, priority first for teammates who don't have the buff \"Ambush\")</font>. If your own HP is below 40%, deal extra damage equal to <font color='#FFA726'>15%</font> of your maximum HP to the primary target. <font color='#FFA726'>If your own HP is below 30%, remove the main target's beneficial buff</font>. If own HP is below 20%, recover <font color='#FFA726'>20%</font> of max HP, <font color='#FFA726'>heal 200 fury for 1 random ally (priority for those who have not MAX fury, priority for Team DOA6, if it is Team DOA6, restore 300 fury).</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
 		{
 			"fighter_id": "HONOKA",
 			"weapon_awakened": {

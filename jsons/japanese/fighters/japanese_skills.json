@@ -1,5 +1,34 @@
 {
 	"skills": [
+        {
+			"fighter_id": "NYOTENGU",
+			"skills": [
+				{
+					"name": "ORIGINAL EVIL",
+                    "description": "Consumes 10% of your remaining HP, attacking a single target. Increases our team's DOA6's block rate, with an increase of 0.5% x % of HP lost (1 turn, cannot be reversed, can be stacked with the same buff). Reduces primary target's fury by 100 (if own HP is below 40%, additional 100 fury reduction). If own HP is below 25%, reduce main target's Rage Speed ​​by 20% (1 turn, ignore immunity, cannot be negated).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "SOUL SURVIVAL",
+					"description": "Consumes 10% of own remaining HP, attacking in a horizontal row. Increases crit rate by 10~40%, crit resistance, super crit resistance (2 turns, the lower the HP, the higher the stats). Restores 10% of your maximum HP to all of our DOA6 Team (excluding yourself). Increases the rage speed of all our factions by 5%, if it's Team DOA6, it's increased by 3% (2 turns, can be stacked with the same buff). If own HP is below 40%, deal additional damage equal to 10% of maximum HP to primary target. If own HP is below 20%, recover 10% of max HP.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "HOUSE OF THE FAMILY",
+					"description": "Increases self's damage resistance when entering battle (30% at lvl 1). Increases self by 30% ATK, Defense, 40% of block rate, 10~60% of ultimate damage resistance (the lower the remaining HP, the higher the stats, the update immediately). Each time you are attacked, you will gain 1 level of \"Dancing Wings\" effect (maximum 5 levels, cannot be neutralized). While possessing \"Dancing Wings\", each tier will increase your defense by 10%, and your unique ability's damage resistance by 5%. When \"Dancing Wings\" reaches max tier, it will hide into the wind (up to 3 times during battle) and reappear on our side's next turn, recovering 50% of its maximum HP (if its HP is at 50% or higher). increased, will not restore HP.) When hidden, will increase the damage done by our team's DOA6 by 10% (excluding yourself, can be stacked with the same buff.) At the beginning of our side's turn, spend all \"Dancing Wings\" tiers, every 1 level will help you recover 80 fury, if you spend 5 steps, you will recover MAX fury, if you have MAX fury, you will buff attack instead equal to the number of tiers x6% for all our team DOA6 (1 turn, can be stacked with the same buff). Every time an enemy attacks, there will be a 20~50% chance to activate the ability to limit the damage taken to not exceed 1% of your maximum HP (the less HP left, the higher the probability of activation) .  When receiving fatal damage, will not die, remove bad status including petrification, recover 50% of maximum HP. Self nullified with healing rate reduction effect. Activate up to 1 time.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
 		{
 			"fighter_id": "HONOKA",
 			"skills": [

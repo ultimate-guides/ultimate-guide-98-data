@@ -1,6 +1,20 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "NYOTENGU",
+			"fightsoul_id": "BEAR",
+			"name": "Nyotengu",
+			"chinese_name": "女 天狗",
+			"japanise_name": "ほ の か",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "FEMALE",
+			"tome_id": "MANA",
+			"badge_id": "GALE",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "HONOKA",
 			"fightsoul_id": "TURTLE",
 			"name": "Honoka",

@@ -1,5 +1,14 @@
 {
-	"fightsouls": [
+	"fightsouls": [		
+		{
+			"fighter_id": "NYOTENGU",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "When entering the battle, it will recover a large amount of Rage. When attacked, will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
 		{
 			"fighter_id": "HONOKA",
 			"fightsoul": {

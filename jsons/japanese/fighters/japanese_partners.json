@@ -1,7 +1,15 @@
 {
 	"partners": [
+        {
+			"fighter_id": "NYOTENGU",
+			"partners": {
+				"partner_1": "IGNIZ",
+				"partner_2": "MIZUCHI",
+				"partner_3": "SHERMIE"
+			}
+		},
 		{
-			"fighter_id": "HONOKA",
+			"fighter_id": "HONAKO",
 			"partners": {
 				"partner_1": "IGNIZ",
 				"partner_2": "KULA",

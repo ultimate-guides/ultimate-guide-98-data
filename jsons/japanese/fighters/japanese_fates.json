@@ -1,5 +1,22 @@
 {
 	"fates": [
+        {
+			"fighter_id": "NYOTENGU",
+			"fates": [
+				{
+					"bosses": "Nyotengu, Marie Rose, Honoka",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Nyotengu, Goenitz 02 um, Goeniko",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Nyotengu, Orochi Shermie, Orochi Shermie 02 um",
+					"attr": "HP +25%"
+				}
+			]
+		},
 		{
 			"fighter_id": "HONOKA",
 			"fates": [
