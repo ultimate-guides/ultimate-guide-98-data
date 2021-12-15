@@ -1,6 +1,14 @@
 {
 	"partners": [
         {
+			"fighter_id": "MARIE_ROSE",
+			"partners": {
+				"partner_1": "TERRY",
+				"partner_2": "ANDY",
+				"partner_3": "CRAZY_IORI"
+			}
+		},
+		{
 			"fighter_id": "NYOTENGU",
 			"partners": {
 				"partner_1": "IGNIZ",

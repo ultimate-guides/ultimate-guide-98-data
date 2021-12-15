@@ -1,11 +1,25 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "MARIE_ROSE",
+			"fightsoul_id": "TIGER",
+			"name": "Nyotengu",
+			"chinese_name": "女 天狗",
+			"japanese_name": "・ローズ",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "FEMALE",
+			"tome_id": "JUDO",
+			"badge_id": "EARTH",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "NYOTENGU",
 			"fightsoul_id": "BEAR",
 			"name": "Nyotengu",
 			"chinese_name": "女 天狗",
-			"japanise_name": "ほ の か",
+			"japanese_name": "ほ の か",
 			"api": 15,
 			"type_id": "GANK",
 			"gender_id": "FEMALE",
@@ -19,7 +33,7 @@
 			"fightsoul_id": "TURTLE",
 			"name": "Honoka",
 			"chinese_name": "草薙京",
-			"japanise_name": "ほ の か",
+			"japanese_name": "ほ の か",
 			"api": 15,
 			"type_id": "DPS",
 			"gender_id": "FEMALE",

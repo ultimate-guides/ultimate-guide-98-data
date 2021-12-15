@@ -1,5 +1,22 @@
 {
 	"fates": [
+		{
+			"fighter_id": "MARIE_ROSE",
+			"fates": [
+				{
+					"bosses": "Marie Rose, Nyotengu, Honoka",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Marie Rose, Salary, Geese XIV",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Marie Rose, Bao, Momoko, Choi",
+					"attr": "HP +25%"
+				}
+			]
+		},
         {
 			"fighter_id": "NYOTENGU",
 			"fates": [

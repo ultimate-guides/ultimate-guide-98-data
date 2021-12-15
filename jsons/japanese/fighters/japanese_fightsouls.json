@@ -1,6 +1,15 @@
 {
 	"fightsouls": [		
 		{
+			"fighter_id": "MARIE_ROSE",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "When our side or the enemy side dies, it will rage. When attacking will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "NYOTENGU",
 			"fightsoul": {
 				"name": "BEAR",

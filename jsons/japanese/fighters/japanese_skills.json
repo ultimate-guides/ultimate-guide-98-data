@@ -1,5 +1,34 @@
 {
 	"skills": [
+		{
+			"fighter_id": "MARIE_ROSE",
+			"skills": [
+				{
+					"name": "MILLION EXPLOSION",
+                    "description": "Attacks 1 target, grants 10% block rate to all allies (15% if it's Team DOA6), drains 12% of the main target's max HP and 20% of the main target's Rage Rate (2 turns) ). For 1 turn, when attacking normally, there is a 30% chance to inflict \"Relief\" on the target.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "PURE VIOLET",
+					"description": "Attacks one target, gaining 20% ATK, DEF , 30% Crit Resist, and self paring chance (2 turns). Each ally on Team DOA6 excluding yourself, will increase your ultimate attack damage by 20% (up to 40%). Deals extra damage equal to 20% of your maximum HP to the target.  When entering the battle, if our side and the enemy side have 2 or more people, it will reduce 300 fury, reduce 35~60% of the main target's ATK and damage (1 turn, ignore immunity, cannot be reversed, The smaller the number of enemies, the higher the stats). Reduces all enemies' PERFECT casting probability by 30% (1 turn). Buff the ability to cast a unique move to 1 ally who has no unique ability this turn. Restores 100 fury to 1 random female teammate (Fight-type preferred). For 2 turns, self nullifies with paralysis and chains.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "ROSE DRESS",
+					"description": "Increases self's ultimate damage resistance and unique damage resistance (20% at lvl 1). Increases damage and damage resistance by 35%. Increases ATK and Defense by 25% (each DOA6 ally excluding yourself will increase yourself by 8%, up to 16%).  Reduces the healing rate of all enemies by 15% (if the enemy side has 2 or more fighters from the healing group, it will be reduced to 40%). The first turn when entering the battle will definitely have a unique ability, if you are in the front row, the first turn will increase 30% of excellent damage resistance and super damage resistance. At the beginning of each turn of the enemy, will gain 1 time of blood resistance, and at the same time acquire 3 levels of \"Rose Mark\" effect (when attacked with a special skill during the enemy's turn, will consume 1 level, each time. target will increase 20% super crit resistance and block, 1 turn, cannot be negated, can be stacked, and counterattack with basic attacks). While on the body with \"Rose Mark\", each time being attacked, the maximum damage that you take will not exceed 70% of your maximum HP. Normal attacks will not cause enemy fury, permanently increasing 15% unique ability (stacks up to 45%). When counterattacking with basic attack, activates the effect \"Blessed Rose\" (reduces target's fury by 100, restores 30% of missing HP, own healing unaffected by healing rate reduction effect) ).  At the beginning of each turn, if you still have \"Rose Mark\" on you, will absorb all \"Rose Marks\", recover 200 fury, increase immunity by 40% + 10% x number of tiers. “Rose sign” smoked (1 turn). When receiving fatal damage, will not die (each battle activates up to 2 times, if it is 1vs1, only activates once), removes bad status including petrification, recovers 50% of maximum HP and 300 fury, buffs shield equal to 50% of your maximum HP, can counterattack 1 time with a unique move on the attacker (doesn't lose \"Rose Mark\", activates \"Blessing Rose\" effect, and reduces 25 % of target's damage and damage resistance (1 turn, ignores immunity, cannot be negated), reduces fury by 200, deals additional damage equal to 28% of maximum HP to target, does not heal enemies. ",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
         {
 			"fighter_id": "NYOTENGU",
 			"skills": [

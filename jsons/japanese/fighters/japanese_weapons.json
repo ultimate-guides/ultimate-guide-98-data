@@ -1,5 +1,15 @@
 {
 	"weapons": [
+		{
+			"fighter_id": "MARIE_ROSE",
+			"weapon_awakened": {
+				"name": "Bow Marie",
+				"description": "Attacks one target, gaining <font color='#FFA726'>30%</font> ATK, DEF, <font color='#FFA726'>40%</font> Crit Resist , and Self's parry rate (2 turns). Each ally on Team DOA6, excluding yourself, will increase your ultimate attack damage by <font color='#FFA726'>30%</font> (up to <font color='#FFA726'>60%</font> ). <font color='#FFA726'>This attack ignores counterattacks</font>, dealing extra damage equal to <font color='#FFA726'>30%</font> of the target's maximum HP.  When entering the battle, if our side and the enemy side have 2 or more people, will reduce rage by <font color='#FFA726'>500</font> , reduce from <font color='#FFA726'>40~75%</font> of main target's ATK and DAMAGE (1 turn, ignore immunity, cannot be reversed, The smaller the number of enemies, the higher the stats). Reduced <font color='#FFA726'>40%</font> probability of launching PERFECT of all enemies (1 turn, <font color='#FFA726'>ignoring immunity</font> ). Buff the ability to cast a unique move to 1 ally who has no unique ability this turn. Restores <font color='#FFA726'>200 Rage</font> to 1 random female teammate (Fight-type preferred). <font color='#FFA726'>At the beginning of the enemy's next turn, restore 30% of your maximum HP to yourself and one ally for at least</font>. For 2 turns, self nullifies with paralysis and chains. <font color='#FFA726'>For 1 turn, when counterattacking with basic attacks, deals additional damage equal to 20% of max HP (does not heal enemies).</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
         {
 			"fighter_id": "NYOTENGU",
 			"weapon_awakened": {
