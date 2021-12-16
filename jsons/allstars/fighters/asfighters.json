@@ -100,7 +100,7 @@
        "cost":"63"
     },
     {
-       "iname":"zerooriginal_tf",
+       "iname":"zero_tf",
        "name":"Lady Zero (Clone)",
        "rarity":"fes",
        "atribute":"red",
@@ -507,7 +507,7 @@
        "cost":"63"
     },
     {
-       "iname":"zero_tf",
+       "iname":"zerooriginal_tf",
        "name":"Lady Zero (Original)",
        "rarity":"fes",
        "atribute":"yellow",
@@ -3704,6 +3704,17 @@
    "type": "defensive",
    "star": 5,
    "year": "GG",
+   "gender": "female",
+   "cost": 65
+ },
+ {
+   "iname": "chizuru_ss",
+   "name": "Special Signature Chizuru",
+   "rarity": "fes",
+   "atribute": "red",
+   "type": "defensive",
+   "star": 5,
+   "year": "SS",
    "gender": "female",
    "cost": 65
  }
