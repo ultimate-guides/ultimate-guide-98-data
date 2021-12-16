@@ -1015,6 +1015,38 @@
 				"partner_2": null,
 				"partner_3": null
 			}
+		},
+		{
+			"fighter_id": "ROBERT_XIV",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "MAI_XIV",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "ANGEL_XIV",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
+			"fighter_id": "GORO_02UM",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
 		}
 	]
 }
