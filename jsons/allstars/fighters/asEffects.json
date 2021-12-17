@@ -1,23 +1,1198 @@
 {
-    "items": [
-        {
-            "iname":"kyo_13",
-            "effects": [
-                {
-                    "name": "burn"
-                },
-                {
-                    "name": "frezze"
-                }
-            ]
-        },
-        {
-            "iname":"sol_bad_guy",
-            "effects": [
-                {
-                    "name": "burn"
-                }
-            ]
-        }
-    ]
+	"items": [
+		{
+			"iname": "adelheid_03",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "alice_hw",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "ash_03",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "athena_ss",
+			"effects": [
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "baiken_ggx",
+			"effects": [
+				{
+					"name": "bleed"
+				},
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "ban_sds",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "chang_tf",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "chris_hw",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "dellons_sk",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "dizzy_ggx",
+			"effects": [
+				{
+					"name": "chill"
+				},
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "eileene_sk",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "elisabeth_11",
+			"effects": [
+				{
+					"name": "shock"
+				},
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "elisabeth_xm",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "elizabeth",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "geese_bs",
+			"effects": [
+				{
+					"name": "shock"
+				},
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "geese_14",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "geese_tf",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "gintoki_cos",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "goenitz_96",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "goenitz_bs",
+			"effects": [
+				{
+					"name": "bleed"
+				},
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "goro_xm",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "harlequin_sds",
+			"effects": [
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "hinako_00",
+			"effects": [
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "honoka_doa6",
+			"effects": [
+				{
+					"name": "burn"
+				},
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "honoka_ss",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "hotaru_11",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "igniz_01",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "igniz_bs",
+			"effects": [
+				{
+					"name": "shock"
+				},
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "igniz_sp",
+			"effects": [
+				{
+					"name": "darkness"
+				},
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "ino_ggx",
+			"effects": [
+				{
+					"name": "poison"
+				},
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "iori_13",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "iori_ss",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "jenet_xm",
+			"effects": [
+				{
+					"name": "shock"
+				},
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "kamui",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kasumi_doa6",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "kasumi_ss",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "katsura",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kdash_13",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kdash_ss",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kim_01",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "king_ss",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "krizalid_bs",
+			"effects": [
+				{
+					"name": "darkness"
+				},
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "kula_ss",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "kula_vd",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "kyo_13",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kyo_ss",
+			"effects": [
+				{
+					"name": "burn"
+				},
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "leona_12",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "leona_bs",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "lin_00",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "liones_cos_sds",
+			"effects": [
+				{
+					"name": "starlight"
+				},
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "mai_ss",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "marie_doa6",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "marie_ss",
+			"effects": [
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "mature_sn",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "maxima_tf",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "may_ggx",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "meliodas_cos_sds",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "meliodas_sds",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "merlin_sds",
+			"effects": [
+				{
+					"name": "bleed"
+				},
+				{
+					"name": "poison"
+				},
+				{
+					"name": "burn"
+				},
+				{
+					"name": "shock"
+				},
+				{
+					"name": "chill"
+				},
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "mian_14",
+			"effects": [
+				{
+					"name": "burn"
+				},
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "mrbig_tf",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "nakoruru_14",
+			"effects": [
+				{
+					"name": "bleed"
+				},
+				[
+					{
+						"name": "burn"
+					}
+				]
+			]
+		},
+		{
+			"iname": "nameless_02",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "nyotengu_doa6",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "nyotengu_ss",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "omegarugal_bs",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "orochi_97",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "orochichris_97",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "orochichris_sp",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "orochileona_97",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "orochishermie_97",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "rachel_sk",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "ramlethal_ggx",
+			"effects": [
+				{
+					"name": "darkness"
+				},
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "ryo_14",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "saiki_13",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "shion_11",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "sol_ggx",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "therock_wwe",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "vanessa_bsb",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "yuri_ss",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "zerooriginal_bs",
+			"effects": [
+				{
+					"name": "bleed"
+				},
+				[
+					{
+						"name": "poison"
+					}
+				]
+			]
+		},
+		{
+			"iname": "zerooriginal_sp",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
+		},
+		{
+			"iname": "chizuru_ss",
+			"effects": [
+				{
+					"name": "starlight"
+				}
+			]
+		},
+		{
+			"iname": "benimaru_01",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "yamazaki_gs",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "xiangfei_hw",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "haomaru_sc",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "iori_gw",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "kdash_99",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kasumi_00",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kyo_97",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "mai_95",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "angel_sse",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "yuri_xm",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "krauser_96",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "billy_se",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "orochisaisyu_sp",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "iori_95",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kyo_95",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "vice_ny",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "saisyu_95",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "sylvie_xm",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "chizuru_sn",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "kula_sse",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "therock_cos_wwe",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "athena_00",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "athena_gw",
+			"effects": [
+				{
+					"name": "bleed"
+				},
+				{
+					"name": "poison"
+				},
+				{
+					"name": "burn"
+				},
+				{
+					"name": "shock"
+				},
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "becky_wwe",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "genjuro_sc",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "heidern_hw",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "kula_sp",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "heihachi_tc",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "kyo_96",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "kyo_98",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "yashiro_tf",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "mai_98",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "mature_98",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "rimururu_sc",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "whip_xm",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "benimaru_99",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "charlotte_sc",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "angel_sp",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "kazuya_tc",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "maylee_01",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "kasumi_xm",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "sougo",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "mai_sse",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "leona_xm",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "amakusa_sc",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "andy_98",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "eiji_95",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "orochiyashiro_sp",
+			"effects": [
+				{
+					"name": "poison"
+				}
+			]
+		},
+		{
+			"iname": "billy_tf",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "mature_96",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		},
+		{
+			"iname": "mai_ny",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "mary_sn",
+			"effects": [
+				{
+					"name": "chill"
+				}
+			]
+		},
+		{
+			"iname": "kdash_sse",
+			"effects": [
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "sylvie_14",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
+		},
+		{
+			"iname": "vice_02",
+			"effects": [
+				{
+					"name": "bleed"
+				}
+			]
+		}
+	]
 }
