@@ -1072,7 +1072,7 @@
 			}
 		},
 		{
-			"fighter_id": "OROCHI_CHRIS_UM_02",
+			"fighter_id": "OROCHI_CHRIS_02_UM",
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "Gain 44 Rage when being attacked, and gain extra Rage when being deployed",
