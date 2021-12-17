@@ -1189,6 +1189,16 @@
 				"description_pt": null,
 				"contributor": null
 			}
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"weapon_awakened": {
+				"name": "Flame of Burning Soul",
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
 		}
 	]
 }

@@ -3450,6 +3450,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"skills": [
+				{
+					"name": "Sun-Shooting Flame",
+					"description": "Attack the enemies in a column; increase own Anti-Crit Power by 30%; there's a 40% chance to silence the main target for 2 rounds; restore own HP that equals to 200% of own ATK and 200 Rage, and the amount will double with a \"Soul Flame\" Shield; increase own Control-free by 50% for 2 rounds; if the main target is already affected by \"Flame of Burning Soul\" before Orochi Chris 02UM attacks, a level of \"Flame of Burning Soul\" will be added to the enemy behind the target; decrease the burning power of the Flame-type fighters in the target column by 30%. Deal 160%+15 DMG to the target column",
+					"description_es": "Ataca a los enemigos en una columna; aumenta su propio poder anti-crítico en un 30%; hay un 40% de probabilidad de silenciar al objetivo principal durante 2 rondas; restaura el propio HP que equivale al 200% del propio ATK y 200 de Rage, y la cantidad se duplicará con un escudo \"Soul Flame \"; aumenta el control-free propio en un 50% durante 2 rondas; si el objetivo principal ya está afectado por \"Flame of Burning Soul \" antes de que Orochi Chris 02UM ataque, se agregará un nivel de \"Flame of Burning Soul \" al enemigo detrás del objetivo; Disminuye el burning power de los tipos Flama en la columna objetivo en un 30%. Reparte 160% + 15 DMG a la columna objetivo",
+					"description_pt": null
+				},
+				{
+					"name": "Land-Sweeping Hellfire",
+					"description": "Attack the enemies in a column, increase own DMG, Res Rate, and Crit Power by 20%; Crit Hit must be dealt for the first ULT skill released when Orochi Chris 02UM is deployed or after his resurrection; deal extra damage that equals to 100% of own ATK to the target column; deal extra damage that equals to 20% to 40% of the whole damage (the higher own HP percentage is, the higher the damage will be); give 30% of \"Sepsis\" effect to the main target; if Orochi Chris 02UM is affected by Flame of the Burning Soul in one round, he will immediately devour the Flame, and 15% of own MAX HP and 100 Rage will be restored. Deal 280%+25 DMG to the target column",
+					"description_es": "Ataca a los enemigos en una columna, aumenta el propio DMG, la Res Rate y el Crit Power en un 20%; Crit Hit debe repartirse para la primera habilidad ULT lanzada cuando se despliega Orochi Chris 02UM o después de su resurrección; inflige daño adicional que equivale al 100% del propio ATK a la columna objetivo; infligir daño adicional que equivale al 20% al 40% del daño total (cuanto mayor sea el porcentaje de HP propio, mayor será el daño); da un 30% del efecto \"Sepsis \" al objetivo principal; Si Orochi Chris 02UM se ve afectado por Flame of the Burning Soul en una ronda, inmediatamente devorará la Flame, y se restaurará el 15% de su propio MAX HP y 100 Rage. Reparte 280% + 25 DMG a la columna objetivo",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Fatal Flame",
+					"description": "Increase own ULT damage, ATK, DEF, and Crit by 40% and increase own DMG Power by 15%; increase the burning power of own Flame-type fighter by 20%; All attacks add \"Flame of Burning Soul\" to the main target for 2 rounds (dealing the continuous damage that equals to 120% of own ATK per round, and the damage won't restore Rage, besides, decreasing 200 Rage of the target; Gain the \"Soul Flame Shield\" for 1 round when being deployed or releasing ULT skills (the single damage taken won't exceed 30% of own MAX HP, and the shield will break after taking 1 to 3 damage; the more the enemies, the more the chances); when the \"Soul Flame Shield\" breaks, own Debuff and petrification will be dispelled, and 45% of own HP lost will be restored (this healing won't be affected by the changes of the healing amount); increase own ULT Res and small skill Res by 30% (the Buff will last until the \"Soul Flame Shield\" is regained); Orochi Chris 02UM can resurrect once, all the HP and Rage will be restored after the resurrection; all the attacks ignore reflection for 2 rounds after the resurrection of Orochi Chris 02UM, and his DMG and Res Rate will be increased by 10% to 40% (the later the resurrection takes effect, the higher the increase of the effect, and the effect reaches its maximum on the 5th round of the resurrection). [Interference Aura) Decrease ATK of all the enemies when deployed for the whole battle, and decrease Res Rate of all the enemies by 10% for 3 rounds. This effect is effective on both resurrected and aid fighters, and make all of Interference Skills on own side lose effect. Decrease ATK of all the enemies by 20%",
+					"description_es": "Aumenta el daño del ULT propio, ATK, DEF y Crit en un 40% y aumenta el poder de DAÑO propio en un 15%; aumentar el poder de burning power de su propio tipo Flame en un 20%; Todos los ataques agregan \"Flame of Burning Soul \" al objetivo principal durante 2 rondas (infligiendo el daño continuo que equivale al 120% del ATK propio por ronda, y el daño no restaurará Rage, además, disminuirá 200 de Rage del objetivo; Gana el \"Soul Flame Shield \" durante 1 asalto cuando se despliega o liberas habilidades ULT (el daño único recibido no excederá el 30% de tu propio MAX HP, y el escudo se romperá después de recibir de 1 a 3 daños;  cuanto más enemigos, más posibilidades hay); cuando se rompa el \"Soul Flame Shield \", la propia Debuff y la petrificación se disiparán, y se restaurará el 45% del HP perdido (esta curación no se verá afectada por los cambios de la cantidad de curación); aumenta la propia Res ULT y la Res de small skills en un 30% (la mejora durará hasta que se recupere el \"Soul Flame Shield \"); Orochi Chris 02UM puede resucitar una vez, todos los HP y Rage serán restaurados después de la resurrección; todos los ataques ignoran la reflexión durante 2 rondas después de la resurrección de Orochi Chris 02UM, y su DMG y Res Rate Se incrementará entre un 10% y un 40% (cuanto más tarde surta efecto la resurrección, mayor será el aumento del efecto y el efecto alcanzará su máximo en la quinta ronda de la resurrección). [Aura de interferencia) Disminuye el ATK de todos los enemigos cuando se despliegan durante toda la batalla y disminuye la Res Rate de todos los enemigos en un 10% durante 3 rondas. Este efecto es efectivo tanto en los combatientes resucitados como en los que ayudan, y hace que todas las habilidades de interferencia del propio lado pierdan efecto. Disminuye el ATK de todos los enemigos en un 20%.",
+					"description_pt": null
+				}
+			]
 		}
 	]
 }

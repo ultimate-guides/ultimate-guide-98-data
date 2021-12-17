@@ -1378,6 +1378,23 @@
 					"desceiption_pt": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_UM_02",
+			"runes": [
+				{
+					"rune_id": "WOLVES",
+					"description": "Because it attacks the character with the most HP, which gives Wolves extra damage against them by having full HP in the early rounds",
+					"description_es": "Porque ataca al personaje con más HP, lo que le da a los Wolves un daño adicional contra ellos al tener HP completo en las primeras rondas.",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "KILLING",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
 		}
 	]
 }

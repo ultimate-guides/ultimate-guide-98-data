@@ -951,6 +951,14 @@
 				"partner_2": null,
 				"partner_3": null
 			}
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_UM_02",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
 		}
 	]
 }

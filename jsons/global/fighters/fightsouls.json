@@ -1070,6 +1070,15 @@
 				"description_es": "Gana 240 de Rage inicialmente, restaura extra Rage al ser atacado",
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_UM_02",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "Gain 44 Rage when being attacked, and gain extra Rage when being deployed",
+				"description_es": "Obtiene 44 Rage cuando te atacan y obtienes más Rage cuando es desplegado.",
+				"description_pt": null
+			}
 		}
 	]
 }

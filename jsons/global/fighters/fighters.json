@@ -1546,6 +1546,19 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_UM_02",
+			"fightsoul_id": "TURTLE",
+			"name": "O. Chris 02 UM",
+			"chinese_name": "罗刹娜可露露",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "SCORCHING",
+			"badge_id": "OROCHI",
+			"status": 0,
+			"striker": 0
 		}
 	]
 }

@@ -2022,6 +2022,23 @@
 					"attr": "HP + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_CHRIS_UM_02",
+			"fates": [
+				{
+					"bosses": "Orochi Chris 02UM, Orochi Shermie 02UM, Orochi Yashiro 02UM, Goenitz 02UM",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Orochi Chris 02UM, Chris, Orochi Chris",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Orochi Chris 02UM, Bao , Kula",
+					"attr": "ATK + 25%"
+				}
+			]
 		}
 	]
 }
