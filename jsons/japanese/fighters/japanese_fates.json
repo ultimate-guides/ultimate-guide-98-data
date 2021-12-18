@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "KUKRI",
+			"fates": [
+				{
+					"bosses": "Kukri, Mian, Eiji",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Kukri, Meitenkun, Elisabeth ",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Kukri, Mukai, Goenitz",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "LUONG",
 			"fates": [
 				{

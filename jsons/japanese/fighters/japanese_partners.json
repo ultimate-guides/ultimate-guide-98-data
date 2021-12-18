@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "KUKRI",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
+		},
+		{
 			"fighter_id": "LUONG",
 			"partners": {
 				"partner_1": "KIM",

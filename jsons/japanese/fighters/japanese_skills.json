@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "KUKRI",
+			"skills": [
+				{
+					"name": "UNIQUE ATTACK",
+                    "description": "Attacks a horizontal line. Reduces damage from martial artist Ve by 30%. Absorbs 15% of the target's unique ability to cast, recovers 20% HP and 200 fury. If the enemy is under \"Quicksand\", will increase the duration of \"Quicksand\" by 1 turn, dealing bonus damage equal to the lasting damage the target is hit (ignoring immunity). ",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "DIRSCK",
+					"description": "",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "PASSIVE",
+					"description": "When entering battle, grants yourself control rate and immunity (25% at level 1), 35% damage, and damage resistance. If your technique hits an enemy with \"Quicksand\", it deals 20% more damage equal to 20% of your maximum HP.  When entering battle, acquire the effect of \"Guardian Sand\" (increases defense by 40%, if hit with a special skill, it will decrease by 10%, decrease until 0%, this effect will be lost). When receiving fatal damage, will not die, immediately hide in the sand (activated up to 1 time, temporarily leave the field for 1 turn, when returning, it will release the control state including petrification, invincible. effective with all attacks for 1 turn), after the turn of all attacks is nullified, the first cast of the spell will deal 100% increased damage. After Kukri's death will increase the damage of \"Quicksand\" by 50%.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "LUONG",
 			"skills": [
 				{

@@ -1,6 +1,15 @@
 {
 	"fightsouls": [		
 		{
+			"fighter_id": "KUKRI",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "The first turn when entering the battle will have a large amount of Rage. When attacking will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "LUONG",
 			"fightsoul": {
 				"name": "TIGER",

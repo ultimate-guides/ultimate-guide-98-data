@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "KUKRI",
+			"weapon_awakened": {
+				"name": "Sand of Destruction",
+				"description": "Attacks all targets. Increases self by 30% ATK, Defense, and Critical Resist. Reduces target's block rate by 15%. If no one has \"Quicksand\", will deal \"Quick Sand\" to a random target (2 turns, dealing damage at the beginning of our turn, each time the target is active, deals 50% more damage) ).  If there is a target hit with \"Quicksand\", resets the number of \"Quicksand\" turns, and also inflicts \"Quick Sand\" on another random target. Has a 50% chance to petrify the target being \"Quicksand\" (if it is 1vs1 will not activate).  Inflicts a sand-immolation effect on the target affected by \"Quick Sand\" and nearby enemies (ignoring immunity, reduces defense by 10% and damage resistance by 20% for 1 turn). This attack does not cause enemy fury.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "LUONG",
 			"weapon_awakened": {
 				"name": "Lotus flower",

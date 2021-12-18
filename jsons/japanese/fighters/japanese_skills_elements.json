@@ -1,6 +1,20 @@
 {
 	"skills_elements": [
 		{
+			"fighter_id": "KUKRI",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": "",
+				"lake_pt": "",				
+				"thunder": "",
+				"thunder_es": "",
+				"thunder_pt": "",				
+				"water": "",
+				"water_es": "",
+				"water_pt": ""
+			}
+		},
+		{
 			"fighter_id": "LUONG",
 			"skills_elements": {
 				"lake": "Increases self control rate ( <font color='#FFA726'>50%</font> at lvl 1). Increases self <font color='#FFA726'>40%</font> damage, damage resistance, <font color='#FFA726'>30%</font> poison damage, <font color='#FFA726'>60% chance to launch poison</font> . Increases own equity by <font color='#FFA726'>20%</font> of own control rate. On our side's turn, when an ally unleashes a technique on a target with less than 60% HP, Luong will \"churse\" with a single move on the enemy target with the lowest HP (maximum 3 times per turn). Any damage from Liang will deal <font color='#FFA726'>45%</font> more damage to enemies under the effect, heals yourself, and heals for the additional damage dealt. <font color='#FFA726'>When you are attacked, recover 10% of your missing HP (20% if you are under control)</font> When fatally damaged will release the control state including petrification, recover <font color='#FFA726'>50%</font> HP and <font color='#FFA726'>500</font> Rage , enters stealth state, for the next 2 turns will increase <font color='#FFA726'>45%</font> ultimate damage resistance and unique attack damage resistance, <font color='#FFA726'>permanently increase 5% super damage (can be stacked)</font> (up to <font color='#FFA726'>2</font> activations per battle ) times ).",
