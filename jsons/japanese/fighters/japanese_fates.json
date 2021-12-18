@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "MAI_XIV",
+			"fates": [
+				{
+					"bosses": "Mai XIV, Mai Remake, Mai",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Mai XIV, Geese XIV, K' XIV",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Mai XIV, Terry XIII, Demon Saiki",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "HEIN",
 			"fates": [
 				{

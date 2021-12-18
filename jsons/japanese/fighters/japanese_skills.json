@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "MAI_XIV",
+			"skills": [
+				{
+					"name": "LENGTH・LONG VISION Strikes",
+                    "description": "a horizontal line. Increases self 40% chance to cast poison (2 turns, cannot be disarmed). Has a 30% chance to stun, reducing the target's critical rate by 30% (1 turn, if it's a male boxer, the chance to stun or is 60%). Reduces ATK by 30% (2 turns, crit will increase to 50%), reduces rage by 150 (if crits, reduces rage by 80, and reduces rage speed by 25% for 2 turns, if a fighter male, the effect is doubled).  Restores 40% of lost HP, for 2 turns, if your HP falls below 15%, restores 15% of your maximum HP (max 1 time).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "DUONG HOA VU",
+					"description": "Attack all targets, the less damage the higher the enemy, the maximum increase to 150% damage. Increases attack and defense by 20%, self crit rate by 30%, and healing rate for all allies by 20% (2 turns). This attack will ignore 25% of the target's ultimate skill damage resistance, buffing yourself critically (Enemy HP over 70% will increase damage by 20%). Deals 20% bonus damage to all enemy male fighters, deals 20% more damage to enemies affected by the \"Tame\" effect.  If your own crit rate is higher than the target's crit resistance rate, grants yourself damage and crit damage, the amount increasing by 30% of the difference (2 turns, cannot be negated). Deals extra damage equal to 4% of max HP to all enemies, dealing extra damage equal to 12% of max HP to 2 random targets hit by \"Dragon Flame\".",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "SHIRANUI",
+					"description": "Super ATK Reduction: When in battle, it reduces ATK (20% at lvl 1, permanently) and 10% damage resistance (3 turns) of all enemies (ignoring immunity), passively reduces ATK Used on both enemy targets after respawning and combat aid. All other ATK reduction passives will be nullified (both enemy and our side). Increases self by 35% crit damage, damage, damage resistance, ultimate attack damage. When entering the battle, every 1 female fighter on our side will help you increase your critical hit rate by 5%, and every 1 male fighter on the enemy side will help you increase your crit resistance by 8%. At the beginning of our turn, if the enemy is in stealth mode (cannot be targeted or not attacked), will reduce your remaining HP by 40% to negate the stealth state (random 1 enemy , each match up to 2 times).  All damage dealt to the target will deal \"Dragon Flame\" effect to the target (2 turns, each turn will burn 150% of own ATK x (100% + own crit chance) ), reduces the target's healing rate and poison chance by 45%). Each time the enemy is attacked by \"Dragon Flame\", Mai XIV will help Mai XIV herself to recover 8% of her lost HP, every 1 \"Dragon Flame\" level that is cleared will help Mai XIV herself to recover 15% of her maximum HP, 7% of damage great skill (can be stacked, reset when launching the skill).  When entering battle or after casting a special skill, effectively buff \"Fire Shield\" to yourself (1 turn, each time you are attacked, the maximum damage you take will not exceed 30% of your maximum HP, when being attacked from 1~3 times, the \"Fire Shield\" will break, the more enemies, the more attacks will cause the shield to break). When the \"Fire Shield\" is broken, it will release the control state including petrification, buff 1 time the resistance to blood paralysis, increase the self's resistance to magic damage by 30% and resist unique damage, and at the same time acquire 1 tier \"Fire Sakura\" (cannot be reversed, increases unique attack damage and rage speed by 5%, can be stacked up to 6 times). When taking fatal damage, will not die, release control status including petrification, restore 70% of max HP (unaffected by healing rate reduction effect), MAX fury recovery, maximum activation per battle maximum 2 times (if it's 1vs1, only activate 1 time).",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "HEIN",
 			"skills": [
 				{

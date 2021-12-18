@@ -1,6 +1,15 @@
 {
 	"fightsouls": [		
 		{
+			"fighter_id": "MAI_XIV",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "When attacking, restores some fury. When allies or enemy factions die, they will rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "HEIN",
 			"fightsoul": {
 				"name": "TIGER",

@@ -1,6 +1,20 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "MAI_XIV",
+			"fightsoul_id": "SNAKE",
+			"name": "Mai XIV",
+			"chinese_name": "女 天狗",
+			"japanese_name": "舞XIV Ver",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "FEMALE",
+			"tome_id": "SCORCHING",
+			"badge_id": "FLAME",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "HEIN",
 			"fightsoul_id": "TIGER",
 			"name": "Hein",

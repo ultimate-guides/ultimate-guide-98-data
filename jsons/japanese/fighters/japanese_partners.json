@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "MAI_XIV",
+			"partners": {
+				"partner_1": "MAI",
+				"partner_2": "ANDY",
+				"partner_3": "TERRY_2003"
+			}
+		},
+		{
 			"fighter_id": "HEIN",
 			"partners": {
 				"partner_1": "GEESE",

@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "MAI_XIV",
+			"weapon_awakened": {
+				"name": "Ninjutsu book",
+				"description": "Attacks all targets, the less damage the higher the enemy, the maximum increase to <font color='#FFA726'>200%</font> damage. Increases attack and defense by <font color='#FFA726'>30%</font> , self crit rate by <font color='#FFA726'>40%</font> , and healing rate for all allies by <font color='#FFA726'>30%</font> (2 turns). This attack will ignore <font color='#FFA726'>30%</font> of the target's ultimate skill damage resistance (<font color='#FFA726'>40% for primary target</font>) , buffs the critical effect on yourself (Enemy HP over <font color='#FFA726'>65%</font> will increase damage by <font color='#FFA726'>25%</font> ). Deals <font color='#FFA726'>30%</font> bonus damage to all enemy male fighters, deals <font color='#FFA726'>30%</font> extra damage to enemies affected by the \"Tame\" effect.  If your own crit rate is higher than the target's crit resistance rate, grants yourself damage and crit damage, the amount increased by <font color='#FFA726'>40%</font> of the difference (2 turns, cannot be negated). <font color='#FFA726'>Removes the beneficial status of 2 random enemy targets that get crits</font>. Deals extra damage equal to <font color='#FFA726'>6%</font> max HP to all enemies, deals extra damage equal to <font color='#FFA726'>18%</font> max HP to 2 random targets hit by \"Dragon Flame\". <font color='#FFA726'>Charge \"Yang Inflammation\" with a charge equal to 30% of this attack's damage (activates as bonus damage the next time the technique is cast, effective on all enemy targets), each time \"Yang Inflammation\" is activated. \"force\" will grant yourself 15% crit chance, 30% increased resistance to destructive damage (cannot be negated, stackable, lasts 2 turns). When entering the battle and after each fatal hit, the first time casting the ultimate skill will buff yourself with shield durability equal to 1% of your maximum HP (only activates with 4-star Mai XIV after learning the passive)</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "HEIN",
 			"weapon_awakened": {
 				"name": "Chessboard",
