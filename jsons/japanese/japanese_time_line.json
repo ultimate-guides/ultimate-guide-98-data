@@ -2,6 +2,11 @@
 	"time_line": [
 		{
 			"title": "TIME LIMITED CHEST",
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"date": "02/11/2021"
+		},
+		{
+			"title": "TIME LIMITED CHEST",
 			"fighter_id": "KUKRI",
 			"date": "02/11/2021"
 		},

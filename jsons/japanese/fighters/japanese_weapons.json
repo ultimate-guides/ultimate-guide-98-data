@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"weapon_awakened": {
+				"name": "Electric guitar",
+				"description": "Attacks a single target, dealing <font color='#FFA726'>40%</font> damage to nearby enemies (ignoring immunity). For 2 turns, increase self damage, damage resistance, and ultimate attack damage by 30% . Solve the bad state for yourself. Toss cool thoroughly before of itself without causing fatal to the main objectives (or if this is the first time came top engineering), will increase <font color='#FFA726'>30%</font> damage sheer skill, <font color='#FFA726'>50%</font> ratio of fatal to toss cool thoroughly this . For 1 turn, increase by <font color='#FFA726'>50%</font> paring rate for yourself, marks on all enemies, if successfully parrying marked enemies will help you increase your block rate and block power by 5% (permanent maintenance, max stacks) up to 5 times). Increases yourself and nearby allies by <font color='#FFA726'>10%</font> unique ability <font color='#FFA726'>and ultimate attack damage</font> (lasting 1 turn, stackable), <font color='#FFA726'>12%</font> HP and <font color='#FFA726'>120</font> Rage (for every 1 HP ally Orochi, excluding self and aid will increase effectiveness by 20%). <font color='#FFA726'>This effect resets at the beginning of our side's next turn (maximum 1 turn per turn, will not activate if you are killed).</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "KUKRI",
 			"weapon_awakened": {
 				"name": "Sand of Destruction",

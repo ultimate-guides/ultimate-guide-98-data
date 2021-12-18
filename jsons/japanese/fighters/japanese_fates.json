@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"fates": [
+				{
+					"bosses": "O. Yashiro 02 UM, Ryuji, Rugal, Daimon",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "O. Yashiro 02 UM, Yashiro, Orochi Yashiro",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "O. Yashiro 02 UM, O. Chris 02 UM, O. Shermie 02 UM",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "KUKRI",
 			"fates": [
 				{

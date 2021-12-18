@@ -1,6 +1,20 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"fightsoul_id": "TURTLE",
+			"name": "O. Yashiro 02 UM",
+			"chinese_name": "女 天狗",
+			"japanese_name": "ク ク リ",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "EARTH",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "KUKRI",
 			"fightsoul_id": "BEAR",
 			"name": "Kukri",

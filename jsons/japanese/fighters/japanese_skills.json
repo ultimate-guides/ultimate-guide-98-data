@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"skills": [
+				{
+					"name": "CUTTING",
+                    "description": "Attacks a single target, dealing 200% bonus damage equal to 200% of own defense (ignoring immunity), recovering 20% of max HP and 200 fury. Has 40% chance to stun the target (1 turn). For 2 turns, reduce target's unique attack damage resistance by 30% and the target's unique ability chance (ignoring immunity). Increases the chance of self-poisoning by 50% (permanent, cannot be negated, cannot be stacked).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "DRY Mainland",
+					"description": "Attacks one target, dealing 30% damage to nearby enemies (ignoring immunity). For 2 turns, increase self damage, damage resistance, and ultimate attack damage by 20%. Solve the bad state for yourself. Your previous spell cast if it didn't crit the primary target (or if it's your first time casting it), increases your skill damage by 20%, and your crit chance by 30% for this ability . For 1 turn, increase self's block rate by 30%, mark all enemies, successfully block marked enemies will increase self's block rate and block by 5% (only) permanent, stacks up to 5 times). Increases self and nearby allies 7% unique attack damage (1 turn, stackable), restores 8% HP (for every 1 Orochi bloodied ally, excluding self and reinforcements) support will increase efficiency by 20%).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "EARTH ADVANTAGE",
+					"description": "Increases self's block rate (30% at lvl 1, 0.2% per lvl). When entering battle, increase yourself by 40% ATK, counter rate, and excellent damage resistance. The first turn will definitely cast a unique move. Self nullifies with sustained damage. When attacking, deals additional damage equal to 10% of Yashiro's original HP 02 UM + (5% HP x number of Orochi allies, excluding self and aid), ignoring immunity. At the beginning of each turn, every 1 of our side will help themselves buff 1 level \"Earth of Regeneration\" (when \"Earth Regeneration\" is active, it will render themselves incapacitated with normal control effects including petrification. , shrinks, reduces healing rate, reduces fury.When attacked, spends 1 tier \"Earth of Regeneration\" to recover 30% of the HP lost in this attack by the enemy, permanently increasing defense by 25% and counterattack rate, can be stacked up to 5 times. The number of tiers of \"Earth Regeneration\" will reset each turn). At the beginning of each side's turn, restore HP equal to 200% of your own defense. When receiving fatal damage, will not die, release control status including petrification, recover 70% of max HP and 500 fury, this turn, the amount of HP recovered in the \"Land of Rebirth\" buff will increase to 80% ( not affected by healing rate), each match activates up to 3 times, if it is 1vs1 when entering the game, it only activates 1 time.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "KUKRI",
 			"skills": [
 				{
