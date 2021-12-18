@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "IGNIZ_02_UM",
+			"partners": {
+				"partner_1": "IGNIZ",
+				"partner_2": "KRIZALID",
+				"partner_3": "ZERO"
+			}
+		},
+		{
 			"fighter_id": "OROCHI_CHRIS_02_UM",
 			"partners": {
 				"partner_1": "CHRIS",

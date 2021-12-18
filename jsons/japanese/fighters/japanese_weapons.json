@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "IGNIZ_02_UM",
+			"weapon_awakened": {
+				"name": "Life Chain",
+				"description": "Attacks a random target (prioritizes squeezable or non-squeezable targets). For 2 turns, increase self by <font color='#FFA726'>30%</font> damage and damage resistance, <font color='#FFA726'>10%</font> super damage. Absorb <font color='#FFA726'>35%</font> of main target's ultimate skill damage resistance (ignoring immunity), drain <font color='#FFA726'>21%</font> of target's maximum HP. Removes control status including petrification for 1 ally (priority is given to the person being controlled, not activated when pursuing). Shreds main target (2 turns, reduces his damage and damage resistance by 30%, ignores immunity, cannot be disarmed, cannot shrink target that is becoming giant, if the enemy is being crushed, it will reset number of retentions). During this turn, if an ally casts a technique, Igniz will consume all his fury to pursue the target with the technique (maximum 1 time per turn). <font color='#FFA726'>Acquire polio resistance 1 time per turn (cannot be stacked)</font>. <font color='#FFA726'>After launching the skill, you will gain 1 level of \"Generation of Creation\", which can have a maximum of 7 ranks. If you reach 7 levels of \"Generation Force\" before casting the ultimate skill, you will spend all \"Generation Force\" levels to enter the state of creation for 1 turn. While entering creation, cannot absorb more \"Force of Creation\", deals 35% bonus damage to squeezing targets (does not cause enemy fury), increases the chase limit by 1 in 1 turn.</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "OROCHI_CHRIS_02_UM",
 			"weapon_awakened": {
 				"name": "Blue-violet fire",

@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "IGNIZ_02_UM",
+			"skills": [
+				{
+					"name": "HOLY ARROW",
+                    "description": "Attacks an enemy target. Drain 20% of main target's max HP. After casting a unique ability, when you are attacked, you will have a 50% chance to activate resistance (reduce 40% of damage taken), and also absorb 50% of the target's crit resistance (ignoring immunity). Drain 200 fury from main target. Has a maximum volume of 650 rage received or absorbed by the enemy, and will activate the accumulated fury on our side's next turn (Igniz 02 UM 4 stars or more only activates). ",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "SURPRISE STATE",
+					"description": "Attacks a random target. For 2 turns, increase self by 20% damage and damage resistance, 8% super damage. Absorbs 25% of main target's ultimate skill damage resistance (ignoring immunity), drains 14% of target's max HP. Removes control status including petrification for 1 ally (priority is given to the person being controlled, not activated when pursuing). Shreds main target (2 turns, reduces his damage and damage resistance by 30%, ignores immunity, cannot be disarmed, cannot shrink target that is becoming giant, if the enemy is being crushed, it will reset number of retentions). During this turn, if an ally casts a technique, Igniz will consume all his fury to pursue the target with the technique (maximum 1 time per turn).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "DIRECTORY",
+					"description": "When entering battle, increase your own damage and damage resistance (30% at level 1) and the rest of your allies will gain 40% of this buff's effect. When entering the battle, increase yourself by 40% ATK, Defense, Ultimate Skill Damage, Unique Skill Resistance, and Ultimate Skill Resistance, 1 turn in 1 turn of Blood Resistance (cannot be stacked). When entering battle or at the beginning of each enemy turn, will buff yourself with the following effects for 1 turn: If there is no one in front of Igniz 02 UM, buff yourself 10% super damage resistance, each time you are attacked attack, the maximum damage you take will not exceed 40~60% of your maximum HP (the more enemies, the lower the %HP will be). If there's no one behind Igniz 02 UM, increase self's ATK and Rage Speed by 20%. At the beginning of our side's turn, absorb all of the Devil Saiki's flames that our side is attached to, each 1 absorbed will restore our side 5% HP and 20 Rage. When entering the battle, acquire 2 levels of \"Divine Power\" (each 1 level will give you 1 fatal resistance), each time the enemy is defeated, you will gain 1 more level, up to 7 levels. Each time you spend 1 level of \"Divine Power\", will help you release the control state including petrification, recover 300 fury, spend 10% HP of all sides and the enemy side (not counting yourself), restore HP by 150% of HP spent (minimum equal to 30% of max HP), restores 7% of max HP for all of us. Igniz 02 UM is immune to shrinking and squeezing. At the beginning of each turn of our side, for 1 turn, the buff gives our side the ability to even receive a critical hit to block or resist. If our side has 2 or more people, at the beginning of each turn will heal 10% HP for the ally with the lowest HP and 100 rage for an ally without MAX fury. The first turn when entering the battle, Igniz 02 UM itself will ignore all normal control effects, definitely launching a unique move.  When entering the battle, depending on the system of your teammates, will buff the following effect for yourself (not counting your own system, stacking up to 3 times per system): -Strike: increase 12% block rate -Defense: Increases Critical Rate by 12% -Skill: Number of People x 10% Regeneration Speed, when entering battle will have 100 fury turns 1 Advanced Nuclear Passive: When entering the battle, if our side has 3 or more people, it will increase our side's resistance to special attack damage by 35% and unique damage resistance, and 15% damage resistance for 3 turns.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "OROCHI_CHRIS_02_UM",
 			"skills": [
 				{

@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "IGNIZ_02_UM",
+			"fightsoul": {
+				"name": "SPACE",
+				"description": " In all modes, self-heal for 85 Rage. Igniz 02 Um 4 stars or more restores HP at the beginning of each turn. ",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "OROCHI_CHRIS_02_UM",
 			"fightsoul": {
 				"name": "BEAR",

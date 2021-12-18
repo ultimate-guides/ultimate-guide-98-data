@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "IGNIZ_02_UM",
+			"fates": [
+				{
+					"bosses": "Igniz 02 UM, Maxima XIV, Angel XIV",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Igniz 02 UM, Benimaru XIII, Robert 02 UM, Omega Rugal",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Igniz 02 UM, K' XIV, Kula XIV ",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "OROCHI_CHRIS_02_UM",
 			"fates": [
 				{
