@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"weapon_awakened": {
+				"name": "Blue-violet fire",
+				"description": "Attacks in a horizontal line, for 2 turns grants yourself <font color='#FFA726'>30%</font> ATK, Defense and Penetration. Deals extra damage equal to x ATK ( <font color='#FFA726'>400% + 8%</font> x the number of \"Destructive Blue Flame\" tiers that all enemies are on (ignoring immunity, damage divided equally among targets), restores HP by <font color='#FFA726'>50%</font> of the damage dealt. <font color='#FFA726'>This move ignores counterattacks, this turn will definitely launch a unique move.</font> Deals 1 tier of \"Destructive Blue Violet Flame\" (for 3 turns, at the beginning of our turn, dealing damage. destroys enemies, up to 2 times, ignores immunity, cannot be disarmed) Also deals 1 level of soul burning (for 2 turns, at the beginning of the enemy's turn, deals burn damage equal to <font color='#FFA726'>10%</font> of the enemy's turn).Max HP, reduces target's Rage by <font color='#FFA726'>100</font> ). The critical rate of this attack is equal to the number of tiers \"Destructive Blue Flame\" that all enemies are affected by x <font color='#FFA726'>12%, the critical damage is equal to the number of tiers x 7.5%.</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"weapon_awakened": {
 				"name": "Electric guitar",

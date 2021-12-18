@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"partners": {
+				"partner_1": "CHRIS",
+				"partner_2": "SHERMIE",
+				"partner_3": "YASHIRO"
+			}
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"partners": {
 				"partner_1": "CHRIS",

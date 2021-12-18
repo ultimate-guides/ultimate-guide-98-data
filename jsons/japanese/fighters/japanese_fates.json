@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"fates": [
+				{
+					"bosses": "O. Chris 02 UM, Kyo, Iori",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "O. Chris 02 UM, Orochi Chris, Chris",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "O. Chris 02 UM, O. O. Shermie 02 UM, O. Yashiro 02 UM",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"fates": [
 				{

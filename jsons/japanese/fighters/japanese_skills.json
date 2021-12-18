@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"skills": [
+				{
+					"name": "SUNFIRE",
+                    "description": "Attacks a horizontal line, for 2 turns increases the chance to cast a unique ability by 35%. Restores 20% of max HP and 300 fury, clearing the bad state for yourself. Increases poison damage by 30% for this single cast. Deals 1 tier of \"Destructive Blue Flame\" to the target (for 3 turns, at the beginning of our turn, deals destructive damage to enemies, up to 2 times).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "EARTH FIRE",
+					"description": "Attacks a horizontal line, for 2 turns grants yourself 25% ATK, DEF, and Penetration. Deals extra damage equal to x ATK (200% + 5% x the number of \"Destructive Blue Flame\" tiers that all enemies are on (ignoring immunity, damage divided equally among targets), heals HP by 35% of the damage dealt Deals 1 tier of \"Destructive Blue Violet Flame\" (for 3 turns, at the beginning of our turn, deals destructive damage to enemies, up to 2 times, ignores immunity, cannot be transformed. prize). at the same time cause 1 Career burnt soul (for 2 turns, in the early plays of enemy, damaging burned by 8% maximum HP, down 70 wrath of the target). rate of fatal of toss top This skill is equal to the number of tiers of \"Destructive Blue-violet Flame\" that all enemies are affected by x 7%.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "OROCHI Abilities",
+					"description": "When entering battle, increase self by 35% damage, damage resistance, ultimate attack damage, super damage (each respawn will increase by 5%). When entering battle or after respawning, increase the ATK of the person with the highest merit on our side by 15%. Upon entering the battle, the field turns into a floor of death (permanently maintained until Chris Hoa 02 UM is destroyed), granting himself 30% rage speed. While on the floor of death, will increase by 1 level if you inflict \"Destructive Blue-violet Flame\" or burn souls on enemies (equivalent to 75% of base damage, ignoring immunity). If the enemy is hit by 3 or more tiers of \"Destructive Blue Violet Flame\", each time you take damage, you'll take 15% of your max HP for extra damage (ignoring immunity). When entering battle, ignore control status including petrification, shrink, reduce healing rate, reduce fury for 2 turns. When attacked by an enemy that causes fury reduction, restores 160 fury (regenerates fury equal to the number of \"Destructive Blue Flame\" tiers that all enemies are affected by x 8), heals 12% of HP for yourself. Has the ability to respawn up to 2 times (if it is 1vs1 when entering the battle, only activate 1 time). After respawning, restores HP (40% at lvl 1) and inherits rage before death, increasing super damage resistance by 20%. The first turn after each respawn, nullifies all attacks during the enemy's turn (hidden).",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"skills": [
 				{

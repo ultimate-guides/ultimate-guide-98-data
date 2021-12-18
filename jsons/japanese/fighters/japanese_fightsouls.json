@@ -1,10 +1,19 @@
 {
-	"fightsouls": [		
+	"fightsouls": [	
+		{
+			"fighter_id": "OROCHI_CHRIS_02_UM",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": " The first turn when entering the battle will have a large amount of Rage. When our side or the enemy side dies, they will rage. ",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},	
 		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"fightsoul": {
 				"name": "TURTLE",
-				"description": " When attacked, will restore fury. When our side or the enemy side dies, they will rage",
+				"description": " When attacked, will restore Rage. When our side or the enemy side dies, they will rage",
 				"description_es": "",
 				"description_pt": ""
 			}
