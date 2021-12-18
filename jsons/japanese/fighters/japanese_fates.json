@@ -1,18 +1,18 @@
 {
 	"fates": [
 		{
-			"fighter_id": "LUON",
+			"fighter_id": "LUONG",
 			"fates": [
 				{
-					"bosses": "Luon, Mai Remake, Shermie 02 UM",
+					"bosses": "Luong, Mai Remake, Shermie 02 UM",
 					"attr": "ATK +25%"
 				},
 				{
-					"bosses": "Luon, King XIII, Duo Lon",
+					"bosses": "Luong, King XIII, Duo Lon",
 					"attr": "ATK +25%"
 				},
 				{
-					"bosses": "Luon, Jhun Hoon, Kim XIII",
+					"bosses": "Luong, Jhun Hoon, Kim XIII",
 					"attr": "HP +25%"
 				}
 			]

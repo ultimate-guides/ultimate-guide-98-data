@@ -1,9 +1,9 @@
 {
 	"fighters": [
 		{
-			"fighter_id": "LUON",
+			"fighter_id": "LUONG",
 			"fightsoul_id": "TIGER",
-			"name": "Mai XIV",
+			"name": "Luong",
 			"chinese_name": "女 天狗",
 			"japanese_name": "ル オ ン",
 			"api": 15,

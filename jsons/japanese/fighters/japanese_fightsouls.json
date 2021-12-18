@@ -1,7 +1,7 @@
 {
 	"fightsouls": [		
 		{
-			"fighter_id": "LUON",
+			"fighter_id": "LUONG",
 			"fightsoul": {
 				"name": "TIGER",
 				"description": "When our ally or enemy team dies, they will rage. When attacking will restore Rage.",
