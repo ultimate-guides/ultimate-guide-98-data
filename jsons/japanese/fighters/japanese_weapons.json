@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "LUON",
+			"weapon_awakened": {
+				"name": "Lotus flower",
+				"description": "",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "MAI_XIV",
 			"weapon_awakened": {
 				"name": "Ninjutsu book",

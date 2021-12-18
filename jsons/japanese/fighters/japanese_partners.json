@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "LUON",
+			"partners": {
+				"partner_1": "KIM",
+				"partner_2": "JHUN_HOON",
+				"partner_3": "MAI"
+			}
+		},
+		{
 			"fighter_id": "MAI_XIV",
 			"partners": {
 				"partner_1": "MAI",

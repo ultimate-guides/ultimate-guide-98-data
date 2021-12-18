@@ -1,6 +1,20 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "LUON",
+			"fightsoul_id": "TIGER",
+			"name": "Mai XIV",
+			"chinese_name": "女 天狗",
+			"japanese_name": "ル オ ン",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "FEMALE",
+			"tome_id": "KICK",
+			"badge_id": "GALE",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "MAI_XIV",
 			"fightsoul_id": "SNAKE",
 			"name": "Mai XIV",

@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "LUON",
+			"skills": [
+				{
+					"name": "KNIFE",
+                    "description": "Attacks a horizontal line. Has a 40% chance to silence a male target for 2 turns and stun a female target for 1 turn. Drain 100 fury from a random target. Deals extra damage equal to 100% of your ATK. Every 1 target hit this time will buff themselves Salary 1 level \"Sword sharp\", if the target is hit with \"Birth\" will increase by 1 level. Reduces the target's healing rate by 30% (ignoring immunity, if there are 7 or more \"Sword Sharp\" tiers, the healing rate will be reduced by 60%)",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "DIRSCK",
+					"description": "Attacks a target. Increases self's attack and defense by 20% and penetration rate by 30%. Inflicts \"Birth\" on target for 2 turns (sustained damage, does not heal enemies, ignores immunity). Effective buff of \"Life\" to self (enemies below 60% HP deal 20% more damage). Reduces target's Critical Rate and Block Rate by 30% (2 turns). Consumes all \"Sharp Sword\" effects, every 1 tier \"Sharpened Sword\" deals 30% more damage equal to 30% of own ATK. ",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "TRUST",
+					"description": "Increases self control rate (40% at lvl 1). Increases self by 35% damage, damage resistance, 20% unique attack damage. Increases own equity by 15% of own control rate. On our side's turn, when an ally unleashes a technique on a target with less than 60% HP, Luong will \"churse\" with a single move on the enemy target with the lowest HP (maximum 3 times per turn). Any damage from Liang deals 30% more damage to enemies under the effect, heals yourself, and heals for the bonus damage. When mortally damaged, it will release the control state including petrification, recover 30% HP and 300 rage, enter stealth state, for the next 2 turns will increase 40% magic damage resistance and damage resistance Unique skill (each battle can be activated once).",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "MAI_XIV",
 			"skills": [
 				{

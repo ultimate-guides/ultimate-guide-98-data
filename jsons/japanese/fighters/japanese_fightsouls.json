@@ -1,10 +1,19 @@
 {
 	"fightsouls": [		
 		{
+			"fighter_id": "LUON",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "When our ally or enemy team dies, they will rage. When attacking will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "MAI_XIV",
 			"fightsoul": {
 				"name": "SNAKE",
-				"description": "When attacking, restores some fury. When allies or enemy factions die, they will rage.",
+				"description": "When attacking, restores some Rage. When allies or enemy factions die, they will rage.",
 				"description_es": "",
 				"description_pt": ""
 			}

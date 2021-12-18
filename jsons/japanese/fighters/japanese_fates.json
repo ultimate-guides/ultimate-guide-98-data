@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "LUON",
+			"fates": [
+				{
+					"bosses": "Luon, Mai Remake, Shermie 02 UM",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Luon, King XIII, Duo Lon",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Luon, Jhun Hoon, Kim XIII",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "MAI_XIV",
 			"fates": [
 				{
