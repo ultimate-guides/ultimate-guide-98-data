@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "HEIN",
+			"skills": [
+				{
+					"name": "GOOD",
+                    "description": "Attacks in a horizontal row (prioritizes targets marked \"check-in\" as the main target). Increases self crit chance by 20% for 2 turns. Deals extra damage equal to 3% of the target's max HP x the number of pieces you own. Effective buff \"crit\" to self (2 turns, enemies above 50% HP will deal 30% more damage). If the attack hits a target in the back row, it will activate the \"level up\" effect, recover 100 fury, increase unique damage by 30% for 2 turns, and gain the following effects: 1. If the enemy's HP is above 60%, increase damage of \"level up\" effect by 50%, acquire Knights♘ (even while possessing Knights♘) 2. If own HP is below 70%, recover 15% HP, acquire troops Statue♗ 3. If own rage is less than 50%, change control status of an ally (prioritizes controlled ally) to the main enemy target, acquire a rook 4. If this turn does not Unleash the skill, get the Queen♕.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "KING",
+					"description": "Attacks a target. For 2 turns, increase self by 20% damage and damage resistance. Deals extra damage equal to 4% of your maximum HP x the number of pieces you own to the main target. Deals 40% damage to nearby enemies. Permanently increases the chance of casting a unique move by 15% (can stack up to 3 times). For each type of chess piece that you own, will increase the damage of special skills by 5%. After casting the skill, the following effects will be activated (can be stacked with similar buffs, up to 1 activation per turn): -For 1 turn, increase yourself and our bodyguard fighters. 5% block rate x number of Guardian allies (up to 15%) -For 1 turn, increase Strike rate for yourself and your Striker by 5% crit chance x number of Strike allies (max. 15% maximum) -For 1 turn, increase yourself and your team's Tech fighters by 5% attack damage x number of Tech allies (maximum 15%)",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "POSITION",
+					"description": "When entering battle, increase self lifesteal rate (20% at lvl 1), 30% attack, defense, parry rate, and crit chance. Mark \"check-in\" on a target that is controlled or has less than 50% HP (deals 50% bonus damage, the \"check-in\" mark ignores immunity, cannot be reversed).  If you mark \"checkmate\" 3 times on the same target, for 2 turns reduce the target's healing rate by 30% (each level decreases by 5%, up to 75%). The first turn when entering the battle will activate \"Opening\", restore 350 fury, for 1 turn activate \"Stand by\" (when receiving damage from the enemy side, it will immediately hide until our side's turn). When receiving fatal damage, you will not die, activate \"Cast\", remove bad states including petrification, restore HP corresponding to the remaining HP of the enemy while dealing damage to yourself (recovers at least 49% HP) ) and 500 fury, and deal damage equal to 49% of the remaining HP to the person who damaged himself. Maximum of 1 activation per battle. Depending on the situation of the match, will receive the chess piece or sacrifice the piece (buffs while receiving the chess can be stacked with the same buff, cannot be resolved): -If you are in possession of the Knight ♘ , increase 10% parry rate (every time receiving a Rook will increase it by 10%, up to 80%). If the target is marked \"checkmate\", will sacrifice the Knight ♘ , for 1 turn increase the chance to block attack by 80%. -If in possession of a Statue♗, recover 10% of your maximum HP at the beginning of each turn on your side. If your own HP is below 50%, you will sacrifice a Statue♗, recover 40% of your maximum HP, and increase your resistance to magic damage by 40% for 2 turns. -If in possession of a rook, restores 50 fury at the beginning of each turn on our side. If controlled, will sacrifice the Xe♖ to release the state of control including petrification. -If possessing a Queen♕, increase Critical Rate and Critical Damage by 25%. At the beginning of our side's turn, if I don't MAX Rage, I will sacrifice my Queen to increase my attack damage by 40%, restore 400 fury, for 1 turn negate with fury reduction effect.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "MARIE_ROSE",
 			"skills": [
 				{

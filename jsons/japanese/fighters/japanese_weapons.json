@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "HEIN",
+			"weapon_awakened": {
+				"name": "Chessboard",
+				"description": "Attacks a target. For 2 turns, increase yourself by <font color='#FFA726'>30%</font> damage and damage resistance. Deal additional damage equal to <font color='#FFA726'>5%</font> of your maximum HP x the number of pieces you own to the main target. Deals 40% damage to nearby enemies. Permanently increases the chance of casting a unique move by <font color='#FFA726'>20%</font> (can stack up to 3 times). For each type of chess piece that you own, will increase the damage of excellent skills by <font color='#FFA726'>10%</font> . After casting the skill, the following effects will be activated (can be stacked with similar buffs, up to 1 activation per turn): -For 1 turn, increase yourself and our bodyguard fighters. ten%parry ratio x number of Guardian allies (up to <font color='#FFA726'>30%</font> ) -For 1 turn, increase Strike rate for yourself and your Strike Fighters by 10% crit chance x number of Strike allies (max <font color='#FFA726'>30 %</font> ) -For 1 turn, grant yourself and your team's Tech fighters <font color='#FFA726'>10%</font> ultimate attack damage x number of Tech allies (up to <font color='#FFA726'>30%</font> ) <font color='#FFA726'>Acquire \"Stand by\" for 1 turn (when taking damage )</font> <font color='#FFA726'>The damage from the enemy side will immediately hide until it's our side's turn, the waiting time to activate again is 6 turns, each time sacrificing 1 piece will reduce the wait by 1 turn). “Stand by” can be activated 1~6 times depending on the number of people on the enemy side (the more enemies activate the more). Target \"Opening\" effectively, absorb all pieces, this turn will definitely launch a unique move.</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "MARIE_ROSE",
 			"weapon_awakened": {
 				"name": "Bow Marie",

@@ -1,6 +1,20 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "HEIN",
+			"fightsoul_id": "TIGER",
+			"name": "Hein",
+			"chinese_name": "女 天狗",
+			"japanese_name": "ハ イ ン",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "KARATE",
+			"badge_id": "DAZZLING",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "MARIE_ROSE",
 			"fightsoul_id": "TIGER",
 			"name": "Marie Rose",

@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "HEIN",
+			"fates": [
+				{
+					"bosses": "Hein, Seth, Elisabeth",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Hein, Oswald, King XIII",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Hein, Geese XIV, Billy XIV",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "MARIE_ROSE",
 			"fates": [
 				{
