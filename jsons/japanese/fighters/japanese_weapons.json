@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "GOENITZ_02_UM",
+			"weapon_awakened": {
+				"name": "Dead Sea Literature",
+				"description": "Attacks a random target in the back row. For 2 turns, increase self damage, damage resistance, crit rate by <font color='#FFA726'>30%</font> .<font color='#FFA726'> From the 2nd time to launch the technique on, will absorb 50% of the enemy's highest attack target (2 turns, ignore immunity, can't be neutralized)</font>. Deals extra damage equal to <font color='#FFA726'>300%</font> of own ATK (ignoring immunity), reduces a random target's Rage by <font color='#FFA726'>300</font>, applies a \"cursing wind\" effect to the target's vertical line (reduces <font color='#FFA726'>20%</font> billion) crit rate, <font color='#FFA726'>crit damage</font> and ultimate damage, ignores immunity, cannot be negated, lasts 1 turn). If the main target is killed while under the curse, grants themselves <font color='#FFA726'>10%</font> ATK and DEF (permanent, stacks up to 3 times). Removes control status including petrification to 2 random allies ,<font color='#FFA726'> also removes beneficial status, reducing 2 random enemies' Rage rate by 20% (2 turns, ignores control immunity). For 2 turns, self nullifies for extended damage.</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "IGNIZ_02_UM",
 			"weapon_awakened": {
 				"name": "Life Chain",

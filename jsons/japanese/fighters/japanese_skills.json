@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "GOENITZ_02_UM",
+			"skills": [
+				{
+					"name": "BLUE SUNFLOWER",
+                    "description": "Attacks a single target, increasing the chance to cast a unique ability on yourself by 20% (permanent, can stack up to 3 times, cannot be reversed). This attack will deal 20% more damage to Ve boxer. Drains 15% of target's max HP and 200 fury , has a 60% chance to stun. Solve the beneficial status of 1 random horizontal enemy.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "FEMALE BAGS・JISSOUKOKU",
+					"description": "Attacks a random target in the back row. For 2 turns, increase self damage, damage resistance, and critical rate by 20%. Deals extra damage equal to 250% of own ATK (ignoring immunity), applies a \"cursing wind\" effect to the target's vertical line (reduces crit chance and ultimate attack damage by 15%, ignores immunity). null, cannot be disarmed, lasts 1 turn). If the main target is killed while under the curse, grants themselves 7% ATK and DEF (permanent, stacks up to 3 times). Releases control status including petrification to 2 random teammates.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "BREATH OF WIND",
+					"description": "When in battle reduces ATK (15% at lvl 1, permanently) and 15% Critical Damage (2 turns) of all enemies (ignoring immunity). Increases self's attack and defense by 35% and crit chance by 30%. Increases self's own magic damage resistance by 20% (for every 1 Orochi bloodline ally, excluding yourself and aid will increase effectiveness by 5%). When entering the battle, buff yourself 1 time with blood palsy resistance (1 time only, ignore immunity, maintain forever). If the enemy has 2 or more people, each time being attacked, the maximum damage you take will not exceed 50% of your HP. The first turn when entering the enemy's battle, reduce 55% of the enemy's ultimate attack damage (1 turn, ignore immunity, cannot be reversed). If the enemy has 2 or more people when entering the battle, at the beginning of each turn, the enemy side will buff \"guardian wind\" for themselves and teammates standing in the same line. (increases resistance to magic damage by 20% and resistance to single-hit damage, stackable, cannot be negated, disappears after 1 turn or after being hit 3 times with special skills or unique moves). For those who have the \"guardian wind\" buff, will recover 15% of their maximum HP every time they are attacked with a special skill or a unique move. When receiving fatal damage, will not die, hide into the wind and return to the field on our side's next turn, release control status including petrification, recover 70% of max HP and 200 fury, increase speed by 20% self-regeneration (can be stacked up to 2 times, permanent). The above effect can be activated up to 2 times, each activation will restore 20% of maximum HP, increase 20~50% of super damage resistance for all allies (excluding self and hidden teammates). , the smaller the teammate, the greater the increase, lasting 1 turn).",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "IGNIZ_02_UM",
 			"skills": [
 				{

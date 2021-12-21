@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "GOENITZ_02_UM",
+			"fates": [
+				{
+					"bosses": "Goenitz 02 UM, O. Chris 02 UM, O. Shermie 02 UM, O.Yashiro 02 UM",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Goenitz 02 UM, Goeniko, Goenitz",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Goenitz 02 UM, Igniz, Rugal",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "IGNIZ_02_UM",
 			"fates": [
 				{
