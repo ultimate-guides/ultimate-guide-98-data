@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "BENIMARU_XIII",
+			"partners": {
+				"partner_1": "KYO",
+				"partner_2": "DAIMON",
+				"partner_3": "BENIMARU_2003"
+			}
+		},
+		{
 			"fighter_id": "GOENITZ_02_UM",
 			"partners": {
 				"partner_1": "CHRIS",

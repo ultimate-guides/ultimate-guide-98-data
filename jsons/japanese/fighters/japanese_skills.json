@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "BENIMARU_XIII",
+			"skills": [
+				{
+					"name": "THREE DEVELOPMENT ",
+                    "description": "Attacks a single target, prioritizing the target that is affected by \"electrical suction\", draining 20% of crit resistance and paring ratio (2 turns). Has a 40% chance to paralyze the target (if the target is under \"electrical gravity\", chance increases to 60%). If the enemy has been hit by \"electrical suction\", will increase unique attack damage by 30%. Restores 15% max HP and 200 rage to self, 20% shield durability. If you are without a shield, you will recover 10% of your maximum HP.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "WINDOW",
+					"description": "Attacks a target, prioritizing the target that is affected by \"electrical gravity\". For 2 turns, grant yourself 20% ATK, DEF, and 30% Control Rate. Deals 40% bonus damage to nearby enemies (ignoring immunity), has a 60% chance to paralyze damaged targets and a 50% chance to apply \"electrical gravity\" to them. 2 random people in it. Deals extra damage equal to 15% of your maximum HP to paralyzed targets (ignoring immunity), restores 40% of your shield's durability. If you don't have a shield, you will buff yourself with a \"lightning shield\" with a shield durability equal to 20% of your maximum HP (only activated if when entering the battle, the enemy team has 2 or more people).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "GENERATOR",
+					"description": "Increases self's damage resistance (25% at lvl 1). Increases self by 25% immunity rate, rage speed, and ultimate damage resistance. When entering the battle, will buff \"lightning shield\" for yourself (shield durability is equal to 100% of your own HP at the time of battle, if it is 1vs1 when entering the battle, the shield's durability is 50%), if you have a shield, it will increase grants himself 40% immunity, 15% super damage resistance. If the shield is broken, it will apply \"electrical attraction\" to the person who broke the shield (2 turns, reduce ATK, defense by 15%, Rage speed, ignore immunity, cannot be disarmed), and buff \" Electric Overload\" to self (1 turn, cannot be negated, nullified with fury reduction effect, increases counterattack rate by 100%, if hit with a special skill, will deal damage equal to 20% of remaining HP on targets that are affected by \"electrical gravity\", recovering 20% of your maximum HP). If you are affected by paralysis, will absorb paralysis, release the control state for yourself, recover 10% of your maximum HP, increase your control rate by 10% for 2 turns (can stack up to 3 times) , cannot be resolved). When receiving fatal damage will not die, hide into the thunder and return to the field on our side's next turn, release control status including petrification, recover 50% of max HP and 200 fury. Also buff \"lightning shield\" with shield durability equal to 50% of max HP. Activate up to 2 times, if it is 1vs1 when entering the game, it will only activate 1 time.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "GOENITZ_02_UM",
 			"skills": [
 				{

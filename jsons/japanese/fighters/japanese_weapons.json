@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "BENIMARU_XIII",
+			"weapon_awakened": {
+				"name": "Lightning Illusion",
+				"description": "Attacks a target, prioritizing the target that is affected by \"electrical gravity\". For 2 turns, grant yourself 30% ATK, DEF, and 40% Control Rate. Ignores block and resist on main target , deals 50% bonus damage to nearby enemies (ignoring immunity), has 70% chance to paralyze damaged targets and 50% chance to apply \"electrical attraction\" effect on targets . If you have the buff \"Electric overload\", will reduce 150 more fury on targets affected by \"electrical attraction\".  Deals extra damage equal to 15% of max HP to paralyzed targets (ignoring immunity), restores <font color='#FFA726'>50%>/font> of shield durability. If you don't have a shield, you will buff yourself with a \"lightning shield\" with a shield durability equal to <font color='#FFA726'>30%</font> of your maximum HP (only activated if when entering the battle, the enemy team has 2 or more people).<font color='#FFA726'> Each target that is affected by \"electrical attraction\" will grant themselves 6% more magic damage this turn, definitely launching poison.</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "GOENITZ_02_UM",
 			"weapon_awakened": {
 				"name": "Dead Sea Literature",

@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "BENIMARU_XIII",
+			"fates": [
+				{
+					"bosses": "Benimaru XIII, O. Kyo Fire Flame, Daimon",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Benimaru XIII, Elisabeth, O. Chris 02 UM, Mukai",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Benimaru XIII, Benimaru, Benimaru 2003",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "GOENITZ_02_UM",
 			"fates": [
 				{

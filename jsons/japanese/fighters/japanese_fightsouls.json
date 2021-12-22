@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "BENIMARU_XIII",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "The first turn when entering the battle will have a large amount of RAGE. When attacking will restore RAGE.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "GOENITZ_02_UM",
 			"fightsoul": {
 				"name": "TIGER",
