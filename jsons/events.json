@@ -220,7 +220,7 @@
 	{
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Login every day from Dec. 24th to Dec. 31st to get Diamonds, Power Fragment, Senior Cuisine and other valuable items! Don't forget to login every day!",
 		"month": "Dec.",
 		"month_id": 12,
 		"name": "Christmas Login Rewards. ",
@@ -228,7 +228,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Recharge cumulatively from Dec. 24th to Dec. 31st to get Orochi Chris 02 UM Fragment, Power Fragment, Awakening Gem, Badge Material, Tome Material and other valuable items!",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Cumulative Recharge Rewards. ",
@@ -236,7 +236,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Complete Orochi Chris 02 UM and Purple Nakoruru's fighter task to get rich rewards. You can also get Roulette Cards and Christmas Coins which can be used in Christmas Roulette and Christmas Store respectively! Don’t miss the chance!",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Fighter Task. ",
@@ -244,7 +244,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Collect the Roulette Cars to draw in Christmas Roulette! Each time you draw you will get 1 item on this roulette. You can also get  Star Lord Fashion and Chinese Zodiac Portrait Frame for reaching the certain number of cumulative draws!",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Roulette. ",
@@ -252,7 +252,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Christmas Wish event includes Activity Level Wish and VIP Wish. When your Activity Level reaches the specified level, the Wish Card function will be opened, and you can click the Wish Bottle to make a wish. VIP Wish has nothing to do with Activity Level, you can open the Wish Card when you reach VIP level requirement. After you successfully make a wish, you can receive the item that you wish for after 5 am in next day.",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Wish. ",
@@ -260,7 +260,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Come and get Power Fragment Lucky Bag! Buy 10 Lucky Bags and get 1 extra Power Fragment! When the whole count in all the servers reaches the specified numbers, all the players can claim the chest rewards.",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Lucky Bag. ",
@@ -268,7 +268,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Diamonds will be stored in Money-box when you complete the tasks. Take your Diamonds from the Money-box with the very low price when it’s full!",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Money Box. ",
@@ -276,7 +276,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Christmas Store opens for limited time! Use your Christmas Coins to buy Purple Nakoruru Fragemtn, Weapon Soul Fragment, Power Fragment, Power Aid Soul, Rare Mark Chest and other valuable items! Christmas Coins can be gotten through completing tasks.",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Store. ",
@@ -284,7 +284,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Christmas Benefit Pack unlocks for limited time! Buy one kind of Benefit Pack and claim the valuable item every day within a certain time period! Don’t miss the chance to get Orochi's Blood, Power Fragment, Draw Ticket and other valuable items!",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Benefit Pack. ",
@@ -292,7 +292,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Complete the daily task on Christmas Tree to gain rewards! Extra rewards can be gained when the task in a line is completed! ",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Tree. ",
@@ -300,7 +300,7 @@
 	}, {
 		"day": 24,
 		"dayEnd": 31,
-		"description": "",
+		"description": "Jingle Bells! Jingle Bells! Jingle all the way! Sledge Adventure event is coming! Complete the daily task to gain Elf Powder. Use the Elf Powder to make the sledge move foward and gain Diamonds, Power Fragment, Purple Nakoruru Fragment and other rare items.",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Sledge Adventure. ",
@@ -308,7 +308,7 @@
 	}, {
 		"day": 27,
 		"dayEnd": 31,
-		"description": "Christmas Special Sales are available from Dec. 27th to Dec. 31th! Christmas Special Sales is available for limited time! Resources Stores, Fighters Stores, Aid Stores, Gene Stores, and Rune Stores are waiting for you! Come and get the valuable items during the event!",
+		"description": "Account registered for 4 days. Level 25+",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Special Sales. ",
@@ -316,7 +316,7 @@
 	}, {
 		"day": 27,
 		"dayEnd": 24,
-		"description": "",
+		"description": "Christmas Value Pack unlocks for limited time! Don't miss the chance to get Diamonds, Aid Soul, NESTS Core Draw Ticket, and other valuable items!",
 		"month_id": 12,
 		"month": "Dec.",
 		"name": "Christmas Value Pack. ",
