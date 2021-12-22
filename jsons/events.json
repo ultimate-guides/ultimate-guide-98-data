@@ -216,7 +216,113 @@
 		"month": "Dec.",
 		"name": "Single Top-up for Resources. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Single_Top_Up.png"
+	},
+	{
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month": "Dec.",
+		"month_id": 12,
+		"name": "Christmas Login Rewards. ",
+		"eveimgurl": ""
 	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Cumulative Recharge Rewards. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Fighter Task. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Roulette. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Wish. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Lucky Bag. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Money Box. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Store. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Benefit Pack. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Tree. ",
+		"eveimgurl": ""
+	}, {
+		"day": 24,
+		"dayEnd": 31,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Sledge Adventure. ",
+		"eveimgurl": ""
+	}, {
+		"day": 27,
+		"dayEnd": 31,
+		"description": "Christmas Special Sales are available from Dec. 27th to Dec. 31th! Christmas Special Sales is available for limited time! Resources Stores, Fighters Stores, Aid Stores, Gene Stores, and Rune Stores are waiting for you! Come and get the valuable items during the event!",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Special Sales. ",
+		"eveimgurl": ""
+	}, {
+		"day": 27,
+		"dayEnd": 24,
+		"description": "",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Christmas Value Pack. ",
+		"eveimgurl": ""
+	},
+	 {
 		"day": 24,
 		"dayEnd": 31,
 		"description": "Cumulatively recharge a certain amount for valuable items! ",
