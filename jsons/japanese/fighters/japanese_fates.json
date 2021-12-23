@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "ELISABETH_XI",
+			"fates": [
+				{
+					"bosses": "Iori XIV, Benimaru XIII, Duolon",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Iori XIV, Elisabeth, Ash",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Iori XIV, Saiki, Demon Saki",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "IORI_XIV",
 			"fates": [
 				{

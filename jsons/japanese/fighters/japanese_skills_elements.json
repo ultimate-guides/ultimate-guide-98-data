@@ -1,6 +1,20 @@
 {
 	"skills_elements": [
 		{
+			"fighter_id": "ELISABETH_XI",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": "",
+				"lake_pt": "",				
+				"thunder": "",
+				"thunder_es": "",
+				"thunder_pt": "",				
+				"water": "",
+				"water_es": "",
+				"water_pt": ""
+			}
+		},
+		{
 			"fighter_id": "BENIMARU_XIII",
 			"skills_elements": {
 				"lake": "Increases self's damage resistance ( <font color='#FFA726'>30%</font> at lvl 1). Increases self by <font color='#FFA726'>35%</font> immunity rate, rage speed, and ultimate damage resistance. When entering the battle, will buff \"lightning shield\" for yourself (shield durability is equal to 100% of your own HP at the time of battle, if it is 1vs1 when entering the battle, the shield's durability is 50%), if you have a shield, it will increase grants himself <font color='#FFA726'>60%</font> immunity, <font color='#FFA726'>20%</font> super damage resistance. If the shield is broken, it will apply \"electric attraction\" to the person who broke the shield (2 turns, reduces ATK , defense by <font color='#FFA726'>20%</font> , Rage speed, ignores immunity, cannot be disarmed), <font color='#FFA726'>paralyzes</font> the shield. self, recover <font color='#FFA726'>300</font> Rage,at the same time buff \"Electricity overload\" to yourself (1 turn, can't be neutralized, nullified with fury reduction effect, 100% counter rate increase, if attacked with a special skill, will deal damage equal to <font color='#FFA726'>25%</font> HP remaining on targets affected by \"electrical gravity\", heals <font color='#FFA726'>25%</font> of your maximum HP). If you are affected by paralysis, will absorb paralysis, release the control state for yourself, recover <font color='#FFA726'>20%</font> of your maximum HP, increase your control rate by <font color='#FFA726'>15%</font> for 2 turns (can stack up to 3 times) , cannot be resolved). When receiving fatal damage, will not die, hide into the thunder and return to the field on our side's next turn, release control status including petrification, restore <font color='#FFA726'>70%</font> of max HP and <font color='#FFA726'>300</font> Rage. Also buff \"lightning shield\" with shield durability equal to 50% of max HP. Activate up to 2 times, if it is 1vs1 when entering the game, it will only activate 1 time.",

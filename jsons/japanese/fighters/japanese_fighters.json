@@ -1,19 +1,19 @@
 {
 	"fighters": [
 		{
-			"fighter_id": "IORI_XIV",
-			"fightsoul_id": "TURTLE",
-			"name": "Iori XIV",
+			"fighter_id": "ELISABETH_XI",
+			"fightsoul_id": "BEAR",
+			"name": "Elisabeth XI",
 			"chinese_name": "女 天狗",
 			"japanese_name": "紅丸XIII Ver",
 			"api": 15,
-			"type_id": "DPS",
-			"gender_id": "MALE",
-			"tome_id": "SCORCHING",
-			"badge_id": "OROCHI",
+			"type_id": "TANK",
+			"gender_id": "FEMALE",
+			"tome_id": "SUPER",
+			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0
-		},
+		},	
 		{
 			"fighter_id": "BENIMARU_XIII",
 			"fightsoul_id": "BEAR",
@@ -179,6 +179,20 @@
 			"gender_id": "FEMALE",
 			"tome_id": "THAI",
 			"badge_id": "BEAUTY",
+			"status": 0,
+			"striker": 0
+		},
+		{
+			"fighter_id": "IORI_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "Iori XIV",
+			"chinese_name": "女 天狗",
+			"japanese_name": "紅丸XIII Ver",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "SCORCHING",
+			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0
 		}

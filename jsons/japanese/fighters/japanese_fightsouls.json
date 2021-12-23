@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "ELISABETH_XI",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "When entering the battle, there will be a large amount of Rage. When attacked, will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "IORI_XIV",
 			"fightsoul": {
 				"name": "TURTLE",

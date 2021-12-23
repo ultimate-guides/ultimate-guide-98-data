@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "ELISABETH_XI",
+			"partners": {
+				"partner_1": "ASH",
+				"partner_2": "SHEN_WOO",
+				"partner_3": "OSWALD"
+			}
+		},
+		{
 			"fighter_id": "BENIMARU_XIII",
 			"partners": {
 				"partner_1": "KYO",

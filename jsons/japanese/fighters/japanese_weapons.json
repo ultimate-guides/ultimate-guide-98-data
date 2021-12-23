@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "ELISABETH_XI",
+			"weapon_awakened": {
+				"name": "Royal whip",
+				"description": "Attacks a random target in the back row. Grants yourself <font color='#FFA726'>25%</font> damage, damage resistance, <font color='#FFA726'>40%</font> critical resistance for 2 turns. Applies \"Light True\" to the main target and nearby enemies (15% reduced damage resistance, 25% defense, 30% block chance, 2 turns, ignores immunity, stacks up to 2 ranks) , each solution can only solve 1 level). If the main target is hit with \"Light of Light\" will deal bonus damage equal to maximum HP (<font color='#FFA726'>12% of maximum HP per 1 level of \"Light of Light\"</font>) and <font color='#FFA726'>40%</font> of the damage is spread to nearby enemies (no cooldown). enemy fury). When hit by a target that is hit by \"Light Eater\", will drain <font color='#FFA726'>15%</font> of his remaining HP,<font color='#FFA726'>also reduce the healing rate by 20% (2 turns, skipping immunity)</font> . Reduces fire damage of all enemies by <font color='#FFA726'>35%</font> for 2 turns (ignoring immunity). <font color='#FFA726'>This turn will definitely cast a unique move. Activate the area of \"Light Kingdom\" (2 turns), self nullify with normal control effects including petrification, shrinking, healing rate reduction, fury reduction, extended damage and fire of Evil Saiki Devil. Buff gives all sides 30% penetration rate, 15% ultimate attack damage (can stack with similar buffs).</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "BENIMARU_XIII",
 			"weapon_awakened": {
 				"name": "Lightning Illusion",

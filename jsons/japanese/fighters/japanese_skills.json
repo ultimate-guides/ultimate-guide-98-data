@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "ELISABETH_XI",
+			"skills": [
+				{
+					"name": "ETANCHER",
+                    "description": "Attacks a horizontal line (prioritizes the target being \"Lighted\" as the main target), drains 200 fury from the main target. If the target is hit by 1 tier of \"Light True\", it will reset the number of sustains and deal 1 more tier. If the target is being hit by 2 tiers, \"Light\" will detonate 1 tier (reset the remaining 1 tier's maintenance count).  Deals extra damage equal to 15% of max HP to enemies around the main target, dealing 1 tier of \"Light True\" to 1 random nearby target (if affected by \"Luminous\" will reset the number of maintenance turn). Increases the probability of casting PERFECT for all of our factions by 30% (2 turns), buffs self by 1 times of blood paralysis resistance (2 turns). If you are active in the \"Light Kingdom\" area and the main target is affected by \"Light\", will buff yourself with shield durability equal to 60% of your maximum HP (if you have a shield, it will restore 20% of your shield's durability). ).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "CIEL ETOILE",
+					"description": "Attacks a random target in the back row. Increases self 20% damage, damage resistance, 35% crit resistance for 2 turns. Applies “Light True” to the main target and nearby enemies (15% reduced damage resistance, 25% defense, 30% block chance, 2 turns, ignores immunity, stacks up to 2 ranks) , each solution can only solve 1 level). If the main target is hit by 2 tiers of \"Light Real\" will deal 15% more damage equal to 15% of max HP and 30% of damage spread to nearby enemies (does not heal enemies). When hit by a target that is hit by \"Light Food\", will drain 10% of his remaining HP. Reduces fire damage of all enemies by 30% for 2 turns (ignoring immunity).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "WHITE PROTECT",
+					"description": "reduces all enemies' ATK (15% at lvl 1, permanently) and excellent skill damage (2 turns) by 10%. This passive reduce ATK and damage ignores immunity. When entering battle, increase self by 20% of max HP, buff shield with durability equal to 50% of max HP. Increases attack and defense by 35%, ultimate resistance to damage by 40%, crit resistance by 40% and increases damage resistance by 20~50% (the smaller the number of people on our side, the more it increases, can be stacked with the same buff).  When entering battle, increase your own super damage resistance by 50%, from turn 2 onwards, each time you activate the \"Light Kingdom\" area, you will reduce your super damage resistance by 10%, recover 30% of your maximum HP, when you enter the battle. dead or super damage resistance reduced to 0 the effect will be lost.  When you have a shield, it will be nullified with the rage reduction effect, when attacked by an enemy with the mark of \"Light of Light\", will reduce his crit resistance by 10% (2 turns, ignore immunity, can be added to the bonus). accumulating). When entering the battle, if our side has 2 or more people, the maximum damage you take will not exceed 40% of your maximum HP (every 1 enemy marked \"Obvious\" will decrease by 3% of the limit) Damage). When receiving fatal damage, will not die, release control status including petrification, recover all HP and MAX fury, buff shield with shield durability equal to 80% of maximum HP, permanently increase 40% super damage resistance and 60% resistance to unique attack damage, activates up to 1 time.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "BENIMARU_XIII",
 			"skills": [
 				{
