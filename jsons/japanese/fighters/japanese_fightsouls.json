@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "IORI_XIV",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "When attacked, it will regenerate Rage. When the enemy side or our side dies, it will rage",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "BENIMARU_XIII",
 			"fightsoul": {
 				"name": "BEAR",

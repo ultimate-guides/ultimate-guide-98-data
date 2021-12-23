@@ -347,6 +347,35 @@
 					"description_pt": ""					
 				}
 			]
+		},
+		{
+			"fighter_id": "IORI_XIV",
+			"skills": [
+				{
+					"name": "YUAN FIRE",
+                    "description": "Attacks one target, inflicting \"armor-breaking\" effect (2 turns, reducing super damage resistance by 15%, crit resistance by 30%. ), inflicts 1 tier \"Fire of the Moon\" to the primary target. Inflicts \"Fire of the Moon\" on the target behind, equal to the number of steps inflicted on the target in front. If this attack is critical, it deals 120% bonus damage equal to 120% of self's ATK x (1+the number of tiers of \"Crescent Flame\" dealt to the target). If the main target is hit by \"Squirrel Moon Flame\", will inflict 1 tier \"Squirrel Moon Flame\" to the target behind. ",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "WINDOW",
+					"description": "Drains 10% of the main target's attack, defense, 20% damage, and damage resistance (2 turns). Deals extra damage equal to 25% of your maximum HP to a shielded target. Ignore counter rate proportional to own critical rate. Each enemy that is hit by \"armor break\" will increase their own magic damage by 5%. If your own \"force of fishing for pearls\" is less than 3 levels, you will use the \"Bat De\" technique, if you have 3 or more steps, you will use the \"Bat chi umbrella\" technique. \"Eighth\": attacks in a horizontal line, dealing 1 level of \"Fire of the Moon\" to the target (2 turns, burns 150% of own ATK, does not heal enemies). If you attack an enemy with \"armor breaking\", you will gain 1 level of \"Pearl Fishing Power\", if the target is an enemy with Orochi blood or the last Boss, you will gain 1 more level. \"Eight of Umbrellas\": attack a target, for 2 turns increase self damage by 20%. Inflicts 1 level of \"Squill Moon Flame\" on the target (2 turns, burns equal to 100% of own ATK, also reduces rage by 200, does not heal enemies). Causes the enemy to fall into a state of \"judgment\" (ignoring immunity, cannot be resolved, 2 turns, when the enemy acts, there will be a 50% probability of removing his own beneficial buff).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "YASAKANI GROUND",
+					"description": "Super ATK : When in battle, reduces ATK (20% at lvl 1, permanently) and 10% damage resistance (3 turns) of all enemies (ignoring immunity), passively reduces ATK with both respawn enemy targets and combat aid. All other ATK reduction passives will be nullified (both enemy and our side). Increases own attack, defense, ultimate skill damage, and excellent skill damage resistance by 35%. Increases self crit chance by 50% and crit damage by 25% (each enemy with Orochi or Last Boss blood will increase themselves by 5%, up to 15%). On our side's turn, if you don't have MAX fury, you will drain 400 fury from an enemy with the highest fury (this fury drainer can't parry and won't crit). The first turn when entering the battle will have 50% super damage resistance. Self incapacitated with paralysis and chains. When entering the battle if both the enemy and I have 2 or more people, the maximum damage that you take will not exceed 70% of your maximum HP. When entering battle or after respawning, will gain 3 levels of \"Pearl Fishing Power\" (owning up to 3 levels), causing an \"armor breaking\" effect on the front line of the enemy (1 turn, reducing super damage resistance by 25% damage, 40% block rate). When attacked, will spend the remaining 3~5% HP of all enemies to recover the corresponding HP for yourself, at least 15~25% of your own HP, unaffected by healing rate, 1 turn heals up to 5 times, the lower the HP itself, the more it heals. Has the ability to respawn 2 times with full HP and MAX fury (if it's 1vs1, only respawn once), enter a riot state for 2 turns (35% crit chance, 70% parry chance) , in the turn of action of our side will gain 1 more level of \"Pearl fishing power\").",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
 		}
     ]
 }

@@ -119,6 +119,16 @@
 				"description_pt": "",
 				"contributor": "UG Team"
 			}
+		},
+		{
+			"fighter_id": "IORI_XIV",
+			"weapon_awakened": {
+				"name": "Blue Flame Jade",
+				"description": "Absorbs <font color='#FFA726'>15%</font> of main target's ATK, DEF , <font color='#FFA726'>30%</font> DMG, and Damage Resist (2 turns, <font color='#FFA726'>ignores free of charge</font>) false ). Deals extra damage equal to <font color='#FFA726'>30%</font> of max HP to shielded targets. Ignore counter rate proportional to own critical rate. Each enemy hit by \"armor break\" will increase their own damage by 8%. If your own \"force of fishing for pearls\" is less than 3 levels, you will use the \"Bat De\" technique, if you have 3 or more steps, you will use the \"Bat chi umbrella\" technique. \"Eight Threads\": attacks in a horizontal row,<font color='#FFA726'> dealing additional damage equal to 20% of the target's remaining HP</font>,Deals 1 tier \"Fire of the Moon\" to the target (2 turns, burns 150% of own ATK, does not heal enemies).<font color='#FFA726'> Unleash the effect of \"break armor\" for yourself and a random ally, if both are not \"armor broken\", will effectively buff \"steel wall\" (2 turns, 40% increase in block rate and resistance) critical)</font>. If you attack an enemy with \"armor breaking\", you will gain 1 level of \"Pearl Fishing Power\", if the target is an enemy with Orochi blood or the last Boss, you will gain 1 more level. \"Eight of Umbrellas\": attack a target, for 2 turns increase self damage by <font color='#FFA726'>25%</font> .<font color='#FFA726'> This attack bypasses the target's damage cap, dealing extra damage equal to 30% of the target's remaining HP</font>.Inflicts 1 level of \"Squill Moon Flame\" on the target (2 turns, burns equal to 100% of own ATK, also reduces rage by 200, does not heal enemies). Causes the enemy to fall into a state of \"judgment\" (ignoring immunity, cannot be resolved, 2 turns, when the enemy acts, there will be a 50% probability of removing his own beneficial buff). <font color='#FFA726'>If the enemy has a shield, this attack deals 40% extra damage (this extra damage ignores the shield). While the self exists, the stage will change to the \"Dimensional Yasakani\" floor (after changing the floor, will make it impossible for the boxers who are Orochi's incarnations to be revived), the self acquires a \"Key\" level. lock the jade\" (2 turns, while the \"Yasakani\" floor is still active, self incapsulates with scorching damage, increasing Rage Speed by 25%.Increasing poison damage by 25% and chance of casting poison to all members by 25%. set of fire-type fighters on our side, can be stacked with the same buff).</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
 		}
     ]
 }

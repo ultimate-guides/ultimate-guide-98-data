@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "IORI_XIV",
+			"fates": [
+				{
+					"bosses": "Iori XIV, Vice XIII, Mature XIII",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Iori XIV, Iori Instinct, Flame Kyo",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Iori XIV, Daimon Goro, Igniz 02 UM",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "BENIMARU_XIII",
 			"fates": [
 				{
