@@ -1,6 +1,20 @@
 {
 	"skills_elements": [
 		{
+			"fighter_id": "ANGEL_XIV",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": "",
+				"lake_pt": "",				
+				"thunder": "",
+				"thunder_es": "",
+				"thunder_pt": "",				
+				"water": "",
+				"water_es": "",
+				"water_pt": ""
+			}
+		},
+		{
 			"fighter_id": "ELISABETH_XI",
 			"skills_elements": {
 				"lake": "When in battle, reduces all enemies' ATK (15% at lvl 1, permanently) and amazing skill damage resistance (2 turns) by 10%. This passive reduce ATK and damage ignores immunity. When entering battle, increase self by <font color='#FFA726'>25%</font> of max HP, buff shield with durability equal to <font color='#FFA726'>70%</font> of max HP. Increases attack and defense by <font color='#FFA726'>40%</font> , ultimate resistance to damage by <font color='#FFA726'>50%</font> , crit resistance by <font color='#FFA726'>50%</font> and increases damage resistance by <font color='#FFA726'>30</font> ~50% (the smaller the number of people on our side, the more it increases, can be stacked with the same buff).  When entering battle, increase your own super damage resistance by 50%, from turn 2 onwards, each time you activate the \"Light Kingdom\" area, you will reduce your super damage resistance by 10%, recover <font color='#FFA726'>40%</font> Max HP, when self dies or super damage resistance is reduced to 0, the effect will be lost.  <font color='#FFA726'>Self nullified with fury reduction effect</font>. When you have a shield, when attacked by an enemy with the \"Light of Light\" mark, will reduce his crit resistance by <font color='#FFA726'>15%</font> (2 turns, ignore immunity, can stack).<font color='#FFA726'> When your shield is broken by an enemy with the mark of \"Real Light\", will permanently increase self defense by 4% (can be stacked with the same buff, up to 20%)</font>. When entering the battle, if our side has 2 or more people, the maximum damage you take will not exceed <font color='#FFA726'>35%</font> of your maximum HP (every 1 enemy marked \"Obvious\" will decrease by 3% of the limit). Damage). When receiving fatal damage will not die, release control status including petrification, restore all HP and MAX fury, buff shield with shield durability equal to <font color='#FFA726'>100%</font> of maximum HP <font color='#FFA726'>(unaffected by blood paralysis)</font> , Permanently increases super damage resistance by 20% and unique damage resistance by <font color='#FFA726'>30% (can stack with the same buff)</font> , activates up to <font color='#FFA726'>2 times .</font>",

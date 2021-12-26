@@ -1,6 +1,20 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "ANGEL_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "Angel XIV",
+			"chinese_name": "女 天狗",
+			"japanese_name": "紅丸XIII Ver",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "FEMALE",
+			"tome_id": "KARATE",
+			"badge_id": "BEAUTY",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "ELISABETH_XI",
 			"fightsoul_id": "BEAR",
 			"name": "Elisabeth XI",

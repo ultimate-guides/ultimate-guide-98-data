@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "ANGEL_XIV",
+			"weapon_awakened": {
+				"name": "Boot Nests",
+				"description": "Attack a target <font color='#FFA726'>with low HP</font>. For 2 turns, increase self by <font color='#FFA726'>27%</font> ATK, Defense (<font color='#FFA726'>if you stand in the front row will increase your defense by 20%, if you stand in the back row will increase by 15%</font>) and <font color='#FFA726'>60%</font> penetration rate. Absorbs <font color='#FFA726'>40%</font> of the target's chance of launching poison and crit <font color='#FFA726'>resistance</font> (2 turns, ignoring immunity), dealing additional damage equal to <font color='#FFA726'>20%</font> of the target's maximum HP. If the target's HP is below <font color='#FFA726'>60%</font> , will deal extra damage equal to <font color='#FFA726'>300%</font> of own ATK + Defense. <font color='#FFA726'>Also deals 50% bonus damage this time + 50% overpowered damage to another random target. Gain 1 time against polio (2 turns)</font>. Acquire \"breakthrough ability\" (1 turn, cannot be reversed), reduce <font color='#FFA726'>50%</font> of the damage taken by Strike and <font color='#FFA726'>Skill</font> fighters (not counting bonus damage), 40% each time you lose yourself HP (cumulative), will receive 1 level of \"latent force\" (can stack up to 6 times, cannot be resolved), if you are in the front row, <font color='#FFA726'>the maximum damage you take each time being attacked will not exceed 50% of max HP</font>, each time absorbing \"latent force\" will permanently increase <font color='#FFA726'>4%</font> chance of parry and ultimate damage resistance (up to <font color='#FFA726'>24%</font>) , if you stand in line after,this attack will ignore <font color='#FFA726'>70%</font> of the target's defense, each time absorbing \"latent force\" will permanently increase <font color='#FFA726'>4%</font> crit chance and crit damage (up to <font color='#FFA726'>24%</font> ).",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "ELISABETH_XI",
 			"weapon_awakened": {
 				"name": "Royal whip",

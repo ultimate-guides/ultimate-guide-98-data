@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "ANGEL_XIV",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "When attacked, will restore Rage. When attacking will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "ELISABETH_XI",
 			"fightsoul": {
 				"name": "BEAR",

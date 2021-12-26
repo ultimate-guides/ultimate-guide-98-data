@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "ANGEL_XIV",
+			"fates": [
+				{
+					"bosses": "Angel XIV, Foxy, Kula XIV",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Angel XIV, Maxima XIV, K' XIV",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Angel XIV, Shermie, Shermie 02 UM",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "ELISABETH_XI",
 			"fates": [
 				{

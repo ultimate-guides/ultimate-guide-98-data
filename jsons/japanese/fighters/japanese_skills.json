@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "ANGEL_XIV",
+			"skills": [
+				{
+					"name": "ENGINEERING UC",
+                    "description": "Attacks a target. Increases the damage and damage resistance of our female fighters by 4% (2 turns, can stack up to 2 times). Has 60% chance to stun or main target for 1 turn, reduces target's healing rate and Rage rate by 25% (2 turns, ignores immunity, cannot be negated).  Consumes all \"latent force\", marks \"damage\" on enemy target (for 2 turns, at the beginning of our turn, deals destructive damage to the target with 30% of ATK's damage + own defense x (number of tiers of \"latent force\" + 1), up to 1 time, cannot be neutralized, does not cause enemy fury). If the enemy team has a Strike-type fighter, the damage of the \"damage\" will increase depending on the number of fighters that Strike the enemy side (1 Strike=60%, 2 Strike=30%, 3 Strike=20%)",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "REAL RAVE",
+					"description": "Attacks a target. For 2 turns, grant yourself 20% ATK, DEF, and 30% Penetration Rate. Absorb 30% of the target's chance to launch a poison move (2 turns, ignoring immunity), dealing bonus damage equal to 15% of the target's maximum HP. If the target's HP is below 40%, deals additional damage equal to 200% of own ATK + Defense. Acquire \"breakthrough ability\" (1 turn, cannot be reversed), reduce 40% of damage taken by Strike fighters (not counting additional damage), lose 40% of HP each time ( can accumulate), will receive 1 level of \"latent force\" (can be stacked up to 6 times, cannot be resolved), if you are in the front row, each time you perceive \"latent force\" will increase permanently 2% block rate and ultimate damage resistance (up to 12%), if you are in the back row, each time you acquire \"latent force\" will permanently increase your crit chance and damage by 2% critical (up to 12%).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "MACHINE ABILITY",
+					"description": "Increases self damage and damage resistance (20% at lvl 1). Increases self's unique skill damage, ultimate skill damage, and ultimate skill damage resistance by 35%. When entering the battle, if the enemy side or our side has 2 or more people, depending on the number of fighters of the Strike type on the enemy side, they will recover their own fury (1 Strike = 340 fury, 2 Strikes = 200 rage, 3 Strikes= 100 fury), if the enemy side does not have a Strike fighter, permanently increases self by 35% ATK and DEF. Every time an attack exceeds 35% of your maximum HP or when your maximum HP is below 35%, restores 25% of your maximum HP (maximum 3 times per turn). When taking damage from a Strike-type fighter's technique (not counting counterattack), will counterattack with a unique move (this counterattack will reduce the target's fury by 200, increasing the effect's destructive damage by 1 times). results of \"damage\", ignore counterattack, do not cause enemy wrath). When receiving fatal damage, you will not die, activate \"advanced robot\", release self-control including petrification, restore full HP and MAX fury, and gain 2 levels of \"hidden power\", The \"latent force\" acquired this time can accumulate up to 10 levels. “Advanced Robot” activates up to 2 times in a match, if it is 1vs1, it only activates 1 time. ",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "ELISABETH_XI",
 			"skills": [
 				{
