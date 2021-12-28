@@ -271,6 +271,23 @@
 					"attr": "HP +25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "YAMAZAKI_XIV",
+			"fates": [
+				{
+					"bosses": "Yamazaki XIV, Yamazaki",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Yamazaki XIV, Mr. Big, Geese",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Yamazaki XIV,Crazy Iori, Orochi Leona",
+					"attr": "HP +25%"
+				}
+			]
 		}
     ]
 }

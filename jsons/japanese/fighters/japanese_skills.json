@@ -463,6 +463,35 @@
 					"description_pt": ""					
 				}
 			]
+		},
+		{
+			"fighter_id": "YAMAZAKI_XIV",
+			"skills": [
+				{
+					"name": "FIRST STORM",
+                    "description": "Attacks one target. Increases defense and block rate by 50%. Effective buff \"Indomitable\" (The lower your HP, the higher the damage, up to 60%). Deals a \"armor-breaking\" effect on the target (reduces damage resistance by 20% for 2 turns, cannot be negated). Restores 200 fury and 20% max HP. Effective buff \"Trust\" to self (for 1 turn, after taking magic damage, will not take extra skill damage from the same enemy, can be negated up to 2 times, if HP version Body over 50% will effectively buff \"Suppressing Force\", which cannot be reversed).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "SOLID TARGET",
+					"description": "Attacks one target. Increases ATK and DEF by 20%, Resistant to Single Attack Damage by 20%, and Chance to Cast a Unique Skill by 30%. Absorb 20% of main target's damage resistance, increase self damage by 20% damage resistance (1 turn, can be stacked with similar buff). Steals the target's beneficial buff. Steals 1% of the target's HP and HP corresponding to the target's currently attached HP, storing the same amount in \"Crazy Blood\", dealing 25% of that amount. If there is no one behind the target, it will deal 50% more damage, if there is, deal 80% more damage to the target behind. When you are affected by the effect of \"armor breaking\", will activate \"Crazy Blood\". Restores 50% of the accumulated \"Crazy Health\" and does not consume the accumulated \"Crazy Blood\". Solve \"break armor\" for yourself.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "Lonely Wolverine",
+					"description": "Increases self's maximum HP (20% at lvl 1). Increases damage by 35%, resistance to damage, 40% of ultimate damage, and resistance to magic damage. Increases super damage resistance by 20%, every time 1 ally dies, it will increase super damage by 4% (maximum 1 time per ally, excluding battle aid). The first turn when entering the battle, the maximum HP that you take each time you are attacked will not exceed 30~60% (the more enemies, the higher the effect). 40% of the damage dealt (80% after respawning) and 30% of the damage you take will apply to the \"Crazy Blood\" effect (up to 20 times your own ATK). At the beginning of the turn, if \"Crazy Health\" exceeds the maximum limit, it will consume all \"Crazy Health\" and heal yourself. Increases damage resistance corresponding to the amount of health recovered, if the heal exceeds the maximum health mark, will convert that residual amount to crit chance and parry rate (plus 20% more) (lasting 2 turns, cannot be resolved). Each time you spend \"Crazy Blood\" will increase your own ATK by 5% (cannot be reversed, can be stacked with the same buff, unlimited number of stacks). All damage will ignore counterattack. Each turn has 1 time resistance to polio. After death will respawn with full HP and MAX fury. After that, there will be 1 to 3 times of fatal resistance (depending on the number of enemies on the side after respawning), when receiving fatal damage will remove the bad state for yourself. Inflicts an \"armor-breaking\" effect on self and a random enemy target (prioritizes attacked target, reduces damage resistance by 20% for 2 turns). Responsive with great technique, does not cause enemy anger.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
 		}
     ]
 }

@@ -223,6 +223,20 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0
+		},
+		{
+			"fighter_id": "YAMAZAKI_XIV",
+			"fightsoul_id": "SNAKE",
+			"name": "Yamazaki XIV",
+			"chinese_name": "女 天狗",
+			"japanese_name": "山崎竜二XIV Ver",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "OROCHI",
+			"status": 0,
+			"striker": 0
 		}
     ]
 }

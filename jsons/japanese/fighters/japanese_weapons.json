@@ -159,6 +159,16 @@
 				"description_pt": "",
 				"contributor": "UG Team"
 			}
+		},
+		{
+			"fighter_id": "YAMAZAKI_XIV",
+			"weapon_awakened": {
+				"name": "Blood knife",
+				"description": "Attacks a <font color='#FFA726'>target (prioritizes enemies that have not been hit by \"armor break\"), if the target is under \"armor break\" will deal additional damage equal to 15% HP</font>. Increases attack and defense by <font color='#FFA726'>30% , 25%</font> resistance to poison damage, <font color='#FFA726'>40%</font> chance to launch poison. Absorb <font color='#FFA726'>25%</font> of main target's damage resistance, increasing self damage by <font color='#FFA726'>30%</font> damage resistance (1 turn, can be stacked with the same buff). Steals the target's beneficial buff. Steals <font color='#FFA726'>5%</font> of the target's HP and the HP corresponding to the target's attached HP, storing the same amount in \"Crazy Blood\", dealing <font color='#FFA726'>30%</font> of that amount. <font color='#FFA726'>Inflicts a \"Pick\" effect on the main target (after taking action, deals additional damage equal to 3% of your maximum HP, if your own damage is higher than the target's damage resistance, increases by 0.1% per 1 % difference, inflicts blood paralysis equal to 100% of this damage, ignores immunity, cannot be reversed)</font>. If there is no one behind the target, it will deal <font color='#FFA726'>60%</font> more damage, if there is, deal <font color='#FFA726'>100%</font> bonus damage to the target behind. When you are affected by the effect of \"armor breaking\", will activate \"Crazy Blood\". Restores <font color='#FFA726'>60%</font> of the accumulated \"Crazy Health\" amount, does not consume the accumulated \"Crazy Blood\". Solve \"break armor\" for yourself.",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
 		}
     ]
 }

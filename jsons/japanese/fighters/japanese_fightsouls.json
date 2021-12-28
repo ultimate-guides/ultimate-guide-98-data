@@ -143,6 +143,15 @@
 				"description_es": "",
 				"description_pt": ""
 			}
+		},
+		{
+			"fighter_id": "YAMAZAKI_XIV",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "When attacked, it restores Rage. When attacked, it restores Rage",
+				"description_es": "",
+				"description_pt": ""
+			}
 		}
     ]
 }
