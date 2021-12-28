@@ -134,6 +134,15 @@
 				"description_es": "",
 				"description_pt": ""
 			}
+		},
+		{
+			"fighter_id": "YURI_XIV",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": " When the fighter on our side or the enemy dies, it will rage. When attacking will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
 		}
     ]
 }

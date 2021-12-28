@@ -197,6 +197,20 @@
 			}
 		},
 		{
+			"fighter_id": "YURI_XIV",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": "",
+				"lake_pt": "",				
+				"thunder": "",
+				"thunder_es": "",
+				"thunder_pt": "",				
+				"water": "",
+				"water_es": "",
+				"water_pt": ""
+			}
+		},
+		{
 			"fighter_id": "IORI_XIV",
 			"skills_elements": {
 				"lake": "",

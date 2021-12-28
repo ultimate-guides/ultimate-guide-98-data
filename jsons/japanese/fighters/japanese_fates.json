@@ -237,7 +237,7 @@
 					"attr": "HP +25%"
 				}
 			]
-		},
+		},	
 		{
 			"fighter_id": "HONOKA",
 			"fates": [
@@ -252,6 +252,23 @@
 				{
 					"bosses": "Honako, Geese XIV, Omega Rugal",
 					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
+			"fighter_id": "YURI_XIV",
+			"fates": [
+				{
+					"bosses": "Yuri XIV, Robert XIV, Yuri, Robert",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Yuri XIV, New Mr. Karate II, Mr. Karate II ",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Yuri XIV, Mary XIV",
+					"attr": "HP +25%"
 				}
 			]
 		}

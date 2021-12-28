@@ -407,6 +407,35 @@
 			]
 		},
 		{
+			"fighter_id": "YURI_XIV",
+			"skills": [
+				{
+					"name": "NO SPOT",
+                    "description": "Attacks a target. Increases Strength by 2 points. Drain 200 fury and 15% of target's max HP. For 2 turns, increase the chance to cast a unique move by 50%. For 1 turn, if rage reduction (not counting fury reduction from the ultimate skill) will immediately restore 200 fury and 20% max HP. Effective buff \"Iron Wall\" for an ally that does not have this effect (for 2 turns increases damage resistance by 20%, excellent damage resistance, unique damage resistance, cannot be reversed).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "SUPER BREAKING",
+					"description": "Attacks a single target. Increases damage and damage resistance by 20%. Increases critical damage by 30%. Increases Strength by 2 points. If the target's damage resistance rate is higher than your own, deals 25% more damage. Inflicts a bleed effect on the target (2 turns, does not heal enemies). If you have \"Strengthening\" effect, will apply \"Armor Break\" effect on the target for 2 turns (reduce 20% defense and excellent damage resistance, ignore immunity, cannot be negated). If you cast the technique while having more than 50 Strike Points (not counting counterattacks), there's a chance to spend all of your Max Force points (0.5% chance per 1 point) to activate \"Crit cult\" (Double damage this time, crit for sure).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "EXTREME POWER",
+					"description": "Increases the ultimate damage for our side Saver Extreme (30% at lvl 1). Increases own attack, defense, attack damage, critical attack rate, and damage resistance by 20% by 40%. Self is ineffective against counterattacks. The first turn when entering the battle will be nullified with the rage reduction effect, increasing the super damage resistance by 40%, definitely launching a unique move. If you are attacked on the enemy's turn and you have not released a special skill the previous turn, you will counterattack with a special ability (does not return enemy fury but the damage dealt is only 60%). Each time you attack, will increase yourself by 2 points of Strength (up to 100 points). Each time an ally casts a special skill, it will increase themselves by 2 points of Ultimate Strength (doubled if the teammate is a Extreme Saver). For 1 turn only increase up to 10 Max Force points this way. On our side's turn, if an ally is controlled, it will immediately: 1. Dispel bad status for yourself, increase Rage Speed by 20% for 1 turn, recover 300 fury 2. Anesthetize 1 enemy random (ignore immunity) and apply \"tame\" effect on him (for 1 turn reduces ATK by 30%, ignores immunity, cannot be negated) When taking fatal damage will not die, unstatus crowd control, restores 40% HP and 300 fury, permanently increases magic damage resistance and unique attack damage resistance by 40% (cannot stack), hides until the beginning of our side's next turn (cannot be targeted) target to hit, but cannot be activated if there are no other teammates on the field), activates up to 2 times per match.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "IORI_XIV",
 			"skills": [
 				{

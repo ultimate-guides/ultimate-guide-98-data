@@ -197,6 +197,20 @@
 			"striker": 0
 		},
 		{
+			"fighter_id": "YURI_XIV",
+			"fightsoul_id": "TURTLE",
+			"name": "Yuri XIV",
+			"chinese_name": "草薙京",
+			"japanese_name": "ユリXIV Ver",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "FEMALE",
+			"tome_id": "KARATE",
+			"badge_id": "BEAUTY",
+			"status": 0,
+			"striker": 0
+		},
+		{
 			"fighter_id": "IORI_XIV",
 			"fightsoul_id": "TURTLE",
 			"name": "Iori XIV",

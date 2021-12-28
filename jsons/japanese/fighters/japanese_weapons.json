@@ -141,6 +141,16 @@
 			}
 		},
 		{
+			"fighter_id": "YURI_XIV",
+			"weapon_awakened": {
+				"name": "Extreme Savings Belts",
+				"description": "Attacks a single target. Increases damage and damage resistance by <font color='#FFA726'>30%</font> . Increases critical damage by <font color='#FFA726'>40%</font> . Increases Strength by <font color='#FFA726'>3</font> points . If the target's damage resistance rate is higher than your own, deals <font color='#FFA726'>40%</font> more damage. Inflicts a bleed effect on the target (2 turns, does not heal enemies). If you are having \"Strengthening\" effect, will apply \"Armor Break\" effect on the target for 2 turns (reduces <font color='#FFA726'>50%</font> defense and 20% resistance to attack damage, ignores immunity, cannot be neutralized) .<font color='#FFA726'> Deals extra damage equal to 15% of target's current HP. Deals 40% splash damage to a target marked \"tamed\". Release the control status for 1 ally (prioritizes the controlled, only active once per turn)</font>. If you cast the technique while you have more than 50 Max Force points (not counting counterattacks), there is a chance to spend all of your Power Points ( <font color='#FFA726'>0.7%</font> chance per 1 point) to activate \"Crit cult\" ( <font color='#FFA726'>triple damage</font> this time, crit for sure).",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "IORI_XIV",
 			"weapon_awakened": {
 				"name": "Blue Flame Jade",
