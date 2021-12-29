@@ -322,7 +322,7 @@
 		"name": "Christmas Value Pack. ",
 		"eveimgurl": ""
 	},
-	 {
+	{
 		"day": 24,
 		"dayEnd": 31,
 		"description": "Cumulatively recharge a certain amount for valuable items! ",
@@ -482,5 +482,326 @@
 		"month": "Dec.",
 		"name": "Spend for Rewards. ",
 		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
+	},
+	{
+		"day": 31,
+		"dayEnd": 2,
+		"description": "Rare fashion for Billy XIV is available during the event.",
+		"month": "Dec.",
+		"month_id": 12,
+		"name": "Fashion Pack. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
+	}, {
+		"day": 31,
+		"dayEnd": 3,
+		"description": "Equipment Pack can increase Billy XIV to:",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Fighter Equipment Pack (Billy XIV). ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_equipment.png"
+	}, {
+		"day": 31,
+		"dayEnd": 3,
+		"description": "Upgrade pack can increase Billy XIV to:",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Fighter Upgrade Pack (Billy XIV). ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_upgrade.png"
+	}, {
+		"day": 31,
+		"dayEnd": 3,
+		"description": "Upgrade pack can increase Overlord Geese to:",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Fighter Upgrade Pack (Overlord Geese). ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_upgrade.png"
+	}, {
+		"day": 31,
+		"dayEnd": 3,
+		"description": "Use Egg Machine during the event, and there is a chance for you to get Overlord Geese & Billy XIV Awaken Weapon Frag, Tome, Badge and other rare items.",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Weapons Egg Machine. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_weapon_egg.png"
+	}, {
+		"day": 31,
+		"dayEnd": 3,
+		"description": "1 of 2 Lucky Draw is coming! Overlord Geese&Billy XIV are waiting for you! Don't miss out!",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "1 of 2 Lucky Draw. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_lucky_draw.png"
+	}, {
+		"day": 31,
+		"dayEnd": 3,
+		"description": "Spend a specified amount of Diamonds during the event and get awesome rewards!",
+		"month_id": 12,
+		"month": "Dec.",
+		"name": "Spend for Rewards. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
+	}, {
+		"day": 1,
+		"dayEnd": 2,
+		"description": "Defeat the Nightmare Geese clones a certain number of times during the event to get Nightmare Geese Frag].",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Team Battle to get Nightmare Geese. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
+	}, {
+		"day": 2,
+		"dayEnd": 3,
+		"description": "Defeat the Goeniko clones a certain number of times during the event to get Goeniko Frag].",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Team Battle to get Goeniko. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
+	}, {
+		"day": 2,
+		"dayEnd": 4,
+		"description": "Rare fashion for Overlord Geese is available during the event.",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Fashion Pack. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
+	}, {
+		"day": 3,
+		"dayEnd": 8,
+		"description": "During the event, login to get rewards every day！",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Login Gifts. ",
+		"eveimgurl": ""
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "Get BOSS Coin through the event to exchange for mighty BOSS fighters! What are you waiting for?",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "BOSS Exchange. ",
+		"eveimgurl": ""
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "During the event, Fighter Weapon Awakening Frag Pack is available for limited time. Get it now!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Fighter Weapon Awakening Frag Pack Exchange. ",
+		"eveimgurl": ""
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "Aid Doll Machine is available now! The Aid Souls of Oswald, Shion & Superstar Athena are waiting for you to get!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Aid Doll Machine. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_aid_doll_machine.png"
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "During the event, Fighter's Aid Pack is unlocked for limited time! Get it now!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Aid Pack Exchange. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_aid_pack.png"
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "During the event, draw in NESTS Core Store a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "NESTS Core Draw Gift. ",
+		"eveimgurl": ""
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "During the event, draw in NESTS Part Store a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "NESTS Part Draw Gift. ",
+		"eveimgurl": ""
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "Spend a specified amount of Diamonds during the event and get awesome rewards!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Spend for Rewards. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
+	}, {
+		"day": 3,
+		"dayEnd": 7,
+		"description": "Cumulatively recharge a certain amount for valuable items! ",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Cumulative Recharge for Resource. ",
+		"eveimgurl": ""
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "BOSS Fighter Cuisine is available in Mystic Store during the event.",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Mystic Store. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_mystic_store.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "Badge and Badge Material can be exchanged for one another during the event, please take note that each Badge can only be exchanged once, choose carefully!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Badge Exchange. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_badge_exchange.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "Tome and Tome material can be exchanged for one another during the event, please take note that each Tome can only be exchanged once, choose carefully!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Tome Exchange. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_tome_exange.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "Promotion Gem exchange during the event, come join it! ",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Promotion Gem Exchange. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_promotion_gem_exchange.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Time-limited Resource Exchange. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_frag_exchange.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "Equipment Pack can increase Orochi Chris 02 UM to:",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Fighter Equipment Pack (Orochi Chris 02 UM). ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_equipment.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "Upgrade pack can increase Orochi Chris 02 UM to:",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Fighter Upgrade Pack (Orochi Chris 02 UM). ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_fighter_upgrade.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Time-limited Chest (Orochi Chris 02 UM). ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_time_limited_chest.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "Spend a specified amount of Diamonds to claim amazing rewards including Diamonds and Cuisines!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Diamonds for Gifts. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_diamond_gifts.png"
+	}, {
+		"day": 7,
+		"dayEnd": 10,
+		"description": "Recharge up to a specified amount in a single top-up to get valuable rewards!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Single Top-up for Resources. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Single_Top_Up.png"
+	}, {
+		"day": 8,
+		"dayEnd": 9,
+		"description": "Defeat the Mr.Karate clones a certain number of times during the event to get Mr.Karate Frag].",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Team Battle to get Mr.Karate. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
+	}, {
+		"day": 9,
+		"dayEnd": 10,
+		"description": "Defeat the Elizabeth clones a certain number of times during the event to get Elizabeth Frag].",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Team Battle to get Elizabeth. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_clone.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "Time-limited Fighter Fashion is on sale! Come and get some new fashion for your fighters!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Fighter Fashion Sale. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_rare_fashion_exchange.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "You can exchange for fighter fragments during the event, don't miss it! ",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Exchange Store. ",
+		"eveimgurl": ""
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "During the event, participate in the FightSoul Wish and there is a chance to get rewards including FightSoul Book Frags, Awakening Gems, and Power Fragment Chests.",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "FightSoul Wish. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_FS_wish.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "Rune Converter is available for limited time. It's up to you to decide your own runes!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Rune Converter. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_rune_converter.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "Hot Runes event is unlocked, come get it and increase your power now!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Hot Runes. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_rune_converter.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "Rare fashion for Orochi Chris 02 UM is available during the event.",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Fashion Pack. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Fashion_Pack.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "Use Egg Machine during the event, and there is a chance for you to get Orochi Chris 02 UM Awaken Weapon Frag, Tome, Badge and other rare items.",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Weapons Egg Machine. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_weapon_egg.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "Spend a specified amount of Diamonds during the event and get awesome rewards!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Spend for Rewards. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Spend_rewards.png"
+	}, {
+		"day": 10,
+		"dayEnd": 14,
+		"description": "Recharge up to a specified amount in a single top-up to get valuable rewards!",
+		"month_id": 1,
+		"month": "Jan.",
+		"name": "Single Top-up for Resources. ",
+		"eveimgurl": "https://www.mxl-apps.com/ugkof98api_staging/api/v1/../../assets/images/events/event_Single_Top_Up.png"
 	}]
 }
