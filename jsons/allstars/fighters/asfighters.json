@@ -3734,7 +3734,7 @@
    "name": "Boss Syndrome Dark Ash",
    "rarity": "fes",
    "atribute": "yellow",
-   "type": "ofensive",
+   "type": "ofFensive",
    "star": 5,
    "year": "BS",
    "gender": "male",
