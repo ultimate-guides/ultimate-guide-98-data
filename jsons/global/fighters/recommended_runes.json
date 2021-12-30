@@ -1395,6 +1395,23 @@
 					"desceiption_pt": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
 		}
 	]
 }

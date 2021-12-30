@@ -2039,6 +2039,23 @@
 					"attr": "ATK + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"fates": [
+				{
+					"bosses": "Orochi Yashiro 02UM, Orochi Chris 02UM, Orochi Shermie 02UM, Goenitz",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Orochi Yashiro 02UM, Yashiro, Orochi Yashiro",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Yamazaki, Daimon, Rugal",
+					"attr": "HP + 25%"
+				}
+			]
 		}
 	]
 }

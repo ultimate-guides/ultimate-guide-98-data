@@ -3479,6 +3479,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"skills": [
+				{
+					"name": "Smothering Land",
+					"description": "Attack a single enemy; increase own Anti-Crit and Control-free by 30%; deal damage that equals to 5% of MAX HP to the enemy with the lowest HP percentage (the damage won't restore Rage and ignores the shield); expand the \"Stone Domain\" (Anti-Crit and Control-free of the fighters on own side will be increased by 30%, and the Buff can be stacked with other Buff of the same type; restore 200 Rage to a random ally whose Rage is not full when own round starts); absorb 200 Rage from a random enemy. Deal 160%+15 DMG to the target",
+					"description_es": "Ataca a un solo enemigo; aumenta su propio Anti-Crit y Control-free en un 30%; inflige daño equivalente al 5% de MAX HP al enemigo con el porcentaje más bajo de HP (el daño no restaurará la Rage e ignorará el escudo); expande el \"Stone Domain \" (Anti-Crit y Control-free de los luchadores en su propio bando se incrementará en un 30%, y el Buff se puede acumular con otro Buff del mismo tipo; restaura 200 Rage a un aliado aleatorio cuya Rage no está llena cuando comienza su propia ronda); absorbe 200 p. de Rage de un enemigo aleatorio. Otorga 160% + 15 DMG al objetivo",
+					"description_pt": null
+				},
+				{
+					"name": "Savaging Land",
+					"description": "Attack a single enemy; increase own DMG, Res Rate, and Block by 20%; absorb MAX HP of the target by 20%; consume all levels of \"Stone Shield\", increase own Block and Reflection by 15% for each level of \"Stone Shield\" consumed (the effect will last for 1 round); if own HP percentage is lower than 40% in 2 rounds, 30% of MAX HP will be restored; if own Rage is decreased in 1 round, 150 Rage will be restored immediately (won't be affected by the changes of Rage restoration speed). Deal 400%+25 DMG to the target",
+					"description_es": "Ataca a un solo enemigo; aumenta su propio DMG, Res Rate. y Bloqueo en un 20%; absorbe MAX HP del objetivo en un 20%; consume todos los niveles de \"Stone Shield \", aumenta el propio Bloqueo y Reflejo en un 15% por cada nivel de \"Stone Shield \" consumido (el efecto durará 1 ronda); si el porcentaje de HP propio es inferior al 40% en 2 rondas, se restaurará el 30% de los HP MAX; si la propia Rage se reduce en 1 asalto, 150 de Rage se restaurarán inmediatamente (no se verán afectados por los cambios en la velocidad de restauración de la Rage). Otorga 400% + 25 DMG al objetivo",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Dry Land",
+					"description": "Increase own ATK by 25%, DEF by 50%, ULT Res by 45%, and small skill Res by 25%; be immune to the burning effect at the cost of 30% of own DMG; The single damage taken won't exceed 60% of MAX HP (the ratio is reduced to 30% in the first round after the resurrection and deployment); gain a level of \"Stone Shield\" after being attacked (DEF will be increased by 15%, and the effect can be stacked 6 times); when own HP percentage is lower than 45%, 35% of HP lost will be restored (twice at most per round, and the effect won't take effects if there's only one enemy); increase own small skill releasing chance by 10% permanently each time an ally releases the small skill (can be stacked 5 times at most); restore 30% of MAX HP to a random GANK-fighter (Orochi Shermie 02 UM first) and a random DPS-fighter (Orochi Chris 02 UM first), and share 35% of the damage they take for 1 round, and the damage shared will be decreased by 70%; when own HP percentage is lower than 20%, Orochi Yashiro 02 UM won't share damage; Orochi Yashiro 02 UM can resurrect once, and his HP and Rage will be fully restored; the former level of the \"Stone Shield\" will be inherited, and another 3 levels of \"Stone Shield\" will be added; Orochi Yashiro 02 UM will be immune to Debuff for one round after appearance and resurrection. [Interference Aura] Decrease ATK of all the enemies when deployed for the whole battle, and decrease Res Rate of all the enemies by 10% for 3 rounds. Decrease ATK of all the enemies by 20%",
+					"description_es": "Aumenta el ATK propio en un 25%, la DEF en un 50%, la Res de ULT en un 45% y la Res de Small Skill en un 25%; es inmune al efecto de burning a costa del 30% de su propio DMG; El daño único recibido no excederá el 60% de los HP MÁXIMOS (la proporción se reduce al 30% en la primera ronda después de la resurrección y el despliegue); gana un nivel de \"Stone Shield \" después de ser atacado (la DEF aumentará en un 15% y el efecto se puede acumular 6 veces); cuando el porcentaje de HP propio es inferior al 45%, se restaurará el 35% de los HP perdidos (dos veces como máximo por ronda, y el efecto no tendrá efecto si solo hay un enemigo); aumenta la probabilidad de liberación de la Small Skill propia en un 10% de forma permanente cada vez que un aliado libera la habilidad pequeña (se puede acumular 5 veces como máximo); restaura el 30% de MAX HP a un luchador GANK aleatorio (Orochi Shermie 02 UM primero) y un luchador DPS aleatorio (Orochi Chris 02 UM primero), y comparte el 35% del daño que reciben durante 1 asalto, y el daño compartido se reducirá en un 70%; cuando el porcentaje de HP propio es inferior al 20%, Orochi Yashiro 02 UM no compartirá el daño; Orochi Yashiro 02 UM puede resucitar una vez, y su HP y Rage serán completamente restaurados; se heredará el nivel anterior de \"Stone Shield \" y se agregarán otros 3 niveles de \"Stone Shield \"; Orochi Yashiro 02 UM será inmune a Debuff durante una ronda después de la aparición y resurrección. [Aura de interferencia] Disminuye el ATK de todos los enemigos cuando se despliegan durante toda la batalla y disminuye la Res Rate de todos los enemigos en un 10% durante 3 rondas. Disminuye el ATK de todos los enemigos en un 20%.",
+					"description_pt": null
+				}
+			]
 		}
 	]
 }

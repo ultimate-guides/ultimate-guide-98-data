@@ -1679,6 +1679,20 @@
 			"status": 0,
 			"striker": 0,
 			"images": 2
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"fightsoul_id": "SNAKE",
+			"name": "O. Yashiro 02 UM",
+			"chinese_name": "罗刹娜可露露",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "THAI",
+			"badge_id": "DAZZLING",
+			"status": 0,
+			"striker": 0,
+			"images": 2
 		}
 	]
 }

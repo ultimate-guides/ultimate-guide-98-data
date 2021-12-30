@@ -1679,6 +1679,20 @@
 				"water_es": null,
 				"water_pt": null
 			}
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": "",
+				"lake_pt": null,
+				"thunder": "",
+				"thunder_es": "",
+				"thunder_pt": null,
+				"water": null,
+				"water_es": null,
+				"water_pt": null
+			}
 		}
 	]
 }

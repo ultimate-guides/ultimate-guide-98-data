@@ -1079,6 +1079,15 @@
 				"description_es": "Obtiene 44 Rage cuando te atacan y obtienes más Rage cuando es desplegado.",
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "OROCHI_YASHIRO_02_UM",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "Gain 40 Rage when attacking, and gain extra Rage when being attacked",
+				"description_es": "Obtiene 40 Rage cuando ataca y obtienes más Rage cuando es golpeado.",
+				"description_pt": null
+			}
 		}
 	]
 }
