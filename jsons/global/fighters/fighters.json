@@ -12,7 +12,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "BENIMARU",
@@ -54,7 +54,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "ANDY",
@@ -124,7 +124,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "RALF",
@@ -152,7 +152,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "CLARK",
@@ -180,7 +180,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "KENSOU",
@@ -194,7 +194,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "CHIN",
@@ -222,7 +222,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MAI",
@@ -236,7 +236,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 4
 		},
 		{
 			"fighter_id": "KING",
@@ -264,7 +264,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "CHANG",
@@ -334,7 +334,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "YAMAZAKI",
@@ -348,7 +348,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "BLUE_MARY",
@@ -362,7 +362,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "BILLY",
@@ -390,7 +390,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "MATURE",
@@ -530,7 +530,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "SHINGO",
@@ -572,7 +572,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "GOENITZ",
@@ -586,7 +586,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "K",
@@ -600,7 +600,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MAXIMA",
@@ -642,7 +642,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 5
 		},
 		{
 			"fighter_id": "FOXY",
@@ -670,7 +670,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "IGNIZ",
@@ -684,7 +684,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "KRIZALID",
@@ -698,7 +698,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "ZERO",
@@ -712,7 +712,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "GEESE",
@@ -796,7 +796,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "ASH",
@@ -810,7 +810,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "ELISABETH",
@@ -824,7 +824,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "NAKORURU",
@@ -880,7 +880,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MAGAKI",
@@ -894,7 +894,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "SAIKI",
@@ -908,7 +908,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "ADELHEID",
@@ -922,7 +922,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MAY_LEE",
@@ -936,7 +936,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "XIANGFEI",
@@ -964,7 +964,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "FLAME_KYO",
@@ -978,7 +978,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "KYO_NESTS",
@@ -992,7 +992,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "BENIMARU_2003",
@@ -1020,7 +1020,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "NEW_MR_KARATE",
@@ -1034,7 +1034,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "ROBERT_2002_UM",
@@ -1048,7 +1048,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "OROCHI_LEONA",
@@ -1062,7 +1062,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "OROCHI_CHRIS",
@@ -1076,7 +1076,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "OROCHI_SHERMIE",
@@ -1090,7 +1090,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 3
 		},
 		{
 			"fighter_id": "OROCHI_YASHIRO",
@@ -1104,7 +1104,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 1,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "CRAZY_IORI",
@@ -1118,7 +1118,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "OMEGA_RUGAL",
@@ -1132,7 +1132,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "GOENIKO",
@@ -1146,7 +1146,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MR_KARATE",
@@ -1160,7 +1160,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "ATHENA_2002_UM",
@@ -1174,7 +1174,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MAKI_KAGURA",
@@ -1188,7 +1188,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "VANESSA",
@@ -1216,7 +1216,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "SHUN_EI",
@@ -1230,7 +1230,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "CLONE_ZERO",
@@ -1258,7 +1258,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "JHUN_HOON",
@@ -1300,7 +1300,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "SHEEN_WOO",
@@ -1342,7 +1342,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "LIN",
@@ -1384,7 +1384,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "DUO_LON",
@@ -1398,7 +1398,7 @@
 			"badge_id": "BEAUTY",
 			"status": 1,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "SETH",
@@ -1426,7 +1426,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "ATHENA_XIII",
@@ -1440,7 +1440,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "RALF_XIII",
@@ -1454,7 +1454,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "CUTIE_TERRY",
@@ -1482,7 +1482,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "KENSOU_XII",
@@ -1510,7 +1510,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "VICE_XIII",
@@ -1524,7 +1524,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MIZUCHI",
@@ -1538,7 +1538,7 @@
 			"badge_id": "OROCHI",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "MATURE_XIII",
@@ -1552,7 +1552,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "K_XIV",
@@ -1566,7 +1566,7 @@
 			"badge_id": "FLAME",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "KULA_XIV",
@@ -1580,7 +1580,7 @@
 			"badge_id": "GALE",
 			"status": 0,
 			"striker": 0,
-			"images": 1
+			"images": 2
 		},
 		{
 			"fighter_id": "NAKORURU_RASETSU",
