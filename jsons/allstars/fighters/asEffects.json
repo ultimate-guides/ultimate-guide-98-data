@@ -1193,6 +1193,25 @@
 					"name": "bleed"
 				}
 			]
+		},
+		{
+			"iname": "nameless_bs",
+			"effects": [
+				{
+					"name": "darkness"
+				},
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "ash_bs",
+			"effects": [
+				{
+					"name": "darkness"
+				}
+			]
 		}
 	]
 }
