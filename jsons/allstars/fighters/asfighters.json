@@ -3717,6 +3717,28 @@
    "year": "SS",
    "gender": "female",
    "cost": 65
+ },
+ {
+   "iname": "nameless_bs",
+   "name": "Boss Syndrome Nameless",
+   "rarity": "fes",
+   "atribute": "green",
+   "type": "defensive",
+   "star": 5,
+   "year": "BS",
+   "gender": "male",
+   "cost": 65
+ },
+ {
+   "iname": "ash_bs",
+   "name": "Boss Syndrome Dark Ash",
+   "rarity": "fes",
+   "atribute": "yellow",
+   "type": "ofensive",
+   "star": 5,
+   "year": "BS",
+   "gender": "male",
+   "cost": 65
  }
  ]
  }
