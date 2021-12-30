@@ -550,12 +550,10 @@
 			"effects": [
 				{
 					"name": "bleed"
-				},
-				[
-					{
-						"name": "burn"
-					}
-				]
+				},				
+				{
+					"name": "burn"
+				}				
 			]
 		},
 		{
@@ -710,12 +708,10 @@
 			"effects": [
 				{
 					"name": "bleed"
-				},
-				[
-					{
-						"name": "poison"
-					}
-				]
+				},				
+				{
+					"name": "poison"
+				}				
 			]
 		},
 		{
