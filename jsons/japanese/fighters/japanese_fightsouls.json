@@ -152,6 +152,15 @@
 				"description_es": "",
 				"description_pt": ""
 			}
+		},
+		{
+			"fighter_id": "GATO",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "when the enemy side or our side dies, it will rage. When attacking will restore fury.",
+				"description_es": "",
+				"description_pt": ""
+			}
 		}
     ]
 }

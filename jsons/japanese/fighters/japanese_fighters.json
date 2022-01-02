@@ -1,6 +1,21 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "GATO",
+			"fightsoul_id": "SNAKE",
+			"name": "Gato",
+			"chinese_name": "女 天狗",
+			"japanese_name": "牙 刀",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "EARTH",
+			"status": 0,
+			"striker": 0,
+			"images": 1
+		},
+		{
 			"fighter_id": "ANGEL_XIV",
 			"fightsoul_id": "TURTLE",
 			"name": "Angel XIV",

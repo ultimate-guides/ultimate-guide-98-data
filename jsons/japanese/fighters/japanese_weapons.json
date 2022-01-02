@@ -169,6 +169,16 @@
 				"description_pt": "",
 				"contributor": "UG Team"
 			}
+		},
+		{
+			"fighter_id": "GATO",
+			"weapon_awakened": {
+				"name": "Exquisite belt",
+				"description": "Attacks a target. Increases own attack and defense by <font color='#FFA726'>40%</font> .<font color='#FFA726'> For 2 turns, activate the effect \"Potential\" (cannot be neutralized, during the effect, no matter how much or little HP has been lost, it will still be counted at the maximum mark)</font>. If your own missing HP is more than the target's missing HP, deals additional damage equal to \"difference of lost HP x <font color='#FFA726'>50%</font> x target's max HP\".  Reduces target's rage by <font color='#FFA726'>200</font> , if after reducing rage the target still has more than 1000 rage, increases self control rate by <font color='#FFA726'>40%</font> . Has a <font color='#FFA726'>70%</font> chance to silence the target. Chapter <font color='#FFA726'>60~240</font> furyfor yourself and 1 ally without MAX fury (the more HP lost, the higher the stat, maximum when losing 85% HP). For 2 turns, reduce the target's ultimate attack damage resistance by <font color='#FFA726'>25%</font> (ignoring immunity, cannot be negated). <font color='#FFA726'>If the damage this time is more than the target's remaining HP, will gain 1 time \"Eight Pole Ultimate\" (maximum 1 time).</font> ",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
 		}
     ]
 }

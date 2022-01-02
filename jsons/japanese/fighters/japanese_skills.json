@@ -492,6 +492,35 @@
 					"description_pt": ""					
 				}
 			]
+		},
+		{
+			"fighter_id": "GATO",
+			"skills": [
+				{
+					"name": "POWERFUL",
+                    "description": "Attacks a single target, has a 50% chance to stun. If your own HP is lost more than the target's HP, it will deal additional damage equal to 10% of your maximum HP and deal 50% HP loss.  Depending on Gato's lost HP, the following effects will be obtained (the more HP lost, the higher the stats, maximum when losing 85% of HP): 1. For 2 turns, increase 5~50% parry rate and lifesteal rate 2. Deals 20~100% bonus damage 3. Recovers 100~300 fury ",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "SOLID TARGET",
+					"description": "Attacks a target. Increases own attack and defense by 30%. If your own missing HP is more than the target's missing HP, deals additional damage equal to \"difference of lost HP x 40% x target's max HP\".  Reduces target's fury by 100, if after reducing rage the target still has more than 1000 rage, increases self control rate by 30%. Has a 50% chance to silence the target. Restore 40~160 rage to yourself and 1 ally without MAX fury (the more HP lost, the higher the stat, maximum when losing 85% HP). For 2 turns, reduce target's ultimate attack damage resistance by 20% (ignoring immunity, cannot be negated).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "Lonely Wolverine",
+					"description": "Increases self's parry rate (20% at lvl 1). Increases damage and damage resistance by 35%, control rate and chance to poison yourself by 40%. At the beginning of each turn, will activate the effect \"Nha\" for 1 turn. Depending on Gato's lost HP, the following effects will be obtained (the more HP lost, the higher the stats, maximum when losing 85% of HP): 1. Increase 0~500 fury 2. Increase 0 ~50% damage, damage resistance, crit rate, ultimate attack damage, ultimate damage resistance When receiving fatal damage, they will receive \"Excellent Eight Poles\", lasting 2 turns, can activate fatal resistance from 1 to 3 times (the more enemies, the more times to activate fatal resistance, for a period of time). duration will greatly reduce the healing rate, can take up to 100% of the damage taken depending on the amount of damage taken and your maximum HP). After the end of the duration of \"Excellent Eight Poles\", release the control state including petrification for yourself. The amount of damage accumulated will be converted to the \"Nha\" effect, counterattacking with a special move on the enemy with the most HP (the \"Nha\" effect accumulated this time will last until our side's next turn, can be stacked with similar buffs). After counterattacking, will heal yourself for the amount of damage you took (minimum 50% of your maximum HP) and 500 fury. When the effect of \"Excellent Eight Poles\" expires in the next 2 turns, it is no longer possible to counterattack, each match activate \"Excellent Eight Poles\" up to 2 times. Each activation of \"Eight Poles Ultimate\" will permanently increase 8% super damage and super damage resistance (can stack).",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
 		}
     ]
 }

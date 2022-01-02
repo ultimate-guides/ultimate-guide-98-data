@@ -273,18 +273,18 @@
 			]
 		},
 		{
-			"fighter_id": "YAMAZAKI_XIV",
+			"fighter_id": "GATO",
 			"fates": [
 				{
-					"bosses": "Yamazaki XIV, Yamazaki",
+					"bosses": "Gato, Hotaru",
 					"attr": "ATK +25%"
 				},
 				{
-					"bosses": "Yamazaki XIV, Mr. Big, Geese",
-					"attr": "HP +25%"
+					"bosses": "Gato, Duo Lon, Kasumi",
+					"attr": "ATK +25%"
 				},
 				{
-					"bosses": "Yamazaki XIV,Crazy Iori, Orochi Leona",
+					"bosses": "Gato,Shun Ei, Tung Fu Rue, Meitenkun",
 					"attr": "HP +25%"
 				}
 			]
