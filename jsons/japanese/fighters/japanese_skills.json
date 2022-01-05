@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "SOL_BADGUY",
+			"skills": [
+				{
+					"name": "GRAND VIPER",
+                    "description": "Attacks a horizontal row. For 2 turns, reduces the primary target's unique ability hit chance by 35% and the main target's unique ability damage resistance, and has 50% chance to stun (1 turn). Inflicts 1 tier of \"dragon fire\" effect on enemy targets (for 2 turns, each turn loses 7% of max HP, reduces rage by 80, this damage does not restore enemy fury). Restore 300 fury to yourself. After activating \"Dragon Install\" (after respawning): make sure to cast a unique move, dealing 1 more level of \"dragon fire\" to the main target. ",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "TYRAN RAVE VER",
+					"description": "Attacks a target. For 2 turns, increase self by 20% ATK and DEF, 30% Lifesteal. Reduces target's damage resistance and crit resistance by 20%. Deals 1 tier of \"dragon fire\" effect to enemy targets (for 2 turns, each turn loses 7% of max HP, reduces fury by 80, this damage does not restore enemy fury). Restores 15% of your maximum HP. Restores 10% of max HP and 120 rage to Guilty Gear fighters, excluding yourself. For 1 turn, increase the ATK of fighters behind our side by 10%. After activating \"Dragon Install\" (after respawning): increases ATK and DEF by 5%, deals 35% bonus splash damage to nearby enemies (ignoring immunity), deals bonus damage equal to 12% of main target's max HP to main target (ignoring immunity). Damage from this technique ignores 30% of the target's defense. Inflicts 1 tier of \"dragon fire\" effect on enemy targets.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "GEAR POWER",
+					"description": "When entering battle, increase our Guilty Gear's damage resistance (10% at lvl 1, double for self). Increases self 20% resistance to single-hit damage and ultimate damage resistance, increases max HP by 30%. Effective buff \"Guilty Gear\" (when entering battle, increases ATK and DEF by 7% for Guilty Gear fighters including yourself, lasts forever). When defeated, it will respawn on our side's next turn (activated up to 1 time, does not receive the respawn effect from other fighters), after respawning will buff the following effect: “Dragon Install”: restores max HP and fury, increases unique skill damage and ultimate skill damage by 35%, buffs yourself the ability to ignore control status including petrification, shrinks, reduces healing rate, fury reduction (permanent). Self nullifies with sustained damage. When fatally damaged, will not die, restore 30% HP and 350 fury (activated up to 1 time). For 2 turns, each time being attacked, the maximum damage you take will not exceed 10% of your maximum HP (if it is 1vs1 will not activate). At the beginning of each turn will release self-control including petrification. If \"Dragon Install\" is not activated (before respawning): increases self's critical resistance by 20%. If own HP is more than 10%, will share 50% of damage taken by Guilty Gear teammates, reducing this shared damage by 50%. At the beginning of each turn, restores 20% of the missing HP. If your own HP is below 50%, will immediately recover 20% of your maximum HP (once per turn).",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "ANGEL_XIV",
 			"skills": [
 				{

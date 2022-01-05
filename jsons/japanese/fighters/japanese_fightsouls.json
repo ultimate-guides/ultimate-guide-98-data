@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "SOL_BADGUY",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "When the boxers of the enemy or our side die, they will rage. When attacked, will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "ANGEL_XIV",
 			"fightsoul": {
 				"name": "TURTLE",
@@ -157,7 +166,7 @@
 			"fighter_id": "GATO",
 			"fightsoul": {
 				"name": "SNAKE",
-				"description": "when the enemy side or our side dies, it will rage. When attacking will restore fury.",
+				"description": "when the enemy side or our side dies, it will rage. When attacking will restore Rage.",
 				"description_es": "",
 				"description_pt": ""
 			}

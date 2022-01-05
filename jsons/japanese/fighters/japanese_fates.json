@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "SOL_BADGUY",
+			"fates": [
+				{
+					"bosses": "Sol Badguy, Dizzy, Ky Kiske, Baiken",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Sol Badguy, Kyo Hoa Vien, K' XIV",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Sol Badguy, Clark XIII, Daimon",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "ANGEL_XIV",
 			"fates": [
 				{

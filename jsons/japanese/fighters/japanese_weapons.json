@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "SOL_BADGUY",
+			"weapon_awakened": {
+				"name": "Junkyard Dog",
+				"description": "Attacks a target. For 2 turns, grants yourself <font color='#FFA726'>30%</font> ATK and DEF, 35% Lifesteal. Reduces target's damage resistance and crit resistance by <font color='#FFA726'>25%</font> . Deals 1 tier of \"dragon fire\" effect to enemy targets (for 2 turns, each turn loses <font color='#FFA726'>8%</font> of his maximum HP, reduces rage by 80, this damage does not restore enemy fury). Restores <font color='#FFA726'>20%M.</font> of your maximum HP. Restores <font color='#FFA726'>12%</font> of max HP and <font color='#FFA726'>150</font> rage to Guilty Gear fighters, excluding yourself. For 1 turn, increase the ATK of fighters behind our side by 10%.<font color='#FFA726'> Removes control status including petrification for 1 ally (priority is given to the person being controlled)</font>. After activating \"Dragon Install\" (after respawning): increases ATK and DEF by 5%, deals <font color='#FFA726'>50</font>% bonus splash damage to nearby enemies (ignoring immunity), deals bonus damage equal to <font color='#FFA726'>18%</font> of main target's max HP to main target (ignoring immunity). The damage from the technique ignores 30% of defense and <font color='#FFA726'>ignores the target's resistance</font> . Inflicts 1 tier of \"dragon fire\" effect on enemy targets <font color='#FFA726'>(cannot be reversed)</font> .",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "ANGEL_XIV",
 			"weapon_awakened": {
 				"name": "Boot Nests",
