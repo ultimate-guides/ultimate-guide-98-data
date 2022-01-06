@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "DIZZY",
+			"fates": [
+				{
+					"bosses": "Dizzy, Sol Badguy, Ky Kiske, Baiken",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Dizzy, Kula XIV, Momoko, Athena XIII",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Dizzy, Leona the Cat, Ukyo",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "KY_KISKE",
 			"fates": [
 				{

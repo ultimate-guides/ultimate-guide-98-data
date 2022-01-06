@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "DIZZY",
+			"weapon_awakened": {
+				"name": "Necro and Undine",
+				"description": "Attacks in a horizontal row. For 2 turns, increase self by <font color='#FFA726'>30%</font> damage and damage resistance, <font color='#FFA726'>35%</font> unique attack damage. Buff life effect (for 2 turns, when enemy HP is below 50%, damage will be increased by 35%) to yourself. <font color='#FFA726'>This turn will definitely cast a unique move</font>. Effectively inflicts \"Necro Curse\" on target (<font color='#FFA726'> ignores immunity, for 3 turns</font> , reduces healing rate by <font color='#FFA726'>35%</font> , ultimate attack damage, super skill damage resistance, each time our side or the enemy side acts will another 3% off). If the target is under \"Curse of Necro\", will reset the sustain count. Pass a bad effect that you can solve yourself to the main target (<font color='#FFA726'>Ignore immunity, reset the number of turns if the target is affected by this bad effect</font>) , has a <font color='#FFA726'>50%</font> chance to stun (1 turn). Inflicts a burning effect on the target (for 2 turns, each turn loses <font color='#FFA726'>15%</font> of his maximum HP, this damage does not restore enemy fury). <font color='#FFA726'>Reduces fury by 350, deals extra damage equal to 18% of target's max HP (ignoring immunity).</font>",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "KY_KISKE",
 			"weapon_awakened": {
 				"name": "Magnolia Eclair II",

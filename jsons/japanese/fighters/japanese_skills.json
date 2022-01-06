@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "DIZZY",
+			"skills": [
+				{
+					"name": "PICK FRUITS",
+                    "description": "Attacks a single target, increasing self crit chance and healing rate by 30% (2 turns). Restores 18% of your maximum HP. Releases control status to 1 random Guilty Gear ally. Also randomly activates 1 of 2 effects of Necro and Undine: \"Undine\": Restores 200 fury to yourself and to an ally that hasn't maxed out yet. For 2 turns, at the beginning of each turn of our side, heal for 120 rage, 18% max HP for yourself and an ally that hasn't maxed rage. \"Necro\": deals 30% extra damage and deals extra damage equal to 18% of target's max HP, for 2 turns, reduces target's unique ability hit chance and resistance by 35%. The effect that comes from Necro ignores immunity.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "IMPERIAL RAY",
+					"description": "Attacks a horizontal line. For 2 turns, increase self by 20% damage and damage resistance, 30% poison damage. Buff life effect (for 2 turns, when enemy HP is below 50%, damage is increased by 20%) to self. Inflicts \"Necro Curse\" on target (for 2 turns, reduces healing rate by 25%, ultimate attack damage, super skill damage resistance, each time we or enemy action takes another 3% reduction ). If the target is under \"Curse of Necro\", will reset the sustain count. Passes a bad effect that you can resolve to the main target, has a 30% chance to stun (1 turn). Inflicts a burning effect on the target (for 2 turns, each turn loses 10% of his maximum HP, this damage does not restore enemy fury).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "NECRO & UNDINE",
+					"description": "When entering battle, increase critical damage to our Guilty Gear fighter (0.3% at lvl 1). Increases self's rage speed by 20% (for every 1 Guilty Gear fighter on our side, it will increase it by 5%, excluding myself). Increases self by 40% attack and defense, 30% attack damage and lifesteal rate. The first turn when entering the battle will ignore the rage reduction effect. \"Undine Wish\": at the beginning of each turn of our side, heals HP equal to 20% of the difference between remaining HP and own max HP, recovering 20% of max HP. Also restores 50% of Dizzy's HP recovery this time to 1 ally with the lowest remaining HP (excluding herself). After a normal attack or after launching a unique move, effectively buff \"Protect\" yourself (the damage you take will be reduced to the lowest level, when entering the battle if the enemy team has 3 people) and below will not activate, each match activates up to 4 times, after respawning will reset the number of times). When critical damage will not die, immediately recover 50% of max HP, 400 rage, release control status including petrification for yourself (activated up to 1 time, after respawning will reset the number of time). \"Enhance Necro Attack\": Increases unique skill damage and ultimate skill damage by 20%. All attacks from Dizzy will ignore 50% of the target's defense, deal additional damage equal to 40% of own ATK (ignoring immunity), and restore HP for 20% of the damage dealt. When killed, it will respawn on our side's next turn (once per battle), recovering 50% of its max HP, inheriting the amount of rage before being killed. After respawning, the buff gives you the ability to ignore control status including petrification, shrink, reduce healing rate, reduce fury (permanent). Dizzy herself does not receive resurrect effects from other fighters.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "KY_KISKE",
 			"skills": [
 				{

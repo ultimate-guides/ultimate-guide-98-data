@@ -1,6 +1,20 @@
 {
 	"skills_elements": [
 		{
+			"fighter_id": "DIZZY",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": "",
+				"lake_pt": "",				
+				"thunder": "",
+				"thunder_es": "",
+				"thunder_pt": "",				
+				"water": "",
+				"water_es": "",
+				"water_pt": ""
+			}
+		},
+		{
 			"fighter_id": "KY_KISKE",
 			"skills_elements": {
 				"lake": "When entering battle, increase damage to our Guilty Gear fighter (10% at lvl 1, increase self by 30%). Increases self by <font color='#FFA726'>35%</font> damage resistance, ultimate attack damage resistance, ultimate skill damage, and <font color='#FFA726'>control rate</font> . <font color='#FFA726'>The first turn is definitely a unique move</font>. On each turn, the first attack on the enemy will cause paralysis for 1 turn (cannot be reversed. If it is 1vs1, the paralysis rate is reduced to <font color='#FFA726'>40%</font> , reduced by <font color='#FFA726'>35%</font>. target's damage resistance and rage rate). When receiving fatal damage, will not die, release control status including petrification for yourself, recover 80% of maximum HP and 500 Rage, and for 2 turns increase 30% healing rate and super damage resistance (Each match can be activated once). \"Grinder\": activated when <font color='#FFA726'>entering battle</font> .In 2 turns,grants yourself <font color='#FFA726'>35%</font> crit chance, crit damage, rage speed, at the beginning of each turn your side will heal yourself for 300 Rage, each time hit, the max HP you take will be does not exceed 35% of maximum HP (if it is 1vs1, then 60%), <font color='#FFA726'>permanently maintained</font> . Self nullifies with stun, paralysis, freeze, MAX freeze, silence, petrification, provocation, Rage reduction.",

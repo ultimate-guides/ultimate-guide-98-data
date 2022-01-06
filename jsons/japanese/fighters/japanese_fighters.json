@@ -1,6 +1,21 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "DIZZY",
+			"fightsoul_id": "TURTLE",
+			"name": "Dizzy",
+			"chinese_name": "ッ ド ル = ソ ガ イ バ",
+			"japanese_name": "デ ィ ズ ィ",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "FEMALE",
+			"tome_id": "SUPER",
+			"badge_id": "BEAUTY",
+			"status": 0,
+			"striker": 0,
+			"images": 2
+		},
+		{
 			"fighter_id": "KY_KISKE",
 			"fightsoul_id": "BEAR",
 			"name": "Ky Kiske",

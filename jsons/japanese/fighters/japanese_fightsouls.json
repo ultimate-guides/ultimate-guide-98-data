@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "DIZZY",
+			"fightsoul": {
+				"name": "TURTLE",
+				"description": "When attacking and being attacked, it will regenerate.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "KY_KISKE",
 			"fightsoul": {
 				"name": "BEAR",

@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "DIZZY",
+			"partners": {
+				"partner_1": "SOL_BADGUY",
+				"partner_2": "KY_KISKE",
+				"partner_3": "BAIKEN"
+			}
+		},
+		{
 			"fighter_id": "KY_KISKE",
 			"partners": {
 				"partner_1": "SOL_BADGUY",
