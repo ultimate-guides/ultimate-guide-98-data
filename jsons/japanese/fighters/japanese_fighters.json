@@ -13,7 +13,7 @@
 			"badge_id": "BEAUTY",
 			"status": 0,
 			"striker": 0,
-			"images": 2
+			"images": 1
 		},
 		{
 			"fighter_id": "KY_KISKE",
@@ -28,7 +28,7 @@
 			"badge_id": "DAZZLING",
 			"status": 0,
 			"striker": 0,
-			"images": 2
+			"images": 1
 		},
 		{
 			"fighter_id": "SOL_BADGUY",
@@ -43,7 +43,7 @@
 			"badge_id": "EARTH",
 			"status": 0,
 			"striker": 0,
-			"images": 2
+			"images": 1
 		},
 		{
 			"fighter_id": "GATO",
