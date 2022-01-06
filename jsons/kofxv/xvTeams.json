@@ -148,5 +148,35 @@
                 "iname": "king_of_dinosaurs"
             }
         ]
+    },
+    {
+        "team_id": "k_team",
+        "team_name" : "Team K'",
+        "fighters": [
+            {
+                "iname": "k"
+            },
+            {
+                "iname": "maxima"
+            },
+            {
+                "iname": "whip"
+            }
+        ]
+    },
+    {
+        "team_id": "krohnen",
+        "team_name" : "Krohnen Team'",
+        "fighters": [
+            {
+                "iname": "krohnen"
+            },
+            {
+                "iname": "kula"
+            },
+            {
+                "iname": "angel"
+            }
+        ]
     }]
 }

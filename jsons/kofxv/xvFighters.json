@@ -118,6 +118,30 @@
         {
 			"iname": "dolores",
             "name": "Dolores"
+		},
+		{
+			"iname": "k",
+            "name": "K'"
+		},
+		{
+			"iname": "maxima",
+            "name": "Maxima"
+		},
+		{
+			"iname": "whip",
+            "name": "Whip"
+		},
+		{
+			"iname": "krohnen",
+            "name": "Krohnen"
+		},
+		{
+			"iname": "kula",
+            "name": "Kula"
+		},
+		{
+			"iname": "angel",
+            "name": "Angel"
 		}
 	]
 }
