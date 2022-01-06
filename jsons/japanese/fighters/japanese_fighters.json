@@ -1,6 +1,21 @@
 {
 	"fighters": [
 		{
+			"fighter_id": "KY_KISKE",
+			"fightsoul_id": "BEAR",
+			"name": "Ky Kiske",
+			"chinese_name": "ッ ド ル = ソ ガ イ バ",
+			"japanese_name": "牙 刀",
+			"api": 15,
+			"type_id": "DPS",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLING",
+			"status": 0,
+			"striker": 0,
+			"images": 2
+		},
+		{
 			"fighter_id": "SOL_BADGUY",
 			"fightsoul_id": "TIGER",
 			"name": "Sol Badguy",

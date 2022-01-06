@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "KY_KISKE",
+			"weapon_awakened": {
+				"name": "Magnolia Eclair II",
+				"description": "Attacks in a horizontal row. Reduces main target's fury by <font color='#FFA726'>300</font> , for 2 turns, reduces the target's healing rate by 30% (<font color='#FFA726'>if active \"Grinder\" will increase effectiveness by 50%) . During this turn, increase ATK and super damage by 10%, unique attack damage and ultimate attack damage by 20%</font>. <font color='#FFA726'>Removes beneficial status</font> and applies \"Electricity\" to targets (ignores immunity, cannot be negated, <font color='#FFA726'>reduces attack damage by 30%</font>, lasts until target casts a spell). After \"Electricity\" is lost, disarm the target's beneficial state, has a <font color='#FFA726'>70%</font> chance to cause paralysis for 1 turn (ignoring immunity, <font color='#FFA726'>cannot be negated</font>).). Deals extra damage equal to <font color='#FFA726'>300%</font> of own ATK and <font color='#FFA726'>deals extra damage equal to 12% of targets' max HP</font> (ignoring immunity), reduces the target's Rage Speed by <font color='#FFA726'>30%</font> for 1 turn ( omit the waiver). For 2 turns, grant yourself <font color='#FFA726'>30%</font> ATK, DEF, and <font color='#FFA726'>35%</font> Penetration Rate. Restores HP equal to <font color='#FFA726'>50%</font> of damage dealt. Buff \"electrical shield\" for yourself (up to 2 times per battle, shield durability is equal to <font color='#FFA726'>350%</font> of own ATK (<font color='#FFA726'>if \"Grinder\" is active, shield durability is 500% of ATK))</font>, while the shield is still on, each time it is attacked, it will restore 100 fury). If you buff the shield while you have a shield (including an electric or other shield), the number of shield creation times will not be reduced, but the shield will be reset).",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "SOL_BADGUY",
 			"weapon_awakened": {
 				"name": "Junkyard Dog",

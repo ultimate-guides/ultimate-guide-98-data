@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "KY_KISKE",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "The first turn when entering the battle will have a large amount of fury. When attacking will restore fury.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "SOL_BADGUY",
 			"fightsoul": {
 				"name": "TIGER",

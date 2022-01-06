@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "KY_KISKE",
+			"fates": [
+				{
+					"bosses": "Ki Kiske, Baiken, Dizzy, and Sol Badguy",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Ki Kiske, Benimaru, Rock, Robert 02 UM",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Ki Kiske, Ukyo, Haohmaru",
+					"attr": "ATK +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "SOL_BADGUY",
 			"fates": [
 				{

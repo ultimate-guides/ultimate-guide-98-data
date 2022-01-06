@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "KY_KISKE",
+			"skills": [
+				{
+					"name": "STUN DIPPER GREED SEVER",
+                    "description": "Attacks a horizontal line. Deals 50% more damage (ignoring immunity), deals extra damage equal to 15% of the targets' max HP. Heals yourself for 20% of your maximum HP and 300 fury (if \"Grinder\" is active, the effect will be increased by 50%). For 2 turns, increase the chance of casting a poison attack by 50% (cannot be reversed). Restores 8% max HP and 50 fury to Guilty Gear fighters, excluding yourself.",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "SACRED EDGE RIDE THE LIGHTNING",
+					"description": "Attacks a horizontal line. Reduces main target's fury by 200, for 2 turns, reduces the target's healing rate by 30%. Applies \"Electricity\" to targets (ignoring immunity, cannot be negated, lasts until the target casts a spell). After \"Electricity\" is lost, disarms target's beneficial state, has a 50% chance to cause paralysis for 1 turn (ignoring immunity). Deals extra damage equal to 200% of own ATK (ignoring immunity), for 1 turn reduces the target's Rage Speed by 20% (ignoring immunity). For 2 turns, increase self by 20% ATK, Defense, and Penetration Rate. Restores HP equal to 30% of damage dealt. Buff \"electrical shield\" for yourself (up to 2 times per battle, shield durability is equal to 300% of own ATK, while the shield is still on, each attack will restore 100 more fury). If you buff the shield while you have a shield (including an electric or other shield), the number of shield creation times will not be reduced, but the shield will be reset).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "LEATHER MAGIC",
+					"description": "When entering battle, increase damage to our Guilty Gear fighter (10% at lvl 1, increase self by 30%). Increases self 30% damage resistance, ultimate damage resistance, and ultimate skill damage. On each turn, when attacking for the first time, it will cause paralysis for 1 turn (cannot be reversed. If it is 1vs1, the paralysis rate is reduced to 30%, reduces the target's damage resistance and Rage rate by 30%. ). When receiving fatal damage, will not die, release control status including petrification for yourself, recover 80% of max HP and 500 fury, and for 2 turns increase 30% healing rate and super damage resistance (Each match can be activated once). \"Grinder\": activates when using a special skill. For 2 turns, increase yourself by 30% crit chance, critical damage, rage speed, at the beginning of each turn your side will heal yourself for 300 fury, each time hit, the max HP you can get Body damage will not exceed 35% of max HP (if it's 1vs1, then 60%). Self nullifies with stun, paralysis, freeze, MAX freeze, silence, petrification, provocation, fury reduction.",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "SOL_BADGUY",
 			"skills": [
 				{
