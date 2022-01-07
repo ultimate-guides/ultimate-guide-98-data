@@ -1412,6 +1412,23 @@
 					"desceiption_pt": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "RYO_MR_KARATE",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				},
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
 		}
 	]
 }

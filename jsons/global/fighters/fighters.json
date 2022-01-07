@@ -1597,6 +1597,20 @@
 			"images": 1
 		},
 		{
+			"fighter_id": "RYO_MR_KARATE",
+			"fightsoul_id": "TIGER",
+			"name": "Extreme Mr Karate II",
+			"chinese_name": "ロック・ハワード",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "KARATE",
+			"badge_id": "EARTH",
+			"status": 0,
+			"striker": 0,
+			"images": 2
+		},		
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"fightsoul_id": "TIGER",
 			"name": "Rock Howard",

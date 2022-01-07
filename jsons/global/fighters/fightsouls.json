@@ -1018,11 +1018,20 @@
 			}
 		},
 		{
-			"fighter_id": "NAKORURU RASETSU",
+			"fighter_id": "NAKORURU_RASETSU",
 			"fightsoul": {
 				"name": null,
 				"description": null,
 				"description_es": null,
+				"description_pt": null
+			}
+		},
+		{
+			"fighter_id": "RYO_MR_KARATE",
+			"fightsoul": {
+				"name": "TIGER",
+				"description": "Gain 55 Rage when the fighter is dead in either side, and restore extra Rage when being attacked",
+				"description_es": "Gana 55 de Rage extra cuando el luchador está muerto en cualquier lado y gana Rage extra al atacar.",
 				"description_pt": null
 			}
 		},

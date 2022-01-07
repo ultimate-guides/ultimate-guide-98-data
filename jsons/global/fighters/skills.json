@@ -3278,7 +3278,7 @@
 			]
 		},
 		{
-			"fighter_id": "NAKORURU RASETSU",
+			"fighter_id": "NAKORURU_RASETSU",
 			"skills": [
 				{
 					"name": null,
@@ -3302,6 +3302,35 @@
 					"name": null,
 					"description": null,
 					"description_es": null,
+					"description_pt": null
+				}
+			]
+		},
+		{
+			"fighter_id": "RYO_MR_KARATE",
+			"skills": [
+				{
+					"name": "Kaiden Shou Ran Kyaku",
+					"description": "Attack a single enemy; there is a 40% chance to taunt the target; increase own Reflection by 20%; immediately dispel own Debuff and petrification status when being controlled, and restore own HP by 15%. Deal 160%+15 MG to the target",
+					"description_es": "Ataca a un solo enemigo; hay un 40% de posibilidades de burlarse del objetivo; aumenta la propia Reflection en un 20%; disipa inmediatamente su propio estado de Debuff y petrificación al ser controlado, y restaura su propio HP en un 15%. Reparte 160% + 15 DMG al objetivo",
+					"description_pt": null
+				},
+				{
+					"name": "Kaiden Hah Shikoh Ken",
+					"description": "Attack a single enemy; increase own DMG and Res Rate by 20%; decrease MG and Res Rate of the target by 20%; decrease Rage restored to the target when being attacked by 50 for 1 round; deal extra damage that equals to 15% of MAX HP of the target ignoring the immunity to Debuff; decrease the amount of HP healed of the target by 40% for 2 rounds. After the weapon awakens, the effect will be improved in an all-round way. Increase own ATK according to own Reflection, and dispel Debuff of an ally. Deal 400%+24 DMG to the target",
+					"description_es": "Ataca a un solo enemigo; aumenta su propio DMG y Res Rate en un 20%; disminuye el DMG y la Res Rate del objetivo en un 20%; Disminuye el Rage restaurada al objetivo cuando es atacado en 50 por 1 asalto; inflige daño adicional que equivale al 15% de los HP MÁXIMOS del objetivo ignorando la inmunidad a la Debuff; Disminuye la cantidad de HP curado del objetivo en un 40% durante 2 rondas. Una vez que el arma se despierta, el efecto se mejorará de forma generalizada. Aumenta el propio ATK de acuerdo con la propia Reflection y disipa el Debuff de un aliado. Otorga 400% + 24 DAÑO al objetivo",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Toge Satsujin",
+					"description": "Increase own Reflection when deployed, and allies in front row will gain 40% of this effect (the Buff can be stackable when Extreme Mr. Karate Il is also in front row); increase own DEF by 30%, Anti-Crit by 40% and MAX HP by 15% when deployed; Increase own DEF by 30%, and gain the immunity to Rage Reduction effect for 1 round when own HP is below 50%; when own HP is below 25%, dispel own Debuff and petrification status immediately, restore own HP by 25%, and decrease the amount of HP healed to the enemy who just attacked Extreme Mr. Karate Il by 40% for 2 rounds (ignoring the immunity to Debuff, and the effect can't be dispelled), the effect can be activated once at most in each round; Extreme Mr.Karate Il won't die when he takes lethal damage, and his ULT Res and small skill Res will immediately increase by 25% (the Buff lasts the whole battle and cannot be stacked), and his HP will restore by 25% (the amount of recovery will not be changed), this effect can only be activated three times in each battle (it there is only one enemy when Extreme Mr.Karate Il is deployed, the effect can only be activated once). Increase own Reflection by 30%",
+					"description_es": "Aumenta la propia Reflection cuando se despliega, y los aliados en la primera fila obtendrán el 40% de este efecto (la Mejora se puede acumular cuando Extreme Mr. Karate Il también está en la primera fila); aumentar la DEF propia en un 30%, Anti-Crit en un 40% y MAX HP en un 15% cuando se despliega; Aumenta la DEF propia en un 30% y gana la inmunidad al efecto de Reducción de Rage durante 1 asalto cuando tu HP propio está por debajo del 50%; cuando su propio HP está por debajo del 25%, disipa su propio estado de Debuff y petrificación inmediatamente, restaura su propio HP en un 25% y disminuye la cantidad de HP curado al enemigo que acaba de atacar al Extreme Mr.Karate Il en un 40% durante 2 rondas (ignorando la inmunidad a Debuff, y el efecto no se puede disipar), el efecto se puede activar una vez como máximo en cada ronda; Extreme Mr. Karate Il no morirá cuando reciba daño letal, y su Res ULT y su Res de Small Skill aumentarán inmediatamente en un 25% (la Mejora dura toda la batalla y no se puede acumular), y su HP se restaurará en un 25%. (la cantidad de recuperación no cambiará), este efecto solo se puede activar tres veces en cada batalla (si solo hay un enemigo cuando se despliega Extreme Mr.Karate Il, el efecto solo se puede activar una vez). Aumenta la propia Reflection en un 30%.",
 					"description_pt": null
 				}
 			]

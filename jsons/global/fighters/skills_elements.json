@@ -1583,7 +1583,21 @@
 			}
 		},
 		{
-			"fighter_id": "NAKORURU RASETSU",
+			"fighter_id": "NAKORURU_RASETSU",
+			"skills_elements": {
+				"lake": null,
+				"lake_es": null,
+				"lake_pt": null,
+				"thunder": null,
+				"thunder_es": null,
+				"thunder_pt": null,
+				"water": null,
+				"water_es": null,
+				"water_pt": null
+			}
+		},
+		{
+			"fighter_id": "RYO_MR_KARATE",
 			"skills_elements": {
 				"lake": null,
 				"lake_es": null,

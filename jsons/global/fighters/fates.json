@@ -1922,7 +1922,7 @@
 			]
 		},
 		{
-			"fighter_id": "NAKORURU RASETSU",
+			"fighter_id": "NAKORURU_RASETSU",
 			"fates": [
 				{
 					"bosses": null,
@@ -1935,6 +1935,23 @@
 				{
 					"bosses": null,
 					"attr": null
+				}
+			]
+		},
+		{
+			"fighter_id": "RYO_MR_KARATE",
+			"fates": [
+				{
+					"bosses": "Extreme Mr Karate II, Robert XI, Mr Karate",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Extreme Mr Karate II, Kim, Joe, King",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Extreme Mr Karate II, Daimon, Ralf",
+					"attr": "HP + 25%"
 				}
 			]
 		},
