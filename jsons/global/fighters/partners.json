@@ -915,9 +915,9 @@
 		{
 			"fighter_id": "RYO_MR_KARATE",
 			"partners": {
-				"partner_1": "",
-				"partner_2": "",
-				"partner_3": ""
+				"partner_1": "RYO",
+				"partner_2": "YURI",
+				"partner_3": "ROBERT_2002_UM"
 			}
 		},
 		{
