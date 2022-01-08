@@ -875,25 +875,25 @@
 		{
 			"fighter_id": "MATURE_XIII",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "MATURE",
+				"partner_2": "VICE",
+				"partner_3": "OROCHI"
 			}
 		},
 		{
 			"fighter_id": "K_XIV",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "WHIP",
+				"partner_2": "KULA",
+				"partner_3": "MAXIMA"
 			}
 		},
 		{
 			"fighter_id": "MIZUCHI",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "IORI",
+				"partner_2": "LEONA",
+				"partner_3": "OROCHI"
 			}
 		},
 		{
