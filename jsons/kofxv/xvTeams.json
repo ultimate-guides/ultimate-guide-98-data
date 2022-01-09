@@ -2,6 +2,8 @@
     "teams": [{
         "team_id": "hero_team",
         "team_name" : "Hero Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "shun_ei"
@@ -17,6 +19,8 @@
     {
         "team_id": "sacred_treasures_team",
         "team_name" : "Sacred Treasures Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "kyo_kusanagi"
@@ -32,6 +36,8 @@
     {
         "team_id": "rival_team",
         "team_name" : "Rival Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "isla"
@@ -47,6 +53,8 @@
     {
         "team_id": "fatal_fury_team",
         "team_name" : "Fatal Fury Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "terry_bogard"
@@ -62,6 +70,8 @@
     {
         "team_id": "orochi_team",
         "team_name" : "Orochi Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "yashiro_nanakase"
@@ -77,6 +87,8 @@
     {
         "team_id": "art_of_fighting_team",
         "team_name" : "Art of Fighting Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "ryo_sakazaki"
@@ -92,6 +104,8 @@
     {
         "team_id": "super_heroine_team",
         "team_name" : "Super Heroine Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "athena"
@@ -107,6 +121,8 @@
     {
         "team_id": "ikari_team",
         "team_name" : "Ikari Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "leona_heidern"
@@ -122,6 +138,8 @@
     {
         "team_id": "secret_agent_team",
         "team_name" : "Secret Agent Team",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "blue_mary"
@@ -137,6 +155,8 @@
     {
         "team_id": "gaw_team",
         "team_name" : "G.A.W",
+        "description": "A bone-chilling gust of wind blows through an empty, desolate backstreet somewhere in Moscow, the only light far away in the twinkling stars. Two men walk closely side by side. One is middle-aged, rather slender for his years; the other, large and brawny, appearing almost bear-like in the dark. Neither is carrying much: just the clothes on their backs. Newspaper pages blow past them before being pressed against the wall. The two men idly glance at the pages. KOF Stadium Collapse Planned?! Organizers Face Extreme Accusations! An internal report places the sole blame on its managing director Antonov! Questions have also been raised about his past achievements... Antonov resigns! The Antonov Corporation's board of directors consider its next CEO... The words send a shiver down the men's spines. The larger of the two slams his fist into the wall, jolting the papers loose and sending them fleeing down the road. \"Boss...\" \n \"I AIN'T YOUR BOSS!\" The larger man bellows, causing the smaller one to abruptly pull back the hand he offered. \"A setup?! How in the― They know damn well I'd never do something so cold!\" Defeated, he slumps to his knees. This man is none other than Antonov, the former owner of Antonov Corporation, whose name, through no fault of his own, is on all the gossipers' tongues. When he held the King of Fighters tournament, a fearsome monster appeared and laid waste to the stadium he had spent untold millions on. Even so, the fight to the death between the champion and the monster generated huge ratings, and despite the tournament's many setbacks, Antonov still considered it a massive success... That is, until people online began suggesting he had set everything up. These baseless rumors spread like wildfire, growing practically overnight into an unstoppable inferno set on engulfing Antonov. \n Now, after fleeing together in the dead of night, the former champ and his right-hand man wander the freezing back streets of Moscow. Antonov stays crouched down for a while longer before abruptly shaking his head. \"No! The show's not over! I'll pull the curtain up myself!\" The smaller man, Yakov, studies Antonov's slumped posture for several moments, before speaking resolutely. \"You won't be by yourself, Boss―I mean, Anton! You've got me! Never been any different!\" \"Yakov...!\" The two stare at each other, memories of their time together―right back from their time as students―bringing tears to their eyes. Suddenly a young boy's voice rings out from a narrow alley connecting to the main road. “You're the champion, aren't you?!\" \"I know that voice!\" The boy stands in the alley, gawking at the two men; he had been going home with his family when he ducked into the alley. It is Misha, the boy who Antonov had shielded from harm at KOF. With Misha's parents putting in a good word for them, Antonov and Yakov manage to get a room in an apartment. It is a humble place―nothing but a landline phone, but Antonov had trained in frigid Siberia with his loyal Yakov by his side; by comparison, this is paradise Armed with their phone line, they start a new business...in what field you already know.. \"...So that's how I started this group. Not exactly a short story, I know. Antonov tips up the brim of his white cowboy hat, a cigar punctuating his grin, and a warm gaze radiating from behind his sunglasses \"Welcome, Ramón and King of Dinosaurs, to Galaxy Anton Wrestling! Antonov spreads his arms wide. Behind him looms a horizontal banner emblazoned with \"G.A.W.\", a.k.a. Galaxy Anton Wrestling, which would come to be known globally as a \"supernova pro-wrestling group\" They are standing in the G.A.W. president's office―well, an apartment room/office. Hardly presidential, it looks more like a storage room for secondhand office desks. Ramón and Dinosaur feel right at home. They smile and give Antonov a nod. \"Glad to be here, boss.\" \"A pleasure to work with you!\" Seeing Ramón and Dinosaur shake hands with Antonov brings a smile to Yakov's face, but his expression is soon overshadowed with concern. \"Of course we're glad you're willing to transfer to our group, but are you sure you want to give up your careers in Mexico?\" Dinosaur folds his arms resolutely, his expression serious; Ramón replies cheerfully, \"Just because we left Mexico, doesn't mean we gave up on it.\" \"If anything, it's the opposite. Pro wrestling doesn't have borders anymore. Wherever we go, our fans are with us!\" Ramón follows-up with a wry smile. \"We know your eyes aren't set on Russia; they're set on the entire world.\" Moved, Yakov holds his hands to his chest. Antonov's grin grows wider before he lets out a deep, booming guffaw that rattles the windows. \"GWAHAHAHAHA! I like you guys more every second!\" Antonov looks briefly between Ramón and Dinosaur, then thrusts a finger up toward the sky. \"You're wrong about one thing: G.A.W. isn't aiming for the world. Oh, no. We're aiming for the whole damn GALAXY!\" From behind his sunglasses, Antonov's eyes twinkle like the stars. Ramón and Dinosaur exchange glances and laugh heartily. \"For now, we compete in KOF, and then all three of us will take back the title of champion!\" \"That's what I'm talking about! Get the whole world hyped!\" \"Yeah! I'll do my part for your future, and the future of this group!\" \"Some heel you are, talking like that!\" \"Huh?! Well, uh, I'm not in character right now! And we're talking to our boss, so what's the big problem?!\" The fire inside these men could melt the Siberian ice. This is truly the first step for G.A.W. As the three men speak, Yakov looks on, smiling softly, as their bright and cheerful future glints in his eyes.",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "antonov"
@@ -152,6 +172,8 @@
     {
         "team_id": "k_team",
         "team_name" : "Team K'",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "k"
@@ -167,6 +189,8 @@
     {
         "team_id": "krohnen",
         "team_name" : "Krohnen Team'",
+        "description": "",
+        "description_es": "",
         "fighters": [
             {
                 "iname": "krohnen"
