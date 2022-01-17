@@ -5,7 +5,7 @@
         "stars": [{
             "lvl": 1,
             "description": "When HP is below 40%, 8% HP will be restored when each turn starts.",
-            "description_es": "",
+            "description_es": "Cuando el HP está por debajo del 40%, se restaurará un 8% HP cuando comience cada turno.",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -18,7 +18,7 @@
         {
             "lvl": 2,
             "description": "Increase 5% Res rate for each round survived, max 20%",
-            "description_es": "",
+            "description_es": "Aumente la Res Rate 5% por cada ronda sobrevivida, máximo 20%",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -31,7 +31,7 @@
         {
             "lvl": 3,
             "description": "When HP is below 40%, 12% HP will be restored, and debuff will be dispelled (petrification excluded) when each turn starts.",
-            "description_es": "",
+            "description_es": "Cuando el HP esté por debajo del 40 %, se restaurará un 12 % de HP y se disipará el debuff (excluida la petrificación) cuando comience cada turno.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -44,7 +44,7 @@
         {
             "lvl": 4,
             "description": "Each round survived, increase 10% Ult DMG, max 100%.",
-            "description_es": "",
+            "description_es": "Cada ronda sobrevivida, aumenta 10% Ult DMG, máximo 100%.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -56,7 +56,7 @@
         },{
             "lvl": 5,
             "description": "The lower the HP proportion, the higher the DMG caused by (normal attack, skill, ULT), max 50%.",
-            "description_es": "",
+            "description_es": "Cuanto menor sea la proporción de HP, mayor será el DMG causado por (ataque normal, skill, ULT), máximo 50%.",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -73,7 +73,7 @@
         "stars": [{
             "lvl": 1,
             "description": "At the beginning of the battle, decrease all enemy male fighters 8% Res Rate and DEF, lasts all battle.",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, disminuye la Res Rate y DEF de todos los luchadores masculinos enemigos en un 8%, dura toda la batalla.",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -86,7 +86,7 @@
         {
             "lvl": 2,
             "description": "When releasing skills, if the target is male, 50% chance to reduce 200 Rage.",
-            "description_es": "",
+            "description_es": "Al liberar skills, si el objetivo es un hombre, 50% de probabilidad de reducir 200 el Rage.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -99,7 +99,7 @@
         {
             "lvl": 3,
             "description": "In the third round, a random female fighter gets full Rage.",
-            "description_es": "",
+            "description_es": "En la tercera ronda, una peleadora mujer al azar se llena de Rage.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -111,8 +111,8 @@
         },
         {
             "lvl": 4,
-            "description": "In deployed team, for every female fighter present (the number of fighters is counted separately per round), all female fighters will get 5% MG increase, max 20%.",
-            "description_es": "",
+            "description": "In deployed team, for every female fighter present (the number of fighters is counted separately per round), all female fighters will get 5% DMG increase, max 20%.",
+            "description_es": "En el equipo desplegado, por cada luchadora presente (el número de luchadoras se cuenta por separado por ronda), todas las luchadoras obtendrán un aumento de DMG del 5 %, máximo del 20 %.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -124,7 +124,7 @@
         },{
             "lvl": 5,
             "description": "In Round 3, 2 random female fighters get full rage, and 20% DMG and Res rate bonus for 1 round",
-            "description_es": "",
+            "description_es": "En la ronda 3, 2 luchadoras aleatorias obtienen Rage completa, y un 20% de bonificación de DMG y Res Rate por 1 ronda",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -141,7 +141,7 @@
         "stars": [{
             "lvl": 1,
             "description": "At the beginning of the battle, reduce all enemy 8% crit rate, double for rear fighters, lasts 2 rounds.",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, reduce el Crit Rate de todos los enemigos en un 8%, el doble para los luchadores traseros, dura 2 rondas.",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -154,7 +154,7 @@
         {
             "lvl": 2,
             "description": "In the first 2 rounds, when receiving 40% HP in damage in a single hit, DMG received capped at 40% of HP.",
-            "description_es": "",
+            "description_es": "En las primeras 2 rondas, al recibir 40% de HP en daño en un solo golpe, el DMG recibido sera limitado a 40% de HP.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -167,7 +167,7 @@
         {
             "lvl": 3,
             "description": "Dispels control effects (dizziness, freeze, soul burning, petrification, taunting, etc.)",
-            "description_es": "",
+            "description_es": "Disipa los efectos de control (dizziness, freeze, soul burning, petrification, taunting, etc.)",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -180,7 +180,7 @@
         {
             "lvl": 4,
             "description": "Round 3 onwards, damage received will not exceed 30%, increase Block rate and Crit Res by 20%.",
-            "description_es": "",
+            "description_es": "Ronda 3 en adelante, el daño recibido no excederá el 30%, aumente el Block Rate y Crit Res en un 20%.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -192,7 +192,7 @@
         },{
             "lvl": 5,
             "description": "Each time you receive a control effect (dizziness, freeze, soul burning, petrification, taunting, etc.), restore 8% health, triggers up to 2 times per turn",
-            "description_es": "",
+            "description_es": "Cada vez que recibe un efecto de control (dizziness, freeze, soul burning, petrification, taunting, etc.), restaura un 8% de salud, se activa hasta 2 veces por turno",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -209,7 +209,7 @@
         "stars": [{
             "lvl": 1,
             "description": "When battle starts, in odd round, deal war god influence upon a random enemy fighter (body size decrease, reduce 15% DEF and DMG Res rate, DMG decreases by 15%, for 1 round)",
-            "description_es": "",
+            "description_es": "Cuando comienza la batalla, en una ronda impar, inflige la influencia del War God a un luchador enemigo aleatorio (disminuye el tamaño del cuerpo, reducción del 15% de DEF y el  DMG Res Rate, DMG disminuye en un 15%, durante 1 ronda)",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -222,7 +222,7 @@
         {
             "lvl": 2,
             "description": "When battle starts, increase own 15% crit rate, for the whole battle",
-            "description_es": "",
+            "description_es": "Cuando comienza la batalla, aumenta tu propio 15% Crit Rate, durante toda la batalla.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -235,7 +235,7 @@
         {
             "lvl": 3,
             "description": "At the beginning of the battle, all the God of War effects are increased to 30%.",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, todos los efectos de God of War aumentan al 30%.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -247,8 +247,8 @@
         },
         {
             "lvl": 4,
-            "description": "MG of normal attack and small skill increase by 60% against enemy fighters who bear war god influence.",
-            "description_es": "",
+            "description": "DMG of normal attack and small skill increase by 60% against enemy fighters who bear war god influence.",
+            "description_es": "DMG de ataque normal y Small Skill aumenta en un 60% contra luchadores enemigos que tienen la influencia de War God.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -260,7 +260,7 @@
         },{
             "lvl": 5,
             "description": "Since Round 3, get war god arrival effect, overall attribute increase (body size increase, increase 20% own ATK, DEF, DMG rate, and DMG Res rate), for whole battle, and recover 30% max HP immediately. (This effect will not be triggered if in transformation or death effect in Round 3)",
-            "description_es": "",
+            "description_es": "Desde la Ronda 3, obtiene el efecto de war god arrival, aumento de atributos en general (aumento del tamaño del cuerpo, aumento del 20% de ATK, DEF, DMG Rate y  DMG Res Rate), para toda la batalla, y recupere el 30% de HP máximo inmediatamente. (Este efecto no se activará si está en transformación o efecto de muerte en la Ronda 3)",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -276,8 +276,8 @@
         "name": "Vengeance",
         "stars": [{
             "lvl": 1,
-            "description": "Will decrease killer's MG & DEF by 50% after death, lasts 2 rounds, cannot be dispelled",
-            "description_es": "",
+            "description": "Will decrease killer's DMG & DEF by 50% after death, lasts 2 rounds, cannot be dispelled",
+            "description_es": "Disminuirá la DMG y DEF del asesino en un 50% después de la muerte, dura 2 rondas, no se puede disipar",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -290,7 +290,7 @@
         {
             "lvl": 2,
             "description": "Randomly reduce the 2 enemy fighters 200 Rage after death",
-            "description_es": "",
+            "description_es": "Reduce aleatoriamente a los 2 luchadores enemigos 200 de Rage después de la muerte.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -303,7 +303,7 @@
         {
             "lvl": 3,
             "description": "After death, restore 20%-40% of max HP to all allies. The less fighters remaining, higher the recovery.",
-            "description_es": "",
+            "description_es": "Después de la muerte, restaura del 20 % al 40 % del HP máximo a todos los aliados. Cuantos menos luchadores queden, mayor será la recuperación.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -316,7 +316,7 @@
         {
             "lvl": 4,
             "description": "After the death, reduce enemy's front fighters 20% Crit and block rate, last 2 rounds, can not be dispelled",
-            "description_es": "",
+            "description_es": "Después de la muerte, reduce los combatientes frontales del enemigo en un 20% Crit y Block Rate, dura 2 rondas, no se puede disipar",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -328,7 +328,7 @@
         },{
             "lvl": 5,
             "description": "After death, reduce enemy rear fighters 20% crit rate and crit power for 2 rounds, cannot be dispelled",
-            "description_es": "",
+            "description_es": "Después de la muerte, reduce Crit Rate y el Crit Power de los combatientes traseros enemigos en un 20% durante 2 rondas, no se puede disipar",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -345,7 +345,7 @@
         "stars": [{
             "lvl": 1,
             "description": "Increase 20% small skill rate and 25% small skill DMG.",
-            "description_es": "",
+            "description_es": "Aumenta un 20 % Small Skill Rate y un 25 % el DMG de Small Skill.",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -358,7 +358,7 @@
         {
             "lvl": 2,
             "description": "When the wearer releasing small skill, it makes extra Storm Cut effect upon enemy fighters, which could deal DMG of 8% max HP each round for whole battle. The effect is stackable and clearable.",
-            "description_es": "",
+            "description_es": "Cuando el portador libera una Small Skill, genera un efecto Storm Cut adicional sobre los combatientes enemigos, lo que podría causar un DMG del 8% de HP máximo en cada ronda durante toda la batalla. El efecto es apilable y borrable.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -371,7 +371,7 @@
         {
             "lvl": 3,
             "description": "The wearer could get Frenzy Wind effect. After releasing ULT, there will be 50% chance to get full rage and release ÜLt again maximum one trager per rouna) but with oniy 50% DMG. If this effect is triggered, no rage recovers during the round.",
-            "description_es": "",
+            "description_es": "El portador podría obtener el efecto Frenzy Wind. Después de lanzar ULT, habrá un 50 % de posibilidades de alcanzar la Rage máxima y volver a lanzar ULT como máximo un vez por ronda, pero con solo un 50 % de DMG. Si se activa este efecto, no se recupera la ira durante la ronda.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -384,7 +384,7 @@
         {
             "lvl": 4,
             "description": "Normal attack will have additional Storm Cut effect. The effect increases by 12% and it is not clearable.",
-            "description_es": "",
+            "description_es": "El ataque normal tendrá un efecto Storm Cut adicional. El efecto aumenta un 12% y no es eliminable.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -395,8 +395,8 @@
             "gold": 500000
         },{
             "lvl": 5,
-            "description": "The rate and DMG of Frenzy Wind effect increase to 75%, which has no influence on rage recovery. If the target was not killed, reduce up to 2 targets' 15% DEF rate and MG Res rate for 1 round.",
-            "description_es": "",
+            "description": "The rate and DMG of Frenzy Wind effect increase to 75%, which has no influence on rage recovery. If the target was not killed, reduce up to 2 targets' 15% DEF rate and DMG Res rate for 1 round.",
+            "description_es": "El Rate y el DMG del efecto Frenzy Wind aumentan al 75%, lo que no influye en la recuperación del Rage. Si el objetivo no fue asesinado, reduce la Rate DEF del 15% y DMG Res de hasta 2 objetivos durante 1 ronda.",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -413,7 +413,7 @@
         "stars": [{
             "lvl": 1,
             "description": "When being attacked by the enemy, the fighter equipped with Wolf FightSoul devours 30% of the attacker's DMG and Res Rate for 2 rounds (the effect ignores the immunity to Debuff, cannot be dispelled, cannot be stacked, and won't be effective when own shield exists).",
-            "description_es": "",
+            "description_es": "Cuando es atacado por el enemigo, el luchador equipado con Wolf FightSoul devora el 30% del DMG y el Res Rate del atacante durante 2 rondas (el efecto ignora la inmunidad a Debuff, no se puede disipar, no se puede acumular y no será efectivo cuando existe escudo propio).",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -425,8 +425,8 @@
         },
         {
             "lvl": 2,
-            "description": "When being attacked by the enemy, the fighter equipped with Wolf FightSoul devours 30% of the attacker's DMG and Res Rate for 2 rounds (the effect ignores the immunity to Debuff, cannot be dispelled, cannot be stacked, and won't be effective when own shield exists).",
-            "description_es": "",
+            "description": "When being attacked by the enemy, the fighter equipped with Wolf FightSoul devours 20% of the attacker's ATK and DEF for 2 rounds (the effect ignores the immunity to Debuff, cannot be dispelled, cannot be stacked, and won't be effective when own shield exists), and the one devours an additional 30% of the attacker's Crit and Crit Power when Crit Hit is caused for 1 round (the effect ignores the immunity to Debuff, cannot be dispelled, and cannot be stacked).",
+            "description_es": "Cuando es atacado por el enemigo, el luchador equipado con Wolf FightSoul devora el 20% del ATK y DEF del atacante durante 2 rondas (el efecto ignora la inmunidad a Debuff, no se puede disipar, no se puede acumular y no será efectivo cuando el escudo propio existe), y el otro devora un 30% adicional del Crit y Crit Power del atacante cuando se causa Crit Hit durante 1 ronda (el efecto ignora la inmunidad a Debuff, no se puede disipar y no se puede acumular).",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -439,7 +439,7 @@
         {
             "lvl": 3,
             "description": "When being attacked by the enemy, the fighter equipped with Wolf FightSoul will inflict \"Rift\" to the attacker (decreasing Rage restoration speed of the attacker by 50% and healing rate by 60%, the effect ignores the immunity to Debuff and can't be dispelled); the \"Rift\" will disappear when the enemy takes the damage by own fighter in own round.",
-            "description_es": "",
+            "description_es": "Al ser atacado por el enemigo, el luchador equipado con Wolf FightSoul infligirá \"Rift\" al atacante (disminuyendo la velocidad de restauración de Rage del atacante en un 50% y la tasa de curación en un 60%, el efecto ignora la inmunidad a Debuff y no se puede  disipar); la \"Rift\" desaparecerá cuando el enemigo reciba el daño del propio luchador en su propia ronda.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -452,7 +452,7 @@
         {
             "lvl": 4,
             "description": "When the \"Rift\" disappears, 150 Rages of the target will be decreased, and all the Debuff or the fighter who equipped with Wolf and Lamb FightSoul will be cleared. If Lamb FightSoul also exists, an extra Rage of the target will be decreased (Lamb FightSoul Star multiplied by 20)",
-            "description_es": "",
+            "description_es": "When the \"Rift\" disappears, 150 Rages of the target will be decreased, and all the Debuff or the fighter who equipped with Wolf and Lamb FightSoul will be cleared. If Lamb FightSoul also exists, an extra Rage of the target will be decreased (Lamb FightSoul Star multiplied by 20)",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -464,7 +464,7 @@
         },{
             "lvl": 5,
             "description": "Wolf FightSoul releases Plague to contaminate all the enemies. When an enemy dies, the Rage of a random fighter around him or her will be decreased by 400, and ATK and DEF of the fighter will be decreased for 2 rounds ( the effect ignores the immunity to Debuff and can't be dispelled); if Lamb FightSoul also exists, the contagion will come with Plague Virus effect. If the star of the Wolf FightSoul reaches 3, two fighters will be contaminated; if the star of the Wolf FightSoul reaches 5, three fighters will be contaminated.",
-            "description_es": "",
+            "description_es": "Wolf FightSoul lanza Plague para contaminar a todos los enemigos. Cuando un enemigo muere, la Rage de un luchador aleatorio a su alrededor se reducirá en 400, y el ATK y DEF del luchador se reducirán durante 2 rondas (el efecto ignora la inmunidad al Debuff y no se puede disipar); si Lamb FightSoul también existe, el contagio vendrá con efecto Plague Virus. Si la estrella del Wolf FightSoul llega a 3, se contaminarán dos luchadores; si la estrella de Wolf FightSoul llega a 5, se contaminarán tres luchadores.",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -481,7 +481,7 @@
         "stars": [{
             "lvl": 1,
             "description": "Lamb FightSoul will apply the \"Power of the Dead\" to all the fighters on own side at the beginning of the battle. When the fighter on own side dies for the first time, the damage of the small skill and ULT Res of all the fighters on own side will be increased by 20% for 2 rounds (the more the deaths, the higher the boost, and the effect can't be dispelled).",
-            "description_es": "",
+            "description_es": "Lamb FightSoul aplicará el \"Power of the Dead\" a todos los luchadores de su propio bando al comienzo de la batalla. Cuando el luchador de su propio bando muere por primera vez, el daño de la Small Skill y ULT Res de todos los luchadores del propio bando se incrementará en un 20 % durante 2 rondas (cuantas más muertes, mayor el impulso y la efecto no se puede disipar).",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -494,7 +494,7 @@
         {
             "lvl": 2,
             "description": "Lamb FightSoul will apply the \"Curse of the Dead\" to all the enemies at the beginning of the battle. When an enemy dies for the first time, the damage of the small skill and ULT Res of all the fighters on own side will be decreased by 10% for 2 rounds the more the deaths, the higher the Debuff, and the effect can't be dispelled).",
-            "description_es": "",
+            "description_es": "Lamb FightSoul aplicará la \"Curse of the Dead\" a todos los enemigos al comienzo de la batalla. Cuando un enemigo muere por primera vez, el daño de la Small Skill y ULT Res de todos los luchadores del propio lado se reducirá en un 10 % durante 2 rondas, cuantas más muertes, mayor la Desventaja y el efecto no puede ser disipado).",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -507,7 +507,7 @@
         {
             "lvl": 3,
             "description": "Sacrifice: When a fighter equipped with Lamb FightSoul is controlled, 10% of MAX HP will be restored to the rest of the fighters on own side when own turn starts, and 5% of MAX HP will be restored to the rest of the fighters on own side when the enemy's turn starts, the HP restored will be increased by 50% when Wolf FightSoul also exists.",
-            "description_es": "",
+            "description_es": "Sacrificio: cuando se controla un luchador equipado con Lamb FightSoul, se restaurará el 10% de MAX HP al resto de los luchadores de su propio lado cuando comience el propio turno, y se restaurará el 5% de MAX HP al resto de los luchadores en propio lado cuando comienza el turno del enemigo, el HP restaurado se incrementará en un 50% cuando Wolf FightSoul también existe.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -520,7 +520,7 @@
         {
             "lvl": 4,
             "description": "Lamb FightSoul will apply the \"Soul Conversion\" to all the enemies at the beginning of the battle. When an enemy dies for the first time, a fighter on own side will be enchanted randomly. Res Rate of the fighter who is enchanted will be increased by 40% for 2 rounds, and this fighter will have a chance to resurrect with a certain amount of HP when he or she dies. After the resurrection, all Rages will be inherited (the effect won't work for the fighter with the resurrection skill or the one who has been enchanted). If the Wolf FightSoul also exists when the fighter is enchanted, Wolf FightSoul Star multiplied by 5% of MAX HP of the fighter will be increased when he or she resurrects.",
-            "description_es": "",
+            "description_es": "Lamb FightSoul aplicará la \"Soul Conversion\" a todos los enemigos al comienzo de la batalla. Cuando un enemigo muere por primera vez, un luchador de su propio lado quedará encantado al azar. La Res Rate del luchador que está encantado aumentará en un 40 % durante 2 rondas, y este luchador tendrá la posibilidad de resucitar con una cierta cantidad de HP cuando muera. Después de la resurrección, todas las Rage serán heredadas (el efecto no funcionará para el luchador con la habilidad de resurrección o el que ha sido encantado). Si Wolf FightSoul también existe cuando el luchador está encantado, Wolf FightSoul la estrella  (nivel) multiplicado por el 5% del MAX HP del luchador se incrementará cuando resucite.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -532,7 +532,7 @@
         },{
             "lvl": 5,
             "description": "Lamb FightSoul will apply the \"Lamb's Return\" to all the fighters on own side at the beginning of the battle. When the fighter on own side dies for the first time, he or she will resurrect. 50% of the HP lost of the fighter equipped with the Lamb FightSoul will be restored, and DMG Res of the surrounding fighters will be increased by 30% for 2 rounds (can't be dispelled). When the Wolf FightSoul also exists, 20% HP of a random fighter around the fighter equipped with the Lamb FightSoul will be restored. If the star of the Wolf FightSoul reaches 3, two fighters' HP will be restored; if the star of the Wolf FightSoul reaches 5, three fighters' HP will be restored. When the fighter equipped with the Lamb FightSoul dies, all the Buff will double, and all the fighters on own side will enjoy the DMG Res increasing effect.",
-            "description_es": "",
+            "description_es": "Lamb FightSoul aplicará el \"Lamb's Return\" a todos los luchadores de su propio bando al comienzo de la batalla. Cuando el luchador de su lado muera por primera vez, resucitará. Se restaurará el 50 % de la pérdida de HP del luchador equipado con Lamb FightSoul, y la DMG Res de los luchadores circundantes se incrementará en un 30 % durante 2 rondas (no se puede disipar). Cuando Wolf FightSoul también existe, se restaurará el 20% de HP de un luchador aleatorio alrededor del luchador equipado con Lamb FightSoul. Si la estrella de Wolf FightSoul llega a 3, se restaurará el HP de dos luchadores; si la estrella de Wolf FightSoul llega a 5, se restaurará el HP de tres luchadores. Cuando el luchador equipado con Lamb FightSoul muere, todo el Buff se duplicará, y todos los luchadores de su propio lado disfrutarán del efecto de aumento de DMG Res.",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -548,8 +548,8 @@
         "name": "Blood Thorns",
         "stars": [{
             "lvl": 1,
-            "description": "It could only be worn by DPS and GANK fighters. The wearer could absorb 10% MG Reflect from nearby allies.",
-            "description_es": "",
+            "description": "It could only be worn by DPS and GANK fighters. The wearer could absorb 10% DMG Reflect from nearby allies.",
+            "description_es": "Solo lo pueden usar los luchadores DPS y GANK. El portador podra absorber 10% DMG Reflect de los aliados cercanos.",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -562,7 +562,7 @@
         {
             "lvl": 2,
             "description": "Normal attack and small skill could reduce 10% DEF and make Bleeding effect upon the target for 1 round. (Lose 10% Max HP at the start of the round and reduce 70% healing effect for 1 round)",
-            "description_es": "",
+            "description_es": "El ataque normal y la Small Skill pueden reducir un 10 % la DEF y causar un efecto de Bleeding en el objetivo durante 1 ronda. (Pierde un 10 % de HP máximo al comienzo de la ronda y reduce un 70 % el efecto de curación durante 1 ronda)",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -575,7 +575,7 @@
         {
             "lvl": 3,
             "description": "When the wearer's HP is less than 50% and under attack, the wearer could steal 20% HP from 1 enemy with more than 30% HP. (Up to 3 times)",
-            "description_es": "",
+            "description_es": "When the wearer's HP is less than 50% and under attack, the wearer could steal 20% HP from 1 enemy with more than 30% HP. (Up to 3 times)",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -587,8 +587,8 @@
         },
         {
             "lvl": 4,
-            "description": "The MG Reflect absorbed from nearby allies increases by 100% (up to 40%). ULT could make Bleeding effect upon 2 enemy fighters randomly for 2 rounds (Lose 10% Max HP at the start of the round and reduce 50% healing effect for 2 rounds)",
-            "description_es": "",
+            "description": "The DMG Reflect absorbed from nearby allies increases by 100% (up to 40%). ULT could make Bleeding effect upon 2 enemy fighters randomly for 2 rounds (Lose 10% Max HP at the start of the round and reduce 50% healing effect for 2 rounds)",
+            "description_es": "El DMG Reflect absorbido por los aliados cercanos aumenta en un 100 % (hasta un 40 %). ULT podría tener un efecto de Bleeding sobre 2 luchadores enemigos aleatoriamente durante 2 rondas (pierde un 10% de HP máximo al comienzo de la ronda y reduce un 50% el efecto de curación durante 2 rondas)",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -600,7 +600,7 @@
         },{
             "lvl": 5,
             "description": "When the wearer dies, reduce all enemy fighters 15% ATK and DEF for 2 rounds (not clearable), and make Bleeding effect upon all enemy fighters for 2 rounds (Lose 10% Max HP at the start of the round and reduce 50% healing effect for 2 rounds, not clearable)",
-            "description_es": "",
+            "description_es": "Cuando el portador muere, reduce el ATQ y DEF de todos los combatientes enemigos en un 15 % durante 2 rondas (no eliminable) y aplica un efecto de Bleeding en todos los combatientes enemigos durante 2 rondas (pierdes un 10 % de HP máximo al comienzo de la ronda y reduce un 50 % la curación). efecto durante 2 rondas, no borrable)",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -617,7 +617,7 @@
         "stars": [{
             "lvl": 1,
             "description": "When releasing a skill, will cast debuff on enemy (all damage reduced by 20%, all damage received increased by 10% for 2 rounds)",
-            "description_es": "",
+            "description_es": "Al liberar una Skill, lanzará una desventaja sobre el enemigo (todo el daño reducido en un 20 %, todo el daño recibido aumentado en un 10 % durante 2 rondas)",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -630,7 +630,7 @@
         {
             "lvl": 2,
             "description": "At the beginning of the battle, permanently reduce the enemy's total 8% DEF, and effect on front row is increased by 50%.",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, reduce permanentemente el DEF total del enemigo en un 8 % y el efecto en la primera fila aumenta en un 50 %.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -643,7 +643,7 @@
         {
             "lvl": 3,
             "description": "At the beginning of the battle, odd-number rounds will randomly cast debuff on one enemy, dizziness, paralysis, freeze, or silence for 1 round.",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, las rondas de números impares arrojarán Debuff aleatoriamente en un enemigo, dizziness, paralysis, freeze, o silence durante 1 ronda.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -655,8 +655,8 @@
         },
         {
             "lvl": 4,
-            "description": "At the beginning of the battle, randomly dispel all buff from an enemy each round.",
-            "description_es": "",
+            "description": "At the beginning of the battle, randomly dispel all buffs from an enemy each round.",
+            "description_es": "Al comienzo de la batalla, disipa aleatoriamente todos los beneficios de un enemigo en cada ronda.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -668,7 +668,7 @@
         },{
             "lvl": 5,
             "description": "Releasing ULT makes the target enter cursed state (reduce 100% crit rate, 100% block rate, lasts 2 rounds). When the attack targets include more than 2 people, two random targets will get this effect which cannot be dispelled.",
-            "description_es": "",
+            "description_es": "Liberando ULT hace que el objetivo entre en estado maldito (reduce 100% Crit Rate, 100% Block Rate, dura 2 rondas). Cuando los objetivos del ataque incluyen más de 2 personas, dos objetivos aleatorios obtendrán este efecto que no se puede disipar.",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -685,7 +685,7 @@
         "stars": [{
             "lvl": 1,
             "description": "At the beginning of the battle, increase DEF by 10% and decrease DMG by 20%. Each 2 rounds will attach devils to 2 enemies randomly (fighters with Devil FightSoul will not become targets), and these fighters will also increase DEF by 10% and decrease DMG by 20%.",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, aumenta la DEF en un 10 % y disminuye el DAÑO en un 20 %. Cada 2 rondas unirán demonios a 2 enemigos aleatoriamente (los luchadores con Devil FightSoul no se convertirán en objetivos), y estos luchadores también aumentarán la DEF en un 10 % y disminuirán el DAÑO en un 20 %.",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -698,7 +698,7 @@
         {
             "lvl": 2,
             "description": "At the beginning of the battle, increase 10% ULT Res and decrease 20% ULT DMG.",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, aumente un 10% ULT Res y disminuya un 20% ULT DMG.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -711,7 +711,7 @@
         {
             "lvl": 3,
             "description": "At the beginning of the battle, decrease 20% Control-free. If the fighter get controlled (frozen, paralyzed, stunned, silence, taunted, petrified), the effect will be reflected to enemies which are attached with devils (1 round).",
-            "description_es": "",
+            "description_es": "Al comienzo de la batalla, disminuye un 20% Control-Free. Si el luchador es controlado (frozen, paralyzed, stunned, silence, taunted, petrified), el efecto se reflejará en los enemigos que están unidos con demonios (1 ronda).",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -723,8 +723,8 @@
         },
         {
             "lvl": 4,
-            "description": "Devil FightSoul's debuff will increase by 50% for PS and GANK fighters and buff will increase by 50% for DEF fighters.",
-            "description_es": "",
+            "description": "Devil FightSoul's debuff will increase by 50% for DPS and GANK fighters and buff will increase by 50% for DEF fighters.",
+            "description_es": "La desventaja de Devil FightSoul aumentará en un 50 % para los luchadores DPS y GANK y la ventaja aumentará en un 50 % para los luchadores TANK.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -736,7 +736,7 @@
         },{
             "lvl": 5,
             "description": "Each round recover 10% max HP. When get nonfatal damage, the 50% of damage will be reflected to enemies which are attached with devils.",
-            "description_es": "",
+            "description_es": "Cada ronda recupera el 10% de HP máximo. Cuando reciba daño no fatal, el 50% del daño se reflejará en los enemigos que están unidos con demonios.",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
@@ -753,7 +753,7 @@
         "stars": [{
             "lvl": 1,
             "description": "The additional effect of the FightSoul will be activated when it's equipped by the Flame fighters that don' t belong to Kusanagi clan. Flame Shield effect (increase Res Rate and Reflection of the equipper by 10%, be immune to Burning and Soul Burning status, Which lasts for the whole battle) will be added to the equipper.",
-            "description_es": "",
+            "description_es": "El efecto adicional de FightSoul se activará cuando esté equipado por los luchadores Flame que no pertenecen al clan Kusanagi. El efecto Flame Shield (aumenta la Res Rate y el reflejo del equipador en un 10%, es inmune al estado Burning y Soul Burning, que dura toda la batalla) se agregará al equipador.",
             "description_pt": "",
             "blood": 100,
             "awakening_gem": 0,
@@ -766,7 +766,7 @@
         {
             "lvl": 2,
             "description": "Soul Burning effect (decrease 8% of HP and 200 Rage of the target; if there are more than 2 main targets when the equipper is attacking, 2 random targets will get Soul Burning status) will be added to ULT and small skills of the equipper for 1 round.",
-            "description_es": "",
+            "description_es": "El efecto Soul Burning (disminución del 8% de HP y 200 Rage del objetivo; si hay más de 2 objetivos principales cuando el equipador está atacando, 2 objetivos aleatorios obtendrán el estado Soul Burning) se agregará a ULT y Small Skill del equipador por 1 ronda.",
             "description_pt": "",
             "blood": 300,
             "awakening_gem": 0,
@@ -779,7 +779,7 @@
         {
             "lvl": 3,
             "description": "Increase Crit Resistance and small skill Resistance of the Flame allies by 20%",
-            "description_es": "",
+            "description_es": "Aumenta la Cri Res y la Small Skill Res de los aliados de la Flame en un 20 %.",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -792,7 +792,7 @@
         {
             "lvl": 4,
             "description": "Improve to Kusanagi Flame's Soul Burning (prevent the target from getting the Rage returning effect for 1 round and reduce the target's HP healing rate by 50%)",
-            "description_es": "",
+            "description_es": "Mejora de Kusanagi Flame's Soul Burning (evita que el objetivo obtenga el efecto de retorno de Rage durante 1 ronda y reduce la tasa de curación de HP del objetivo en un 50 %).",
             "description_pt": "",
             "blood": 400,
             "awakening_gem": 0,
@@ -804,7 +804,7 @@
         },{
             "lvl": 5,
             "description": "For every additional Flame fighter on own side and Aid Formation, increase all Flame allies' Crit by 8% (up to 24%) and Crit Power by 4% (up to 12%).",
-            "description_es": "",
+            "description_es": "Por cada luchador Flame adicional en su propio bando y formación de ayuda, aumente el crítico de todos los aliados Flame en un 8 % (hasta un 24 %) y el poder crítico en un 4 % (hasta un 12 %).",
             "description_pt": "",
             "blood": 600,
             "awakening_gem": 0,
