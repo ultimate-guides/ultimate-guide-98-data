@@ -1,6 +1,35 @@
 {
 	"skills": [
 		{
+			"fighter_id": "BAN",
+			"skills": [
+				{
+					"name": "DURRY",
+                    "description": "Attacks one target, increasing the chance of self-poisoning by 40% (2 turns). Increases 10~20% unique damage, drains 15~35% HP of the target (ignoring immunity, the less HP of the enemy, the higher the percentage mentioned above, maximum when the enemy HP is below 40%). For 2 turns, at the beginning of your side's turn, restore HP equal to 150% of ATK and 60 Rage. Has a 60% chance to stun the target (1 turn). Increases \"goblin guardian\" by 5% (4 stars after activating passive).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "HUNTER",
+					"description": "Attacks a target (prioritizes the target not being \"taken away\"). For 2 turns, increase self damage, damage resistance, ultimate skill damage by 30% . Activates the effect of \"stealing\" (swallows 3% of target's ATK and DEF, lasts forever, can be stacked, ignores immunity). Absorbs beneficial buff from the target, restores 25% of max HP and 300 rage . Buff resistance to polio for 1 time and increase \"goblin guardian\" by 15% (4 stars after activating passive). Has a 5% chance to activate the effect \"Fox Hunting\" (increases probability by 2% every time 1 point of \"Stream of Life\" is spent). In addition to the full effect of the aforementioned \"Hunting Guild\" technique, will deal additional damage equal to the target's missing HP (up to 500% of own ATK).",
+					"description_es": "",
+					"description_pt": ""					
+				},
+				{
+					"name": "Super Attack Enhancement",
+					"description": "Permanently increases ATK.",
+					"description_es": "Incrementa permanentemente el ataque ",
+					"description_pt": "Aumenta permanentemente o ataque."					
+				},
+				{
+					"name": "RIVER OF LIFE",
+					"description": "Increases critical hit resistance and block rate for our team's \"Seven Deadly Sins\" (10% at lvl 1), increases self by 20%. Increases self's attack, defense, and block by 35%. Self nullifies with sustained damage. Increases self's crit chance and lifesteal by 10~25% when attacking an enemy target with less than 50% HP (the lower the enemy's HP, the higher the stats, maximum when the enemy's HP is below 15%) ).  When entering the battle, you will receive the number of \"Stream of Life\" points depending on the number of people on the enemy side (1~2 people: 2 points, 3~4 people: 4 points, 5~6 people: 6 points. 8 points). When taking fatal damage, it will spend 1 point \"Spring of Life\", recovering 15% of max HP and 100 fury. When attacking or being attacked, will gain 5% \"guardian goblins\". When the \"guardian goblin\" reaches 100%, it will reset to 0% on our side's next turn, and increase the \"Stream of Life\" point by 1. I cannot revive myself. \"Deep Memory\": increases the healing rate by 5% each time you spend 1 point \"Stream of Life\" (can be stacked up to 10 times).",
+					"description_es": "",
+					"description_pt": ""					
+				}
+			]
+		},
+		{
 			"fighter_id": "DIZZY",
 			"skills": [
 				{

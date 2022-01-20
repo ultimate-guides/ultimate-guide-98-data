@@ -1,6 +1,16 @@
 {
 	"weapons": [
 		{
+			"fighter_id": "BAN",
+			"weapon_awakened": {
+				"name": "Necro and Undine",
+				"description": "Attacks a target (prioritizes the target not being \"taken away\"). For 2 turns, increase self damage, damage resistance, ultimate skill damage by <font color='#FFA726'>30%</font> . Activates the effect of \"stealing\" (swallows <font color='#FFA726'>3%</font> of target's ATK and DEF, lasts forever, can be stacked, ignores immunity). Absorbs beneficial buff from the target, restores <font color='#FFA726'>25%</font> of max HP and <font color='#FFA726'>300</font> rage . Buff resistance to polio for 1 time and increase \"goblin guardian\" by <font color='#FFA726'>15%</font> (4 stars after activating passive). Has a 5% chance to activate the effect \"Fox Hunting\" (increases probability by 2% every time 1 point of \"Stream of Life\" is spent). In addition to the full effect of the aforementioned \"Hunting Guild\" technique, will deal additional damage equal to the target's missing HP (up to 500% of own ATK).",
+				"description_es": "",
+				"description_pt": "",
+				"contributor": "UG Team"
+			}
+		},
+		{
 			"fighter_id": "DIZZY",
 			"weapon_awakened": {
 				"name": "Necro and Undine",

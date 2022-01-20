@@ -1,6 +1,23 @@
 {
 	"fates": [
 		{
+			"fighter_id": "BAN",
+			"fates": [
+				{
+					"bosses": "Ban, Meliodas, Elizabeth",
+					"attr": "ATK +25%"
+				},
+				{
+					"bosses": "Ban, Kula XIV, Devil Saiki, Athena XIII",
+					"attr": "HP +25%"
+				},
+				{
+					"bosses": "Ban, Billy XIV, Billy",
+					"attr": "HP +25%"
+				}
+			]
+		},
+		{
 			"fighter_id": "DIZZY",
 			"fates": [
 				{

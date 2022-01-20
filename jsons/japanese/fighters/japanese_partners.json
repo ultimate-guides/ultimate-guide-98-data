@@ -1,6 +1,14 @@
 {
 	"partners": [
 		{
+			"fighter_id": "BAN",
+			"partners": {
+				"partner_1": "BILLY",
+				"partner_2": "MR_BIG",
+				"partner_3": "KRAUSER"
+			}
+		},
+		{
 			"fighter_id": "DIZZY",
 			"partners": {
 				"partner_1": "SOL_BADGUY",

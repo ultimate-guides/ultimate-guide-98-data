@@ -1,6 +1,20 @@
 {
 	"skills_elements": [
 		{
+			"fighter_id": "BAN",
+			"skills_elements": {
+				"lake": "",
+				"lake_es": "",
+				"lake_pt": "",				
+				"thunder": "",
+				"thunder_es": "",
+				"thunder_pt": "",				
+				"water": "",
+				"water_es": "",
+				"water_pt": ""
+			}
+		},
+		{
 			"fighter_id": "DIZZY",
 			"skills_elements": {
 				"lake": "",

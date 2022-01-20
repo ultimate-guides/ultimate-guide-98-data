@@ -1,6 +1,15 @@
 {
 	"fightsouls": [	
 		{
+			"fighter_id": "BAN",
+			"fightsoul": {
+				"name": "SNAKE",
+				"description": "When attacking, it will regenerate. When attacked, will restore Rage.",
+				"description_es": "",
+				"description_pt": ""
+			}
+		},
+		{
 			"fighter_id": "DIZZY",
 			"fightsoul": {
 				"name": "TURTLE",
@@ -13,7 +22,7 @@
 			"fighter_id": "KY_KISKE",
 			"fightsoul": {
 				"name": "BEAR",
-				"description": "The first turn when entering the battle will have a large amount of fury. When attacking will restore fury.",
+				"description": "The first turn when entering the battle will have a large amount of Rage. When attacking will restore Rage.",
 				"description_es": "",
 				"description_pt": ""
 			}
