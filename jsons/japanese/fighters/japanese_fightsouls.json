@@ -5,7 +5,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "When attacking, it will regenerate. When attacked, will restore Rage.",
-				"description_es": "",
+				"description_es": "Al atacar, se regenerará Rage. Cuando es atacado, restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -14,7 +14,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "When attacking and being attacked, it will regenerate.",
-				"description_es": "",
+				"description_es": "Al atacar y ser atacada, se regenerará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -23,7 +23,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "The first turn when entering the battle will have a large amount of Rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "El primer turno al entrar en batalla tendrá una gran cantidad de Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -32,7 +32,7 @@
 			"fightsoul": {
 				"name": "TIGER",
 				"description": "When the boxers of the enemy or our side die, they will rage. When attacked, will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando los peleadores del enemigo o de nuestro bando mueran, gana Rage. Cuando es atacado, restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -41,7 +41,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "When attacked, will restore Rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando es atacado, restaurará Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -50,7 +50,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "When entering the battle, there will be a large amount of Rage. When attacked, will restore Rage.",
-				"description_es": "",
+				"description_es": "Al entrar en la batalla, Ganara una gran cantidad de Rage. Cuando es atacado, restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -59,7 +59,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "When attacked, it will regenerate Rage. When the enemy side or our side dies, it will rage",
-				"description_es": "",
+				"description_es": "Cuando es atacado, regenerará Rage. Cuando el lado enemigo o nuestro lado muera, gana Rage",
 				"description_pt": ""
 			}
 		},
@@ -68,7 +68,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "The first turn when entering the battle will have a large amount of RAGE. When attacking will restore RAGE.",
-				"description_es": "",
+				"description_es": "Cuando nuestro lado o el lado enemigo muera, gana Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -86,7 +86,7 @@
 			"fightsoul": {
 				"name": "SPACE",
 				"description": " In all modes, self-heal for 85 Rage. Igniz 02 Um 4 stars or more restores HP at the beginning of each turn. ",
-				"description_es": "",
+				"description_es": "En todos los modos, autorrecupérate  85 de Rage. Igniz 02 Um 4 estrellas o más restaura HP al comienzo de cada turno.",
 				"description_pt": ""
 			}
 		},
@@ -95,7 +95,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": " The first turn when entering the battle will have a large amount of Rage. When our side or the enemy side dies, they will rage. ",
-				"description_es": "",
+				"description_es": "El primer turno al entrar en batalla tendrá una gran cantidad de Rage. Cuando nuestro bando o el enemigo muera, gana Rage.",
 				"description_pt": ""
 			}
 		},	
@@ -104,7 +104,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": " When attacked, will restore Rage. When our side or the enemy side dies, they will rage",
-				"description_es": "",
+				"description_es": "Cuando es atacado, restaurará Rage. Cuando nuestro lado o el lado enemigo muera, gana Rage",
 				"description_pt": ""
 			}
 		},
@@ -113,7 +113,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "The first turn when entering the battle will have a large amount of Rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "El primer turno al entrar en batalla tendrá una gran cantidad de Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -122,7 +122,7 @@
 			"fightsoul": {
 				"name": "TIGER",
 				"description": "When our ally or enemy team dies, they will rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando nuestro equipo aliado o enemigo muera, gana Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -131,7 +131,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "When attacking, restores some Rage. When allies or enemy factions die, they will rage.",
-				"description_es": "",
+				"description_es": "Al atacar, restaura un poco de Rage. Cuando los aliados o los enemigos mueran, gana Rage",
 				"description_pt": ""
 			}
 		},
@@ -140,7 +140,7 @@
 			"fightsoul": {
 				"name": "TIGER",
 				"description": "When our side or the enemy side dies, it will rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando nuestro lado o el lado enemigo muera, gana Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -149,7 +149,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "When our side or the enemy side dies, it will rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando nuestro lado o el lado enemigo muera, gana Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -158,7 +158,7 @@
 			"fightsoul": {
 				"name": "BEAR",
 				"description": "When entering the battle, it will recover a large amount of Rage. When attacked, will restore Rage.",
-				"description_es": "",
+				"description_es": "Al entrar en la batalla, recuperará una gran cantidad de Rage. Cuando es atacado, restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -167,7 +167,7 @@
 			"fightsoul": {
 				"name": "TURTLE",
 				"description": "When attacked, will restore Rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando es atacado, restaurará Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -176,7 +176,7 @@
 			"fightsoul": {
 				"name": "TIGER",
 				"description": " When the fighter on our side or the enemy dies, it will rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando el luchador de nuestro lado o el enemigo muera, gana Rage. Al atacar restaurará Rage.",
 				"description_pt": ""
 			}
 		},
@@ -185,7 +185,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "When attacked, it restores Rage. When attacked, it restores Rage",
-				"description_es": "",
+				"description_es": "Cuando es atacado, restaura Rage. Cuando ataca restaura Rage.",
 				"description_pt": ""
 			}
 		},
@@ -194,7 +194,7 @@
 			"fightsoul": {
 				"name": "SNAKE",
 				"description": "when the enemy side or our side dies, it will rage. When attacking will restore Rage.",
-				"description_es": "",
+				"description_es": "Cuando el lado enemigo o nuestro lado muera, cargara Rage. Al atacar restaurará la Rage",
 				"description_pt": ""
 			}
 		}
