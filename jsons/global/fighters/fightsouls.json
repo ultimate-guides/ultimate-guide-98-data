@@ -1102,8 +1102,8 @@
 			"fighter_id": "HOTARU",
 			"fightsoul": {
 				"name": "SNAKE",
-				"description": "Gain 40 Rage when attacking, and gain extra Rage when being attacked",
-				"description_es": "Obtiene 40 Rage cuando ataca y obtienes más Rage cuando es golpeado.",
+				"description": "Gain 30 Rage when attacking, and gain extra Rage when being attacked",
+				"description_es": "Obtiene 30 Rage cuando ataca y obtienes más Rage cuando es golpeado.",
 				"description_pt": null
 			}
 		}
