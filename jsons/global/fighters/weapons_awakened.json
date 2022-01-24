@@ -1219,6 +1219,16 @@
 				"description_pt": null,
 				"contributor": null
 			}
+		},
+		{
+			"fighter_id": "HOTARU",
+			"weapon_awakened": {
+				"name": "Electic Guitar",
+				"description": "",
+				"description_es": "",
+				"description_pt": null,
+				"contributor": null
+			}
 		}
 	]
 }

@@ -2073,6 +2073,23 @@
 					"attr": "HP + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "HOTARU",
+			"fates": [
+				{
+					"bosses": "Orochi Yashiro 02UM, Orochi Chris 02UM, Orochi Shermie 02UM, Goenitz",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Orochi Yashiro 02UM, Yashiro, Orochi Yashiro",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Yamazaki, Daimon, Rugal",
+					"attr": "HP + 25%"
+				}
+			]
 		}
 	]
 }

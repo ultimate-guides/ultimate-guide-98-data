@@ -3537,6 +3537,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "HOTARU",
+			"skills": [
+				{
+					"name": "",
+					"description": "",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": "",
+					"description": "",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Dry Land",
+					"description": "",
+					"description_es": "",
+					"description_pt": null
+				}
+			]
 		}
 	]
 }
