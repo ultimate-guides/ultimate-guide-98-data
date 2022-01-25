@@ -92,7 +92,7 @@ Para navegar por una sección o documento que desee, vea la tabla de contenido y
 
 ## List of Fighters
 
-[![Everything Is AWESOME](https://www.ultimate-guides.net/assets/ug98/img/github_fightersList.png)](https://youtu.be/HBwH86Onp6E 'Fighters List')
+[![Everything Is AWESOME](https://www.ultimate-guides.net/assets/ug98/img/github_fightersList.png)](https://youtu.be/HBwH86Onp6E "Fighters List")
 
 <img src="https://www.ultimate-guides.net/assets/ug98/img/fighters.GIF" align="right" width="32%"/>
 
@@ -102,17 +102,17 @@ Estructura:
 
 ```json
 {
-	"fighter_id": "KYO",
-	"fightsoul_id": "TIGER",
-	"name": "Kyo",
-	"chinese_name": "草薙京",
-	"api": 13,
-	"type_id": "DPS",
-	"gender_id": "MALE",
-	"tome_id": "SCORCHING",
-	"badge_id": "FLAME",
-	"status": 0,
-	"striker": 1
+    "fighter_id": "KYO",
+    "fightsoul_id": "TIGER",
+    "name": "Kyo",
+    "chinese_name": "草薙京",
+    "api": 13,
+    "type_id": "DPS",
+    "gender_id": "MALE",
+    "tome_id": "SCORCHING",
+    "badge_id": "FLAME",
+    "status": 0,
+    "striker": 1
 }
 ```
 
@@ -144,13 +144,13 @@ Estructura del json:
 
 ```json
 {
-	"fighter_id": "KYO",
-	"fightsoul": {
-		"name": "TIGER",
-		"description": "Restore 126 Rage when ally dies. (3/4 for enemy)",
-		"description_es": "Recupera 126 ira (Rage) cuando un aliado muere. (3 /4 por enemigo)",
-		"description_pt": "Recupera 126 de rage quando um aliado morre (3/4 por inimigo)."
-	}
+    "fighter_id": "KYO",
+    "fightsoul": {
+        "name": "TIGER",
+        "description": "Restore 126 Rage when ally dies. (3/4 for enemy)",
+        "description_es": "Recupera 126 ira (Rage) cuando un aliado muere. (3 /4 por enemigo)",
+        "description_pt": "Recupera 126 de rage quando um aliado morre (3/4 por inimigo)."
+    }
 }
 ```
 
@@ -174,21 +174,21 @@ Estructura del json:
 
 ```json
 {
-	"fighter_id": "KYO",
-	"fates": [
-		{
-			"bosses": "Kyo, Benimaru, Daimon",
-			"attr": "ATK +20%"
-		},
-		{
-			"bosses": "Kyo, Iori, Chizuru",
-			"attr": "ATK +20%"
-		},
-		{
-			"bosses": "Kyo, Shingo",
-			"attr": "ATK +20%"
-		}
-	]
+    "fighter_id": "KYO",
+    "fates": [
+        {
+            "bosses": "Kyo, Benimaru, Daimon",
+            "attr": "ATK +20%"
+        },
+        {
+            "bosses": "Kyo, Iori, Chizuru",
+            "attr": "ATK +20%"
+        },
+        {
+            "bosses": "Kyo, Shingo",
+            "attr": "ATK +20%"
+        }
+    ]
 }
 ```
 
@@ -209,12 +209,12 @@ Estructura del json:
 
 ```json
 {
-	"fighter_id": "KYO",
-	"partners": {
-		"partner_1": "BENIMARU",
-		"partner_2": "SAISYU",
-		"partner_3": "KASUMI"
-	}
+    "fighter_id": "KYO",
+    "partners": {
+        "partner_1": "BENIMARU",
+        "partner_2": "SAISYU",
+        "partner_3": "KASUMI"
+    }
 }
 ```
 
@@ -231,12 +231,12 @@ Estructura del json:
 
 ```json
 {
-	"fighter_id": "KYO",
-	"name": "Red Fire",
-	"cost": null,
-	"atribute_1": "ATK: +300",
-	"atribute_2": "DEF: +240",
-	"img_name": "fashion_kyo_1"
+    "fighter_id": "KYO",
+    "name": "Red Fire",
+    "cost": null,
+    "atribute_1": "ATK: +300",
+    "atribute_2": "DEF: +240",
+    "img_name": "fashion_kyo_1"
 }
 ```
 
@@ -259,14 +259,14 @@ Estructura del json:
 
 ```json
 {
-	"fighter_id": "KYO",
-	"weapon_awakened": {
-		"name": "Kusanagi Sword",
-		"description": "Strikes a Column, burning them and reducing their Rage by 300.",
-		"description_es": "Impacta a una columna quemando los enemigos y reduciendoles la ira (rage) por 300.",
-		"description_pt": "Atinge uma coluna de inimigos, causando queimadura e reduzindo 300 de rage. ",
-		"contributor": "Sangogrin (s5)"
-	}
+    "fighter_id": "KYO",
+    "weapon_awakened": {
+        "name": "Kusanagi Sword",
+        "description": "Strikes a Column, burning them and reducing their Rage by 300.",
+        "description_es": "Impacta a una columna quemando los enemigos y reduciendoles la ira (rage) por 300.",
+        "description_pt": "Atinge uma coluna de inimigos, causando queimadura e reduzindo 300 de rage. ",
+        "contributor": "Sangogrin (s5)"
+    }
 }
 ```
 
@@ -292,15 +292,15 @@ Estructura del json:
 
 ```json
 {
-	"fighter_id": "KYO",
-	"skills": [
-		{
-			"name": "Fire Ball",
-			"description": "Make use of Kusanagi's bloodline to conjure up scorching flames, then strikes a single enemy with great combos with burning. Also cause burning damage for 2 rounds.",
-			"description_es": "Hace uso del linaje de la sangre Kusanagi para conjurar abrasadoras llamas, luego ataca a un solo objetivo único con gran combinación en llamas. Ademas causa efecto quemadura por 2 rondas.",
-			"description_pt": "Usa a sua linhagem Kusanagi para conjurar chamas ardentes e, em seguida, atingir um único inimigo com grandes combinações, causando queimaduras. Também causa dano de queimadura por 2 rodadas."
-		}
-	]
+    "fighter_id": "KYO",
+    "skills": [
+        {
+            "name": "Fire Ball",
+            "description": "Make use of Kusanagi's bloodline to conjure up scorching flames, then strikes a single enemy with great combos with burning. Also cause burning damage for 2 rounds.",
+            "description_es": "Hace uso del linaje de la sangre Kusanagi para conjurar abrasadoras llamas, luego ataca a un solo objetivo único con gran combinación en llamas. Ademas causa efecto quemadura por 2 rondas.",
+            "description_pt": "Usa a sua linhagem Kusanagi para conjurar chamas ardentes e, em seguida, atingir um único inimigo com grandes combinações, causando queimaduras. Também causa dano de queimadura por 2 rodadas."
+        }
+    ]
 }
 ```
 
@@ -442,14 +442,14 @@ Para modificar o agregar strikers, vaya a [strikers.json](https://github.com/ult
 
 ## Events
 
-[![Global Events](https://www.ultimate-guides.net/assets/ug98/img/github_events.png)](https://youtu.be/A9OauQCo1-k 'Global Events')
+[![Global Events](https://www.ultimate-guides.net/assets/ug98/img/github_events.png)](https://youtu.be/A9OauQCo1-k "Global Events")
 
 <p align="center"> 
     <img src="https://www.ultimate-guides.net/assets/ug98/img/events.jpeg"  width="32%"/>
 </p>
 
 Para modificar los events hay una se debe ingresar a la pagina oficial de la [kof98umol](http://98kof-us.game-bean.com/t2/178/3575.html) y entrar al mes que corresponden los eventos
-deben copiar desde donde empieza el primer evento ejemplo: despues del time:　 2020-07-22 03:49 hasta el ultimo evento incluyendo el punto ".", y pegarlo en la pagina [Events Generator](https://www.ultimate-guides.net/assets/ug98/eventsGenerator/events.html) , les va a generar los eventos en formato json todo desordenado, para ordernalo copien todo el codigo y pegenlo en esta pagina [jsonLint](https://jsonlint.com/) y presionen el boton validate Json. Les va acomodar todo el codigo, copian todo y lo reemplazan en el archivo ([events.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/events.json)) agregan comentario del pull request y listo, una vez validado todos tendremos los nuevos eventos.
+deben copiar desde donde empieza el primer evento ejemplo: despues del time:　 2020-07-22 03:49 hasta el ultimo evento incluyendo el punto ".", y pegarlo en la pagina [Events Generator](https://ug-production-images.s3.amazonaws.com/tools/eventsGenerator/events.html) , les va a generar los eventos en formato json todo desordenado, para ordernalo copien todo el codigo y pegenlo en esta pagina [jsonLint](https://jsonlint.com/) y presionen el boton validate Json. Les va acomodar todo el codigo, copian todo y lo reemplazan en el archivo ([events.json](https://github.com/ultimate-guides/ultimate-guide-98-data/blob/master/jsons/events.json)) agregan comentario del pull request y listo, una vez validado todos tendremos los nuevos eventos.
 
 ## Time Line
 
