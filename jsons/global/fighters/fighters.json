@@ -1620,7 +1620,7 @@
 			"gender_id": "FEMALE",
 			"tome_id": "JUDO",
 			"badge_id": "BEAUTY",
-			"status": 0,
+			"status": 1,
 			"striker": 0,
 			"images": 2
 		},		
