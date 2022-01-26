@@ -1106,6 +1106,15 @@
 				"description_es": "Obtiene 30 Rage cuando ataca y obtienes más Rage cuando es golpeado.",
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "GOENITZ_02_UM",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Gain 115 Rage since debut Gain 33 Rage when attacking or the fighter is dead on either side",
+				"description_es": "",
+				"description_pt": null
+			}
 		}
 	]
 }

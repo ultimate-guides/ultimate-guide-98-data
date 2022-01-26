@@ -2090,6 +2090,23 @@
 					"attr": "HP + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "GOENITZ_02_UM",
+			"fates": [
+				{
+					"bosses": "Goenitz 02 um, Own Orochi Chris 02UM, Orochi Shermie 02UM. Orochi Yashiro 02 UM",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Goenitz 02 um, Goeniko, Goenitz,",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Goenitz 02 um, 02UM. Choi XIV, Joe",
+					"attr": "ATK + 25%"
+				}
+			]
 		}
 	]
 }

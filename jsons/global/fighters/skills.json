@@ -3566,6 +3566,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "GOENITZ_02_UM",
+			"skills": [
+				{
+					"name": "True Hollyhock Flower",
+					"description": "Attack a single enemy; give the wind shield to the fighter of Goenitz 02UM's row (increase Res Rate by 20% <can be stacked with other Buff of the same type>, 10% of MAX HP of the affected fighter will be restored when he or she is hit, and the effect will disappear after 1 to 3 hits <the more the enemies, the more the chance>), and the effect will last for 1 round; when the wind shield breaks, the amount of HP returned is doubled; at the beginning of the next round, the wind shield that still exists will be tansferred to 150 Rage; the amount of Buff and recovery from the wind shield is increased by 50%.\nDeal 160%+15 MG to a single enemy",
+					"description_es": "Ataca a un solo enemigo; da el wind shield al luchador de la fila de Goenitz 02UM (aumenta la Res Rate en un 20% <se puede acumular con otro Buff del mismo tipo>, el 10% del HP MÁXIMO del luchador afectado se restaurará cuando sea golpeado, y el efecto desaparecerá después de 1 a 3 golpes <cuantos más enemigos, más posibilidades>), y el efecto durará 1 ronda; cuando se rompe el wind shield, la cantidad de HP devuelto se duplica; al comienzo de la próxima ronda, el wind shield que aún existe se transferirá a 150 de Rage; la cantidad de Buff y la recuperación del wind shield aumentan en un 50%.\nReparte 160%+15 MG a un solo enemigo",
+					"description_pt": null
+				},
+				{
+					"name": "Shin Ya Otome • Jissoukoku",
+					"description": "Attack the enemy with the highest Rage; increase own MG and Res Rate by 20% and increase own HP Drain by 30%; all the attacks ignore DEF of the target by 40% in one round; there's a 50% chance to silence the main target and make the main target unable to release the small skill for 2 rounds, 50% of the damage will be added and make the main target unable to release the small skill for 2 rounds, 50% of the damage will be added according to the current age of the target; dispel Buff of the main target; decrease Block and Crit Power of the main target and the surrounding enemies by 20%. \nDeal 400%+25 MG to a single enemy",
+					"description_es": "Ataca al enemigo con la Rage más alta; aumentar la propia DMG y la Res Rate en un 20 % y aumentar el drenaje de HP propio en un 30 %; todos los ataques ignoran la DEF del objetivo en un 40% en una ronda; hay un 50 % de probabilidad de silenciar al objetivo principal y hacer que el objetivo principal no pueda liberar la Small Skill durante 2 rondas , 50 % del daño se sumará según la edad actual del objetivo; disipa Buff del objetivo principal; reduce el bloqueo y el Crit Power del objetivo principal y los enemigos circundantes en un 20 %. \nReparte 400%+25 MG a un solo enemigo",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Wildly-Blowing Wind",
+					"description": "Increase own Crit and Pierce; increase own ATK and DEF by 35%, and increase own Crit Power by 30%; each fighter of Orochi's Blood on own side increases own small skill releasing chance by 15%. When own round starts, there's a 40% chance to dispel own Debuff and petrification, and increase own ATK by 25% (the chance will increase by 10% for each ally in control, and if Goenitz 02UM is in control, the chance will also increase by 25%; the effect will disappear when the enemy's round starts); the fatal damage can be resisted for O to 2 times (the more the enemies, the more times Goenitz 02UM can resist); when Goenitz 02UM is hit and the HP percentage of him is lower than 30%, the \"wind escape\" effect will be activated: he will immediately leave the battlefield and return when next round starts; restore 40% of own MAX HP and 300 Rage, and increase own ULT Res and small skill Res by 15% permanently (can be stacked for 3 times, and the effect can be inherited after resurrection), the effect can take effect twice per battle; Goenitz 02UM can resurrect once, and all of his HP and Rage will be restored after ressurection, also, the chance of the \"wind escape\" is reset. \nIncrease own Crit and Pierce by 30%",
+					"description_es": "Aumenta propio Crit y Pierce; aumenta el ATQ y la DEF propios en un 35 % y aumenta el Crit Power en un 30 %; cada luchador de Orochi's Blood en su propio bando aumenta la posibilidad de Small Skills en un 15%. Cuando comienza la ronda propia, hay un 40 % de probabilidad de disipar la Desventaja y la petrificación propias, y aumentar el ATQ propio en un 25 % (la probabilidad aumentará en un 10 % por cada aliado que tenga el control, y si Goenitz 02UM tiene el control, la probabilidad también aumentará). aumenta en un 25%; el efecto desaparecerá cuando comience la ronda del enemigo); el daño fatal se puede resistir de O a 2 veces (cuantos más enemigos, más veces Goenitz 02UM puede resistir); cuando se golpea a Goenitz 02UM y el porcentaje de HP de él es inferior al 30%, se activará el efecto \"wind escape\": abandonará inmediatamente el campo de batalla y regresará cuando comience la siguiente ronda; restaura el 40 % de tu MAX HP y 300 Rage, y aumenta tu propia ULT Res y la Small Skill Res en un 15 % de forma permanente (se puede acumular 3 veces y el efecto se puede heredar después de la resurrección), el efecto puede surtir efecto dos veces por batalla ; Goenitz 02UM puede resucitar una vez, y todo su HP y Rage se restaurarán después de la resurrección, también, la posibilidad de que el \"wind escape\" se restablezca. \nAumenta el propio Crit y Pierce en un 30%",
+					"description_pt": null
+				}
+			]
 		}
 	]
 }

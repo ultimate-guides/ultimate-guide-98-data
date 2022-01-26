@@ -1229,6 +1229,16 @@
 				"description_pt": null,
 				"contributor": null
 			}
+		},
+		{
+			"fighter_id": "GOENITZ_02_UM",
+			"weapon_awakened": {
+				"name": "God's Canon",
+				"description": "",
+				"description_es": "",
+				"description_pt": null,
+				"contributor": null
+			}
 		}
 	]
 }
