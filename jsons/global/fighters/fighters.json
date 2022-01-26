@@ -1729,7 +1729,7 @@
 			"chinese_name": "女 天狗",
 			"japanese_name": "イ グ ニ ス",
 			"api": 15,
-			"type_id": "GANK",
+			"type_id": "DPS",
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "GALE",
