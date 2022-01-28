@@ -1151,6 +1151,16 @@
 			}
 		},
 		{
+			"fighter_id": "MEITENKUN",
+			"weapon_awakened": {
+				"name": "Evil Spirit Mask",
+				"description": null,
+				"description_es": null,
+				"description_pt": null,
+				"contributor": null
+			}
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"weapon_awakened": {
 				"name": null,

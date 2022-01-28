@@ -1115,6 +1115,15 @@
 				"description_es": "Gana 115 de Rage desde el debut Gana 33 de Rage cuando atacas o el luchador está muerto en cualquier lado",
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "MEITENKUN",
+			"fightsoul": {
+				"name": "BEAR",
+				"description": "Gain 115 Rage initially, restore extra Rage when attacking",
+				"description_es": "Gana 115 de Rage inicialmente, restaura Rage adicional al atacar",
+				"description_pt": null
+			}
 		}
 	]
 }

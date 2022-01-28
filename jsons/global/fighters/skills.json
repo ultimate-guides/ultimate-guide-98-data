@@ -3595,6 +3595,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "MEITENKUN",
+			"skills": [
+				{
+					"name": "Makura Nage",
+					"description": "Attack a single enemy; increase the damage of the small skill by 20%; deal extra damage that is 10% of MAX HP of the target to the target ignoring the immunity to Debuff); restore HP that equals to 70% of the damage of this attack to two allies with the lowest HP percentage. \nDeal 160.3%+60 DMG to target",
+					"description_es": "Ataca a un solo enemigo; aumenta el daño de la Small Skill en un 20%; inflige daño adicional que es el 10% del HP MÁXIMO del objetivo al objetivo ignorando la inmunidad a Debuff); restaura HP que equivale al 70% del daño de este ataque a dos aliados con el porcentaje de HP más bajo. \nReparte 160.3%+60 DAÑO al objetivo",
+					"description_pt": null
+				},
+				{
+					"name": "Hakuchuu Musou",
+					"description": "Attack the enemies in a column; increase own ATK and DEF by 20%, and increase own Pierce by 30%; it own HP percentage is higher than 50%, increase own DMG by 20%, or restore own HP by 10%; increase the damage to TANK fighters by 30%; there is a 60% chance to put the main target to sleep for 1 round, and the enemy will wake up earlier when he or she has taken the damage that equals to 20% of his or her MAX HP (including the part of \"Sepsis\"), and the enemy such as the Golem form of Mukai, Armed Jeep, or Vending Machine won't be hypnotized; the small skill will be released this round; \nAfter the weapon awakens, the effect will be improved in an all-around way. The sleeping status won't be dispelled. \nDeal 280.6%+100 MG to the target column",
+					"description_es": "Ataca a los enemigos en una columna; aumentar el ATK y la DEF propios en un 20 % y aumentar la perforación propia en un 30 %; su propio porcentaje de HP es superior al 50 %, aumenta su propio DMG en un 20 % o restaura su propio HP en un 10 %; aumenta el daño a los luchadores TANK en un 30%; hay un 60 % de probabilidad de poner a dormir al objetivo principal durante 1 ronda, y el enemigo se despertará antes cuando haya recibido el daño equivalente al 20 % de su HP MÁXIMO (incluida la parte de \" Sepsis\"), y el enemigo, como Golem form of Mukai, Armed Jeep Vending Machine, no serán hipnotizados; la Small Skill se lanzará en esta ronda; \nDespués de que el arma despierte, el efecto mejorará de forma general. El estado de sueño no se disipará. \nReparte 280,6%+100 MG a la columna objetivo",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Hakkyoku Menmenken",
+					"description": "Increase the damage of own ULT when deployed; increase own Res Rate and Anti-Crit by 30%, and the amount of healing received by 20%; Enter the \"Sleepy\" status each time releasing the small skill (increase own ULT Res by 30%, and restore 10% of HP lost after each action of the enemy fighter), wake up when own round starts; wake up earlier when being attacked twice in \"Sleepy\" status, restore 200 Rage and increase own Control-free by 50% for 1 round immediately; dispel own Debuff and petrification status when waking up; Restore 150 Rage when own Rage is decreased; no more than 60% of own MAX HP will be dealt in a single attack the more the enemies, the lower the rate will be, 35% at least; restore own HP by 30% and restore 200 Rage when own HP percentage is lower than 40%, this effect can take effect up to 4 times per battle (if there is only one enemy when Meitenkun is deployed, this effect can only take effect once per battle); If Meitenkun is hypnotized, restore own HP by 15% and convert the status to \"Sleepy\" status. \nIncrease own ULT DMG by 20.6%",
+					"description_es": "Aumenta el daño del propio ULT cuando se despliega; aumenta la propia Res Rate y Anti-Crit en un 30%, y la cantidad de curación recibida en un 20%; Ingrese al estado \"Sleepy\" cada vez que libere la Small Skill (aumente la propia ULT Res en un 30% y restaure el 10% de HP perdido después de cada acción del luchador enemigo), despiértate cuando comience su propia ronda; despierta antes cuando te atacan dos veces en el estado \"Sleepy\", restaura 200 de Rage y aumenta tu propia Control-free en un 50 % durante 1 ronda inmediatamente; disipa el propio estado de Debuff y petrificación al despertar; Restaura 150 de Rage cuando se reduce la propia Rage; no se repartirá más del 60% del MAX HP propio en un solo ataque cuanto más enemigos, menor será la tasa, al menos 35%; restaura el HP propio en un 30% y restaura 200 Rage cuando el porcentaje de HP propio es inferior al 40%, este efecto puede tener efecto hasta 4 veces por batalla (si solo hay un enemigo cuando se despliega Meitenkun, este efecto solo puede tener efecto una vez por batalla); Si Meitenkun está hipnotizado, restaura su propio HP en un 15 % y convierte el estado a \"Sleepy\". \nAumenta el ULT DMG propio en un 20,6 %",
+					"description_pt": null
+				}
+			]
 		}
 	]
 }

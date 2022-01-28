@@ -991,6 +991,14 @@
 				"partner_2": null,
 				"partner_3": null
 			}
+		},
+		{
+			"fighter_id": "MEITENKUN",
+			"partners": {
+				"partner_1": null,
+				"partner_2": null,
+				"partner_3": null
+			}
 		}
 	]
 }

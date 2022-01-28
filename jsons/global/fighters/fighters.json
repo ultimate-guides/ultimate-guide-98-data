@@ -1623,7 +1623,21 @@
 			"status": 1,
 			"striker": 0,
 			"images": 2
-		},		
+		},
+		{
+			"fighter_id": "MEITENKUN",
+			"fightsoul_id": "BEAR",
+			"name": "Meitenkun",
+			"chinese_name": "明天君",
+			"api": 15,
+			"type_id": "GANK",
+			"gender_id": "MALE",
+			"tome_id": "STREET",
+			"badge_id": "DAZZLING",
+			"status": 0,
+			"striker": 0,
+			"images": 2
+		},
 		{
 			"fighter_id": "ROCK_HOWARD",
 			"fightsoul_id": "TIGER",
