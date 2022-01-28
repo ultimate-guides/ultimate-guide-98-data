@@ -1154,7 +1154,7 @@
 			"fighter_id": "ROCK_HOWARD",
 			"weapon_awakened": {
 				"name": null,
-				"description": null,
+				"description": "Absorb ATK and DEF of the main target by <font color='#FFA726'>35%</font>, and increase own ULT damage by <font color='#FFA726'>35%</font>; dispel own Debuff, put the main target into the nightmare (decrease DMG and Anti-Crit of the target by 35% and 70% respectively for 1 round; the skill ignores the immunity to Debuff and can't be dispelled, and only 1 enemy can be caught in the nightmare); the small skill must be released after the release of ULT skill; if there is an enemy whose HP percentage is less than 50%, \"Neo Deadly Rave\" will be released, or, \"Raging Storm\" will be released; Neo Deadly Rave: Attack the enemy with the lowest HP percentage,<font color='#FFA726'> and dispel its Buff</font>, deal extra damage to the main target (25% of HP lost + 15% of MAX HP); deal splash damage to the enemies around the main target (40% of total damage + 40% of overflow damage); <font color='#FFA726'>decrease 500 Rage of the main target, gain or refresh the effect of \"Avatar\", make the next \"Raging Storm\" skill target random damage to the main target</font>; absorb 350 Rage from the main target; there's a 70% chance to paralyze random two enemies who got hit; <font color='#FFA726'>make the next \"Neo Deadly Rave: deal 30% more damage to the main target (extra damage is excluded and can't be stacked). \n\"Raging Storm\" deals 191.9%+3000 MG to all the enemies Restore 223.8% HP each round \"Neo Deadly Rave\" deals 509.5%+3000 damage to the enemy with the lowest HP percentage</font>",
 				"description_es": null,
 				"description_pt": null,
 				"contributor": null
