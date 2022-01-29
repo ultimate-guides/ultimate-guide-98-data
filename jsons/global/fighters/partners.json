@@ -971,9 +971,9 @@
 		{
 			"fighter_id": "OROCHI_YASHIRO_02_UM",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "SHERMIE",
+				"partner_2": "CHRIS",
+				"partner_3": "OROCHI"
 			}
 		},
 		{
