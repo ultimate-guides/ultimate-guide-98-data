@@ -1648,7 +1648,7 @@
 			"gender_id": "MALE",
 			"tome_id": "SUPER",
 			"badge_id": "FLAME",
-			"status": 1,
+			"status": 0,
 			"striker": 0,
 			"images": 1
 		},
