@@ -1639,6 +1639,20 @@
 			"images": 2
 		},
 		{
+			"fighter_id": "SAIKI_DEMON",
+			"fightsoul_id": "SPACE",
+			"name": "Saiki Demon",
+			"chinese_name": "",
+			"api": 15,
+			"type_id": "TANK",
+			"gender_id": "MALE",
+			"tome_id": "SUPER",
+			"badge_id": "FLAME",
+			"status": 1,
+			"striker": 0,
+			"images": 1
+		},
+		{
 			"fighter_id": "ROCK_HOWARD",
 			"fightsoul_id": "TIGER",
 			"name": "Rock Howard",

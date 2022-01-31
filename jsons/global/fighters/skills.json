@@ -3624,6 +3624,35 @@
 					"description_pt": null
 				}
 			]
+		},
+		{
+			"fighter_id": "SAIKI_DEMON",
+			"skills": [
+				{
+					"name": "Dark Throw",
+					"description": "Attacks a single enemy; there is a 40% chance to stun the target for 1 round; increase own DMG DEF by 50% and ULT Res by 30% (can't be dispelled); there's a 40% chance to decrease the direct damage taken by 50% when being attacked; gain 80 Rage if Block or MG Res effect is activated when being attacked in 2 rounds; add Dark Flame to the target (dealing the burning damage that won't restore Rage to the target, decrease MG and Res Rate of the target by 15%, the effect lasts for 2 rounds). \nDark Flame deals 100%+868 DMG to the target each round Deal 172.3%+1860 DMG to the target",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": "Desperation",
+					"description": "Attack a single enemy, increase own DMG, Res Rate, and ATK by 30%; gain a level of \"Sepsis Resistance\" for 2 rounds; dispel Debuff and petrification status of an ally (the ally controlled first; increase the amount of healing received under the \"Resurrection\" status by 10% (can be stacked up to once per round); add Dark Flame to the target and a random enemy around the target (the enemy that is not affected by Dark Flame first; gain 5% extra MG and ULT DMG for each enemy affected by Dark Flame for 1 round, and this attack deals the extra damage that equals to 6% of the target's MAX HP; restore own HP that is 60% of the total damage dealt by this skill; Block or DMG Res effect can still be activated when Crit Hit is caused to the fighters on own side, the effect will last for 2 rounds. \nDark Flame deals 100%+868 DMG to the target each round \nDeal 491.5%+3100 DMG to the target",
+					"description_es": "",
+					"description_pt": null
+				},
+				{
+					"name": null,
+					"description": null,
+					"description_es": null,
+					"description_pt": null
+				},
+				{
+					"name": "Dark Defense",
+					"description": "If there is more than one fighter on own side, restore 10% HP to the fighter with the lowest HP percentage, and restore 100 Rage to the fighter whose Rage is not full; immune to Debuff when deployed for the first round, the small skill must be released, and Block or MG Res effect can still be activated when Crit Hit is caused; immune to stunning, silence, freezing, paralysis, taunting and petrification effect permanently; restore 100 Rage when other allies release ULT skills, twice per round at most; all the skills of Saiki (Awakened) and Dark Flame ignore the immunity to Debuff, and Dark Flame can't be dispelled; Enter the \"Resurrection\" status whenever dies; \"Resurrection\" status: won't making actions, being immune to Debuff, and cannot be selected as a target during the enemy's round, when own round starts, extending the duration of Dark Flame on all targets for 1 round (only the Dark Flame which is inflicted by Saiki (Awakened) himself, restore own HP by 10% each time the allies making actions, when own HP is restored to 50% or more, \"Resurrection\" status will end and Saiki (Awakened) will resurrect; each time \"Resurrection\" status ends, the amount of the healing for the next \"Resurrection\" status will decrease by 90% (each ally will reduce the rate by 10%; when the amount of healing rate under the \"Resurrection\" status is decreased to 0, Saiki (Awakened) won't resurrect after death; if there's only Saiki (Awakened) when deployed, it will resurrect once (50% of HP and all the Rages will be restored); after each resurrection, the ATK that equals to 20% of DEF will be gained (can be stacked); When Saiki (Awakened) is deployed, extra effects which are based on the type of fighters on own side will be added to Saiki (Awakened) (each of the following effects can take effect once more, but they can only be stacked three times): DPS: Increase own Anti-Crit by 20% and Res Rate by 10% for each ally TANK: Increase own DMG by 10% and the chance of casting the small skill by 20% for each ally GANK: Increase own Rage restoration speed and ULT DMG by 10% for each ally; gain 100 extra Rage [Captain Aura]: Increase own DMG and Res Rate, and other allies get 40% of the effect; if there are at least three fighters on own side when deployed, increase the small skill Res and ULT Res of the fighters on own side by 40%, and increase Res Rate, Crit and Anti-Crit of the fighters on own side by 15% for 3 rounds. (Captain Aura is an advanced effect o Captain Skill, fighters resurrected and aid fighters can get the Buff, but all the Captain Skills of the allies and Buff of the passive skill of Instinct lori, Flame Kyo, and Mizuchi that can grow with the level will lose effect). \nIncrease own MG by 37.3% Increase own Res Rate by 58.45%",
+					"description_es": "",
+					"description_pt": null
+				}
+			]
 		}
 	]
 }

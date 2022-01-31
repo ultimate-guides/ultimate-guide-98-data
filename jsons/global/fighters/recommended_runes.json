@@ -1446,6 +1446,17 @@
 					"desceiption_pt": ""
 				}
 			]
+		},
+		{
+			"fighter_id": "SAIKI_DEMON",
+			"runes": [				
+				{
+					"rune_id": "EARTH",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
+			]
 		}
 	]
 }

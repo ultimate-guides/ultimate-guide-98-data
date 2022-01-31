@@ -1124,6 +1124,15 @@
 				"description_es": "Gana 115 de Rage inicialmente, restaura Rage adicional al atacar",
 				"description_pt": null
 			}
+		},
+		{
+			"fighter_id": "SAIKI_DEMON",
+			"fightsoul": {
+				"name": "SPACE",
+				"description": "Gain 237 Rage when each round starts, restore a large amount of HP",
+				"description_es": "",
+				"description_pt": null
+			}
 		}
 	]
 }

@@ -1249,6 +1249,16 @@
 				"description_pt": null,
 				"contributor": null
 			}
+		},
+		{
+			"fighter_id": "SAIKI_DEMON",
+			"weapon_awakened": {
+				"name": "Undying Dark Flame",
+				"description": "",
+				"description_es": "",
+				"description_pt": null,
+				"contributor": null
+			}
 		}
 	]
 }

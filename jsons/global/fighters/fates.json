@@ -2124,6 +2124,23 @@
 					"attr": "HP + 25%"
 				}
 			]
+		},
+		{
+			"fighter_id": "SAIKI_DEMON",
+			"fates": [
+				{
+					"bosses": "Saiki Demon, Saiki, Magaki, Mukai",
+					"attr": "ATK + 25%"
+				},
+				{
+					"bosses": "Saiki Demon, Ash, Kyo, lori",
+					"attr": "HP + 25%"
+				},
+				{
+					"bosses": "Saiki Demon, Mizuchi, Flame Kyo, Instinct lori",
+					"attr": "HP + 25%"
+				}
+			]
 		}
 	]
 }
