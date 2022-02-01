@@ -123,7 +123,7 @@
     },
     {
        "iname":"mai_ss",
-       "name":"Special Signature Mai",
+       "name":"SS Mai",
        "rarity":"fes",
        "atribute":"red",
        "type":"offensive",
@@ -200,7 +200,7 @@
     },
     {
        "iname":"omegarugal_bs",
-       "name":"Boss Syndrome Rugal",
+       "name":"BS Rugal",
        "rarity":"fes",
        "atribute":"blue",
        "type":"offensive",
@@ -409,7 +409,7 @@
     },
     {
        "iname":"athena_ss",
-       "name":"Special Signature Athena",
+       "name":"SS Athena",
        "rarity":"fes",
        "atribute":"purple",
        "type":"defensive",
@@ -629,7 +629,7 @@
     },
     {
        "iname":"krizalid_bs",
-       "name":"Boss Syndrome Krizalid",
+       "name":"BS Krizalid",
        "rarity":"fes",
        "atribute":"yellow",
        "type":"balance",
@@ -706,7 +706,7 @@
     },
     {
        "iname":"geese_bs",
-       "name":"Boss Syndrome Geese",
+       "name":"BS Geese",
        "rarity":"fes",
        "atribute":"green",
        "type":"offensive",
@@ -794,7 +794,7 @@
     },
     {
        "iname":"orochi_bs",
-       "name":"Boss Syndrome Orochi",
+       "name":"BS Orochi",
        "rarity":"fes",
        "atribute":"green",
        "type":"balance",
@@ -3412,7 +3412,7 @@
   },
   {
     "iname": "goenitz_bs",
-    "name": "Boss Syndrome Goenitz",
+    "name": "BS Goenitz",
     "rarity": "fes",
     "atribute": "red",
     "type": "offensive",
@@ -3423,7 +3423,7 @@
   },
   {
     "iname": "igniz_bs",
-    "name": "Boss Syndrome Igniz",
+    "name": "BS Igniz",
     "rarity": "fes",
     "atribute": "blue",
     "type": "balance",
@@ -3445,7 +3445,7 @@
   },
   {
     "iname": "leona_bs",
-    "name": "Boss Syndrome Leona",
+    "name": "BS Leona",
     "rarity": "fes",
     "atribute": "purple",
     "type": "defensive",
@@ -3467,7 +3467,7 @@
   },
   {
     "iname": "zerooriginal_bs",
-    "name": "Boss Syndrome Zero",
+    "name": "BS Zero",
     "rarity": "fes",
     "atribute": "purple",
     "type": "offensive",
@@ -3577,7 +3577,7 @@
   },
   {
     "iname": "iori_ss",
-    "name": "Special Signature Iori",
+    "name": "SS Iori",
     "rarity": "fes",
     "atribute": "purple",
     "type": "balance",
@@ -3588,7 +3588,7 @@
   },
   {
     "iname": "kdash_ss",
-    "name": "Special Signature K'",
+    "name": "SS K'",
     "rarity": "fes",
     "atribute": "red",
     "type": "balance",
@@ -3599,7 +3599,7 @@
   },
   {
     "iname": "king_ss",
-    "name": "Special Signature King",
+    "name": "SS King",
     "rarity": "fes",
     "atribute": "yellow",
     "type": "balance",
@@ -3610,7 +3610,7 @@
   },
   {
     "iname": "kula_ss",
-    "name": "Special Signature Kula",
+    "name": "SS Kula",
     "rarity": "fes",
     "atribute": "blue",
     "type": "defensive",
@@ -3621,7 +3621,7 @@
   },
   {
     "iname": "kyo_ss",
-    "name": "Special Signature Kyo",
+    "name": "SS Kyo",
     "rarity": "fes",
     "atribute": "yellow",
     "type": "ofensive",
@@ -3632,7 +3632,7 @@
   },
   {
     "iname": "yuri_ss",
-    "name": "Special Signature Yuri",
+    "name": "SS Yuri",
     "rarity": "fes",
     "atribute": "green",
     "type": "offensive",
@@ -3642,7 +3642,7 @@
     "cost": 65
   },
   {
-   "iname": "badguy_gg",
+   "iname": "badguy_ggx",
    "name": "Sol Badguy",
    "rarity": "fes",
    "atribute": "red",
@@ -3653,7 +3653,7 @@
    "cost": 65
  },
  {
-   "iname": "dizzy_gg",
+   "iname": "dizzy_ggx",
    "name": "Dizzy",
    "rarity": "fes",
    "atribute": "blue",
@@ -3664,7 +3664,7 @@
    "cost": 65
  },
  {
-   "iname": "ino_gg",
+   "iname": "ino_ggx",
    "name": "I-No",
    "rarity": "fes",
    "atribute": "green",
@@ -3675,7 +3675,7 @@
    "cost": 65
  },
  {
-   "iname": "valentine_gg",
+   "iname": "valentine_ggx",
    "name": "Ramlethal Valentine",
    "rarity": "fes",
    "atribute": "yellow",
@@ -3686,7 +3686,7 @@
    "cost": 65
  },
  {
-   "iname": "baiken_gg",
+   "iname": "baiken_ggx",
    "name": "Baiken",
    "rarity": "fes",
    "atribute": "purple",
@@ -3697,7 +3697,7 @@
    "cost": 65
  },
  {
-   "iname": "may_gg",
+   "iname": "may_ggx",
    "name": "May",
    "rarity": "fes",
    "atribute": "blue",
@@ -3709,7 +3709,7 @@
  },
  {
    "iname": "chizuru_ss",
-   "name": "Special Signature Chizuru",
+   "name": "SS Chizuru",
    "rarity": "fes",
    "atribute": "red",
    "type": "defensive",
@@ -3720,7 +3720,7 @@
  },
  {
    "iname": "nameless_bs",
-   "name": "Boss Syndrome Nameless",
+   "name": "BS Nameless",
    "rarity": "fes",
    "atribute": "green",
    "type": "defensive",
@@ -3731,12 +3731,34 @@
  },
  {
    "iname": "ash_bs",
-   "name": "Boss Syndrome Dark Ash",
+   "name": "BS Dark Ash",
    "rarity": "fes",
    "atribute": "yellow",
-   "type": "ofFensive",
+   "type": "offensive",
    "star": 5,
    "year": "BS",
+   "gender": "male",
+   "cost": 65
+ },
+ {
+   "iname": "mary_ss",
+   "name": "SS Blue Mary",
+   "rarity": "fes",
+   "atribute": "blue",
+   "type": "defensive",
+   "star": 5,
+   "year": "SS",
+   "gender": "female",
+   "cost": 65
+ },
+ {
+   "iname": "terry_ss",
+   "name": "SS Terry",
+   "rarity": "fes",
+   "atribute": "red",
+   "type": "offensive",
+   "star": 5,
+   "year": "SS",
    "gender": "male",
    "cost": 65
  }
