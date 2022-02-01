@@ -1208,6 +1208,25 @@
 					"name": "darkness"
 				}
 			]
+		},
+		{
+			"iname": "terry_ss",
+			"effects": [
+				{
+					"name": "starlight"
+				},
+				{
+					"name": "burn"
+				}
+			]
+		},
+		{
+			"iname": "mary_ss",
+			"effects": [
+				{
+					"name": "shock"
+				}
+			]
 		}
 	]
 }
