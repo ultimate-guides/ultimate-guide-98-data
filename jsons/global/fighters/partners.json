@@ -931,9 +931,9 @@
 		{
 			"fighter_id": "OROCHI_SHERMIE_02_UM",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "YASHIRO",
+				"partner_2": "CHRIS",
+				"partner_3": "OROCHI"
 			}
 		},
 		{
@@ -1003,9 +1003,9 @@
 		{
 			"fighter_id": "SAIKI_DEMON",
 			"partners": {
-				"partner_1": null,
-				"partner_2": null,
-				"partner_3": null
+				"partner_1": "ASH",
+				"partner_2": "MAGAKI",
+				"partner_3": "MUKAI"
 			}
 		}
 	]
