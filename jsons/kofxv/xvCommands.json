@@ -1,0 +1,120 @@
+{
+	"commands": [{
+		"iname": "isla",
+		"command_moves": [{
+				"name": "Cloud",
+				"command": [
+					"stick_front",
+					"+",
+					"lk"
+				]
+			},
+			{
+				"name": "Designs",
+				"command": [
+					"stick_front",
+					"+",
+					"hk"
+				]
+			}
+		]
+	}],
+	"special_moves": [{
+			"name": "Drips Foward",
+			"command": [
+				"in_air",
+				"stick_mu_front",
+				"+",
+				"lp",
+				"or",
+				"hp"
+			]
+		},
+		{
+			"name": "Drips Backward",
+			"command": [
+                "in_air",
+                "stick_mu_back",
+                "+",
+                "lp"
+			]
+		},
+        {
+			"name": "Drips Vertical",
+			"command": [
+                "in_air",
+                "stick_mu_back",
+                "+",
+                "hp"
+			]
+		},
+        {
+			"name": "Pierce A",
+            "ex": true,
+			"command": [
+                "in_air",
+                "stick_mu_front",
+                "+",
+                "lk"
+			]
+		},
+        {
+			"name": "Pierce B",            
+			"command": [
+                "in_air",
+                "stick_mu_front",
+                "+",
+                "hk"
+			]
+		},
+        {
+			"name": "Pierce C",            
+            "ex": true,
+			"command": [
+                "in_air",
+                "stick_mu_back",
+                "+",
+                "lk",
+                "or",
+                "hk"
+			]
+		},
+        {
+			"name": "Fill-in",            
+            "ex": true,
+			"command": [                
+                "stick_mu_front",
+                "+",
+                "lp",
+                "or",
+                "hp"
+			]
+		},
+        {
+			"name": "Scribe",            
+            "ex": true,
+			"command": [                
+                "stick_upper_front",
+                "+",
+                "lk",
+                "or",
+                "hk"
+			]
+		},
+        {
+			"name": "To Front",            
+            "ex": true,
+            "during": true,
+            "during_command": {
+                "main": {
+                    "commands": [
+                        "stick_mu_front",
+                        "+",
+                        "lk",
+                        "or",
+                        "hk"]                                  
+                }                    
+            }			
+		}
+	]
+}
