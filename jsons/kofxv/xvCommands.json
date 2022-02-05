@@ -17,9 +17,8 @@
 					"hk"
 				]
 			}
-		]
-	}],
-	"special_moves": [{
+		],
+		"special_moves": [{
 			"name": "Drips Foward",
 			"command": [
 				"in_air",
@@ -257,4 +256,5 @@
 			"hk"
 		]
 	}]
+	}]	
 }
