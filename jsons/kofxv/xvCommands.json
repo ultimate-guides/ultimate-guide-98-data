@@ -19,242 +19,244 @@
 			}
 		],
 		"special_moves": [{
-			"name": "Drips Foward",
+				"name": "Drips Foward",
+				"command": [
+					"in_air",
+					"stick_mu_front",
+					"+",
+					"lp",
+					"or",
+					"hp"
+				]
+			},
+			{
+				"name": "Drips Backward",
+				"command": [
+					"in_air",
+					"stick_mu_back",
+					"+",
+					"lp"
+				]
+			},
+			{
+				"name": "Drips Vertical",
+				"command": [
+					"in_air",
+					"stick_mu_back",
+					"+",
+					"hp"
+				]
+			},
+			{
+				"name": "Pierce A",
+				"ex": true,
+				"command": [
+					"in_air",
+					"stick_mu_front",
+					"+",
+					"lk"
+				]
+			},
+			{
+				"name": "Pierce B",
+				"command": [
+					"in_air",
+					"stick_mu_front",
+					"+",
+					"hk"
+				]
+			},
+			{
+				"name": "Pierce C",
+				"ex": true,
+				"command": [
+					"in_air",
+					"stick_mu_back",
+					"+",
+					"lk",
+					"or",
+					"hk"
+				]
+			},
+			{
+				"name": "Fill-in",
+				"ex": true,
+				"command": [
+					"stick_mu_front",
+					"+",
+					"lp",
+					"or",
+					"hp"
+				]
+			},
+			{
+				"name": "Scribe",
+				"ex": true,
+				"command": [
+					"stick_upper_front",
+					"+",
+					"lk",
+					"or",
+					"hk"
+				]
+			},
+			{
+				"name": "To Front",
+				"ex": true,
+				"during": true,
+				"command": [
+					"stick_mu_front",
+					"+",
+					"lk",
+					"or",
+					"hk"
+				],
+				"during_commands": [{
+						"name": "Bale",
+						"command": [
+							"during_left",
+							"To Front",
+							"during_right",
+							"hk"
+						]
+					},
+					{
+						"name": "Throwie A",
+						"command": [
+							"during_left",
+							"To Front",
+							"hk",
+							"or",
+							"ex",
+							"during_right",
+							"lp"
+						]
+					},
+					{
+						"name": "Throwie B",
+						"command": [
+							"during_left",
+							"To Front",
+							"hk",
+							"or",
+							"ex",
+							"during_right",
+							"lk"
+						]
+					},
+					{
+						"name": "Throwie C",
+						"during": true,
+						"command": [
+							"during_left",
+							"To Front",
+							"hk",
+							"or",
+							"ex",
+							"during_right",
+							"hp"
+						],
+						"during_commands": [{
+								"name": "Pierce A",
+								"ex": true,
+								"command": [
+									"during_left",
+									"Throwie C",
+									"during_right",
+									"stick_mu_front",
+									"+",
+									"lk"
+								]
+							},
+							{
+								"name": "Pierce B",
+								"command": [
+									"during_left",
+									"Throwie C",
+									"during_right",
+									"stick_mu_front",
+									"+",
+									"hk"
+								]
+							},
+							{
+								"name": "Pierce C",
+								"ex": true,
+								"command": [
+									"during_left",
+									"Throwie C",
+									"during_right",
+									"stick_mu_back",
+									"+",
+									"lk",
+									"or",
+									"hk"
+								]
+							}
+						]
+					}
+				]
+			}
+		],
+		"super_special_moves": [{
+				"name": "Back to Back",
+				"max": true,
+				"command": [
+					"in_air",
+					"stick_mu_front",
+					"stick_mu_front",
+					"+",
+					"lk",
+					"or",
+					"hk"
+				]
+			},
+			{
+				"name": "Wild Style",
+				"max": true,
+				"command": [
+					"stick_mu_front",
+					"stick_mu_front",
+					"+",
+					"lp",
+					"or",
+					"hp"
+				]
+			}
+		],
+		"climax_super_special_moves": [{
+			"name": "King of Piece: I&A",
+			"max": true,
 			"command": [
-				"in_air",
-				"stick_mu_front",
-				"+",
-				"lp",
-				"or",
-				"hp"
-			]
-		},
-		{
-			"name": "Drips Backward",
-			"command": [
-				"in_air",
 				"stick_mu_back",
+				"stick_fu_front",
 				"+",
-				"lp"
-			]
-		},
-		{
-			"name": "Drips Vertical",
-			"command": [
-				"in_air",
-				"stick_mu_back",
-				"+",
-				"hp"
-			]
-		},
-		{
-			"name": "Pierce A",
-			"ex": true,
-			"command": [
-				"in_air",
-				"stick_mu_front",
-				"+",
-				"lk"
-			]
-		},
-		{
-			"name": "Pierce B",
-			"command": [
-				"in_air",
-				"stick_mu_front",
-				"+",
+				"hp",
 				"hk"
 			]
-		},
-		{
-			"name": "Pierce C",
-			"ex": true,
-			"command": [
-				"in_air",
-				"stick_mu_back",
-				"+",
-				"lk",
-				"or",
-				"hk"
-			]
-		},
-		{
-			"name": "Fill-in",
-			"ex": true,
-			"command": [
-				"stick_mu_front",
-				"+",
-				"lp",
-				"or",
-				"hp"
-			]
-		},
-		{
-			"name": "Scribe",
-			"ex": true,
-			"command": [
-				"stick_upper_front",
-				"+",
-				"lk",
-				"or",
-				"hk"
-			]
-		},
-		{
-			"name": "To Front",
-			"ex": true,
-			"during": true,
-			"command": [
-				"stick_mu_front",
-				"+",
-				"lk",
-				"or",
-				"hk"
-			],
-			"during_commands": [{
-					"name": "Bale",
-					"command": [
-						"during_left",
-						"To Front",
-						"during_right",
-						"hk"
-					]
-				},
-				{
-					"name": "Throwie A",
-					"command": [
-						"during_left",
-						"To Front",
-						"hk",
-						"or",
-						"ex",
-						"during_right",
-						"lp"
-					]
-				},
-				{
-					"name": "Throwie B",
-					"command": [
-						"during_left",
-						"To Front",
-						"hk",
-						"or",
-						"ex",
-						"during_right",
-						"lk"
-					]
-				},
-				{
-					"name": "Throwie C",
-					"during": true,
-					"command": [
-						"during_left",
-						"To Front",
-						"hk",
-						"or",
-						"ex",
-						"during_right",
-						"hp"
-					],
-					"during_commands": [{
-							"name": "Pierce A",
-							"ex": true,
-							"command": [
-								"during_left",
-								"Throwie C",
-								"during_right",
-								"stick_mu_front",
-								"+",
-								"lk"
-							]
-						},
-						{
-							"name": "Pierce B",
-							"command": [
-								"during_left",
-								"Throwie C",
-								"during_right",
-								"stick_mu_front",
-								"+",
-								"hk"
-							]
-						},
-						{
-							"name": "Pierce C",
-							"ex": true,
-							"command": [
-								"during_left",
-								"Throwie C",
-								"during_right",
-								"stick_mu_back",
-								"+",
-								"lk",
-								"or",
-								"hk"
-							]
-						}
-					]
-				}
-			]
-		}
-	],
-	"super_special_moves" :[{
-		"name": "Back to Back",
-		"max": true,
-		"command": [
-			"in_air",
-			"stick_mu_front",
-			"stick_mu_front",
-			"+",
-			"lk",
-			"or",
-			"hk"			
-		]
-	},
-	{
-		"name": "Wild Style",
-		"max": true,
-		"command": [			
-			"stick_mu_front",
-			"stick_mu_front",
-			"+",
-			"lp",
-			"or",
-			"hp"			
-		]
-	}],
-	"climax_super_special_moves": [{
-		"name": "King of Piece: I&A",
-		"max": true,
-		"command": [			
-			"stick_mu_back",
-			"stick_fu_front",
-			"+",
-			"hp",
-			"hk"			
-		]
-	}],
-	"norma_throws": [{
-		"name": "All-City",		
-		"command": [			
-			"close_by",
-			"stick_left",
-			"or",
-			"stick_right",
-			"+",
-			"hp"
-		]
-	},
-	{
-		"name": "Closing Out",		
-		"command": [			
-			"close_by",
-			"stick_left",
-			"or",
-			"stick_right",
-			"+",
-			"hk"
+		}],
+		"norma_throws": [{
+				"name": "All-City",
+				"command": [
+					"close_by",
+					"stick_left",
+					"or",
+					"stick_right",
+					"+",
+					"hp"
+				]
+			},
+			{
+				"name": "Closing Out",
+				"command": [
+					"close_by",
+					"stick_left",
+					"or",
+					"stick_right",
+					"+",
+					"hk"
+				]
+			}
 		]
 	}]
-	}]	
 }
