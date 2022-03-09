@@ -1,380 +1,324 @@
 {
 	"date": 180120000,
 	"events": [{
-		"day": 18,
-		"dayEnd": 21,
-		"description": "During the event, draw in Gene Map Store a specified number of times to get rare items! Don't miss the chance!",
-		"month": "Feb.",
-		"month_id": 2,
-		"name": "Gene Map Draw Gift. ",
-		"eveimgurl": ""
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "During the event, draw in Cosmic Power Store a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Cosmic Power Draw Gift. ",
-		"eveimgurl": ""
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "1 of 2 Lucky Draw is coming!  Verse & Overlord Geese are waiting for you! Don't miss out!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "1 of 2 Lucky Draw. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_lucky_draw.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Fighter Equipment Pack! Equipment Pack can increase Fighter (TANK) to:",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fighter Equipment Pack (TANK). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_equipment.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Fighter Upgrade Pack! Upgrade pack can increase Fighter (TANK) to:",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fighter Upgrade Pack (TANK). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_upgrade.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Fighter Equipment Pack! Equipment Pack can increase Fighter (DPS) to:",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fighter Equipment Pack (DPS). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_equipment.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Fighter Upgrade Pack! Upgrade pack can increase Fighter (DPS) to:",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fighter Upgrade Pack (DPS). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_upgrade.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Use Egg Machine during the event, and there is a chance for you to get Verse & Overlord Geese Awaken Weapon Frag, Tome, Badge and other rare items.",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Weapons Egg Machine. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_weapon_egg.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Draw a specified number of times in Lucky Draw during the event to get rich rare items!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Lucky Draw Rewards. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_lucky_draw.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Spend Diamonds to a specified amount during the event and get awesome rewards!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Spend for Rewards. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Spend_rewards.png"
-	}, {
-		"day": 18,
-		"dayEnd": 21,
-		"description": "Recharge 45 Diamonds for 1 hammer (max 10/day). Use 1 hammer and 10 Diamonds to smash eggs.",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Egg Frenzy (Diamond). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_eggs.png"
-	}, {
-		"day": 19,
-		"dayEnd": 20,
-		"description": "Defeat the Flame Kyo clones a specified number of times during the event to get Flame Kyo [Frag].",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Team Battle to get Flame Kyo. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
-	}, {
-		"day": 20,
-		"dayEnd": 21,
-		"description": "Defeat the Saiki clones a specified number of times during the event to get Saiki [Frag].",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Team Battle to get Saiki. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
-	}, {
-		"day": 20,
-		"dayEnd": 22,
-		"description": "Rare fashion for Overlord Geese is available during the event.",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fashion Pack. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Fashion_Pack.png"
-	}, {
-		"day": 21,
-		"dayEnd": 26,
-		"description": "During the event, login to get rewards every day！",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Login for Gifts. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_gift_login.png"
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "Get BOSS Coin through the event to exchange for mighty BOSS fighters! What are you waiting for?",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "BOSS Exchange. ",
-		"eveimgurl": ""
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "During the event, Fighter Weapon Awakening Frag Pack is available for limited time. Get it now!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fighter Weapon Awakening Frag Pack Exchange. ",
-		"eveimgurl": ""
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "Aid Doll Machine is available! The Aid Souls of Death Vice, Shion& One-man Army Ralf are waiting for you to get!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Aid Doll Machine. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_aid_doll_machine.png"
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "During the event, Fighter's Aid Pack is available for limited time! Get it now!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Aid Pack Exchange. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_aid_pack.png"
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "NESTS Core can be drawn during the event! The best match will make you reach the peak!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "NESTS Core. ",
-		"eveimgurl": ""
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "During the event, draw in NESTS Core Store a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "NESTS Core Draw Gift. ",
-		"eveimgurl": ""
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "During the event, draw in NESTS Part Store a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "NESTS Part Draw Gift. ",
-		"eveimgurl": ""
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "Spend a specified amount of Diamonds during the event and get awesome rewards!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Spend for Rewards. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Spend_rewards.png"
-	}, {
-		"day": 21,
-		"dayEnd": 25,
-		"description": "Cumulatively recharge a specified amount of Diamonds for valuable items! ",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Cumulative Recharge for Resource. ",
-		"eveimgurl": ""
-	}, {
-		"day": 21,
-		"dayEnd": 28,
-		"description": "Top-up Diamonds every day during the event for rewards, top-up 5 out of 7 days to claim the mega reward!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Top-up for reward. ",
-		"eveimgurl": ""
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "BOSS Fighter cuisine is available in Mystic store during the event.",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Mystic Store. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_mystic_store.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "Badge and Badge Material can be exchanged for one another during the event, please take note that each Badge can only be exchanged once, choose carefully!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Badge Exchange. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_badge_exchange.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "Tome and Tome material can be exchanged for one another during the event, please take note that each Tome can only be exchanged once, choose carefully!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Tome Exchange. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_tome_exange.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "Promotion Gem exchange during the event, come join it! ",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Promotion Gem Exchange. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_promotion_gem_exchange.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "Fighter Equipment Pack! Equipment Pack can increase Fighter(TANK) to:",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fighter Equipment Pack (TANK). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_equipment.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "Fighter Upgrade Pack! Upgrade pack can increase Fighter(TANK) to:",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fighter Upgrade Pack (TANK). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_upgrade.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Time-limited Chest (Orochi Yashiro 02 UM). ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_time_limited_chest.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "Spend a specified amount of Diamonds to claim amazing rewards including Diamonds and Cuisines!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Diamonds for Gifts. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_diamond_gifts.png"
-	}, {
-		"day": 25,
-		"dayEnd": 28,
-		"description": "Recharge up to a specified amount in a single top-up to get valuable rewards!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Single Top-up for Resources. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Single_Top_Up.png"
-	}, {
-		"day": 26,
-		"dayEnd": 27,
-		"description": "Defeat the Nightmare Geese clones a specified number of times during the event to get Nightmare Geese [Frag].",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Team Battle to get Nightmare Geese. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
-	}, {
-		"day": 27,
-		"dayEnd": 28,
-		"description": "Defeat the Goeniko clones a specified number of times during the event to get Goeniko [Frag].",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Team Battle to get Goeniko. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
-	}, {
-		"day": 28,
-		"dayEnd": 5,
-		"description": "During the event, login to get rewards every day！",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Login for Gifts. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_gift_login.png"
-	}, {
-		"day": 28,
-		"dayEnd": 3,
-		"description": "",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Time-limited Resource Exchange. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_frag_exchange.png"
-	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "The Time-limited Fighter Fashion is on sale! Come and get some new fashion for your fighters!",
-		"month_id": 2,
-		"month": "Feb.",
+		"day": 4,
+		"dayEnd": 7,
+		"description": "Time-limited Fighter Fashion is on sale! Come and get some new fashion for your fighters!",
+		"month": "Mar.",
+		"month_id": 3,
 		"name": "Fighter Fashion Sale. ",
 		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_rare_fashion_exchange.png"
 	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "During the event, the special item can be exchanged for a limited time! So don't miss it! ",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Exchange Store. ",
+		"day": 4,
+		"dayEnd": 7,
+		"description": "During the event, draw a certain number of times in Gene Map Store to get rare items! Don't miss the chance!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Gene Map Draw Gift. ",
 		"eveimgurl": ""
 	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "During the event, participate in the FightSoul Wish and there is a chance to get rewards including FightSoul Book Frags, Awakening Gems, and Power Fragment Chests.",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "FightSoul Wish. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_FS_wish.png"
+		"day": 4,
+		"dayEnd": 7,
+		"description": "During the event, draw in Cosmic Power Store for a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Cosmic Power Draw Gift. ",
+		"eveimgurl": ""
 	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "Rune Converter is available for a limited time. It's up to you to decide your own runes!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Rune Converter. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_rune_converter.png"
+		"day": 4,
+		"dayEnd": 7,
+		"description": "During the event, spin the Wheel of Fortune and get rare items including Boss fighter frags & Boss Aid Soul!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Wheel of Fortune. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_wheel_fortune.png"
 	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "Hot Runes event is available, come get it and increase your power now!",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Hot Runes. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_rune_converter.png"
-	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "Rare fashion for Orochi Yashiro 02 UM is available during the event.",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Fashion Pack. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Fashion_Pack.png"
-	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "Use Egg Machine during the event, and there is a chance for you to get Orochi Yashiro 02 UM Awaken Weapon Frag, Tome, Badge and other rare items.",
-		"month_id": 2,
-		"month": "Feb.",
-		"name": "Weapons Egg Machine. ",
-		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_weapon_egg.png"
-	}, {
-		"day": 28,
-		"dayEnd": 4,
-		"description": "Spend a specified amount of Diamonds during the event and get awesome rewards!",
-		"month_id": 2,
-		"month": "Feb.",
+		"day": 4,
+		"dayEnd": 7,
+		"description": "Spend Diamonds to a specified amount during the event and get awesome rewards!",
+		"month_id": 3,
+		"month": "Mar.",
 		"name": "Spend for Rewards. ",
 		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Spend_rewards.png"
 	}, {
-		"day": 28,
-		"dayEnd": 4,
+		"day": 4,
+		"dayEnd": 7,
 		"description": "Recharge up to a specified amount in a single top-up to get valuable rewards!",
-		"month_id": 2,
-		"month": "Feb.",
+		"month_id": 3,
+		"month": "Mar.",
 		"name": "Single Top-up for Resources. ",
 		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Single_Top_Up.png"
+	}, {
+		"day": 4,
+		"dayEnd": 11,
+		"description": "Top-up Diamonds every day during the event for rewards, top-up 5 out of 7 days to claim the mega reward!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Top-up for reward. ",
+		"eveimgurl": ""
+	}, {
+		"day": 5,
+		"dayEnd": 6,
+		"description": "Defeat the Mr.Karate clones a certain number of times during the event to get Mr.Karate Frag].",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Team Battle to get Mr.Karate. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
+	}, {
+		"day": 5,
+		"dayEnd": 7,
+		"description": "",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Time-limited Gift Pack. ",
+		"eveimgurl": ""
+	}, {
+		"day": 5,
+		"dayEnd": 6,
+		"description": "Rare fashion for Orochi Chris 02 UM is available during the event.",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Fashion Pack. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Fashion_Pack.png"
+	}, {
+		"day": 12,
+		"dayEnd": 7,
+		"description": "Defeat the Elizabeth clones a certain number of times during the event to get Elizabeth Frag].",
+		"month_id": 3,
+		"month": "Mar.6th,",
+		"name": "Team Battle to get Elizabeth. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
+	}, {
+		"day": 6,
+		"dayEnd": 7,
+		"description": "Rare fashion for Orochi Shermie 02 UM is available during the event.",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Fashion Pack. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Fashion_Pack.png"
+	}, {
+		"day": 7,
+		"dayEnd": 5,
+		"description": "During the event, login to get rewards every day！",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Login Gifts. ",
+		"eveimgurl": ""
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "You can exchange for fighter fragments during the event, don't miss it! ",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Exchange Store. ",
+		"eveimgurl": ""
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "Aid Doll Machine is unlocked! The Aid Souls of Clark XIII, Superstar Athena& Oswald are waiting for you to get!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Aid Doll Machine. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_aid_doll_machine.png"
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "During the event, Fighter's Aid Pack is unlocked for limited time! Get it now!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Aid Pack Exchange. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_aid_pack.png"
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "NESTS Core can be drawn during the event! Best match will make you reach the peak!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "NESTS Core. ",
+		"eveimgurl": ""
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "During the event, draw in NESTS Core Store a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "NESTS Core Draw Gift. ",
+		"eveimgurl": ""
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "During the event, draw in NESTS Part Store a specified number of times to get rich rewards! The more you draw, the better rewards you can get. Don't miss the chance!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "NESTS Part Draw Gift. ",
+		"eveimgurl": ""
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "Spend Diamonds to a specified amount during the event and get awesome rewards!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Spend for Rewards. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Spend_rewards.png"
+	}, {
+		"day": 7,
+		"dayEnd": 11,
+		"description": "Cumulatively recharge a certain amount for valuable items! ",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Cumulative Recharge for Resource. ",
+		"eveimgurl": ""
+	}, {
+		"day": 11,
+		"dayEnd": 14,
+		"description": "BOSS Fighter cuisine is available in Mystic store during the event.",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Mystic Store. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_mystic_store.png"
+	}, {
+		"day": 11,
+		"dayEnd": 14,
+		"description": "Badge and Badge Material can be exchanged for one another during the event, please take note that each Badge can only be exchanged once, choose carefully!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Badge Exchange. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_badge_exchange.png"
+	}, {
+		"day": 11,
+		"dayEnd": 14,
+		"description": "Tome and Tome material can be exchanged for one another during the event, please take note that each Tome can only be exchanged once, choose carefully!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Tome Exchange. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_tome_exange.png"
+	}, {
+		"day": 11,
+		"dayEnd": 14,
+		"description": "Promotion Gem exchange during the event, come join it! ",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Promotion Gem Exchange. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_promotion_gem_exchange.png"
+	}, {
+		"day": 11,
+		"dayEnd": 14,
+		"description": "Fighter Equipment Pack! Equipment Pack can increase Fighter(DPS) to:",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Fighter Equipment Pack (DPS). ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_equipment.png"
+	}, {
+		"day": 11,
+		"dayEnd": 14,
+		"description": "Fighter Upgrade Pack! Upgrade pack can increase Fighter(DPS) to:",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Fighter Upgrade Pack (DPS). ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_fighter_upgrade.png"
+	}, {
+		"day": 11,
+		"dayEnd": 14,
+		"description": "",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Time-limited Chest (Angel XIV). ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_time_limited_chest.png"
+	}, {
+		"day": 11,
+		"dayEnd": 16,
+		"description": "",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Slot Machine. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_slot_machine.png"
+	}, {
+		"day": 11,
+		"dayEnd": 18,
+		"description": "Recharge up to a specified amount in a single top-up to get valuable rewards!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Single Top-up for Resources. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Single_Top_Up.png"
+	}, {
+		"day": 11,
+		"dayEnd": 18,
+		"description": "Cumulatively recharge a certain amount for valuable items! ",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Cumulative Recharge for Resource. ",
+		"eveimgurl": ""
+	}, {
+		"day": 12,
+		"dayEnd": 13,
+		"description": "Defeat the Flame Kyo clones a certain number of times during the event to get Flame Kyo [Frag].",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Team Battle to get Flame Kyo. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
+	}, {
+		"day": 13,
+		"dayEnd": 14,
+		"description": "Defeat the Saiki clones a certain number of times during the event to get Saiki [Frag].",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Team Battle to get Saiki. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_clone.png"
+	}, {
+		"day": 14,
+		"dayEnd": 19,
+		"description": "During the event, login to get rewards every day！",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Login Gifts. ",
+		"eveimgurl": ""
+	}, {
+		"day": 14,
+		"dayEnd": 18,
+		"description": "During the event, participate in the FightSoul Wish and there is a chance to get rewards including FightSoul Book Frags, Awakening Gems, and Power Fragment Chests.",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "FightSoul Wish. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_FS_wish.png"
+	}, {
+		"day": 14,
+		"dayEnd": 18,
+		"description": "Rune Converter is unlocked for limited time. It's up to you to decide your own runes!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Rune Converter. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_rune_converter.png"
+	}, {
+		"day": 14,
+		"dayEnd": 18,
+		"description": "Hot Runes event is unlocked, come get it and increase your power now!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Hot Runes. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_rune_converter.png"
+	}, {
+		"day": 14,
+		"dayEnd": 18,
+		"description": "Rare fashion for Angel XIV is available during the event.",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Fashion Pack. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Fashion_Pack.png"
+	}, {
+		"day": 14,
+		"dayEnd": 18,
+		"description": "Use Egg Machine during the event, and there is a chance for you to get Angel XIV Awaken Weapon Frag, Tome, Badge and other rare items.",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Weapons Egg Machine. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_weapon_egg.png"
+	}, {
+		"day": 14,
+		"dayEnd": 18,
+		"description": "Spend Diamonds to a specified amount during the event and get awesome rewards!",
+		"month_id": 3,
+		"month": "Mar.",
+		"name": "Spend for Rewards. ",
+		"eveimgurl": "https://ug-production-images.s3.us-west-1.amazonaws.com/kofumol/events/event_Spend_rewards.png"
 	}]
 }
